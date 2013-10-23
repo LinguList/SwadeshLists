@@ -1,1549 +1,1379 @@
-ID	Gloss	abvd	alpher	asjp	dolgopolsky	ids	ielex	jachontov	jachontov100	jachontov65	leipzig	matisoff	starostin	swadesh100	swadesh200
-1	tooth	tooth <31>	tooth <88>	tooth <20>	tooth <9>	molartooth <4.272>	tooth (rather not molar) <77>	tooth <89>	-	-	-	tooth <24>	tooth <89>	tooth <89>	tooth (front rather than molar) <173>
-2	water	water <122>	water <93>	water <32>	water <14>	water <1.31>	water <150>	water <94>	-	-	-	water <92>	water <94>	water <94>	water <181>
-3	tongue	tongue <32>	tongue <87>	tongue <16>	tongue <5>	tongue <4.26>	tongue <78>	tongue <88>	-	-	-	tongue <23>	tongue <88>	tongue <88>	tongue <172>
-4	i	I <182>	I <45>	I <22>	first person marker <1>	I <2.91>	I <1>	I <42>	-	-	-	I <42>	I <42>	I <42>	I <78>
-5	eye	eye <45>	eye <24>	eye <33>	eye <7>	eye <4.21>	eye <74>	eye <25>	-	-	-	eye <6>	eye <25>	eye <25>	eye <40>
-6	two	Two <198>	two <90>	two <28>	two <2>	two <13.2>	two <23>	two <91>	-	-	-	two <120>	two <91>	two <91>	two <176>
-7	thou	thou <183>	you (sg.) <100>	-	second person marker <3>	you (singular) <2.92>	thou <2>	thou <87>	-	-	-	thou <41>	thou <87>	thou <87>	thou <168>
-8	louse	louse <108>	-	louse <38>	louse <12>	louse <3.811>	louse <48>	louse <50>	-	-	-	louse <56>	louse <50>	louse <50>	louse <93>
-9	ear 1	ear <43>	ear <18>	ear <29>	-	ear <4.22>	ear <73>	ear <21>	-	-	-	ear/hear <4>	ear <21>	ear <21>	ear <36>
-10	dog	dog <96>	dog <16>	dog <21>	-	dog <3.61>	dog <47>	dog <18>	-	-	-	dog <54>	dog <18>	dog <18>	dog <31>
-11	nose	nose <27>	nose <59>	nose <19>	-	nose <4.23>	nose <75>	nose <61>	-	-	-	nose <19>	nose <61>	nose <61>	nose <106>
-12	name	name <63>	name <56>	name (noun) <7>	name <6>	-	name <207>	name <57>	-	-	-	name <46>	name <57>	name <57>	name <100>
-13	fish	fish <111>	fish <132>	fish (noun) <2>	-	fish <3.65>	fish <45>	fish <29>	-	-	-	fish <55>	fish <29>	fish <29>	fish <50>
-14	bone	bone <15>	bone <8>	bone <5>	-	bone <4.16>	bone <65>	bone <10>	-	-	-	bone <3>	bone <10>	bone <10>	bone <18>
-15	fire	fire <143>	fire <29>	fire <37>	-	fire <1.81>	fire <167>	fire <28>	-	-	-	fire <73>	fire <28>	fire <28>	fire <49>
-16	hand	hand <1>	hand <38>	hand <10>	-	hand <4.33>	hand <83>	hand <37>	-	-	-	hand/arm <12>	hand <37>	hand <37>	hand <66>
-17	blood	blood <23>	blood <7>	blood <1>	-	blood <4.15>	blood <64>	blood <9>	-	-	-	blood <2>	blood <9>	blood <9>	blood <16>
-18	liver	liver <17>	liver <49>	liver <34>	-	liver <4.45>	liver <91>	-	-	-	-	liver <16>	liver <48>	liver <48>	liver <91>
-19	person	person/human being <53>	person, Aborigine <63>	person <31>	-	person, human being <2.1>	man (human being) <38>	-	-	-	-	person/human being <40>	person <64>	person <64>	person <111>
-20	stone	stone <120>	stone <81>	stone <8>	-	-	stone <156>	stone <81>	-	-	-	stone <89>	stone <81>	stone <81>	stone <154>
-21	die (V)	to die, be dead <75>	to die <104>	die <17>	-	-	to die <109>	die <17>	-	-	-	die <132>	die <17>	die <17>	to die <28>
-22	star	star <130>	star <80>	star <4>	-	star <1.54>	star <149>	-	-	-	-	star <87>	star <80>	star <80>	star <152>
-23	see (V)	to see <46>	to see <66>	see <35>	-	see <15.51>	to see <101>	-	-	-	-	see <149>	see <72>	see <72>	see <130>
-24	tail	tail <105>	tail <83>	-	-	tail <4.18>	tail <69>	tail <84>	-	-	-	tail <22>	tail <84>	tail <84>	tail <160>
-25	sun	-	sun <82>	sun <12>	-	sun <1.52>	sun <147>	sun <82>	-	-	-	sun(day <90>	sun <82>	sun <82>	sun <157>
-26	hear (V)	to hear <44>	hear <41>	hear <14>	-	hear <15.41>	to hear <102>	-	-	-	-	ear/hear <4>	hear <39>	hear <39>	to hear <69>
-27	egg	egg <98>	egg <21>	-	-	egg <5.97>	egg <67>	egg <24>	-	-	-	egg <5>	egg <24>	egg <24>	egg <39>
-28	one	One <197>	one <62>	one <23>	-	-	one <22>	one <63>	-	-	-	one <116>	one <63>	one <63>	one <109>
-29	new	new <163>	-	new <11>	-	new <14.13>	new <183>	new <59>	-	-	-	new <172>	new <59>	new <59>	new <104>
-30	leaf	leaf <114>	leaf <47>	leaf <30>	-	leaf <8.56>	leaf <56>	-	-	-	-	leaf <77>	leaf <46>	leaf <46>	leaf <86>
-31	skin	skin <12>	skin <69>	skin <39>	-	flay, skin <9.29>	skin (of a person) <62>	-	-	-	-	skin/bark <20>	skin <75>	skin <75>	skin (person's) <137>
-32	foot	leg/foot <4>	foot <32>	-	-	foot <4.37>	foot <80>	-	-	-	-	foot <8>	foot <31>	foot <31>	foot <57>
-33	burn (V)	to burn <144>	to burn (intr.) <10>	-	-	burn (vb trans) <1.851>	to burn (intransitive) <169>	-	-	-	-	drive/hunt <200>	burn tr. <12>	burn tr. <12>	to burn (intrans) <20>
-34	sit (V)	to sit <51>	to sit <68>	-	-	sit <12.13>	to sit <124>	-	-	-	-	sit <136>	sit <74>	sit <74>	sit <136>
-35	night	night <167>	-	night (dark time) <15>	-	night <14.42>	night <177>	-	-	-	-	night <100>	night <60>	night <60>	night <105>
-36	heart	-	heart <42>	-	heart <8>	heart <4.44>	heart <90>	-	-	-	-	heart <14>	heart <40>	heart <40>	heart <70>
-37	wind	wind <136>	wind <98>	-	-	wind <1.72>	wind (as in breeze) <163>	wind <108>	-	-	-	wind <93>	wind <108>	-	wind <191>
-38	long	long <155>	long <50>	-	-	long <12.57>	long <28>	-	-	-	-	long/tall <158>	long <49>	long <49>	long <92>
-39	black	black <147>	black <6>	-	-	black <15.65>	black <176>	-	-	-	-	black <170>	black <8>	black <8>	black <15>
-40	tree	-	tree <89>	tree <24>	-	tree (cf 08.600) <1.42>	tree <51>	-	-	-	-	tree/wood <91>	tree <90>	tree <90>	tree <174>
-41	breast	breast <18>	breast <9>	breast (woman’s) <9>	-	breast (of woman) <4.41>	breast <89>	-	-	-	-	vagina or breast/milk <30>	breast <11>	breast <11>	-
-42	ashes	ashes <146>	ashes <2>	-	-	ashes <1.84>	ashes <168>	-	-	-	-	ashes <70>	ashes <2>	ashes <2>	ashes <4>
-43	eat (V)	to eat <37>	to eat <20>	-	-	eat <5.11>	to eat <93>	-	-	-	-	eat <175>	eat <23>	eat <23>	to eat <38>
-44	mouth	mouth <30>	mouth <55>	-	-	mouth <4.24>	mouth <76>	-	-	-	-	mouth <17>	mouth <56>	mouth <56>	mouth <99>
-45	head	head <24>	head <39>	-	-	head <4.2>	head <72>	-	-	-	-	head <13>	head <38>	head <38>	head <68>
-46	know (V)	to know, be knowledgeable <20>	-	-	-	know <17.17>	to know (a fact) <103>	know <45>	-	-	-	know <145>	know <45>	know <45>	to know (facts) <83>
-47	who	who? <189>	who? <97>	-	who/what <4>	-	who <11>	who <98>	-	-	-	-	who <98>	who <98>	who? <188>
-48	smoke	smoke <145>	smoke <73>	-	-	smoke (noun) <1.83>	smoke <166>	-	-	-	-	smoke <86>	smoke <78>	smoke <78>	smoke (of fire) <142>
-49	moon	moon <129>	moon <54>	-	-	moon <1.53>	moon <148>	moon <54>	-	-	-	moon <78>	moon <54>	moon <54>	-
-50	cloud	cloud <131>	cloud <136>	-	-	cloud <1.73>	cloud <160>	-	-	-	-	cloud <71>	cloud <14>	cloud <14>	cloud <22>
-51	what	what? <188>	what? <95>	-	who/what <4>	-	what <12>	what <96>	-	-	-	-	what <96>	what <96>	what? <184>
-52	give (V)	-	to give <35>	-	-	give back <11.22>	to give <128>	give <33>	-	-	-	give <177>	give <33>	give <33>	to give <60>
-53	meat	meat/flesh <103>	meat, animal <53>	-	-	meat <5.61>	meat (as in flesh) <63>	-	-	-	-	meat/animal <52>	meat <53>	meat (flesh) <53>	meat (flesh) <96>
-54	we	we <185>	-	we <36>	-	we (exclusive) <2.942>	we <4>	-	-	-	-	-	we <95>	we <95>	we <182>
-55	feather	feather <99>	wing feather <129>	-	-	feather <4.393>	feather (rather not down) <70>	-	-	-	-	-	feather <27>	feather <27>	feather (larger feathers rather than down) <46>
-56	snake	snake <106>	snake <74>	-	-	snake <3.85>	snake <49>	-	-	-	-	snake <57>	snake <106>	-	snake <144>
-57	full	-	-	full <6>	-	full <13.21>	full <182>	full <32>	-	-	-	full <157>	full <32>	full <32>	-
-58	good	good <164>	good <110>	-	-	good <16.71>	good <185>	-	-	-	-	-	good <34>	good <34>	good <61>
-59	white	white <148>	-	-	-	white <15.64>	white <175>	-	-	-	-	white <169>	white <97>	white <97>	white <187>
-60	kill (V)	to kill <74>	-	-	-	kill <4.76>	to kill <110>	-	-	-	-	kill <192>	kill <43>	kill <43>	to kill <82>
-61	root	root <115>	-	-	-	root <8.54>	root <57>	-	-	-	-	root <83>	root <68>	root <68>	root <121>
-62	woman	woman/female <55>	woman <99>	-	-	woman <2.22>	woman <36>	-	-	-	-	-	woman <99>	woman <99>	woman <195>
-63	far	far <180>	far <26>	-	-	far (adv) <12.44>	far <198>	-	-	-	-	far <112>	far <101>	-	far <42>
-64	red	red <149>	-	-	-	red <15.66>	red <172>	-	-	-	-	red <163>	red <66>	red <66>	red <116>
-65	cold	cold <139>	-	-	-	cold <15.86>	cold (as in weather) <181>	-	-	-	-	cold <160>	cold <15>	cold <15>	cold (of weather) <23>
-66	sand	sand <121>	sand <138>	-	-	sand <1.215>	sand <157>	-	-	-	-	-	sand <70>	sand <70>	sand <126>
-67	belly	belly <14>	belly <3>	-	-	-	belly <85>	-	-	-	-	belly(exterior) <1>	belly <4>	belly <4>	belly <10>
-68	come (V)	to come <7>	-	come <13>	-	come <10.48>	to come <122>	-	-	-	-	-	come <16>	come <16>	to come <24>
-69	salt	salt <125>	-	-	-	salt <5.81>	salt <155>	salt <104>	-	-	-	salt <84>	salt <104>	-	salt <125>
-70	neck	neck <25>	-	-	-	neck <4.28>	neck <87>	-	-	-	-	neck <18>	neck <58>	neck <58>	neck <103>
-71	big	big <153>	big <4>	-	-	large, big <12.55>	big <27>	-	-	-	-	-	big <5>	big <5>	big <12>
-72	dry	dry <140>	dry (N, Adj) <143>	-	-	dry <15.84>	dry (adjective) <195>	-	-	-	-	-	dry <20>	dry <20>	dry (substance) <33>
-73	warm	warm <138>	-	-	-	warm <15.851>	warm (as in weather) <180>	-	-	-	-	warm <165>	warm <93>	warm (hot) <93>	warm (of weather) <179>
-74	year	year <169>	-	-	-	year <14.73>	year <179>	year <110>	-	-	-	year <114>	year <110>	-	year <199>
-75	road	road/path <6>	-	-	-	road <10.71>	road <170>	-	-	-	-	road <82>	road <67>	road <67>	road (or trail) <120>
-76	horn	-	-	horn (animal part) <18>	-	horn, trumpet <18.73>	horn <68>	horn <41>	-	-	-	horn <15>	horn <41>	horn <41>	-
-77	earth	earth/soil <119>	-	-	-	earth, land <1.21>	earth (as in soil) <159>	-	-	-	-	earth <72>	earth <22>	earth <22>	earth (soil) <37>
-78	bird	bird <97>	-	-	-	bird <3.581>	bird <46>	-	-	-	-	bird <53>	bird <6>	bird <6>	bird <13>
-79	stand (V)	to stand <52>	to be standing <79>	-	-	-	to stand <125>	-	-	-	-	stand <135>	stand <79>	stand <79>	to stand <151>
-80	this	this <177>	this <85>	-	-	-	this <7>	this <86>	-	-	-	-	this <86>	this <86>	this <167>
-81	heavy	heavy <142>	heavy <140>	-	-	heavy <15.81>	heavy <31>	-	-	-	-	heavy <164>	heavy <102>	-	heavy <71>
-82	near	near <179>	near <116>	-	-	near (adv) <12.43>	near <197>	-	-	-	-	near <113>	near <103>	-	near <102>
-83	human being	person/human being <35>	-	-	-	person, human being <2.1>	man (human being) <38>	-	-	-	-	person/human being <40>	person <64>	person <64>	person <111>
-84	many	-	many <52>	-	-	much, many <13.15>	many <18>	-	-	-	-	(be) many (v.) <127>	many <52>	many <52>	many <95>
-85	bark	-	-	-	-	bark <8.75>	bark (of tree) <58>	-	-	-	-	skin/bark <20>	bark <3>	bark <3>	bark <8>
-86	small	small <152>	small <71>	-	-	-	small <32>	-	-	-	-	-	small <77>	small <77>	small <140>
-87	grass	grass <118>	grass <134>	-	-	grass <8.51>	grass <60>	-	-	-	-	grass <76>	-	-	grass <62>
-88	thin	thin <156>	-	-	-	thin (in dimension) <12.65>	thin <35>	-	-	-	-	thin <151>	thin <107>	-	thin <165>
-89	knee	-	knee <46>	knee <26>	-	knee <4.36>	knee <82>	-	-	-	-	-	knee <44>	knee <44>	-
-90	fly (V)	to fly <101>	-	-	-	-	to fly <120>	-	-	-	-	fly <140>	fly v. <30>	fly <30>	to fly <55>
-91	green	green <151>	-	-	-	green <15.68>	green <173>	-	-	-	-	-	green <35>	green <35>	green <63>
-92	yellow	yellow <150>	-	-	-	yellow <15.69>	yellow <174>	-	-	-	-	-	yellow <100>	yellow <100>	yellow <200>
-93	swim (V)	to swim <9>	-	-	-	swim <10.35>	to swim <119>	-	-	-	-	-	swim <83>	swim <83>	to swim <159>
-94	sky	sky <128>	sky <70>	-	-	sky <1.51>	sky <162>	-	-	-	-	sky <85>	-	-	sky <138>
-95	not	no, not <195>	-	-	verbal negation <10>	-	not <16>	-	-	-	-	-	not <62>	not <62>	not <107>
-96	bite (V)	to bite <41>	-	-	-	-	to bite <94>	-	-	-	-	bite <181>	bite <7>	bite <7>	to bite <14>
-97	man	man/male <54>	-	-	-	man (vs. woman) <2.21>	man (adult male) <37>	-	-	-	-	-	man <51>	man <51>	man (male human) <94>
-98	drink (V)	to drink <40>	-	drink (verb) <25>	-	-	to drink <92>	-	-	-	-	-	drink <19>	drink <19>	drink <32>
-99	hair	hair <26>	-	-	-	hair (head) <4.14>	hair <71>	-	-	-	-	-	hair <36>	hair <36>	hair <65>
-100	short	short <154>	short <67>	-	-	short <12.59>	short <33>	-	-	-	-	-	short <105>	-	short <134>
-101	three	Three <199>	three <115>	-	-	three <13.3>	three <24>	-	-	-	-	three <121>	-	-	three <169>
-102	say (V)	to say <64>	-	-	-	say <18.22>	to say <140>	-	-	-	-	-	say <71>	say <71>	say <127>
-103	mountain	-	-	mountain <3>	-	-	mountain <171>	-	-	-	-	mountain <79>	mountain <55>	mountain <55>	mountain <98>
-104	all	all <191>	-	-	-	-	all <17>	-	-	-	-	-	all <1>	all <1>	all (of a number) <1>
-105	flower	flower <116>	-	-	-	flower <8.57>	flower <59>	-	-	-	-	flower <74>	-	-	flower <54>
-106	bad	bad, evil <165>	bad <111>	-	-	bad <16.72>	bad <186>	-	-	-	-	-	-	-	bad (deleterious or unsuitable) <7>
-107	fall (V)	to fall <95>	to fall <25>	-	-	fall <10.23>	to fall (as in drop) <127>	-	-	-	-	-	-	-	to fall (drop rather than topple) <41>
-108	cut (V)	to cut, hack <78>	to cut <15>	-	-	-	to cut <114>	-	-	-	-	drive/hunt <200>	-	-	to cut <26>
-109	five	Five <201>	-	-	-	five <13.5>	five <26>	-	-	-	-	five <123>	-	-	five <51>
-110	sleep (V)	-	-	-	-	-	to sleep <107>	-	-	-	-	sleep/lie down <129>	sleep <76>	sleep <76>	sleep <139>
-111	lie 1 (V)	to lie down <49>	-	-	-	-	to lie (as on one's side) <123>	-	-	-	-	-	lie <47>	lie <47>	to lie <89>
-112	wing	wing <100>	-	-	-	wing <4.392>	wing <84>	-	-	-	-	wing <25>	-	-	wing <192>
-113	walk (V)	to walk <5>	-	-	-	-	to walk <121>	-	-	-	-	-	walk(go) <92>	walk <92>	to walk <178>
-114	thick	thick <157>	-	-	-	thick (in dimension) <12.63>	thick <30>	-	-	-	-	thick <171>	-	-	thick <164>
-115	claw	-	-	-	-	claw <4.345>	fingernail <79>	-	-	-	-	nail/claw <26>	claw (nail) <13>	claw (nail) <13>	-
-116	old	old <162>	-	-	-	old <14.15>	old <184>	-	-	-	-	old <152>	-	-	old <108>
-117	rotten	rotten <112>	rotten <65>	-	-	rotten <5.125>	rotten (as, a log) <187>	-	-	-	-	-	-	-	rotten (especially log) <123>
-118	throw (V)	to throw <94>	to throw <107>	-	-	throw <10.25>	to throw <136>	-	-	-	-	-	-	-	to throw <170>
-119	day	day <168>	-	-	-	day <14.41>	day (daytime) <178>	-	-	-	-	sun(day <90>	-	-	day (opposite of night rather than time measure) <27>
-120	vomit (V)	to vomit <35>	-	-	-	vomit <4.57>	to vomit <97>	-	-	-	-	vomit <37>	-	-	to vomit <177>
-121	child	child <56>	-	-	-	child <2.27>	child (a youth) <39>	-	-	-	-	child/son <43>	-	-	child (young person rather than as relationship term) <21>
-122	laugh (V)	to laugh <33>	to laugh <109>	-	-	-	to laugh <100>	-	-	-	-	laugh <131>	-	-	to laugh <85>
-123	sew (V)	to sew <67>	-	-	-	sew <6.35>	to sew <138>	-	-	-	-	sew <191>	-	-	to sew <132>
-124	fruit	fruit <117>	-	-	-	fruit <5.71>	fruit <54>	-	-	-	-	fruit <75>	-	-	berry (or fruit) <11>
-125	smell (V)	to sniff, smell <29>	to smell it <72>	-	-	-	to smell (sense odor) <105>	-	-	-	-	smell <150>	-	-	to smell (perceive odor) <141>
-126	worm	worm (earthworm) <107>	-	-	-	worm <3.84>	worm <50>	-	-	-	-	-	worm <109>	-	worm <197>
-127	animal	-	meat, animal <53>	-	-	animal <3.11>	animal <44>	-	-	-	-	meat/animal <52>	-	-	animal <3>
-128	sharp	sharp <81>	-	-	-	sharp <15.78>	sharp (as a knife) <191>	-	-	-	-	sharp <173>	-	-	sharp (as knife) <133>
-129	you	you <186>	-	you <40>	-	you (plural) <2.95>	you <5>	-	-	-	-	-	-	-	ye <198>
-130	dig (V)	to dig <90>	to dig <112>	-	-	-	to dig <118>	-	-	-	-	dig <186>	-	-	to dig <29>
-131	seed	-	-	-	-	seed <8.311>	seed <55>	-	-	-	-	-	seed <73>	seed <73>	seed <131>
-132	round	-	-	-	-	round <12.81>	round <190>	-	-	-	-	round <166>	round <69>	round <69>	-
-133	that	that <178>	-	-	-	-	that <8>	-	-	-	-	-	that <85>	that <85>	that <161>
-134	hunt (V)	to hunt <69>	-	-	-	-	to hunt (transitive) <112>	-	-	-	-	drive/hunt <200>	-	-	to hunt (game) <76>
-135	dull	dull, blunt <82>	-	-	-	blunt, dull <15.79>	dull (as a knife) <192>	-	-	-	-	-	-	-	dull (knife) <34>
-136	fat	fat/grease <104>	fat, grease <27>	-	-	-	fat (noun) <66>	-	-	-	-	fat/grease <7>	-	-	-
-137	lake	lake <126>	-	-	-	lake <1.33>	lake <153>	-	-	-	-	-	-	-	lake <84>
-138	wife	wife <58>	-	-	-	married woman <2.39>	wife <40>	-	-	-	-	-	-	-	wife <190>
-139	squeeze (V)	to squeeze <88>	-	-	-	-	to squeeze <130>	-	-	-	-	squeeze <195>	-	-	to squeeze <149>
-140	father	father <60>	-	-	-	father <2.35>	father <43>	-	-	-	-	-	-	-	father <44>
-141	forest	woods/forest <127>	-	-	-	woods, forest <1.41>	forest <52>	-	-	-	-	-	-	-	woods <196>
-142	left side	left <2>	-	-	-	-	left (side) <200>	-	-	-	-	left side <110>	-	-	left (hand) <87>
-143	wash (V)	-	-	-	-	wash <9.36>	to wash <132>	-	-	-	-	wash <185>	-	-	to wash <180>
-144	stab (V)	to stab, pierce <71>	-	-	-	stab <9.223>	to stab (or stick) <116>	-	-	-	-	-	-	-	to stab (or stick) <150>
-145	breathe (V)	to breathe <28>	-	-	-	breathe, breath <4.51>	to breathe <99>	-	-	-	-	-	-	-	to breathe <19>
-146	blow (V)	to blow <137>	-	-	-	-	to blow (as wind) <98>	-	-	-	-	blow <189>	-	-	to blow (of wind) <17>
-147	leg	leg/foot <4>	-	-	-	leg <4.35>	leg <81>	-	-	-	-	-	-	-	leg <88>
-148	fat	-	-	-	-	grease, fat <5.791>	-	-	-	-	-	-	fat n. <26>	fat (grease) <26>	fat (organic substance) <43>
-149	four	Four <200>	-	-	-	-	four <25>	-	-	-	-	four <122>	-	-	four <58>
-150	narrow	narrow <158>	-	-	-	narrow <12.62>	narrow <34>	-	-	-	-	-	-	-	narrow <101>
-151	tie (V)	-	-	-	-	tie, bind <9.16>	to tie <137>	-	-	-	-	tie <178>	-	-	to tie <171>
-152	he	he/she <184>	he <118>	-	-	-	he <3>	-	-	-	-	-	-	-	he <67>
-153	they	they <187>	-	-	-	they <2.96>	they <6>	-	-	-	-	-	-	-	they <163>
-154	wet	wet <141>	-	-	-	wet, damp <15.83>	wet <194>	-	-	-	-	-	-	-	wet <183>
-155	mother	mother <59>	-	-	-	mother <2.36>	mother <42>	-	-	-	-	-	-	-	mother <97>
-156	right side	right <3>	-	-	-	-	right (side) <199>	-	-	-	-	right side <111>	-	-	right (hand) <118>
-157	climb (V)	to climb <172>	to climb <13>	-	-	climb <10.472>	-	-	-	-	-	climb, ascend <138>	-	-	-
-158	dirty	dirty <10>	-	-	-	dirty, soiled <15.88>	dirty <188>	-	-	-	-	-	-	-	dirty <30>
-159	rain	rain <133>	rain <145>	-	-	rain (noun) <1.75>	-	-	-	-	-	rain <80>	-	-	-
-160	scratch (V)	to scratch <77>	-	-	-	-	to scratch (an itch) <117>	-	-	-	-	scratch(scrape <182>	-	-	to scratch (as with fingernails to relieve itch) <128>
-161	suck (V)	to suck <42>	-	-	-	suck <5.16>	to suck <95>	-	-	-	-	-	-	-	to suck <156>
-162	stick	stick/wood <79>	-	-	-	-	stick (of wood) <53>	-	-	-	-	stick <88>	-	-	stick (of wood) <153>
-163	sea	sea <124>	-	-	-	sea <1.32>	sea (as in ocean) <154>	-	-	-	-	-	-	-	sea (ocean) <129>
-164	husband	husband <57>	-	-	-	married man <2.38>	husband <41>	-	-	-	-	-	-	-	husband <77>
-165	fog	fog <132>	-	-	-	fog <1.74>	fog <161>	-	-	-	-	-	-	-	fog <56>
-166	rain (V)	-	-	-	-	-	to rain <151>	-	-	-	-	-	rain <65>	rain <65>	to rain <115>
-167	live (V)	to live, be alive <76>	-	-	-	dwell, live <7.11>	to live <108>	-	-	-	-	-	-	-	to live <90>
-168	think (V)	to think <21>	-	-	-	think (= be of the opinion) <17.14>	to think <104>	-	-	-	-	-	-	-	to think <166>
-169	count (V)	to count <196>	-	-	-	count <13.107>	to count <139>	-	-	-	-	-	-	-	to count <25>
-170	hit (V)	to hit <72>	to hit (with hand) <43>	-	-	-	to hit <113>	-	-	-	-	-	-	-	to hit <73>
-171	back	back <13>	-	-	-	back <4.19>	back <88>	-	-	-	-	-	-	-	back (person's) <6>
-172	dust	dust <11>	-	-	-	dust <1.213>	dust <158>	-	-	-	-	-	-	-	dust <35>
-173	where	where? <181>	where? <96>	-	-	-	where <13>	-	-	-	-	-	-	-	where? <186>
-174	rat	rat <102>	-	-	-	mouse, rat <3.63>	-	-	-	-	-	rat/rodent <69>	-	-	-
-175	heavy	-	-	-	-	-	-	-	2951 <36>	2951 <24>	2951 <72>	-	-	-	-
-176	pull (V)	-	-	-	-	pull <9.33>	to pull <134>	-	-	-	-	-	-	-	to pull <113>
-177	split (V)	to split <80>	-	-	-	-	to split <115>	-	-	-	-	-	-	-	to split <148>
-178	not	-	-	-	-	-	-	-	4105 <58>	4105 <38>	4105 <56>	-	-	-	-
-179	and	and <192>	-	-	-	-	and <204>	-	-	-	-	-	-	-	and <2>
-180	shoulder	shoulder <19>	shoulder <101>	-	-	shoulder <4.3>	-	-	-	-	-	-	-	-	-
-181	if	if <193>	-	-	-	-	if <205>	-	-	-	-	-	-	-	if <80>
-182	turn (V)	to turn <8>	-	-	-	-	to turn (change direction) <126>	-	-	-	-	-	-	-	to turn (change one's direction) <175>
-183	long	-	-	-	-	-	-	-	3639 <44>	3639 <29>	3639 <78>	-	-	-	-
-184	rope	rope <65>	-	-	-	-	rope <61>	-	-	-	-	-	-	-	rope <122>
-185	breast	-	-	-	-	-	-	-	687 <8>	687 <6>	687 <12>	-	-	-	-
-186	needle	needle <68>	-	-	-	needle <6.36>	-	-	-	-	-	needle <104>	-	-	-
-187	flow (V)	to flow <123>	-	-	-	-	to flow <144>	-	-	-	-	-	-	-	to flow <53>
-188	path	road/path <6>	-	path <27>	-	path <10.72>	-	-	-	-	-	-	-	-	-
-189	wood	stick/wood <79>	-	-	-	wood <1.43>	-	-	-	-	-	tree/wood <91>	-	-	-
-190	at	at <173>	-	-	-	-	at <201>	-	-	-	-	-	-	-	at <5>
-191	bird	-	-	-	-	-	-	-	527 <4>	527 <4>	527 <93>	-	-	-	-
-192	mouth	-	-	-	-	-	-	-	3968 <51>	3968 <34>	3968 <5>	-	-	-	-
-193	finger-nail	-	fingernail <28>	-	finger-nail/toe-nail <11>	fingernail <4.344>	-	-	-	-	-	-	-	-	-
-194	sand	-	-	-	-	-	-	-	5245 <67>	5245 <45>	5245 <60>	-	-	-	-
-195	ice	-	-	-	-	ice <1.77>	ice <165>	-	-	-	-	-	-	-	ice <79>
-196	run (V)	-	to run <105>	-	-	run <10.46>	-	-	-	-	-	run/flee <142>	-	-	-
-197	far	-	-	-	-	-	-	-	2216 <21>	2216 <14>	2216 <24>	-	-	-	-
-198	hundred	One Hundred <209>	-	-	-	hundred <13.105>	-	-	-	-	-	hundred <119>	-	-	-
-199	dream	to dream <50>	dream (N) <122>	-	-	dream <4.62>	-	-	-	-	-	-	-	-	-
-200	black	-	-	-	-	-	-	-	541 <5>	541 <5>	541 <43>	-	-	-	-
-201	small	-	-	-	-	-	-	-	5644 <74>	5644 <52>	5644 <95>	-	-	-	-
-202	snow	-	-	-	-	snow (noun) <1.76>	snow <164>	-	-	-	-	-	-	-	snow <145>
-203	straight	-	-	-	-	straight <12.73>	straight <189>	-	-	-	-	-	-	-	straight <155>
-204	liver	-	-	-	-	-	-	-	3613 <43>	3613 <28>	3613 <66>	-	-	-	-
-205	river	-	-	-	-	-	river <152>	-	-	-	-	river/valley <81>	-	-	river <119>
-206	soft	-	soft <142>	-	-	soft <15.75>	-	-	-	-	-	soft(to touch) <168>	-	-	-
-207	rain	-	-	-	-	-	-	-	4856 <61>	4856 <40>	4856 <13>	-	-	-	-
-208	cook (V)	to cook <39>	-	-	-	cook <5.21>	-	-	-	-	-	cook/boil <183>	-	-	-
-209	rub (V)	-	-	-	-	-	to rub <131>	-	-	-	-	rub <194>	-	-	to rub <124>
-210	grease	fat/grease <104>	fat, grease <27>	-	-	-	-	-	-	-	-	fat/grease <7>	-	-	-
-211	leaf	-	-	-	-	-	-	-	3493 <42>	3493 <27>	3493 <64>	-	-	-	-
-212	mosquito	mosquito <109>	mosquito <133>	-	-	mosquito <3.832>	-	-	-	-	-	-	-	-	-
-213	star	-	-	-	-	-	-	-	5883 <78>	5883 <56>	5883 <97>	-	-	-	-
-214	some	-	-	-	-	some <13.181>	some <19>	-	-	-	-	-	-	-	some <146>
-215	fear (V)	-	-	-	-	-	to fear <106>	-	-	-	-	fear/frighten <144>	-	-	to fear <45>
-216	sing (V)	-	-	-	-	sing <18.12>	to sing <141>	-	-	-	-	-	-	-	to sing <135>
-217	buy (V)	to buy <91>	-	-	-	buy <11.81>	-	-	-	-	-	buy <190>	-	-	-
-218	smooth	-	-	-	-	smooth <15.77>	smooth <193>	-	-	-	-	-	-	-	smooth <143>
-219	branch	branch <113>	-	-	-	branch <8.55>	-	-	-	-	-	branch <94>	-	-	-
-220	other	other <190>	-	-	-	-	other <21>	-	-	-	-	-	-	-	other <110>
-221	root	-	-	-	-	-	-	-	5152 <64>	5152 <43>	5152 <10>	-	-	-	-
-222	neck	-	-	-	-	-	-	-	4046 <54>	4046 <36>	4046 <23>	-	-	-	-
-223	house	house <61>	-	-	-	house <7.12>	-	-	-	-	-	house <105>	-	-	-
-224	steal (V)	to steal <73>	-	-	-	steal <21.51>	-	-	-	-	-	steal <179>	-	-	-
-225	twenty	Twenty <207>	-	-	-	twenty <13.104>	-	-	-	-	-	twenty/score <115>	-	-	-
-226	spit (V)	to spit <36>	-	-	-	-	to spit <96>	-	-	-	-	-	-	-	to spit <147>
-227	when	when? <170>	-	-	-	-	when <14>	-	-	-	-	-	-	-	when? <185>
-228	lie down (V)	-	to be lying down <51>	-	-	lie down <12.14>	-	-	-	-	-	sleep/lie down <129>	-	-	-
-229	big	-	-	-	-	-	-	-	514 <3>	514 <3>	514 <32>	-	-	-	-
-230	gut	-	-	-	-	-	guts <86>	-	-	-	-	guts <9>	-	-	guts <64>
-231	smoke	-	-	-	-	-	-	-	5658 <75>	5658 <53>	5658 <49>	-	-	-	-
-232	hair	-	-	-	-	-	-	-	2838 <31>	2838 <20>	2838 <31>	-	-	-	-
-233	red	-	-	-	-	-	-	-	4932 <62>	4932 <41>	4932 <65>	-	-	-	-
-234	night	-	-	-	-	-	-	-	4082 <56>	4082 <37>	4082 <21>	-	-	-	-
-235	good	-	-	-	-	-	-	-	2724 <29>	2724 <18>	2724 <57>	-	-	-	-
-236	how	how? <194>	-	-	-	-	how <15>	-	-	-	-	-	-	-	how <75>
-237	in	in, inside <174>	-	-	-	-	in <202>	-	-	-	-	-	-	-	in <81>
-238	wide	wide <159>	-	-	-	-	wide <29>	-	-	-	-	-	-	-	wide <189>
-239	knee	-	-	-	-	-	-	-	3400 <40>	3400 <26>	3400 <59>	-	-	-	-
-240	swell (V)	to swell <87>	-	-	-	-	to swell <146>	-	-	-	-	-	-	-	to swell <158>
-241	below	below <176>	down, below <17>	-	-	down, below <12.3>	-	-	-	-	-	-	-	-	-
-242	right	-	-	-	-	right, correct <16.73>	right (correct) <196>	-	-	-	-	-	-	-	right (correct) <117>
-243	hold (V)	to hold <89>	-	-	-	-	to hold (in one's hand) <129>	-	-	-	-	-	-	-	to hold (in hand) <74>
-244	earth	-	-	-	-	-	-	-	1905 <17>	1905 <12>	-	-	-	-	-
-245	tear	-	-	-	tear (noun) <13>	tear (noun) <16.38>	-	-	-	-	-	-	-	-	-
-246	worm	-	-	-	-	-	-	-	6982 <98>	6982 <63>	-	-	-	-	-
-247	correct	correct, true <166>	-	-	-	right, correct <16.73>	-	-	-	-	-	-	-	-	-
-248	soil	earth/soil <119>	-	-	-	earth=ground, soil <1.212>	-	-	-	-	-	-	-	-	-
-249	put (V)	-	-	-	-	put <12.12>	-	-	-	-	-	put, place <199>	-	-	-
-250	road	-	-	-	-	-	-	-	5116 <63>	5116 <42>	-	-	-	-	-
-251	roof	thatch/roof <62>	-	-	-	roof <7.51>	-	-	-	-	-	-	-	-	-
-252	hard	-	hard <117>	-	-	hard <15.74>	-	-	-	-	-	-	-	-	-
-253	come	-	-	-	-	-	-	-	1136 <11>	1136 <9>	-	-	-	-	-
-254	son-in-law	-	-	-	-	son-in-law (of a woman) <2.631>	-	-	-	-	-	son-in-law <45>	-	-	-
-255	plant	to plant <84>	-	-	-	plant (vb) <8.531>	-	-	-	-	-	-	-	-	-
-256	ripe	-	-	-	-	ripe <5.123>	-	-	-	-	-	ripe/well-cooked <167>	-	-	-
-257	bite	-	bite <5>	-	-	bite <4.58>	-	-	-	-	-	-	-	-	-
-258	scrape (V)	-	-	-	-	scrape <5.48>	-	-	-	-	-	scratch(scrape <182>	-	-	-
-259	there	-	-	-	-	-	there <10>	-	-	-	-	-	-	-	there <162>
-260	name	-	-	-	-	-	-	-	4019 <52>	-	4019 <15>	-	-	-	-
-261	ant	-	-	-	-	ant <3.817>	-	-	-	-	-	ant <67>	-	-	-
-262	few	-	-	-	-	-	few <20>	-	-	-	-	-	-	-	few <47>
-263	kick (V)	-	-	-	-	kick <10.431>	-	-	-	-	-	kick <197>	-	-	-
-264	fat n.	-	-	-	-	-	-	-	2231 <22>	2231 <15>	-	-	-	-	-
-265	finger	-	-	-	-	finger <4.34>	-	-	-	-	-	finger/toe <27>	-	-	-
-266	nose	-	-	-	-	-	-	-	4103 <57>	-	4103 <2>	-	-	-	-
-267	throat	-	throat <86>	-	-	throat <4.29>	-	-	-	-	-	-	-	-	-
-268	hip	-	hip <128>	-	-	hip <4.463>	-	-	-	-	-	-	-	-	-
-269	this	-	-	-	-	-	-	-	6327 <85>	-	6327 <39>	-	-	-	-
-270	belly	-	-	-	-	-	-	-	472 <2>	472 <2>	-	-	-	-	-
-271	weave (V)	-	-	-	-	weave, plait <9.75>	-	-	-	-	-	waeve <193>	-	-	-
-272	dove	-	-	-	-	dove <3.594>	-	-	-	-	-	dover <61>	-	-	-
-273	take (V)	-	to take <106>	-	-	take <11.13>	-	-	-	-	-	-	-	-	-
-274	play (V)	-	-	-	-	-	to play <142>	-	-	-	-	-	-	-	to play <112>
-275	round	-	-	-	-	-	-	-	5168 <65>	5168 <44>	-	-	-	-	-
-276	egg	-	-	-	-	-	-	-	1930 <19>	-	1930 <52>	-	-	-	-
-277	with	-	-	-	-	-	with (accompanying) <203>	-	-	-	-	-	-	-	with (accompanying) <194>
-278	sniff (V)	to sniff, smell <29>	-	-	-	sniff <15.212>	-	-	-	-	-	-	-	-	-
-279	fly	-	fly (N) <30>	-	-	fly (vb) <10.37>	-	-	-	-	-	-	-	-	-
-280	go (V)	-	to go <36>	-	-	go <10.47>	-	-	-	-	-	-	-	-	-
-281	extinguish (V)	-	-	-	-	extinguish <1.861>	-	-	-	-	-	extinguish <188>	-	-	-
-282	person	-	-	-	-	-	-	-	4437 <60>	4437 <39>	-	-	-	-	-
-283	woods	woods/forest <127>	-	-	-	woods, forest <1.41>	-	-	-	-	-	-	-	-	-
-284	push (V)	-	-	-	-	-	to push <135>	-	-	-	-	-	-	-	to push <114>
-285	east	-	east <19>	-	-	east <12.45>	-	-	-	-	-	-	-	-	-
-286	hole	-	hole <139>	-	-	hole <12.85>	-	-	-	-	-	-	-	-	-
-287	bamboo	-	-	-	-	bamboo <8.94>	-	-	-	-	-	bamboo <96>	-	-	-
-288	foot	-	-	-	-	-	-	-	2458 <26>	2458 <17>	-	-	-	-	-
-289	horse	-	-	-	-	horse (equine) <3.41>	-	-	-	-	-	horse <66>	-	-	-
-290	walk (go)	-	-	-	-	-	-	-	2688 <91>	2688 <60>	-	-	-	-	-
-291	drink	-	-	-	-	beverage, drink <5.9>	-	-	-	-	-	drink <176>	-	-	-
-292	lick (V)	-	-	-	-	lick <4.59>	-	-	-	-	-	lick <180>	-	-	-
-293	dead	to die, be dead <75>	-	-	dead <15>	-	-	-	-	-	-	-	-	-	-
-294	wipe (V)	-	-	-	-	-	to wipe <133>	-	-	-	-	-	-	-	to wipe <193>
-295	rice	-	-	-	-	rice <8.48>	-	-	-	-	-	plaintain/banana <51>	-	-	-
-296	heart	-	-	-	-	-	-	-	2940 <35>	2940 <23>	-	-	-	-	-
-297	sit	-	-	-	-	-	-	-	5570 <71>	5570 <49>	-	-	-	-	-
-298	fight (V)	-	-	-	-	-	to fight <111>	-	-	-	-	-	-	-	to fight <48>
-299	thin	-	-	-	-	-	-	-	6318 <84>	6318 <59>	-	-	-	-	-
-300	sleep	to sleep <48>	-	-	-	sleep <4.61>	-	-	-	-	-	-	-	-	-
-301	six	Six <202>	-	-	-	-	-	-	-	-	-	six <124>	-	-	-
-302	freeze (V)	-	-	-	-	-	to freeze <145>	-	-	-	-	-	-	-	to freeze <59>
-303	choose (V)	to choose <85>	-	-	-	choose <16.622>	-	-	-	-	-	-	-	-	-
-304	that	-	-	-	-	-	-	-	6292 <83>	6292 <58>	-	-	-	-	-
-305	cry (V)	to cry <34>	to cry <14>	-	-	-	-	-	-	-	-	-	-	-	-
-306	thatch	thatch/roof <62>	-	-	-	thatch <7.52>	-	-	-	-	-	-	-	-	-
-307	chin	-	chin <127>	-	-	chin <4.209>	-	-	-	-	-	-	-	-	-
-308	tail	-	-	-	-	-	-	-	6182 <82>	-	6182 <85>	-	-	-	-
-309	hair (head)	-	head hair <40>	-	-	-	-	-	-	-	-	hair(head) <10>	-	-	-
-310	silver	-	-	-	-	silver <9.65>	-	-	-	-	-	silver <95>	-	-	-
-311	short	-	-	-	-	-	-	-	5476 <70>	5476 <48>	-	-	-	-	-
-312	female	woman/female <55>	-	-	-	female (adj) <3.13>	-	-	-	-	-	-	-	-	-
-313	stand	-	-	-	-	-	-	-	5880 <77>	5880 <55>	-	-	-	-	-
-314	life	-	-	-	-	live, living, life <4.74>	-	-	-	-	-	breath/life <39>	-	-	-
-315	white	-	-	-	-	-	-	-	6880 <94>	6880 <61>	-	-	-	-	-
-316	swim	-	-	-	-	-	-	-	6160 <81>	6160 <57>	-	-	-	-	-
-317	thunder	thunder <134>	-	-	-	thunder <1.56>	-	-	-	-	-	-	-	-	-
-318	ground	-	ground <37>	-	-	earth=ground, soil <1.212>	-	-	-	-	-	-	-	-	-
-319	sweet	-	-	-	-	sweet <15.35>	-	-	-	-	-	sweet <159>	-	-	-
-320	sleep	-	-	-	-	-	-	-	5608 <73>	5608 <51>	-	-	-	-	-
-321	here	-	-	-	-	-	here <9>	-	-	-	-	-	-	-	here <72>
-322	dry	-	-	-	-	-	-	-	1857 <15>	1857 <11>	-	-	-	-	-
-323	frog	-	-	-	-	frog <3.95>	-	-	-	-	-	frog <58>	-	-	-
-324	water	-	-	-	-	-	-	-	6792 <92>	-	6792 <4>	-	-	-	-
-325	hide (V)	to hide <171>	-	-	-	-	-	-	-	-	-	hide <141>	-	-	-
-326	boat	-	-	-	-	boat <10.83>	-	-	-	-	-	boat <107>	-	-	-
-327	elbow	-	elbow <22>	-	-	elbow <4.32>	-	-	-	-	-	-	-	-	-
-328	nine	Nine <205>	-	-	-	-	-	-	-	-	-	nine <126>	-	-	-
-329	rib	-	rib <64>	-	-	rib <4.162>	-	-	-	-	-	-	-	-	-
-330	born	-	-	-	-	born (to be) <4.72>	-	-	-	-	-	be born <128>	-	-	-
-331	bean	-	-	-	-	bean <5.66>	-	-	-	-	-	peas, beans <47>	-	-	-
-332	near	-	-	-	-	-	-	-	4039 <53>	4039 <35>	-	-	-	-	-
-333	thousand	One Thousand <210>	-	-	-	thousand <13.106>	-	-	-	-	-	-	-	-	-
-334	mountain	-	-	-	-	-	-	-	3963 <50>	3963 <33>	-	-	-	-	-
-335	forget (V)	-	-	-	-	forget <17.32>	-	-	-	-	-	forget <147>	-	-	-
-336	snake	-	-	-	-	-	-	-	5667 <76>	5667 <54>	-	-	-	-	-
-337	mushroom	-	-	-	-	mushroom <8.98>	-	-	-	-	-	mushroom/fungus <49>	-	-	-
-338	many	-	-	-	-	-	-	-	3759 <47>	3759 <31>	-	-	-	-	-
-339	sell (V)	-	-	-	-	sell <11.82>	-	-	-	-	-	sell <198>	-	-	-
-340	armpit	-	armpit <1>	-	-	armpit <4.312>	-	-	-	-	-	-	-	-	-
-341	shade	-	shade <137>	-	-	-	-	-	-	-	-	shade/shadow <97>	-	-	-
-342	flesh	meat/flesh <103>	-	-	-	flesh <4.13>	-	-	-	-	-	-	-	-	-
-343	ear	-	-	-	-	-	-	-	1894 <16>	-	1894 <22>	-	-	-	-
-344	ashes	-	-	-	-	-	-	-	260 <1>	260 <1>	-	-	-	-	-
-345	insect	-	-	-	-	insect <3.81>	-	-	-	-	-	insect, bug, vermin <59>	-	-	-
-346	arm	-	-	-	-	arm <4.31>	-	-	-	-	-	hand/arm <12>	-	-	-
-347	iron	-	-	-	-	iron <9.67>	-	-	-	-	-	iron <101>	-	-	-
-348	horn	-	-	-	-	-	-	-	3055 <37>	-	3055 <38>	-	-	-	-
-349	down 1	-	down, below <17>	-	-	down, below <12.3>	-	-	-	-	-	-	-	-	-
-350	pig	-	-	-	-	pig <3.35>	-	-	-	-	-	pig <63>	-	-	-
-351	head	-	-	-	-	-	-	-	2928 <33>	2928 <21>	-	-	-	-	-
-352	ashamed	shy, ashamed <161>	-	-	-	-	-	-	-	-	-	ashamed <146>	-	-	-
-353	chew (V)	to chew <38>	-	-	-	chew <5.18>	-	-	-	-	-	-	-	-	-
-354	see	-	-	-	-	-	-	-	5347 <69>	5347 <47>	-	-	-	-	-
-355	toe	-	-	-	-	toe <4.38>	-	-	-	-	-	finger/toe <27>	-	-	-
-356	fly v.	-	-	-	-	-	-	-	2433 <25>	2433 <16>	-	-	-	-	-
-357	medicine	-	-	-	-	medicine, drug <4.88>	-	-	-	-	-	plaintain/banana <51>	-	-	-
-358	blood	-	-	-	-	-	-	-	576 <6>	-	576 <7>	-	-	-	-
-359	true	correc, true <166>	-	-	-	true <16.66>	-	-	-	-	-	-	-	-	-
-360	tomorrow	-	tomorrow <114>	-	-	tomorrow <14.48>	-	-	-	-	-	-	-	-	-
-361	eye	-	-	-	-	-	-	-	2161 <20>	-	2161 <83>	-	-	-	-
-362	ten	Ten <206>	-	-	-	-	-	-	-	-	-	ten <118>	-	-	-
-363	yam	-	yam <148>	-	-	yam <8.912>	-	-	-	-	-	-	-	-	-
-364	breath	-	-	-	-	breathe, breath <4.51>	-	-	-	-	-	breath/life <39>	-	-	-
-365	itch	-	-	-	-	itch <4.854>	-	-	-	-	-	itchy <156>	-	-	-
-366	mud	-	mud <135>	-	-	mud <1.214>	-	-	-	-	-	-	-	-	-
-367	green	-	-	-	-	-	-	-	2766 <30>	2766 <19>	-	-	-	-	-
-368	pound (V)	to pound, beat <93>	-	-	-	pound with fist <9.211>	-	-	-	-	-	-	-	-	-
-369	today	-	now, today <60>	-	-	today <14.47>	-	-	-	-	-	-	-	-	-
-370	penis	-	-	-	-	penis <4.492>	-	-	-	-	-	penis <29>	-	-	-
-371	fire	-	-	-	-	-	-	-	2336 <23>	-	2336 <1>	-	-	-	-
-372	woman	-	-	-	-	-	-	-	6965 <97>	6965 <62>	-	-	-	-	-
-373	man	-	-	-	-	-	-	-	3747 <46>	3747 <30>	-	-	-	-	-
-374	fat n.	-	-	-	-	-	-	-	2760 <22>	2760 <15>	-	-	-	-	-
-375	cold	-	-	-	-	-	-	-	1118 <10>	1118 <8>	-	-	-	-	-
-376	tall	-	-	-	-	tall <12.58>	-	-	-	-	-	long/tall <158>	-	-	-
-377	cloud	-	-	-	-	-	-	-	1077 <9>	1077 <7>	-	-	-	-	-
-378	male	man/male <54>	-	-	-	male <2.23>	-	-	-	-	-	-	-	-	-
-379	lightning	lightning <135>	-	-	-	lightning <1.55>	-	-	-	-	-	-	-	-	-
-380	wind	-	-	-	-	-	-	-	6922 <96>	-	6922 <48>	-	-	-	-
-381	year	-	-	-	-	-	-	-	7019 <99>	7019 <64>	-	-	-	-	-
-382	dog	-	-	-	-	-	-	-	1776 <13>	-	1776 <86>	-	-	-	-
-383	milk	-	-	-	-	milk (vb) <5.87>	-	-	-	-	-	vagina or breast/milk <30>	-	-	-
-384	chest	-	chest <12>	-	-	chest <4.4>	-	-	-	-	-	-	-	-	-
-385	axe	-	axe <126>	-	-	ax <9.25>	-	-	-	-	-	-	-	-	-
-386	bone	-	-	-	-	-	-	-	614 <7>	-	614 <8>	-	-	-	-
-387	drink	-	-	-	-	-	-	-	1833 <14>	1833 <10>	-	-	-	-	-
-388	because	-	-	-	-	-	because <206>	-	-	-	-	-	-	-	because <9>
-389	grow (V)	to grow <86>	-	-	-	grow <12.53>	-	-	-	-	-	-	-	-	-
-390	meat	-	-	-	-	-	-	-	3824 <48>	3824 <32>	-	-	-	-	-
-391	stick (V)	-	-	-	-	-	to stab (or stick) <116>	-	-	-	-	-	-	-	to stab (or stick) <150>
-392	seven	Seven <203>	-	-	-	-	-	-	-	-	-	seven <117>	-	-	-
-393	one	-	-	-	-	-	-	-	4211 <59>	-	4211 <33>	-	-	-	-
-394	float (V)	-	-	-	-	-	to float <143>	-	-	-	-	-	-	-	to float <52>
-395	walk (go)	-	-	-	-	-	-	-	6758 <91>	6758 <60>	-	-	-	-	-
-396	skin	-	-	-	-	-	-	-	5585 <72>	5585 <50>	-	-	-	-	-
-397	hear	-	-	-	-	-	-	-	2939 <34>	2939 <22>	-	-	-	-	-
-398	old man	-	old man <61>	-	-	old man <2.461>	-	-	-	-	-	-	-	-	-
-399	navel	-	-	-	-	navel <4.43>	-	-	-	-	-	navel <32>	-	-	-
-400	nephew	-	-	-	-	nephew <2.53>	-	-	-	-	-	grandchild (nephew) <44>	-	-	-
-401	drive (V)	-	-	-	-	drive <10.65>	-	-	-	-	-	drive/hunt <200>	-	-	-
-402	west	-	west <94>	-	-	west <12.46>	-	-	-	-	-	-	-	-	-
-403	kill	-	-	-	-	-	-	-	3382 <39>	3382 <25>	-	-	-	-	-
-404	brain	-	-	-	-	brain <4.203>	-	-	-	-	-	brain <31>	-	-	-
-405	blunt	dull, blunt <82>	-	-	-	blunt, dull <15.79>	-	-	-	-	-	-	-	-	-
-406	pick up (V)	-	to get, pick up <34>	-	-	pick up <12.212>	-	-	-	-	-	-	-	-	-
-407	son	-	-	-	-	son <2.41>	-	-	-	-	-	child/son <43>	-	-	-
-408	new	-	-	-	-	-	-	-	4068 <55>	-	4068 <54>	-	-	-	-
-409	eat	-	-	-	-	-	-	-	1915 <18>	1915 <13>	-	-	-	-	-
-410	cooked	-	-	-	-	cooked <5.121>	-	-	-	-	-	ripe/well-cooked <167>	-	-	-
-411	bee	-	-	-	-	bee <3.82>	-	-	-	-	-	bee <60>	-	-	-
-412	light 1	-	light <141>	-	-	-	-	-	-	-	-	lightweight <174>	-	-	-
-413	forehead	-	forehead <33>	-	-	forehead <4.205>	-	-	-	-	-	-	-	-	-
-414	tooth	-	-	-	-	-	-	-	6437 <88>	-	6437 <30>	-	-	-	-
-415	now	-	now, today <60>	-	-	now <14.18>	-	-	-	-	-	-	-	-	-
-416	let go (V)	-	-	-	-	release, let go <11.34>	-	-	-	-	-	let go; set free; loosen <187>	-	-	-
-417	nail	-	-	-	-	nail <9.5>	-	-	-	-	-	nail/claw <26>	-	-	-
-418	spider	spider <110>	-	-	-	spider <3.818>	-	-	-	-	-	-	-	-	-
-419	flee (V)	-	-	-	-	flee <10.51>	-	-	-	-	-	run/flee <142>	-	-	-
-420	spit	-	-	-	-	spit <4.56>	-	-	-	-	-	spit <21>	-	-	-
-421	tongue	-	-	-	-	-	-	-	6424 <87>	-	6424 <6>	-	-	-	-
-422	mortar	-	-	-	-	mortar <5.58>	-	-	-	-	-	mortar <108>	-	-	-
-423	thigh	-	thigh <84>	-	-	thigh <4.351>	-	-	-	-	-	-	-	-	-
-424	monkey	-	-	-	-	monkey <3.76>	-	-	-	-	-	monkey <62>	-	-	-
-425	bitter	-	-	-	-	bitter <15.37>	-	-	-	-	-	bitter <161>	-	-	-
-426	salt	-	-	-	-	-	-	-	5235 <66>	-	5235 <94>	-	-	-	-
-427	north	-	north <58>	-	-	north <12.47>	-	-	-	-	-	-	-	-	-
-428	grind (V)	-	-	-	-	crush, grind <5.56>	-	-	-	-	-	grind <184>	-	-	-
-429	louse	-	-	-	-	-	-	-	3684 <45>	-	3684 <16>	-	-	-	-
-430	fish	-	-	-	-	-	-	-	2345 <24>	-	2345 <40>	-	-	-	-
-431	valley	-	-	-	-	valley <1.24>	-	-	-	-	-	river/valley <81>	-	-	-
-432	yellow	-	-	-	-	-	-	-	7023 <100>	7023 <65>	-	-	-	-	-
-433	fowl	-	-	-	-	fowl <3.5>	-	-	-	-	-	fowl <64>	-	-	-
-434	hair (body)	-	-	-	-	body hair <4.144>	-	-	-	-	-	hair(body) <11>	-	-	-
-435	eight	Eight <204>	-	-	-	-	-	-	-	-	-	eight <125>	-	-	-
-436	alive	to live, be alive <76>	-	-	-	-	-	-	-	-	-	alive <153>	-	-	-
-437	south	-	south <75>	-	-	south <12.48>	-	-	-	-	-	-	-	-	-
-438	fish net	-	-	-	-	fishnet <20.54>	-	-	-	-	-	-	-	-	-
-439	fat (thick)	-	-	-	-	-	-	-	-	-	-	fat <155>	-	-	-
-440	study	-	-	-	-	study <17.242>	-	-	-	-	-	-	-	-	-
-441	shoe	-	-	-	-	shoemaker, cobbler <6.54>	-	-	-	-	-	-	-	-	-
-442	excrement	-	excrement <23>	-	-	-	-	-	-	-	-	-	-	-	-
-443	god	-	-	-	-	God <22.12>	-	-	-	-	-	-	-	-	-
-444	release (V)	-	-	-	-	release, let go <11.34>	-	-	-	-	-	-	-	-	-
-445	quick	-	-	-	-	swift, fast, quick <14.21>	-	-	-	-	-	-	-	-	-
-446	to suck	-	-	-	-	-	-	-	-	-	6074 <69>	-	-	-	-
-447	fasten (V)	to tie up, fasten <66>	-	-	-	-	-	-	-	-	-	-	-	-	-
-448	mirror	-	-	-	-	mirror <6.96>	-	-	-	-	-	-	-	-	-
-449	corner	-	-	-	-	corner <12.76>	-	-	-	-	-	-	-	-	-
-450	shoe	-	-	-	-	shoe <6.51>	-	-	-	-	-	-	-	-	-
-451	work	-	-	-	-	work <9.12>	-	-	-	-	-	-	-	-	-
-452	long time	-	-	-	-	long-time (for a) <14.332>	-	-	-	-	-	-	-	-	-
-453	look at (V)	-	-	-	-	look, look at <15.52>	-	-	-	-	-	-	-	-	-
-454	mighty	-	-	-	-	strong, mighty, powerful <4.81>	-	-	-	-	-	-	-	-	-
-455	spearthrower	-	spearthrower <125>	-	-	-	-	-	-	-	-	-	-	-	-
-456	anvil	-	-	-	-	anvil <9.62>	-	-	-	-	-	-	-	-	-
-457	want	-	-	-	-	desire, want <16.62>	-	-	-	-	-	-	-	-	-
-458	frighten (V)	-	-	-	-	-	-	-	-	-	-	fear/frighten <144>	-	-	-
-459	embers	-	-	-	-	embers <1.841>	-	-	-	-	-	-	-	-	-
-460	beautiful	-	-	-	-	beautiful <16.81>	-	-	-	-	-	-	-	-	-
-461	lock 1	-	-	-	-	lock (noun) <7.23>	-	-	-	-	-	-	-	-	-
-462	to hit/beat	-	-	-	-	-	-	-	-	-	430 <36>	-	-	-	-
-463	preach (V)	-	-	-	-	preach <22.22>	-	-	-	-	-	-	-	-	-
-464	oats	-	-	-	-	oats <8.46>	-	-	-	-	-	-	-	-	-
-465	parent	-	-	-	-	parents <2.37>	-	-	-	-	-	-	-	-	-
-466	to run	-	-	-	-	-	-	-	-	-	5198 <81>	-	-	-	-
-467	chilli-pepper	-	-	-	-	chili pepper <5.821>	-	-	-	-	-	-	-	-	-
-468	back	-	-	-	-	-	-	-	-	-	326 <47>	-	-	-	-
-469	middle	-	-	-	-	middle, center <12.37>	-	-	-	-	-	-	-	-	-
-470	ankle	-	-	-	-	ankle <4.371>	-	-	-	-	-	-	-	-	-
-471	dawn	-	-	-	-	dawn <14.43>	-	-	-	-	-	-	-	-	-
-472	to see	-	-	-	-	-	-	-	-	-	5347 <89>	-	-	-	-
-473	cockroach	-	-	-	-	cockroach <3.816>	-	-	-	-	-	-	-	-	-
-474	end	-	-	-	-	end (temporal) <14.26>	-	-	-	-	-	-	-	-	-
-475	rule (V)	-	-	-	-	rule, govern <19.31>	-	-	-	-	-	-	-	-	-
-476	shin	-	shin <103>	-	-	-	-	-	-	-	-	-	-	-	-
-477	guess (V)	-	-	-	-	guess <17.171>	-	-	-	-	-	-	-	-	-
-478	to tie	-	-	-	-	-	-	-	-	-	6373 <88>	-	-	-	-
-479	early	-	-	-	-	early <14.16>	-	-	-	-	-	-	-	-	-
-480	notion	-	-	-	-	idea, notion <17.19>	-	-	-	-	-	-	-	-	-
-481	shop	-	-	-	-	store, shop <11.86>	-	-	-	-	-	-	-	-	-
-482	whirlpool	-	-	-	-	whirlpool <1.362>	-	-	-	-	-	-	-	-	-
-483	hungry	-	hungry <44>	-	-	-	-	-	-	-	-	-	-	-	-
-484	veil (V)	-	-	-	-	veil <6.59>	-	-	-	-	-	-	-	-	-
-485	rope	-	-	-	-	-	-	-	-	-	5155 <91>	-	-	-	-
-486	soup	-	-	-	-	soup, broth <5.64>	-	-	-	-	-	-	-	-	-
-487	lunch	-	-	-	-	lunch <5.43>	-	-	-	-	-	-	-	-	-
-488	string	-	string <147>	-	-	-	-	-	-	-	-	-	-	-	-
-489	wrong	-	-	-	-	wrong <16.74>	-	-	-	-	-	-	-	-	-
-490	rich	-	-	-	-	rich <11.51>	-	-	-	-	-	-	-	-	-
-491	ride (V)	-	-	-	-	ride <10.66>	-	-	-	-	-	-	-	-	-
-492	I	-	-	-	-	-	-	-	3133 <38>	-	-	-	-	-	-
-493	hang up (V)	-	-	-	-	hang up <9.341>	-	-	-	-	-	-	-	-	-
-494	eagle	-	-	-	-	eagle <3.584>	-	-	-	-	-	-	-	-	-
-495	play	-	-	-	-	play <16.26>	-	-	-	-	-	-	-	-	-
-496	grain	-	-	-	-	grain (barley, oats etc) <8.42>	-	-	-	-	-	-	-	-	-
-497	small	-	-	-	-	small, little <12.56>	-	-	-	-	-	-	-	-	-
-498	hire (V)	-	-	-	-	hire <11.77>	-	-	-	-	-	-	-	-	-
-499	beget	-	-	-	-	beget (of father) <4.71>	-	-	-	-	-	-	-	-	-
-500	sweep (V)	-	-	-	-	sweep <9.37>	-	-	-	-	-	-	-	-	-
-501	arc	-	-	-	-	arch <7.58>	-	-	-	-	-	-	-	-	-
-502	two	-	-	-	-	-	-	-	6577 <90>	-	-	-	-	-	-
-503	to hide	-	-	-	-	-	-	-	-	-	1189 <67>	-	-	-	-
-504	mare	-	-	-	-	mare <3.44>	-	-	-	-	-	-	-	-	-
-505	pandanus	-	pandanus <150>	-	-	-	-	-	-	-	-	-	-	-	-
-506	lame	-	-	-	-	lame <4.94>	-	-	-	-	-	-	-	-	-
-507	praise (V)	-	-	-	-	praise <16.79>	-	-	-	-	-	-	-	-	-
-508	dance	-	-	-	-	dance <10.44>	-	-	-	-	-	-	-	-	-
-509	emerge (V)	-	-	-	-	-	-	-	-	-	-	emerge <143>	-	-	-
-510	shield	-	shield <124>	-	-	-	-	-	-	-	-	-	-	-	-
-511	admit (V)	-	-	-	-	admit, confess <18.33>	-	-	-	-	-	-	-	-	-
-512	pumpkin	-	-	-	-	pumpkin, squash <8.931>	-	-	-	-	-	-	-	-	-
-513	twist (V)	-	-	-	-	twist <10.17>	-	-	-	-	-	-	-	-	-
-514	trunk	-	-	-	-	tree trunk <8.73>	-	-	-	-	-	-	-	-	-
-515	first	-	-	-	-	first <13.34>	-	-	-	-	-	-	-	-	-
-516	shoot	shoot <70>	-	-	-	-	-	-	-	-	-	-	-	-	-
-517	glue	-	-	-	-	glue <9.56>	-	-	-	-	-	-	-	-	-
-518	dead	-	-	-	-	die, dead <4.75>	-	-	-	-	-	-	-	-	-
-519	strike (V)	-	-	-	-	strike (hit, beat) <9.21>	-	-	-	-	-	-	-	-	-
-520	happy	-	-	-	-	joyful, glad, happy <16.23>	-	-	-	-	-	-	-	-	-
-521	she	he/she <184>	-	-	-	-	-	-	-	-	-	-	-	-	-
-522	sickness	-	sickness <144>	-	-	-	-	-	-	-	-	-	-	-	-
-523	thick	-	-	-	-	-	-	-	-	-	6303 <77>	-	-	-	-
-524	mix (V)	-	-	-	-	stir, mix <5.49>	-	-	-	-	-	-	-	-	-
-525	blow	-	-	-	-	blow <10.38>	-	-	-	-	-	-	-	-	-
-526	cotton	-	-	-	-	cotton <6.24>	-	-	-	-	-	-	-	-	-
-527	potato	-	-	-	-	potato <5.7>	-	-	-	-	-	-	-	-	-
-528	request (V)	-	-	-	-	ask, request <18.35>	-	-	-	-	-	-	-	-	-
-529	read (V)	-	-	-	-	read <18.52>	-	-	-	-	-	-	-	-	-
-530	air	-	-	-	-	air <1.71>	-	-	-	-	-	-	-	-	-
-531	stone	-	-	-	-	stone, rock <1.44>	-	-	-	-	-	-	-	-	-
-532	late	-	-	-	-	late <14.17>	-	-	-	-	-	-	-	-	-
-533	depart (V)	-	-	-	-	go away, depart <10.49>	-	-	-	-	-	-	-	-	-
-534	have (V)	-	-	-	-	have <11.11>	-	-	-	-	-	-	-	-	-
-535	blanket	-	-	-	-	blanket <7.422>	-	-	-	-	-	-	-	-	-
-536	bat	-	-	-	-	bat <3.591>	-	-	-	-	-	-	-	-	-
-537	cheat (V)	-	-	-	-	betray <17.441>	-	-	-	-	-	-	-	-	-
-538	wing	-	-	-	-	-	-	-	-	-	6933 <17>	-	-	-	-
-539	clothing	-	-	-	-	clothing, clothes <6.12>	-	-	-	-	-	-	-	-	-
-540	sickle	-	-	-	-	sickle, scythe <8.33>	-	-	-	-	-	-	-	-	-
-541	table	-	-	-	-	table <7.44>	-	-	-	-	-	-	-	-	-
-542	pointed	-	-	-	-	pointed <12.352>	-	-	-	-	-	-	-	-	-
-543	merchant	-	-	-	-	merchant <11.84>	-	-	-	-	-	-	-	-	-
-544	reckon (V)	-	-	-	-	account, reckoning <11.66>	-	-	-	-	-	-	-	-	-
-545	fry (V)	-	-	-	-	roast, fry <5.23>	-	-	-	-	-	-	-	-	-
-546	permit (V)	-	-	-	-	let, permit <19.47>	-	-	-	-	-	-	-	-	-
-547	defeat (V)	-	-	-	-	defeat <20.42>	-	-	-	-	-	-	-	-	-
-548	always	-	-	-	-	always <14.31>	-	-	-	-	-	-	-	-	-
-549	grasp (V)	-	-	-	-	seize, grasp <11.14>	-	-	-	-	-	-	-	-	-
-550	stop (V)	-	-	-	-	cease, stop <14.28>	-	-	-	-	-	-	-	-	-
-551	headdress	-	-	-	-	headband, headdress <6.78>	-	-	-	-	-	-	-	-	-
-552	child (kin term)	-	-	-	-	-	-	-	-	-	980 <51>	-	-	-	-
-553	moon	-	-	-	-	-	-	-	3938 <49>	-	-	-	-	-	-
-554	window	-	-	-	-	window <7.25>	-	-	-	-	-	-	-	-	-
-555	to cry/weep	-	-	-	-	-	-	-	-	-	6835 <87>	-	-	-	-
-556	talk (V)	-	-	-	-	speak, talk <18.21>	-	-	-	-	-	-	-	-	-
-557	age	-	-	-	-	age <14.12>	-	-	-	-	-	-	-	-	-
-558	much	-	-	-	-	much, many <13.15>	-	-	-	-	-	-	-	-	-
-559	navel	-	-	-	-	-	-	-	-	-	4038 <44>	-	-	-	-
-560	to stand	-	-	-	-	-	-	-	-	-	5881 <45>	-	-	-	-
-561	to go	-	-	-	-	-	-	-	-	-	2688 <3>	-	-	-	-
-562	herdsman	-	-	-	-	herdsman <3.18>	-	-	-	-	-	-	-	-	-
-563	deaf	-	-	-	-	deaf <4.95>	-	-	-	-	-	-	-	-	-
-564	kitchen	-	-	-	-	cookhouse <7.17>	-	-	-	-	-	-	-	-	-
-565	urine	-	urine <92>	-	-	-	-	-	-	-	-	-	-	-	-
-566	soon	-	-	-	-	soon <14.331>	-	-	-	-	-	-	-	-	-
-567	seek (V)	-	-	-	-	seek, look for <11.31>	-	-	-	-	-	-	-	-	-
-568	blame	-	-	-	-	blame <16.78>	-	-	-	-	-	-	-	-	-
-569	river	-	-	-	-	river, stream, brook <1.36>	-	-	-	-	-	-	-	-	-
-570	say	-	-	-	-	-	-	-	-	5267 <46>	-	-	-	-	-
-571	mill	-	-	-	-	mill <5.57>	-	-	-	-	-	-	-	-	-
-572	sister	-	-	-	-	sister <2.45>	-	-	-	-	-	-	-	-	-
-573	spear	-	spear (N) <77>	-	-	-	-	-	-	-	-	-	-	-	-
-574	gold	-	-	-	-	gold <9.64>	-	-	-	-	-	-	-	-	-
-575	cut	-	-	-	-	cut <9.22>	-	-	-	-	-	-	-	-	-
-576	high	-	-	-	-	high <12.31>	-	-	-	-	-	-	-	-	-
-577	mistake	-	-	-	-	mistake, error <16.77>	-	-	-	-	-	-	-	-	-
-578	kid	-	-	-	-	kid <3.38>	-	-	-	-	-	-	-	-	-
-579	large	-	-	-	-	large, big <12.55>	-	-	-	-	-	-	-	-	-
-580	lie 2 (V)	-	-	-	-	lie, tell lies <16.67>	-	-	-	-	-	-	-	-	-
-581	cousin	-	-	-	-	cousin <2.55>	-	-	-	-	-	-	-	-	-
-582	brick	-	-	-	-	adobe <7.64>	-	-	-	-	-	-	-	-	-
-583	wind (V)	-	-	-	-	wind, wrap <10.14>	-	-	-	-	-	-	-	-	-
-584	skin/hide	-	-	-	-	-	-	-	-	-	5585 <68>	-	-	-	-
-585	roll	-	-	-	-	roll <10.15>	-	-	-	-	-	-	-	-	-
-586	hack (V)	to cut, hack <78>	-	-	-	-	-	-	-	-	-	-	-	-	-
-587	go up (V)	-	-	-	-	go up <10.471>	-	-	-	-	-	-	-	-	-
-588	ditch	-	-	-	-	ditch <8.17>	-	-	-	-	-	-	-	-	-
-589	float	-	-	-	-	float <10.34>	-	-	-	-	-	-	-	-	-
-590	temple 1	-	-	-	-	temple, church <22.13>	-	-	-	-	-	-	-	-	-
-591	fir	-	-	-	-	fir <8.65>	-	-	-	-	-	-	-	-	-
-592	father's sister	-	-	-	-	father's sister <2.522>	-	-	-	-	-	-	-	-	-
-593	right side	-	-	-	-	right (side) <12.41>	-	-	-	-	-	-	-	-	-
-594	midday	-	-	-	-	noon, midday <14.45>	-	-	-	-	-	-	-	-	-
-595	full	-	-	-	-	-	-	-	2561 <27>	-	-	-	-	-	-
-596	garden	-	-	-	-	garden <8.13>	-	-	-	-	-	-	-	-	-
-597	neighbour	-	-	-	-	neighbor <19.54>	-	-	-	-	-	-	-	-	-
-598	again	-	-	-	-	again <14.35>	-	-	-	-	-	-	-	-	-
-599	handkerchief	-	-	-	-	handkerchief, rag <6.81>	-	-	-	-	-	-	-	-	-
-600	awl	-	-	-	-	awl <6.37>	-	-	-	-	-	-	-	-	-
-601	fever	-	-	-	-	fever <4.841>	-	-	-	-	-	-	-	-	-
-602	learn (V)	-	-	-	-	learn <17.24>	-	-	-	-	-	-	-	-	-
-603	foal	-	-	-	-	foal, colt <3.45>	-	-	-	-	-	-	-	-	-
-604	rice (cooked)	-	-	-	-	-	-	-	-	-	-	plaintain/banana <51>	-	-	-
-605	twin	-	-	-	-	twins <2.458>	-	-	-	-	-	-	-	-	-
-606	latch	-	-	-	-	latch, door-bolt <7.231>	-	-	-	-	-	-	-	-	-
-607	imitate (V)	-	-	-	-	imitate <17.172>	-	-	-	-	-	-	-	-	-
-608	send (V)	-	-	-	-	send <10.63>	-	-	-	-	-	-	-	-	-
-609	clean	-	-	-	-	clean <15.87>	-	-	-	-	-	-	-	-	-
-610	cry out (V)	-	-	-	-	shout, cry out <18.13>	-	-	-	-	-	-	-	-	-
-611	womb	-	-	-	-	womb <4.47>	-	-	-	-	-	-	-	-	-
-612	quiet	-	-	-	-	quiet, silence <15.46>	-	-	-	-	-	-	-	-	-
-613	scold (V)	-	-	-	-	rebuke, scold <18.39>	-	-	-	-	-	-	-	-	-
-614	broth	-	-	-	-	soup, broth <5.64>	-	-	-	-	-	-	-	-	-
-615	pursue (V)	-	-	-	-	pursue <10.53>	-	-	-	-	-	-	-	-	-
-616	crowd	-	-	-	-	multitude, crowd <13.19>	-	-	-	-	-	-	-	-	-
-617	separate	-	-	-	-	separate <12.23>	-	-	-	-	-	-	-	-	-
-618	donkey	-	-	-	-	ass, donkey <3.46>	-	-	-	-	-	-	-	-	-
-619	all	-	-	-	-	every, all <13.14>	-	-	-	-	-	-	-	-	-
-620	wring (V)	-	-	-	-	squeeze, wring <9.343>	-	-	-	-	-	-	-	-	-
-621	shark	-	-	-	-	shark <3.661>	-	-	-	-	-	-	-	-	-
-622	span	-	-	-	-	span, fathom <12.541>	-	-	-	-	-	-	-	-	-
-623	piece	-	-	-	-	part, piece <13.23>	-	-	-	-	-	-	-	-	-
-624	eyebrow	-	-	-	-	eyebrow <4.212>	-	-	-	-	-	-	-	-	-
-625	share (V)	-	-	-	-	share (distribute) <11.91>	-	-	-	-	-	-	-	-	-
-626	waterfall	-	-	-	-	waterfall <1.39>	-	-	-	-	-	-	-	-	-
-627	precipice	-	-	-	-	cliff, precipice <1.222>	-	-	-	-	-	-	-	-	-
-628	hat	-	-	-	-	hat, cap <6.55>	-	-	-	-	-	-	-	-	-
-629	shake (V)	-	-	-	-	shake <10.26>	-	-	-	-	-	-	-	-	-
-630	deep	-	-	-	-	deep <12.67>	-	-	-	-	-	-	-	-	-
-631	condemn (V)	-	-	-	-	condemn <21.32>	-	-	-	-	-	-	-	-	-
-632	mouse	-	-	-	-	mouse, rat <3.63>	-	-	-	-	-	-	-	-	-
-633	fly	-	-	-	-	-	-	-	-	-	2432 <20>	-	-	-	-
-634	bowl	-	-	-	-	bowl <5.33>	-	-	-	-	-	-	-	-	-
-635	yes	-	-	-	-	yes, affirmative <17.55>	-	-	-	-	-	-	-	-	-
-636	by-and-by	-	by-and-by <11>	-	-	-	-	-	-	-	-	-	-	-	-
-637	foam	-	-	-	-	foam <1.324>	-	-	-	-	-	-	-	-	-
-638	reap (V)	-	-	-	-	mow, reap <8.32>	-	-	-	-	-	-	-	-	-
-639	shade/shadow	-	-	-	-	-	-	-	-	-	5410 <92>	-	-	-	-
-640	moan (V)	-	-	-	-	groan <16.39>	-	-	-	-	-	-	-	-	-
-641	perspire (V)	-	-	-	-	perspire <4.55>	-	-	-	-	-	-	-	-	-
-642	house	-	-	-	-	-	-	-	-	-	3074 <26>	-	-	-	-
-643	sorrow	-	-	-	-	grief, sorrow, sadness <16.32>	-	-	-	-	-	-	-	-	-
-644	mind	-	-	-	-	mind <17.11>	-	-	-	-	-	-	-	-	-
-645	crazy	-	-	-	-	insane, crazy <17.23>	-	-	-	-	-	-	-	-	-
-646	vine	-	-	-	-	vine <8.67>	-	-	-	-	-	-	-	-	-
-647	scythe	-	-	-	-	sickle, scythe <8.33>	-	-	-	-	-	-	-	-	-
-648	teat	-	-	-	-	nipple, teat <4.412>	-	-	-	-	-	-	-	-	-
-649	lung	-	-	-	-	lung <4.441>	-	-	-	-	-	-	-	-	-
-650	brush (V)	-	-	-	-	brush <6.92>	-	-	-	-	-	-	-	-	-
-651	mule	-	-	-	-	mule <3.47>	-	-	-	-	-	-	-	-	-
-652	what	-	-	-	-	-	-	-	6853 <93>	-	-	-	-	-	-
-653	coconut	-	-	-	-	coconut <8.82>	-	-	-	-	-	-	-	-	-
-654	shove (V)	-	-	-	-	push, shove <10.67>	-	-	-	-	-	-	-	-	-
-655	lose (V)	-	-	-	-	lose <11.33>	-	-	-	-	-	-	-	-	-
-656	go away (V)	-	-	-	-	go away, depart <10.49>	-	-	-	-	-	-	-	-	-
-657	give up (V)	-	-	-	-	surrender <20.46>	-	-	-	-	-	-	-	-	-
-658	crawl (V)	-	-	-	-	creep, crawl <10.41>	-	-	-	-	-	-	-	-	-
-659	nipple	-	-	-	-	nipple, teat <4.412>	-	-	-	-	-	-	-	-	-
-660	teacher	-	-	-	-	teacher <17.27>	-	-	-	-	-	-	-	-	-
-661	grandmother	-	-	-	-	grandmother <2.47>	-	-	-	-	-	-	-	-	-
-662	fish poison	-	-	-	-	fish poison (root) <8.96>	-	-	-	-	-	-	-	-	-
-663	hide (V)	-	-	-	-	hide, conceal <12.27>	-	-	-	-	-	-	-	-	-
-664	divorce (V)	-	-	-	-	divorce <2.341>	-	-	-	-	-	-	-	-	-
-665	cheese	-	-	-	-	cheese <5.88>	-	-	-	-	-	-	-	-	-
-666	leave it (V)	-	to leave it <48>	-	-	-	-	-	-	-	-	-	-	-	-
-667	rest	-	-	-	-	rest <4.912>	-	-	-	-	-	-	-	-	-
-668	court	-	-	-	-	yard, court <7.15>	-	-	-	-	-	-	-	-	-
-669	kidney	-	-	-	-	kidney <4.451>	-	-	-	-	-	-	-	-	-
-670	make (V)	-	-	-	-	do, make <9.11>	-	-	-	-	-	-	-	-	-
-671	clear	-	-	-	-	clear, plain <17.34>	-	-	-	-	-	-	-	-	-
-672	necklace	-	-	-	-	necklace <6.75>	-	-	-	-	-	-	-	-	-
-673	rudder	-	-	-	-	rudder <10.86>	-	-	-	-	-	-	-	-	-
-674	brook	-	-	-	-	river, stream, brook <1.36>	-	-	-	-	-	-	-	-	-
-675	3SG pronoun	-	-	-	-	-	-	-	-	-	3308 <35>	-	-	-	-
-676	linen	-	-	-	-	linen, flax <6.23>	-	-	-	-	-	-	-	-	-
-677	tribute	-	-	-	-	tax, tribute <11.69>	-	-	-	-	-	-	-	-	-
-678	up	-	up <91>	-	-	-	-	-	-	-	-	-	-	-	-
-679	axle	-	-	-	-	axle <10.77>	-	-	-	-	-	-	-	-	-
-680	mother-in-law	-	-	-	-	mother-in-law (of a woman) <2.621>	-	-	-	-	-	-	-	-	-
-681	tongs	-	-	-	-	tongs <5.391>	-	-	-	-	-	-	-	-	-
-682	older sister	-	-	-	-	older sister <2.454>	-	-	-	-	-	-	-	-	-
-683	poison	-	-	-	-	poison <4.89>	-	-	-	-	-	-	-	-	-
-684	build (V)	-	-	-	-	build <9.44>	-	-	-	-	-	-	-	-	-
-685	certain	-	-	-	-	sure, certain <17.37>	-	-	-	-	-	-	-	-	-
-686	set free (V)	-	-	-	-	-	-	-	-	-	-	let go; set free; loosen <187>	-	-	-
-687	calf of leg	-	-	-	-	calf of leg <4.352>	-	-	-	-	-	-	-	-	-
-688	speak (V)	-	to speak <76>	-	-	-	-	-	-	-	-	-	-	-	-
-689	canoe	-	-	-	-	canoe <10.831>	-	-	-	-	-	-	-	-	-
-690	fan	-	-	-	-	fan (noun) <9.79>	-	-	-	-	-	-	-	-	-
-691	open	-	-	-	-	open <12.24>	-	-	-	-	-	-	-	-	-
-692	bend	-	-	-	-	bend <9.14>	-	-	-	-	-	-	-	-	-
-693	grasshopper	-	-	-	-	grasshopper <3.93>	-	-	-	-	-	-	-	-	-
-694	cloth	-	-	-	-	cloth <6.21>	-	-	-	-	-	-	-	-	-
-695	oak	-	-	-	-	oak <8.61>	-	-	-	-	-	-	-	-	-
-696	above	-	-	-	-	up, above <12.8>	-	-	-	-	-	-	-	-	-
-697	howl (V)	-	-	-	-	howl <18.19>	-	-	-	-	-	-	-	-	-
-698	skirt	-	-	-	-	skirt <6.46>	-	-	-	-	-	-	-	-	-
-699	swallow	-	-	-	-	swallow <5.181>	-	-	-	-	-	-	-	-	-
-700	colour	-	-	-	-	color <15.61>	-	-	-	-	-	-	-	-	-
-701	crop 1	-	-	-	-	goiter <4.842>	-	-	-	-	-	-	-	-	-
-702	soil	-	-	-	-	-	-	-	-	-	5703 <63>	-	-	-	-
-703	bind (V)	-	-	-	-	tie, bind <9.16>	-	-	-	-	-	-	-	-	-
-704	coin	-	-	-	-	coin <11.44>	-	-	-	-	-	-	-	-	-
-705	wrist	-	-	-	-	wrist <4.321>	-	-	-	-	-	-	-	-	-
-706	crooked	-	-	-	-	crooked <12.74>	-	-	-	-	-	-	-	-	-
-707	up	-	-	-	-	up, above <12.8>	-	-	-	-	-	-	-	-	-
-708	rodent	-	-	-	-	-	-	-	-	-	-	rat/rodent <69>	-	-	-
-709	choke	-	-	-	-	choke <5.19>	-	-	-	-	-	-	-	-	-
-710	intestine	intestines <16>	-	-	-	-	-	-	-	-	-	-	-	-	-
-711	pour (V)	-	-	-	-	pour <9.35>	-	-	-	-	-	-	-	-	-
-712	wide	-	-	-	-	wide, broad <12.61>	-	-	-	-	-	-	-	-	-
-713	lift (V)	-	-	-	-	raise, lift <10.22>	-	-	-	-	-	-	-	-	-
-714	vein	-	-	-	-	vein, artery <4.151>	-	-	-	-	-	-	-	-	-
-715	shadow	-	-	-	-	shade, shadow <1.63>	-	-	-	-	-	-	-	-	-
-716	mucus	-	-	-	-	mucus (nasal) <4.232>	-	-	-	-	-	-	-	-	-
-717	gum 2	-	-	-	-	gums <4.271>	-	-	-	-	-	-	-	-	-
-718	3SG pronoun	-	-	-	-	-	-	-	-	-	2926 <35>	-	-	-	-
-719	face	-	-	-	-	face <4.204>	-	-	-	-	-	-	-	-	-
-720	believe (V)	-	-	-	-	believe <17.15>	-	-	-	-	-	-	-	-	-
-721	thirst	-	-	-	-	thirst <5.15>	-	-	-	-	-	-	-	-	-
-722	morning	-	-	-	-	morning <14.44>	-	-	-	-	-	-	-	-	-
-723	1SG pronoun	-	-	-	-	-	-	-	-	-	3133 <14>	-	-	-	-
-724	she	-	-	-	-	he/she/it <2.93>	-	-	-	-	-	-	-	-	-
-725	push (V)	-	-	-	-	push, shove <10.67>	-	-	-	-	-	-	-	-	-
-726	collar	-	-	-	-	collar <6.45>	-	-	-	-	-	-	-	-	-
-727	beverage	-	-	-	-	beverage, drink <5.9>	-	-	-	-	-	-	-	-	-
-728	hurry (V)	-	-	-	-	hasten, hurry <14.23>	-	-	-	-	-	-	-	-	-
-729	post	-	-	-	-	post, pole <7.56>	-	-	-	-	-	-	-	-	-
-730	spoon	-	-	-	-	spoon <5.37>	-	-	-	-	-	-	-	-	-
-731	banana tree	-	-	-	-	banana tree <8.84>	-	-	-	-	-	-	-	-	-
-732	hammer	-	-	-	-	hammer <9.49>	-	-	-	-	-	-	-	-	-
-733	shallow	-	-	-	-	shallow <12.68>	-	-	-	-	-	-	-	-	-
-734	flea	-	-	-	-	flea <3.813>	-	-	-	-	-	-	-	-	-
-735	fragrant	-	-	-	-	fragrant, good smelling <15.25>	-	-	-	-	-	-	-	-	-
-736	before	-	-	-	-	before <12.4>	-	-	-	-	-	-	-	-	-
-737	blister	-	-	-	-	blister <4.855>	-	-	-	-	-	-	-	-	-
-738	nest	-	-	-	-	nest <3.58>	-	-	-	-	-	-	-	-	-
-739	weapon	-	-	-	-	weapons, arms <20.21>	-	-	-	-	-	-	-	-	-
-740	old woman	-	-	-	-	old woman <2.471>	-	-	-	-	-	-	-	-	-
-741	sock	-	-	-	-	stocking, sock <6.49>	-	-	-	-	-	-	-	-	-
-742	pair	-	-	-	-	pair <13.37>	-	-	-	-	-	-	-	-	-
-743	deceit	-	-	-	-	deceit <16.68>	-	-	-	-	-	-	-	-	-
-744	low	-	-	-	-	low <12.32>	-	-	-	-	-	-	-	-	-
-745	school	-	-	-	-	school <17.28>	-	-	-	-	-	-	-	-	-
-746	rye	-	-	-	-	rye <8.45>	-	-	-	-	-	-	-	-	-
-747	ram	-	-	-	-	ram <3.26>	-	-	-	-	-	-	-	-	-
-748	shy	shy, ashamed <161>	-	-	-	-	-	-	-	-	-	-	-	-	-
-749	blink (V)	-	-	-	-	blink <4.215>	-	-	-	-	-	-	-	-	-
-750	weak	-	-	-	-	weak <4.82>	-	-	-	-	-	-	-	-	-
-751	knife	-	-	-	-	knife <5.38>	-	-	-	-	-	-	-	-	-
-752	listen (V)	-	-	-	-	listen <15.42>	-	-	-	-	-	-	-	-	-
-753	foolish	-	-	-	-	foolish, stupid <17.22>	-	-	-	-	-	-	-	-	-
-754	often	-	-	-	-	often <14.32>	-	-	-	-	-	-	-	-	-
-755	bare	-	-	-	-	naked, bare <4.99>	-	-	-	-	-	-	-	-	-
-756	vegetable food	-	vegetable food <31>	-	-	-	-	-	-	-	-	-	-	-	-
-757	sphere	-	-	-	-	sphere, ball <12.83>	-	-	-	-	-	-	-	-	-
-758	to fall	-	-	-	-	-	-	-	-	-	2188 <82>	-	-	-	-
-759	damage (V)	-	-	-	-	harm, injure, damage <11.28>	-	-	-	-	-	-	-	-	-
-760	weep (V)	-	-	-	-	cry, weep <16.37>	-	-	-	-	-	-	-	-	-
-761	butter	-	-	-	-	butter <5.89>	-	-	-	-	-	-	-	-	-
-762	cock 1	-	-	-	-	cock, rooster <3.52>	-	-	-	-	-	-	-	-	-
-763	kiss	-	-	-	-	kiss <16.29>	-	-	-	-	-	-	-	-	-
-764	fathom	-	-	-	-	span, fathom <12.541>	-	-	-	-	-	-	-	-	-
-765	spleen	-	-	-	-	spleen <4.452>	-	-	-	-	-	-	-	-	-
-766	remain (V)	-	-	-	-	remain, stay <12.16>	-	-	-	-	-	-	-	-	-
-767	tomb	-	-	-	-	grave, tomb <4.79>	-	-	-	-	-	-	-	-	-
-768	firefly	-	-	-	-	firefly <3.91>	-	-	-	-	-	-	-	-	-
-769	colt	-	-	-	-	foal, colt <3.45>	-	-	-	-	-	-	-	-	-
-770	piss (V)	-	-	-	-	-	-	-	-	-	-	piss <34>	-	-	-
-771	boomerang	-	boomerang <123>	-	-	-	-	-	-	-	-	-	-	-	-
-772	plough (V)	-	-	-	-	plow <8.21>	-	-	-	-	-	-	-	-	-
-773	approach (V)	-	-	-	-	approach <10.56>	-	-	-	-	-	-	-	-	-
-774	cattle	-	-	-	-	cattle (bovine) <3.2>	-	-	-	-	-	-	-	-	-
-775	aid (V)	-	-	-	-	help, aid <19.58>	-	-	-	-	-	-	-	-	-
-776	stupid	-	-	-	-	foolish, stupid <17.22>	-	-	-	-	-	-	-	-	-
-777	egg yolk	-	-	-	-	egg yolk <5.971>	-	-	-	-	-	-	-	-	-
-778	hinder (V)	-	-	-	-	hinder, prevent <19.59>	-	-	-	-	-	-	-	-	-
-779	kindle (V)	-	-	-	-	light, kindle, ignite <1.86>	-	-	-	-	-	-	-	-	-
-780	darkness	-	-	-	-	darkness <1.62>	-	-	-	-	-	-	-	-	-
-781	bless (V)	-	-	-	-	bless <22.23>	-	-	-	-	-	-	-	-	-
-782	sweet	-	-	-	-	-	-	-	-	-	6151 <90>	-	-	-	-
-783	kneel (V)	-	-	-	-	kneel <10.412>	-	-	-	-	-	-	-	-	-
-784	stove	-	-	-	-	stove <7.32>	-	-	-	-	-	-	-	-	-
-785	peel	-	-	-	-	peel <5.46>	-	-	-	-	-	-	-	-	-
-786	grape	-	-	-	-	grape <5.76>	-	-	-	-	-	-	-	-	-
-787	button	-	-	-	-	button <6.62>	-	-	-	-	-	-	-	-	-
-788	arm/hand	-	-	-	-	-	-	-	-	-	2855 <19>	-	-	-	-
-789	descendant	-	-	-	-	descendants <2.57>	-	-	-	-	-	-	-	-	-
-790	breakfast	-	-	-	-	breakfast <5.42>	-	-	-	-	-	-	-	-	-
-791	noise	-	-	-	-	sound, noise <15.44>	-	-	-	-	-	-	-	-	-
-792	to bite	-	-	-	-	-	-	-	-	-	536 <46>	-	-	-	-
-793	nit	-	-	-	-	nit (louse egg) <3.812>	-	-	-	-	-	-	-	-	-
-794	second	-	-	-	-	second <13.36>	-	-	-	-	-	-	-	-	-
-795	hide	-	-	-	-	skin, hide <4.12>	-	-	-	-	-	-	-	-	-
-796	account	-	-	-	-	account, reckoning <11.66>	-	-	-	-	-	-	-	-	-
-797	to crush/grind	-	-	-	-	-	-	-	-	-	2775 <100>	-	-	-	-
-798	scar	-	-	-	-	scar <4.858>	-	-	-	-	-	-	-	-	-
-799	hook	-	-	-	-	fishhook <20.52>	-	-	-	-	-	-	-	-	-
-800	scorpion	-	-	-	-	scorpion <3.815>	-	-	-	-	-	-	-	-	-
-801	pine	-	-	-	-	pine <8.64>	-	-	-	-	-	-	-	-	-
-802	skull	-	-	-	-	skull <4.202>	-	-	-	-	-	-	-	-	-
-803	mountain	-	-	-	-	mountain, hill <1.22>	-	-	-	-	-	-	-	-	-
-804	stable 1	-	-	-	-	stable, stall <3.19>	-	-	-	-	-	-	-	-	-
-805	carry in arms (V)	-	-	-	-	carry-underarm <10.615>	-	-	-	-	-	-	-	-	-
-806	to burn (intr.)	-	-	-	-	-	-	-	-	-	793 <55>	-	-	-	-
-807	hiccough	-	-	-	-	hiccough <4.521>	-	-	-	-	-	-	-	-	-
-808	broom	-	-	-	-	broom <9.38>	-	-	-	-	-	-	-	-	-
-809	to eat	-	-	-	-	-	-	-	-	-	1915 <75>	-	-	-	-
-810	boast (V)	-	-	-	-	boast <18.45>	-	-	-	-	-	-	-	-	-
-811	stone/rock	-	-	-	-	-	-	-	-	-	5956 <27>	-	-	-	-
-812	tired	-	-	-	-	tired, weary <4.91>	-	-	-	-	-	-	-	-	-
-813	family	-	-	-	-	family <2.82>	-	-	-	-	-	-	-	-	-
-814	offspring	-	-	-	-	offspring (son or daughter) <2.43>	-	-	-	-	-	-	-	-	-
-815	worry	-	-	-	-	anxiety, worry <16.33>	-	-	-	-	-	-	-	-	-
-816	ball	-	-	-	-	sphere, ball <12.83>	-	-	-	-	-	-	-	-	-
-817	wave	-	-	-	-	wave <1.35>	-	-	-	-	-	-	-	-	-
-818	sugar	-	-	-	-	sugar cane <8.941>	-	-	-	-	-	-	-	-	-
-819	cry (V)	-	-	-	-	cry, weep <16.37>	-	-	-	-	-	-	-	-	-
-820	forge (V)	-	-	-	-	forge <9.61>	-	-	-	-	-	-	-	-	-
-821	deer	-	-	-	-	deer <3.75>	-	-	-	-	-	-	-	-	-
-822	corpse	-	-	-	-	corpse <4.77>	-	-	-	-	-	-	-	-	-
-823	who?	-	-	-	-	-	-	-	-	-	6887 <34>	-	-	-	-
-824	awaken (V)	-	-	-	-	-	-	-	-	-	-	awaken <133>	-	-	-
-825	scissors	-	-	-	-	scissors, shears <9.24>	-	-	-	-	-	-	-	-	-
-826	floor	-	-	-	-	floor <7.26>	-	-	-	-	-	-	-	-	-
-827	beggar	-	-	-	-	beggar <11.53>	-	-	-	-	-	-	-	-	-
-828	similar	-	-	-	-	like, similar <12.92>	-	-	-	-	-	-	-	-	-
-829	swelling	-	-	-	-	swelling <4.853>	-	-	-	-	-	-	-	-	-
-830	obtain (V)	-	-	-	-	get, obtain <11.16>	-	-	-	-	-	-	-	-	-
-831	look (V)	-	-	-	-	look, look at <15.52>	-	-	-	-	-	-	-	-	-
-832	wide	-	-	-	-	-	-	-	-	-	6900 <96>	-	-	-	-
-833	blacksmith	-	-	-	-	smith, blacksmith <9.6>	-	-	-	-	-	-	-	-	-
-834	sibling	-	-	-	-	sibling <2.456>	-	-	-	-	-	-	-	-	-
-835	carry (V)	-	-	-	-	carry (bear) <10.61>	-	-	-	-	-	-	-	-	-
-836	cheap	-	-	-	-	cheap <11.89>	-	-	-	-	-	-	-	-	-
-837	swamp	-	-	-	-	swamp <1.38>	-	-	-	-	-	-	-	-	-
-838	attack (V)	-	-	-	-	attack <20.43>	-	-	-	-	-	-	-	-	-
-839	storm	-	-	-	-	storm <1.58>	-	-	-	-	-	-	-	-	-
-840	fault	-	-	-	-	fault <16.76>	-	-	-	-	-	-	-	-	-
-841	daughter	-	-	-	-	daughter <2.42>	-	-	-	-	-	-	-	-	-
-842	basket	-	-	-	-	basket <9.76>	-	-	-	-	-	-	-	-	-
-843	ring	-	-	-	-	ring (for finger) <6.73>	-	-	-	-	-	-	-	-	-
-844	hold	-	-	-	-	hold <11.15>	-	-	-	-	-	-	-	-	-
-845	reef	-	-	-	-	reef <1.342>	-	-	-	-	-	-	-	-	-
-846	bathe (V)	-	-	-	-	bathe <4.69>	-	-	-	-	-	-	-	-	-
-847	he	-	-	-	-	he/she/it <2.93>	-	-	-	-	-	-	-	-	-
-848	oder brother	-	-	-	-	older brother <2.444>	-	-	-	-	-	-	-	-	-
-849	relative	-	-	-	-	relatives, kinsmen <2.81>	-	-	-	-	-	-	-	-	-
-850	go down (V)	-	-	-	-	go down <10.473>	-	-	-	-	-	-	-	-	-
-851	vermin	-	-	-	-	-	-	-	-	-	-	insect, bug, vermin <59>	-	-	-
-852	stream	-	-	-	-	river, stream, brook <1.36>	-	-	-	-	-	-	-	-	-
-853	yawn (V)	to yawn <47>	-	-	-	-	-	-	-	-	-	-	-	-	-
-854	toe-nail	-	-	-	finger-nail/toe-nail <11>	-	-	-	-	-	-	-	-	-	-
-855	yard	-	-	-	-	yard, court <7.15>	-	-	-	-	-	-	-	-	-
-856	beginning	-	-	-	-	begin, beginning <14.25>	-	-	-	-	-	-	-	-	-
-857	ox	-	-	-	-	ox <3.22>	-	-	-	-	-	-	-	-	-
-858	unripe	-	-	-	-	green, unripe <5.124>	-	-	-	-	-	-	-	-	-
-859	dye (V)	-	-	-	-	dye <6.39>	-	-	-	-	-	-	-	-	-
-860	swift	-	-	-	-	swift, fast, quick <14.21>	-	-	-	-	-	-	-	-	-
-861	pestle	-	-	-	-	pestle <5.59>	-	-	-	-	-	-	-	-	-
-862	to cry/weep	-	-	-	-	-	-	-	-	-	1417 <87>	-	-	-	-
-863	duck	-	-	-	-	duck <3.57>	-	-	-	-	-	-	-	-	-
-864	what?	-	-	-	-	-	-	-	-	-	6853 <50>	-	-	-	-
-865	livestock	-	-	-	-	livestock <3.15>	-	-	-	-	-	-	-	-	-
-866	grandfather	-	-	-	-	grandfather <2.46>	-	-	-	-	-	-	-	-	-
-867	flesh/meat	-	-	-	-	-	-	-	-	-	2397 <18>	-	-	-	-
-868	felt	-	-	-	-	felt <6.27>	-	-	-	-	-	-	-	-	-
-869	hoe	-	-	-	-	hoe <8.25>	-	-	-	-	-	-	-	-	-
-870	lizard	-	-	-	-	lizard <3.96>	-	-	-	-	-	-	-	-	-
-871	loud	-	-	-	-	loud <15.45>	-	-	-	-	-	-	-	-	-
-872	chop (V)	-	-	-	-	chop, hew <9.222>	-	-	-	-	-	-	-	-	-
-873	dish	-	-	-	-	dish <5.31>	-	-	-	-	-	-	-	-	-
-874	marrow	-	-	-	-	-	-	-	-	-	-	marrow <38>	-	-	-
-875	barley	-	-	-	-	barley <8.44>	-	-	-	-	-	-	-	-	-
-876	break (V)	-	-	-	-	break <9.26>	-	-	-	-	-	-	-	-	-
-877	tobacco	-	-	-	-	tobacco <8.68>	-	-	-	-	-	-	-	-	-
-878	murder (V)	-	-	-	-	murder <21.42>	-	-	-	-	-	-	-	-	-
-879	quarrel (V)	-	-	-	-	strife, quarrel <19.62>	-	-	-	-	-	-	-	-	-
-880	tree	-	-	-	-	-	-	-	6487 <89>	-	-	-	-	-	-
-881	stretch (V)	-	-	-	-	stretch <9.32>	-	-	-	-	-	-	-	-	-
-882	pitcher	-	-	-	-	pitcher, jug <5.34>	-	-	-	-	-	-	-	-	-
-883	flour	-	-	-	-	meal, flour <5.55>	-	-	-	-	-	-	-	-	-
-884	light 2	-	-	-	-	light (in color) <15.62>	-	-	-	-	-	-	-	-	-
-885	blue	-	-	-	-	blue <15.67>	-	-	-	-	-	-	-	-	-
-886	shore	-	-	-	-	shore <1.27>	-	-	-	-	-	-	-	-	-
-887	shit (V)	-	-	-	-	-	-	-	-	-	-	shit <33>	-	-	-
-888	flow	-	-	-	-	flow <10.32>	-	-	-	-	-	-	-	-	-
-889	hill	-	-	-	-	mountain, hill <1.22>	-	-	-	-	-	-	-	-	-
-890	worship (V)	-	-	-	-	worship <22.16>	-	-	-	-	-	-	-	-	-
-891	cough (V)	-	-	-	-	-	-	-	-	-	-	cough <134>	-	-	-
-892	key	-	-	-	-	key <7.24>	-	-	-	-	-	-	-	-	-
-893	flat	-	-	-	-	flat <12.71>	-	-	-	-	-	-	-	-	-
-894	divide (V)	-	-	-	-	divide <12.232>	-	-	-	-	-	-	-	-	-
-895	rough	-	-	-	-	rough <15.76>	-	-	-	-	-	-	-	-	-
-896	porpoise	-	-	-	-	porpoise, dolphin <3.662>	-	-	-	-	-	-	-	-	-
-897	boy	-	-	-	-	boy <2.25>	-	-	-	-	-	-	-	-	-
-898	jealousy	-	-	-	-	envy, jealousy <16.44>	-	-	-	-	-	-	-	-	-
-899	wool	-	-	-	-	wool <6.22>	-	-	-	-	-	-	-	-	-
-900	it	-	-	-	-	he/she/it <2.93>	-	-	-	-	-	-	-	-	-
-901	palm	-	-	-	-	-	-	-	-	-	-	palm <28>	-	-	-
-902	little	-	-	-	-	little (quantity), few <13.17>	-	-	-	-	-	-	-	-	-
-903	meal	-	-	-	-	meal (a) <5.41>	-	-	-	-	-	-	-	-	-
-904	drug	-	-	-	-	medicine, drug <4.88>	-	-	-	-	-	-	-	-	-
-905	wax	-	-	-	-	beeswax <3.821>	-	-	-	-	-	-	-	-	-
-906	sick	-	-	-	-	sick, sickness <4.84>	-	-	-	-	-	-	-	-	-
-907	descend (V)	-	-	-	-	-	-	-	-	-	-	descend <139>	-	-	-
-908	kettle	-	-	-	-	kettle <5.27>	-	-	-	-	-	-	-	-	-
-909	beer	-	-	-	-	beer <5.93>	-	-	-	-	-	-	-	-	-
-910	chief	-	-	-	-	chief, chieftain <19.24>	-	-	-	-	-	-	-	-	-
-911	creek	-	creek <113>	-	-	-	-	-	-	-	-	-	-	-	-
-912	bright	-	-	-	-	bright <15.57>	-	-	-	-	-	-	-	-	-
-913	winter	-	-	-	-	winter <14.74>	-	-	-	-	-	-	-	-	-
-914	rock	-	-	-	-	stone, rock <1.44>	-	-	-	-	-	-	-	-	-
-915	grief	-	-	-	-	grief, sorrow, sadness <16.32>	-	-	-	-	-	-	-	-	-
-916	comb	-	-	-	-	comb <6.91>	-	-	-	-	-	-	-	-	-
-917	place	-	-	-	-	place <12.11>	-	-	-	-	-	-	-	-	-
-918	price	-	-	-	-	price <11.87>	-	-	-	-	-	-	-	-	-
-919	how much	-	-	-	-	how much? <17.63>	-	-	-	-	-	-	-	-	-
-920	pregnant	-	-	-	-	pregnant <4.73>	-	-	-	-	-	-	-	-	-
-921	dream (V)	-	-	-	-	-	-	-	-	-	-	dream <148>	-	-	-
-922	grease	-	-	-	-	grease, fat <5.791>	-	-	-	-	-	-	-	-	-
-923	roast (V)	-	-	-	-	roast, fry <5.23>	-	-	-	-	-	-	-	-	-
-924	raise (V)	-	-	-	-	raise, lift <10.22>	-	-	-	-	-	-	-	-	-
-925	anger	-	-	-	-	anger <16.42>	-	-	-	-	-	-	-	-	-
-926	sun	-	-	-	-	-	-	-	6101 <80>	-	-	-	-	-	-
-927	wasp	-	-	-	-	wasp <3.823>	-	-	-	-	-	-	-	-	-
-928	fart (V)	-	-	-	-	break wind <4.64>	-	-	-	-	-	-	-	-	-
-929	shade	-	-	-	-	shade, shadow <1.63>	-	-	-	-	-	-	-	-	-
-930	cloak	-	-	-	-	cloak <6.41>	-	-	-	-	-	-	-	-	-
-931	hew (V)	-	-	-	-	chop, hew <9.222>	-	-	-	-	-	-	-	-	-
-932	granddaughter	-	-	-	-	granddaughter <2.49>	-	-	-	-	-	-	-	-	-
-933	strong	-	-	-	-	strong, mighty, powerful <4.81>	-	-	-	-	-	-	-	-	-
-934	die (V)	-	-	-	-	die, dead <4.75>	-	-	-	-	-	-	-	-	-
-935	poison	-	-	-	-	-	-	-	-	-	-	poison [antifood] <48>	-	-	-
-936	stay (V)	-	-	-	-	remain, stay <12.16>	-	-	-	-	-	-	-	-	-
-937	crop 2	-	-	-	-	crop, harvest <8.41>	-	-	-	-	-	-	-	-	-
-938	arm/hand	-	-	-	-	-	-	-	-	-	231 <19>	-	-	-	-
-939	bed	-	-	-	-	bed <7.42>	-	-	-	-	-	-	-	-	-
-940	fear	to fear <22>	-	-	-	-	-	-	-	-	-	-	-	-	-
-941	yawn (V)	-	-	-	-	yawn, gape <4.52>	-	-	-	-	-	-	-	-	-
-942	boil	-	-	-	-	boil (noun) <4.856>	-	-	-	-	-	-	-	-	-
-943	forbid (V)	-	-	-	-	forbid <18.38>	-	-	-	-	-	-	-	-	-
-944	judge (V)	-	-	-	-	judge (vb) <21.16>	-	-	-	-	-	-	-	-	-
-945	let (V)	-	-	-	-	let, permit <19.47>	-	-	-	-	-	-	-	-	-
-946	oil	-	-	-	-	oil <5.79>	-	-	-	-	-	-	-	-	-
-947	heel	-	-	-	-	heel <4.372>	-	-	-	-	-	-	-	-	-
-948	suspect (V)	-	-	-	-	suspect <17.44>	-	-	-	-	-	-	-	-	-
-949	promise (V)	-	-	-	-	promise <18.36>	-	-	-	-	-	-	-	-	-
-950	harm (V)	-	-	-	-	harm, injure, damage <11.28>	-	-	-	-	-	-	-	-	-
-951	pepper	-	-	-	-	pepper <5.82>	-	-	-	-	-	-	-	-	-
-952	say	-	-	-	-	-	-	-	10021 <68>	-	-	-	-	-	-
-953	sieve (V)	-	-	-	-	sieve, strain <5.47>	-	-	-	-	-	-	-	-	-
-954	sour	-	-	-	-	acid, sour <15.38>	-	-	-	-	-	-	-	-	-
-955	earn (V)	-	-	-	-	earn <11.79>	-	-	-	-	-	-	-	-	-
-956	know	-	-	-	-	-	-	-	3416 <41>	-	-	-	-	-	-
-957	fungus	-	-	-	-	-	-	-	-	-	-	mushroom/fungus <49>	-	-	-
-958	miss (V)	-	-	-	-	miss (target) <20.63>	-	-	-	-	-	-	-	-	-
-959	cease (V)	-	-	-	-	cease, stop <14.28>	-	-	-	-	-	-	-	-	-
-960	stepfather	-	-	-	-	stepfather <2.71>	-	-	-	-	-	-	-	-	-
-961	coat	-	-	-	-	coat <6.43>	-	-	-	-	-	-	-	-	-
-962	cliff	-	-	-	-	cliff, precipice <1.222>	-	-	-	-	-	-	-	-	-
-963	arrow	-	-	-	-	-	-	-	-	-	-	arrow <103>	-	-	-
-964	spin (V)	-	-	-	-	spin <6.31>	-	-	-	-	-	-	-	-	-
-965	crow	-	-	-	-	crow <3.593>	-	-	-	-	-	-	-	-	-
-966	sound	-	-	-	-	sound, noise <15.44>	-	-	-	-	-	-	-	-	-
-967	bottom	-	-	-	-	bottom <12.34>	-	-	-	-	-	-	-	-	-
-968	charcoal	-	-	-	-	charcoal <1.89>	-	-	-	-	-	-	-	-	-
-969	waist	-	-	-	-	waist <4.462>	-	-	-	-	-	-	-	-	-
-970	gnat	-	-	-	-	sandfly (midge), gnat <3.831>	-	-	-	-	-	-	-	-	-
-971	bear	-	-	-	-	-	-	-	-	-	-	bear <68>	-	-	-
-972	gourd	-	-	-	-	gourd <8.93>	-	-	-	-	-	-	-	-	-
-973	subject	-	-	-	-	citizen, subject <19.37>	-	-	-	-	-	-	-	-	-
-974	bunch	-	-	-	-	bunch <5.712>	-	-	-	-	-	-	-	-	-
-975	harvest	-	-	-	-	crop, harvest <8.41>	-	-	-	-	-	-	-	-	-
-976	light (V)	-	-	-	-	light, kindle, ignite <1.86>	-	-	-	-	-	-	-	-	-
-977	few	-	-	-	-	little (quantity), few <13.17>	-	-	-	-	-	-	-	-	-
-978	shine (V)	-	-	-	-	seem <17.18>	-	-	-	-	-	-	-	-	-
-979	after	-	-	-	-	after <12.1>	-	-	-	-	-	-	-	-	-
-980	prick	-	-	-	-	-	-	-	-	-	-	thorn(prick) <99>	-	-	-
-981	fish scale	-	-	-	-	fishscale <3.653>	-	-	-	-	-	-	-	-	-
-982	bury (V)	-	-	-	-	bury (the dead) <4.78>	-	-	-	-	-	-	-	-	-
-983	part	-	-	-	-	part, piece <13.23>	-	-	-	-	-	-	-	-	-
-984	skin	-	-	-	-	skin, hide <4.12>	-	-	-	-	-	-	-	-	-
-985	famine	-	-	-	-	famine <5.141>	-	-	-	-	-	-	-	-	-
-986	to come	-	-	-	-	-	-	-	-	-	1136 <11>	-	-	-	-
-987	wrap (V)	-	-	-	-	wind, wrap <10.14>	-	-	-	-	-	-	-	-	-
-988	plait	-	-	-	-	weave, plait <9.75>	-	-	-	-	-	-	-	-	-
-989	old	-	-	-	-	-	-	-	-	-	4201 <74>	-	-	-	-
-990	return (V)	-	-	-	-	come back <10.481>	-	-	-	-	-	-	-	-	-
-991	go out (V)	-	-	-	-	go out <10.474>	-	-	-	-	-	-	-	-	-
-992	shell	-	-	-	-	shell <3.655>	-	-	-	-	-	-	-	-	-
-993	weary	-	-	-	-	tired, weary <4.91>	-	-	-	-	-	-	-	-	-
-994	dandruff	-	-	-	-	dandruff <4.146>	-	-	-	-	-	-	-	-	-
-995	sore	-	-	-	-	wound, sore <4.85>	-	-	-	-	-	-	-	-	-
-996	shovel	-	-	-	-	shovel <8.24>	-	-	-	-	-	-	-	-	-
-997	field	-	-	-	-	field (for cultivation) <8.12>	-	-	-	-	-	-	-	-	-
-998	wood	-	-	-	-	-	-	-	-	-	6970 <80>	-	-	-	-
-999	nape	-	nape <57>	-	-	-	-	-	-	-	-	-	-	-	-
-1000	goat	-	-	-	-	goat <3.36>	-	-	-	-	-	-	-	-	-
-1001	liquor	-	-	-	-	-	-	-	-	-	-	liquor <50>	-	-	-
-1002	healthy	-	-	-	-	well, health <4.83>	-	-	-	-	-	-	-	-	-
-1003	above	above <175>	-	-	-	-	-	-	-	-	-	-	-	-	-
-1004	touch (V)	-	-	-	-	touch <15.71>	-	-	-	-	-	-	-	-	-
-1005	younger brother	-	-	-	-	younger brother <2.445>	-	-	-	-	-	-	-	-	-
-1006	stall	-	-	-	-	stable, stall <3.19>	-	-	-	-	-	-	-	-	-
-1007	stepmother	-	-	-	-	stepmother <2.72>	-	-	-	-	-	-	-	-	-
-1008	ant	-	-	-	-	-	-	-	-	-	199 <71>	-	-	-	-
-1009	threaten (V)	-	-	-	-	threaten <18.44>	-	-	-	-	-	-	-	-	-
-1010	plantain	-	-	-	-	-	-	-	-	-	-	plaintain/banana <51>	-	-	-
-1011	rake	-	-	-	-	rake <8.27>	-	-	-	-	-	-	-	-	-
-1012	calm	-	-	-	-	calm (of sea) <1.322>	-	-	-	-	-	-	-	-	-
-1013	urinate (V)	-	-	-	-	urinate <4.65>	-	-	-	-	-	-	-	-	-
-1014	mat	-	-	-	-	mat <9.77>	-	-	-	-	-	-	-	-	-
-1015	ship	-	-	-	-	ship <10.81>	-	-	-	-	-	-	-	-	-
-1016	cord	-	-	-	-	rope, cord <9.19>	-	-	-	-	-	-	-	-	-
-1017	spirit	-	-	-	-	soul, spirit <16.11>	-	-	-	-	-	-	-	-	-
-1018	put on (V)	-	-	-	-	put on (clothes) <6.11>	-	-	-	-	-	-	-	-	-
-1019	understand (V)	-	-	-	-	understand <17.16>	-	-	-	-	-	-	-	-	-
-1020	begin (V)	-	-	-	-	begin, beginning <14.25>	-	-	-	-	-	-	-	-	-
-1021	slow	-	-	-	-	slow <14.22>	-	-	-	-	-	-	-	-	-
-1022	3SG pronoun	-	-	-	-	-	-	-	-	-	2926 <35>	-	-	-	-
-1023	to laugh	-	-	-	-	-	-	-	-	-	3475 <61>	-	-	-	-
-1024	money	-	-	-	-	money <11.43>	-	-	-	-	-	-	-	-	-
-1025	strain (V)	-	-	-	-	sieve, strain <5.47>	-	-	-	-	-	-	-	-	-
-1026	stand	-	-	-	-	stand <12.15>	-	-	-	-	-	-	-	-	-
-1027	work (V)	to work <83>	-	-	-	-	-	-	-	-	-	-	-	-	-
-1028	pea	-	-	-	-	-	-	-	-	-	-	peas, beans <47>	-	-	-
-1029	heron	-	-	-	-	heron <3.583>	-	-	-	-	-	-	-	-	-
-1030	dough	-	-	-	-	dough <5.53>	-	-	-	-	-	-	-	-	-
-1031	island	-	-	-	-	island <1.25>	-	-	-	-	-	-	-	-	-
-1032	split	-	-	-	-	split <9.27>	-	-	-	-	-	-	-	-	-
-1033	footprint	-	-	-	-	footprint <4.374>	-	-	-	-	-	-	-	-	-
-1034	2SG pronoun	-	-	-	-	-	-	-	-	-	6333 <9>	-	-	-	-
-1035	fox	-	-	-	-	fox <3.74>	-	-	-	-	-	-	-	-	-
-1036	daughter-in-law	-	-	-	-	daughter-in-law (of a woman) <2.641>	-	-	-	-	-	-	-	-	-
-1037	summer	-	-	-	-	summer <14.76>	-	-	-	-	-	-	-	-	-
-1038	to say	-	-	-	-	-	-	-	-	-	5267 <29>	-	-	-	-
-1039	pottery	-	-	-	-	potter <9.71>	-	-	-	-	-	-	-	-	-
-1040	remember (V)	-	-	-	-	remember <17.31>	-	-	-	-	-	-	-	-	-
-1041	side	-	-	-	-	side <12.36>	-	-	-	-	-	-	-	-	-
-1042	cheek	-	-	-	-	cheek <4.208>	-	-	-	-	-	-	-	-	-
-1043	ignite (V)	-	-	-	-	light, kindle, ignite <1.86>	-	-	-	-	-	-	-	-	-
-1044	intention	-	-	-	-	intention, purpose <17.41>	-	-	-	-	-	-	-	-	-
-1045	maize	-	-	-	-	maize, corn <8.47>	-	-	-	-	-	-	-	-	-
-1046	heal (V)	-	-	-	-	cure, heal <4.86>	-	-	-	-	-	-	-	-	-
-1047	gut	-	-	-	-	intestines, guts <4.461>	-	-	-	-	-	-	-	-	-
-1048	door	-	-	-	-	door, gate <7.22>	-	-	-	-	-	-	-	-	-
-1049	call (V)	-	-	-	-	call (=summon) <18.41>	-	-	-	-	-	-	-	-	-
-1050	father's brother	-	-	-	-	father's brother <2.512>	-	-	-	-	-	-	-	-	-
-1051	yesterday	-	-	-	-	-	-	-	-	-	7026 <41>	-	-	-	-
-1052	dare	-	-	-	-	dare <16.51>	-	-	-	-	-	-	-	-	-
-1053	snail	-	-	-	-	snail <3.94>	-	-	-	-	-	-	-	-	-
-1054	collect (V)	-	-	-	-	collect, gather <12.21>	-	-	-	-	-	-	-	-	-
-1055	painful sensation	painful, sick <160>	-	-	-	-	-	-	-	-	-	-	-	-	-
-1056	mother's sister	-	-	-	-	mother's sister <2.521>	-	-	-	-	-	-	-	-	-
-1057	hawk	-	-	-	-	hawk <3.585>	-	-	-	-	-	-	-	-	-
-1058	boil (V)	-	-	-	-	-	-	-	-	-	-	cook/boil <183>	-	-	-
-1059	tie up (V)	to tie up, fasten <66>	-	-	-	-	-	-	-	-	-	-	-	-	-
-1060	centipede	-	-	-	-	centipede <3.814>	-	-	-	-	-	-	-	-	-
-1061	gate	-	-	-	-	door, gate <7.22>	-	-	-	-	-	-	-	-	-
-1062	pray (V)	-	-	-	-	pray <22.17>	-	-	-	-	-	-	-	-	-
-1063	acorn	-	-	-	-	acorn <8.66>	-	-	-	-	-	-	-	-	-
-1064	wheel	-	-	-	-	wheel <10.76>	-	-	-	-	-	-	-	-	-
-1065	infant	-	-	-	-	infant, baby <2.28>	-	-	-	-	-	-	-	-	-
-1066	slip (V)	-	-	-	-	slide, slip <10.42>	-	-	-	-	-	-	-	-	-
-1067	accuse (V)	-	-	-	-	accuse <21.31>	-	-	-	-	-	-	-	-	-
-1068	adornment	-	-	-	-	ornament, adornment <6.71>	-	-	-	-	-	-	-	-	-
-1069	retreat (V)	-	-	-	-	retreat <20.45>	-	-	-	-	-	-	-	-	-
-1070	blind	-	-	-	-	blind <4.97>	-	-	-	-	-	-	-	-	-
-1071	shelf	-	-	-	-	shelf <7.47>	-	-	-	-	-	-	-	-	-
-1072	board	-	-	-	-	board <7.57>	-	-	-	-	-	-	-	-	-
-1073	well 2	-	-	-	-	spring, well <1.37>	-	-	-	-	-	-	-	-	-
-1074	bring (V)	-	-	-	-	bring <10.62>	-	-	-	-	-	-	-	-	-
-1075	season	-	-	-	-	season <14.78>	-	-	-	-	-	-	-	-	-
-1076	look after (V)	-	-	-	-	preserve, look after <11.24>	-	-	-	-	-	-	-	-	-
-1077	whale	-	-	-	-	whale <3.663>	-	-	-	-	-	-	-	-	-
-1078	threshing-floor	-	-	-	-	threshing-floor <8.35>	-	-	-	-	-	-	-	-	-
-1079	stir (V)	-	-	-	-	stir, mix <5.49>	-	-	-	-	-	-	-	-	-
-1080	pubic hair	-	-	-	-	pubic hair <4.145>	-	-	-	-	-	-	-	-	-
-1081	language	-	language <121>	-	-	-	-	-	-	-	-	-	-	-	-
-1082	torch	-	-	-	-	lamp, torch <7.45>	-	-	-	-	-	-	-	-	-
-1083	bridge	-	-	-	-	bridge <10.74>	-	-	-	-	-	-	-	-	-
-1084	only	-	-	-	-	alone, only <13.33>	-	-	-	-	-	-	-	-	-
-1085	turn around (V)	-	-	-	-	turn around <10.13>	-	-	-	-	-	-	-	-	-
-1086	turn over (V)	-	-	-	-	turn over <10.12>	-	-	-	-	-	-	-	-	-
-1087	love	-	-	-	-	love <16.27>	-	-	-	-	-	-	-	-	-
-1088	sure	-	-	-	-	sure, certain <17.37>	-	-	-	-	-	-	-	-	-
-1089	guard	-	-	-	-	guard, sentinel <20.471>	-	-	-	-	-	-	-	-	-
-1090	buttocks	-	-	-	-	buttocks <4.464>	-	-	-	-	-	-	-	-	-
-1091	sickness	-	-	-	-	sick, sickness <4.84>	-	-	-	-	-	-	-	-	-
-1092	enough	-	-	-	-	enough <13.18>	-	-	-	-	-	-	-	-	-
-1093	spade	-	-	-	-	spade <8.23>	-	-	-	-	-	-	-	-	-
-1094	snot	-	-	-	-	-	-	-	-	-	-	snot <36>	-	-	-
-1095	land	-	-	-	-	earth, land <1.21>	-	-	-	-	-	-	-	-	-
-1096	juice	-	-	-	-	-	-	-	-	-	-	plaintain/banana <51>	-	-	-
-1097	poor	-	-	-	-	poor <11.52>	-	-	-	-	-	-	-	-	-
-1098	uncover (V)	to open, uncover <92>	-	-	-	-	-	-	-	-	-	-	-	-	-
-1099	bug	-	-	-	-	-	-	-	-	-	-	insect, bug, vermin <59>	-	-	-
-1100	regret (V)	-	-	-	-	regret, be sorry <16.34>	-	-	-	-	-	-	-	-	-
-1101	stomach	-	-	-	-	stomach <4.46>	-	-	-	-	-	-	-	-	-
-1102	brave	-	-	-	-	brave <16.52>	-	-	-	-	-	-	-	-	-
-1103	cap	-	-	-	-	hat, cap <6.55>	-	-	-	-	-	-	-	-	-
-1104	arms	-	-	-	-	weapons, arms <20.21>	-	-	-	-	-	-	-	-	-
-1105	smell	-	-	-	-	fragrant, good smelling <15.25>	-	-	-	-	-	-	-	-	-
-1106	hay	-	-	-	-	hay <8.52>	-	-	-	-	-	-	-	-	-
-1107	ready	-	-	-	-	ready <14.29>	-	-	-	-	-	-	-	-	-
-1108	village	-	-	-	-	-	-	-	-	-	-	village <109>	-	-	-
-1109	staff	-	-	-	-	staff, walking stick <19.25>	-	-	-	-	-	-	-	-	-
-1110	row	-	-	-	-	row (vb) <10.852>	-	-	-	-	-	-	-	-	-
-1111	cultivate (V)	-	-	-	-	cultivate, till <8.15>	-	-	-	-	-	-	-	-	-
-1112	loosen (V)	-	-	-	-	-	-	-	-	-	-	let go; set free; loosen <187>	-	-	-
-1113	squeeze (V)	-	-	-	-	squeeze, wring <9.343>	-	-	-	-	-	-	-	-	-
-1114	stone/rock	-	-	-	-	-	-	-	-	-	5956 <27>	-	-	-	-
-1115	ash	-	-	-	-	-	-	-	-	-	260 <84>	-	-	-	-
-1116	meet (V)	-	-	-	-	meet <19.65>	-	-	-	-	-	-	-	-	-
-1117	ascend (V)	-	-	-	-	-	-	-	-	-	-	climb, ascend <138>	-	-	-
-1118	mead	-	-	-	-	mead <5.91>	-	-	-	-	-	-	-	-	-
-1119	burst open (V)	to open, uncover <92>	-	-	-	-	-	-	-	-	-	-	-	-	-
-1120	green	-	-	-	-	green, unripe <5.124>	-	-	-	-	-	-	-	-	-
-1121	wipe (V)	-	-	-	-	rub, wipe <9.31>	-	-	-	-	-	-	-	-	-
-1122	fermented drink	-	-	-	-	fermented drink <5.94>	-	-	-	-	-	-	-	-	-
-1123	close (V)	-	-	-	-	shut, close <12.25>	-	-	-	-	-	-	-	-	-
-1124	show	-	-	-	-	show <15.55>	-	-	-	-	-	-	-	-	-
-1125	outside	-	-	-	-	outside <12.6>	-	-	-	-	-	-	-	-	-
-1126	candle	-	-	-	-	candle <7.46>	-	-	-	-	-	-	-	-	-
-1127	smell	-	-	-	-	stinking, bad smelling <15.26>	-	-	-	-	-	-	-	-	-
-1128	bow	-	-	-	-	-	-	-	-	-	-	bow <106>	-	-	-
-1129	in	-	-	-	-	inside, in <12.5>	-	-	-	-	-	-	-	-	-
-1130	nothing	-	-	-	-	zero, nothing <13.0>	-	-	-	-	-	-	-	-	-
-1131	mangrove	-	mangrove (Avicennia sp.) <151>	-	-	-	-	-	-	-	-	-	-	-	-
-1132	leap (V)	-	-	-	-	jump, leap <10.43>	-	-	-	-	-	-	-	-	-
-1133	glad	-	-	-	-	joyful, glad, happy <16.23>	-	-	-	-	-	-	-	-	-
-1134	help (V)	-	-	-	-	help, aid <19.58>	-	-	-	-	-	-	-	-	-
-1135	thumb	-	-	-	-	thumb <4.342>	-	-	-	-	-	-	-	-	-
-1136	shiver (V)	-	-	-	-	shiver <4.68>	-	-	-	-	-	-	-	-	-
-1137	shoot (V)	-	-	-	-	-	-	-	-	-	-	shoot <196>	-	-	-
-1138	feel (V)	-	-	-	-	feel <15.72>	-	-	-	-	-	-	-	-	-
-1139	pinch	-	-	-	-	pinch <15.712>	-	-	-	-	-	-	-	-	-
-1140	joyful	-	-	-	-	joyful, glad, happy <16.23>	-	-	-	-	-	-	-	-	-
-1141	raft	-	-	-	-	raft <10.84>	-	-	-	-	-	-	-	-	-
-1142	one	-	-	-	-	one <13.1>	-	-	-	-	-	-	-	-	-
-1143	untie (V)	-	-	-	-	untie <9.161>	-	-	-	-	-	-	-	-	-
-1144	jug	-	-	-	-	pitcher, jug <5.34>	-	-	-	-	-	-	-	-	-
-1145	thing	-	-	-	-	thing <11.18>	-	-	-	-	-	-	-	-	-
-1146	good	-	-	-	-	fragrant, good smelling <15.25>	-	-	-	-	-	-	-	-	-
-1147	captive	-	-	-	-	captive, prisoner <20.47>	-	-	-	-	-	-	-	-	-
-1148	place (V)	-	-	-	-	-	-	-	-	-	-	put, place <199>	-	-	-
-1149	bad	-	-	-	-	stinking, bad smelling <15.26>	-	-	-	-	-	-	-	-	-
-1150	wine	-	-	-	-	wine <5.92>	-	-	-	-	-	-	-	-	-
-1151	stutter (V)	-	-	-	-	stutter, stammer <18.211>	-	-	-	-	-	-	-	-	-
-1152	chair	-	-	-	-	chair <7.43>	-	-	-	-	-	-	-	-	-
-1153	aunt	-	-	-	-	aunt <2.52>	-	-	-	-	-	-	-	-	-
-1154	pole	-	-	-	-	post, pole <7.56>	-	-	-	-	-	-	-	-	-
-1155	hand	-	-	-	-	-	-	-	2855 <32>	-	-	-	-	-	-
-1156	stink	-	-	-	-	stinking, bad smelling <15.26>	-	-	-	-	-	-	-	-	-
-1157	fifty	Fifty <208>	-	-	-	-	-	-	-	-	-	-	-	-	-
-1158	uncle	-	-	-	-	uncle <2.51>	-	-	-	-	-	-	-	-	-
-1159	shoulderblade	-	-	-	-	shoulderblade <4.301>	-	-	-	-	-	-	-	-	-
-1160	marriage	-	-	-	-	marriage, wedding <2.34>	-	-	-	-	-	-	-	-	-
-1161	tide	-	-	-	-	tide <1.352>	-	-	-	-	-	-	-	-	-
-1162	time	-	-	-	-	time <14.11>	-	-	-	-	-	-	-	-	-
-1163	bull	-	-	-	-	bull <3.21>	-	-	-	-	-	-	-	-	-
-1164	copper	-	-	-	-	copper, bronze <9.66>	-	-	-	-	-	-	-	-	-
-1165	wall	-	-	-	-	wall <7.27>	-	-	-	-	-	-	-	-	-
-1166	ancestor	-	-	-	-	ancestors <2.56>	-	-	-	-	-	-	-	-	-
-1167	dolphin	-	-	-	-	porpoise, dolphin <3.662>	-	-	-	-	-	-	-	-	-
-1168	shade/shadow	-	-	-	-	-	-	-	-	-	5408 <92>	-	-	-	-
-1169	evening	-	-	-	-	evening <14.46>	-	-	-	-	-	-	-	-	-
-1170	autumn	-	-	-	-	autumn <14.77>	-	-	-	-	-	-	-	-	-
-1171	vulture	-	-	-	-	vulture <3.586>	-	-	-	-	-	-	-	-	-
-1172	score	-	-	-	-	-	-	-	-	-	-	twenty/score <115>	-	-	-
-1173	oar	-	-	-	-	oar <10.85>	-	-	-	-	-	-	-	-	-
-1174	body	-	-	-	-	body <4.11>	-	-	-	-	-	-	-	-	-
-1175	join (V)	-	-	-	-	join, unite <12.22>	-	-	-	-	-	-	-	-	-
-1176	spread out (V)	-	-	-	-	spread out <9.34>	-	-	-	-	-	-	-	-	-
-1177	pity	-	-	-	-	pity <16.35>	-	-	-	-	-	-	-	-	-
-1178	butterfly	-	-	-	-	butterfly <3.92>	-	-	-	-	-	-	-	-	-
-1179	leather	-	-	-	-	leather <6.29>	-	-	-	-	-	-	-	-	-
-1180	desire	-	-	-	-	desire, want <16.62>	-	-	-	-	-	-	-	-	-
-1181	tell (V)	-	-	-	-	tell story <18.221>	-	-	-	-	-	-	-	-	-
-1182	young man	-	-	-	-	young man (adolescent) <2.251>	-	-	-	-	-	-	-	-	-
-1183	honey	-	-	-	-	honey <5.84>	-	-	-	-	-	-	-	-	-
-1184	orphan	-	-	-	-	orphan <2.75>	-	-	-	-	-	-	-	-	-
-1185	little	-	-	-	-	small, little <12.56>	-	-	-	-	-	-	-	-	-
-1186	rescue (V)	-	-	-	-	save, rescue <11.25>	-	-	-	-	-	-	-	-	-
-1187	collarbone	-	-	-	-	collarbone <4.302>	-	-	-	-	-	-	-	-	-
-1188	fur	-	-	-	-	fur <6.28>	-	-	-	-	-	-	-	-	-
-1189	chicken	-	-	-	-	chicken <3.55>	-	-	-	-	-	-	-	-	-
-1190	scream (V)	-	-	-	-	shriek, screech <18.18>	-	-	-	-	-	-	-	-	-
-1191	sink (V)	-	-	-	-	sink <10.33>	-	-	-	-	-	-	-	-	-
-1192	endure (V)	-	-	-	-	last, endure <14.252>	-	-	-	-	-	-	-	-	-
-1193	hour	-	-	-	-	hour <14.51>	-	-	-	-	-	-	-	-	-
-1194	wheat	-	-	-	-	wheat <8.43>	-	-	-	-	-	-	-	-	-
-1195	sweat	-	-	-	-	-	-	-	-	-	-	sweat <35>	-	-	-
-1196	beat (V)	to pound, beat <93>	-	-	-	-	-	-	-	-	-	-	-	-	-
-1197	ass	-	-	-	-	ass, donkey <3.46>	-	-	-	-	-	-	-	-	-
-1198	soul	-	-	-	-	soul, spirit <16.11>	-	-	-	-	-	-	-	-	-
-1199	to hit/beat	-	-	-	-	-	-	-	-	-	3006 <36>	-	-	-	-
-1200	elephant	-	-	-	-	elephant <3.77>	-	-	-	-	-	-	-	-	-
-1201	apologize (V)	-	-	-	-	forgive <16.69>	-	-	-	-	-	-	-	-	-
-1202	to drink	-	-	-	-	-	-	-	-	-	1834 <42>	-	-	-	-
-1203	pile up (V)	-	-	-	-	pile up <12.213>	-	-	-	-	-	-	-	-	-
-1204	wise	-	-	-	-	wise <17.21>	-	-	-	-	-	-	-	-	-
-1205	shame	-	-	-	-	shame (noun) <16.45>	-	-	-	-	-	-	-	-	-
-1206	shout (V)	-	-	-	-	shout, cry out <18.13>	-	-	-	-	-	-	-	-	-
-1207	wedding	-	-	-	-	marriage, wedding <2.34>	-	-	-	-	-	-	-	-	-
-1208	stallion	-	-	-	-	stallion <3.42>	-	-	-	-	-	-	-	-	-
-1209	pot	-	-	-	-	pot, cooking vessel <5.26>	-	-	-	-	-	-	-	-	-
-1210	chain	-	-	-	-	chain <9.18>	-	-	-	-	-	-	-	-	-
-1211	anxiety	-	-	-	-	anxiety, worry <16.33>	-	-	-	-	-	-	-	-	-
-1212	udder	-	-	-	-	udder <4.42>	-	-	-	-	-	-	-	-	-
-1213	cast (V)	-	-	-	-	cast (metals) <9.63>	-	-	-	-	-	-	-	-	-
-1214	flesh/meat	-	-	-	-	-	-	-	-	-	3824 <18>	-	-	-	-
-1215	beard	-	-	-	-	beard <4.142>	-	-	-	-	-	-	-	-	-
-1216	stammer (V)	-	-	-	-	stutter, stammer <18.211>	-	-	-	-	-	-	-	-	-
-1217	carry on shoulder (V)	-	-	-	-	carry-on-shoulder <10.613>	-	-	-	-	-	-	-	-	-
-1218	rainbow	-	-	-	-	rainbow <1.59>	-	-	-	-	-	-	-	-	-
-1219	knot	-	-	-	-	knot (noun) <9.192>	-	-	-	-	-	-	-	-	-
-1220	widower	-	-	-	-	widower <2.77>	-	-	-	-	-	-	-	-	-
-1221	hasten (V)	-	-	-	-	hasten, hurry <14.23>	-	-	-	-	-	-	-	-	-
-1222	evil	bad, evil <165>	-	-	-	-	-	-	-	-	-	-	-	-	-
-1223	carve (V)	-	-	-	-	carve <9.81>	-	-	-	-	-	-	-	-	-
-1224	pelican	-	pelican <131>	-	-	-	-	-	-	-	-	-	-	-	-
-1225	grave	-	-	-	-	grave, tomb <4.79>	-	-	-	-	-	-	-	-	-
-1226	fin	-	-	-	-	fin (dorsal) <3.652>	-	-	-	-	-	-	-	-	-
-1227	preserve (V)	-	-	-	-	preserve, look after <11.24>	-	-	-	-	-	-	-	-	-
-1228	to carry	-	-	-	-	-	-	-	-	-	879 <70>	-	-	-	-
-1229	rise (V)	-	-	-	-	rise <10.21>	-	-	-	-	-	-	-	-	-
-1230	bronze	-	-	-	-	copper, bronze <9.66>	-	-	-	-	-	-	-	-	-
-1231	young	-	-	-	-	young <14.14>	-	-	-	-	-	-	-	-	-
-1232	keep (V)	-	-	-	-	keep, retain <11.17>	-	-	-	-	-	-	-	-	-
-1233	boot	-	-	-	-	boot <6.52>	-	-	-	-	-	-	-	-	-
-1234	cure (V)	-	-	-	-	cure, heal <4.86>	-	-	-	-	-	-	-	-	-
-1235	he-goat	-	-	-	-	he-goat <3.37>	-	-	-	-	-	-	-	-	-
-1236	envy	-	-	-	-	envy, jealousy <16.44>	-	-	-	-	-	-	-	-	-
-1237	thigh	-	-	-	-	-	-	-	-	-	6314 <76>	-	-	-	-
-1238	chimney	-	-	-	-	chimney <7.33>	-	-	-	-	-	-	-	-	-
-1239	brother	-	-	-	-	brother <2.44>	-	-	-	-	-	-	-	-	-
-1240	girl	-	-	-	-	girl <2.26>	-	-	-	-	-	-	-	-	-
-1241	firewood	-	-	-	-	firewood <1.88>	-	-	-	-	-	-	-	-	-
-1242	smile (V)	-	-	-	-	smile <16.251>	-	-	-	-	-	-	-	-	-
-1243	be knowledgeable	to know, be knowledgeable <20>	-	-	-	-	-	-	-	-	-	-	-	-	-
-1244	secret	-	-	-	-	secret <17.36>	-	-	-	-	-	-	-	-	-
-1245	saw	-	-	-	-	saw <9.48>	-	-	-	-	-	-	-	-	-
-1246	find (V)	-	-	-	-	find <11.32>	-	-	-	-	-	-	-	-	-
-1247	lazy	-	-	-	-	lazy <4.92>	-	-	-	-	-	-	-	-	-
-1248	enter (V)	-	-	-	-	enter <10.57>	-	-	-	-	-	-	-	-	-
-1249	sow	-	-	-	-	sow <8.31>	-	-	-	-	-	-	-	-	-
-1250	look for (V)	-	-	-	-	seek, look for <11.31>	-	-	-	-	-	-	-	-	-
-1251	rag	-	-	-	-	handkerchief, rag <6.81>	-	-	-	-	-	-	-	-	-
-1252	bad	-	-	-	-	misfortune, bad luck <16.19>	-	-	-	-	-	-	-	-	-
-1253	spring 1	-	-	-	-	spring, well <1.37>	-	-	-	-	-	-	-	-	-
-1254	arrive (V)	-	-	-	-	reach, arrive <10.55>	-	-	-	-	-	-	-	-	-
-1255	pasture	-	-	-	-	pasture <3.16>	-	-	-	-	-	-	-	-	-
-1256	explain (V)	-	-	-	-	explain <17.38>	-	-	-	-	-	-	-	-	-
-1257	hot	-	-	-	-	hot <15.85>	-	-	-	-	-	-	-	-	-
-1258	measure	-	-	-	-	measure <12.54>	-	-	-	-	-	-	-	-	-
-1259	every	-	-	-	-	every, all <13.14>	-	-	-	-	-	-	-	-	-
-1260	bead	-	-	-	-	bead <6.76>	-	-	-	-	-	-	-	-	-
-1261	obey (V)	-	-	-	-	obey <19.46>	-	-	-	-	-	-	-	-	-
-1262	weep (V)	-	-	-	-	-	-	-	-	-	-	weep <130>	-	-	-
-1263	match	-	-	-	-	match (noun) <1.87>	-	-	-	-	-	-	-	-	-
-1264	mow (V)	-	-	-	-	mow, reap <8.32>	-	-	-	-	-	-	-	-	-
-1265	empty	-	-	-	-	empty <13.22>	-	-	-	-	-	-	-	-	-
-1266	crouch (V)	-	-	-	-	crouch <10.413>	-	-	-	-	-	-	-	-	-
-1267	deny (V)	-	-	-	-	deny <18.34>	-	-	-	-	-	-	-	-	-
-1268	boar	-	-	-	-	boar <3.32>	-	-	-	-	-	-	-	-	-
-1269	noble	-	-	-	-	noble, nobleman <19.36>	-	-	-	-	-	-	-	-	-
-1270	clothes	-	-	-	-	clothing, clothes <6.12>	-	-	-	-	-	-	-	-	-
-1271	seize (V)	-	-	-	-	seize, grasp <11.14>	-	-	-	-	-	-	-	-	-
-1272	pus	-	-	-	-	pus <4.857>	-	-	-	-	-	-	-	-	-
-1273	clever	-	-	-	-	clever <16.84>	-	-	-	-	-	-	-	-	-
-1274	thou	-	-	-	-	-	-	-	6333 <86>	-	-	-	-	-	-
-1275	salty	-	-	-	-	salty <15.36>	-	-	-	-	-	-	-	-	-
-1276	market	-	-	-	-	market (place) <11.85>	-	-	-	-	-	-	-	-	-
-1277	catch (V)	-	-	-	-	catch (ball) <10.252>	-	-	-	-	-	-	-	-	-
-1278	fence	-	-	-	-	fence <8.16>	-	-	-	-	-	-	-	-	-
-1279	shut (V)	-	-	-	-	shut, close <12.25>	-	-	-	-	-	-	-	-	-
-1280	lamb	-	-	-	-	lamb <3.29>	-	-	-	-	-	-	-	-	-
-1281	powerful	-	-	-	-	strong, mighty, powerful <4.81>	-	-	-	-	-	-	-	-	-
-1282	leg/foot	-	-	-	-	-	-	-	-	-	3523 <37>	-	-	-	-
-1283	cow	-	-	-	-	cow <3.23>	-	-	-	-	-	-	-	-	-
-1284	edge	-	-	-	-	edge <12.353>	-	-	-	-	-	-	-	-	-
-1285	jump (V)	-	-	-	-	jump, leap <10.43>	-	-	-	-	-	-	-	-	-
-1286	young woman	-	-	-	-	young woman (adolescent) <2.261>	-	-	-	-	-	-	-	-	-
-1287	bake (V)	-	-	-	-	bake <5.24>	-	-	-	-	-	-	-	-	-
-1288	nape of neck	-	-	-	-	nape of neck <4.281>	-	-	-	-	-	-	-	-	-
-1289	get (V)	-	-	-	-	get, obtain <11.16>	-	-	-	-	-	-	-	-	-
-1290	borrow	-	-	-	-	borrow <11.62>	-	-	-	-	-	-	-	-	-
-1291	weigh (V)	-	-	-	-	weigh <11.92>	-	-	-	-	-	-	-	-	-
-1292	fear	-	-	-	-	fear, fright <16.53>	-	-	-	-	-	-	-	-	-
-1293	corn	-	-	-	-	maize, corn <8.47>	-	-	-	-	-	-	-	-	-
-1294	ocean	-	-	-	-	ocean <1.329>	-	-	-	-	-	-	-	-	-
-1295	hut	-	-	-	-	hut <7.13>	-	-	-	-	-	-	-	-	-
-1296	trough	-	-	-	-	trough <7.48>	-	-	-	-	-	-	-	-	-
-1297	world	-	-	-	-	world <1.1>	-	-	-	-	-	-	-	-	-
-1298	jaw	-	-	-	-	jaw <4.207>	-	-	-	-	-	-	-	-	-
-1299	more	-	-	-	-	more <13.16>	-	-	-	-	-	-	-	-	-
-1300	govern (V)	-	-	-	-	rule, govern <19.31>	-	-	-	-	-	-	-	-	-
-1301	spear (V)	-	to spear <108>	-	-	-	-	-	-	-	-	-	-	-	-
-1302	mast	-	-	-	-	mast <10.87>	-	-	-	-	-	-	-	-	-
-1303	lend (V)	-	-	-	-	lend <11.61>	-	-	-	-	-	-	-	-	-
-1304	nut	-	-	-	-	nut <5.77>	-	-	-	-	-	-	-	-	-
-1305	fast	-	-	-	-	swift, fast, quick <14.21>	-	-	-	-	-	-	-	-	-
-1306	eel	-	-	-	-	freshwater eel <3.665>	-	-	-	-	-	-	-	-	-
-1307	soiled	-	-	-	-	dirty, soiled <15.88>	-	-	-	-	-	-	-	-	-
-1308	to do/make	-	-	-	-	-	-	-	-	-	3729 <25>	-	-	-	-
-1309	square	-	-	-	-	square <12.78>	-	-	-	-	-	-	-	-	-
-1310	leg/foot	-	-	-	-	-	-	-	-	-	2458 <37>	-	-	-	-
-1311	sick	painful, sick <160>	-	-	-	-	-	-	-	-	-	-	-	-	-
-1312	cave	-	-	-	-	cave <1.28>	-	-	-	-	-	-	-	-	-
-1313	ugly	-	-	-	-	ugly <16.82>	-	-	-	-	-	-	-	-	-
-1314	wolf	-	-	-	-	wolf <3.71>	-	-	-	-	-	-	-	-	-
-1315	shirt	-	-	-	-	shirt <6.44>	-	-	-	-	-	-	-	-	-
-1316	intoxicated	-	-	-	-	intoxicated <4.98>	-	-	-	-	-	-	-	-	-
-1317	reach (V)	-	-	-	-	reach, arrive <10.55>	-	-	-	-	-	-	-	-	-
-1318	limp	-	-	-	-	limp <10.451>	-	-	-	-	-	-	-	-	-
-1319	pan	-	-	-	-	pan <5.28>	-	-	-	-	-	-	-	-	-
-1320	speak (V)	-	-	-	-	speak, talk <18.21>	-	-	-	-	-	-	-	-	-
-1321	wound	-	-	-	-	wound, sore <4.85>	-	-	-	-	-	-	-	-	-
-1322	rope	-	-	-	-	rope, cord <9.19>	-	-	-	-	-	-	-	-	-
-1323	gape (V)	-	-	-	-	yawn, gape <4.52>	-	-	-	-	-	-	-	-	-
-1324	cut down (V)	-	-	-	-	cut down <9.221>	-	-	-	-	-	-	-	-	-
-1325	birch	-	-	-	-	birch <8.63>	-	-	-	-	-	-	-	-	-
-1326	room	-	-	-	-	room <7.21>	-	-	-	-	-	-	-	-	-
-1327	bear	-	-	-	-	bear <3.73>	-	-	-	-	-	-	-	-	-
-1328	sheep	-	-	-	-	sheep <3.25>	-	-	-	-	-	-	-	-	-
-1329	spring 2	-	-	-	-	spring <14.75>	-	-	-	-	-	-	-	-	-
-1330	last	-	-	-	-	last <13.35>	-	-	-	-	-	-	-	-	-
-1331	debt	-	-	-	-	owe <11.63>	-	-	-	-	-	-	-	-	-
-1332	conceal (V)	-	-	-	-	hide, conceal <12.27>	-	-	-	-	-	-	-	-	-
-1333	jamb	-	-	-	-	doorpost, jamb <7.221>	-	-	-	-	-	-	-	-	-
-1334	thorn	-	-	-	-	-	-	-	-	-	-	thorn(prick) <99>	-	-	-
-1335	dew	-	-	-	-	dew <1.64>	-	-	-	-	-	-	-	-	-
-1336	glass	-	-	-	-	glass <9.74>	-	-	-	-	-	-	-	-	-
-1337	saliva	-	spit (N) <78>	-	-	-	-	-	-	-	-	-	-	-	-
-1338	gather (V)	-	-	-	-	collect, gather <12.21>	-	-	-	-	-	-	-	-	-
-1339	no	-	-	-	-	no, negative <17.56>	-	-	-	-	-	-	-	-	-
-1340	twice	-	-	-	-	two times <13.38>	-	-	-	-	-	-	-	-	-
-1341	acid	-	-	-	-	acid, sour <15.38>	-	-	-	-	-	-	-	-	-
-1342	cross (V)	-	-	-	-	cross <12.77>	-	-	-	-	-	-	-	-	-
-1343	move (V)	-	-	-	-	move <10.11>	-	-	-	-	-	-	-	-	-
-1344	carriage	-	-	-	-	carriage, wagon, cart <10.75>	-	-	-	-	-	-	-	-	-
-1345	otter	-	-	-	-	-	-	-	-	-	-	otter <65>	-	-	-
-1346	inside	in, inside <174>	-	-	-	-	-	-	-	-	-	-	-	-	-
-1347	grandson	-	-	-	-	grandson <2.48>	-	-	-	-	-	-	-	-	-
-1348	follow (V)	-	-	-	-	follow <10.52>	-	-	-	-	-	-	-	-	-
-1349	lip	-	-	-	-	lip <4.25>	-	-	-	-	-	-	-	-	-
-1350	to give	-	-	-	-	-	-	-	-	-	2648 <53>	-	-	-	-
-1351	sail	-	-	-	-	sail (noun) <10.88>	-	-	-	-	-	-	-	-	-
-1352	flame	-	-	-	-	flame (noun) <1.82>	-	-	-	-	-	-	-	-	-
-1353	to hear	-	-	-	-	-	-	-	-	-	2939 <62>	-	-	-	-
-1354	gill	-	-	-	-	gill <3.654>	-	-	-	-	-	-	-	-	-
-1355	embrace (V)	-	-	-	-	embrace <16.3>	-	-	-	-	-	-	-	-	-
-1356	food	-	-	-	-	food <5.12>	-	-	-	-	-	-	-	-	-
-1357	vagina	-	-	-	-	-	-	-	-	-	-	vagina or breast/milk <30>	-	-	-
-1358	bread	-	-	-	-	bread <5.51>	-	-	-	-	-	-	-	-	-
-1359	nostril	-	-	-	-	nostril <4.231>	-	-	-	-	-	-	-	-	-
-1360	top	-	-	-	-	top <12.33>	-	-	-	-	-	-	-	-	-
-1361	who	-	-	-	-	-	-	-	6887 <95>	-	-	-	-	-	-
-1362	grandchild	-	-	-	-	-	-	-	-	-	-	grandchild (nephew) <44>	-	-	-
-1363	girdle	-	-	-	-	belt, girdle <6.57>	-	-	-	-	-	-	-	-	-
-1364	thresh (V)	-	-	-	-	thresh <8.34>	-	-	-	-	-	-	-	-	-
-1365	announce (V)	-	-	-	-	announce <18.43>	-	-	-	-	-	-	-	-	-
-1366	cough	-	-	-	-	cough <4.53>	-	-	-	-	-	-	-	-	-
-1367	injure (V)	-	-	-	-	harm, injure, damage <11.28>	-	-	-	-	-	-	-	-	-
-1368	rub (V)	-	-	-	-	rub, wipe <9.31>	-	-	-	-	-	-	-	-	-
-1369	stone	-	-	-	-	-	-	-	5956 <79>	-	-	-	-	-	-
-1370	fold	-	-	-	-	fold <9.15>	-	-	-	-	-	-	-	-	-
-1371	intestine	-	-	-	-	intestines, guts <4.461>	-	-	-	-	-	-	-	-	-
-1372	paddle	-	-	-	-	paddle (noun) <10.851>	-	-	-	-	-	-	-	-	-
-1373	error	-	-	-	-	mistake, error <16.77>	-	-	-	-	-	-	-	-	-
-1374	ornament	-	-	-	-	ornament, adornment <6.71>	-	-	-	-	-	-	-	-	-
-1375	cover	-	-	-	-	cover <12.26>	-	-	-	-	-	-	-	-	-
-1376	stocking	-	-	-	-	stocking, sock <6.49>	-	-	-	-	-	-	-	-	-
-1377	month	-	-	-	-	month <14.71>	-	-	-	-	-	-	-	-	-
-1378	lead	-	-	-	-	lead (noun) <9.68>	-	-	-	-	-	-	-	-	-
-1379	noon	-	-	-	-	noon, midday <14.45>	-	-	-	-	-	-	-	-	-
-1380	sneeze (V)	-	-	-	-	sneeze <4.54>	-	-	-	-	-	-	-	-	-
-1381	destroy (V)	-	-	-	-	destroy <11.27>	-	-	-	-	-	-	-	-	-
-1382	circle	-	-	-	-	circle <12.82>	-	-	-	-	-	-	-	-	-
-1383	ewe	-	-	-	-	ewe <3.28>	-	-	-	-	-	-	-	-	-
-1384	adze	-	-	-	-	adze <9.251>	-	-	-	-	-	-	-	-	-
-1385	silk	-	-	-	-	silk <6.25>	-	-	-	-	-	-	-	-	-
-1386	vegetable	-	-	-	-	vegetables <5.65>	-	-	-	-	-	-	-	-	-
-1387	delay (V)	-	-	-	-	retard, delay <14.24>	-	-	-	-	-	-	-	-	-
-1388	widow	-	-	-	-	widow <2.76>	-	-	-	-	-	-	-	-	-
-1389	bald	-	-	-	-	bald <4.93>	-	-	-	-	-	-	-	-	-
-1390	weather	-	-	-	-	weather <1.78>	-	-	-	-	-	-	-	-	-
-1391	answer (V)	-	-	-	-	answer <18.32>	-	-	-	-	-	-	-	-	-
-1392	to crush/grind	-	-	-	-	-	-	-	-	-	1413 <100>	-	-	-	-
-1393	palm of hand	-	-	-	-	palm of hand <4.331>	-	-	-	-	-	-	-	-	-
-1394	make (V)	-	-	-	-	shoemaker, cobbler <6.54>	-	-	-	-	-	-	-	-	-
-1395	well 1	-	-	-	-	well, health <4.83>	-	-	-	-	-	-	-	-	-
-1396	teach (V)	-	-	-	-	teach <17.25>	-	-	-	-	-	-	-	-	-
-1397	like	-	-	-	-	like, similar <12.92>	-	-	-	-	-	-	-	-	-
-1398	broken	-	-	-	-	broken <9.261>	-	-	-	-	-	-	-	-	-
-1399	pay (V)	-	-	-	-	pay (vb) <11.65>	-	-	-	-	-	-	-	-	-
-1400	joint	-	-	-	-	-	-	-	-	-	-	joint <98>	-	-	-
-1401	wrinkled	-	-	-	-	wrinkled <15.89>	-	-	-	-	-	-	-	-	-
-1402	crush (V)	-	-	-	-	crush, grind <5.56>	-	-	-	-	-	-	-	-	-
-1403	possess (V)	-	-	-	-	own, possess <11.12>	-	-	-	-	-	-	-	-	-
-1404	you two	-	you two <120>	-	-	-	-	-	-	-	-	-	-	-	-
-1405	alone	-	-	-	-	alone, only <13.33>	-	-	-	-	-	-	-	-	-
-1406	bitter	-	-	-	-	-	-	-	-	-	540 <28>	-	-	-	-
-1407	drown (V)	-	-	-	-	drowned <4.751>	-	-	-	-	-	-	-	-	-
-1408	left	-	-	-	-	left (side) <12.42>	-	-	-	-	-	-	-	-	-
-1409	hope	-	-	-	-	hope <16.63>	-	-	-	-	-	-	-	-	-
-1410	pawn	-	-	-	-	farmer <8.11>	-	-	-	-	-	-	-	-	-
-1411	knead (V)	-	-	-	-	knead <5.54>	-	-	-	-	-	-	-	-	-
-1412	possum	-	possum <130>	-	-	-	-	-	-	-	-	-	-	-	-
-1413	broad	-	-	-	-	wide, broad <12.61>	-	-	-	-	-	-	-	-	-
-1414	ear-ring	-	-	-	-	earring <6.77>	-	-	-	-	-	-	-	-	-
-1415	finish	-	-	-	-	finish <14.27>	-	-	-	-	-	-	-	-	-
-1416	defend (V)	-	-	-	-	defend <20.44>	-	-	-	-	-	-	-	-	-
-1417	rafter	-	-	-	-	rafter <7.54>	-	-	-	-	-	-	-	-	-
-1418	under	-	-	-	-	under <12.7>	-	-	-	-	-	-	-	-	-
-1419	dinner	-	-	-	-	dinner <5.44>	-	-	-	-	-	-	-	-	-
-1420	bracelet	-	-	-	-	bracelet <6.74>	-	-	-	-	-	-	-	-	-
-1421	testicle	-	-	-	-	testicle <4.49>	-	-	-	-	-	-	-	-	-
-1422	defecate (V)	-	-	-	-	defecate <4.66>	-	-	-	-	-	-	-	-	-
-1423	try (V)	-	-	-	-	try, attempt <17.48>	-	-	-	-	-	-	-	-	-
-1424	fall down (V)	-	-	-	-	-	-	-	-	-	-	fall (from a height) <137>	-	-	-
-1425	dive (V)	-	-	-	-	dive <10.351>	-	-	-	-	-	-	-	-	-
-1426	raw	-	-	-	-	raw <5.122>	-	-	-	-	-	-	-	-	-
-1427	swear (V)	-	-	-	-	swear <21.24>	-	-	-	-	-	-	-	-	-
-1428	fireplace	-	-	-	-	fireplace <7.31>	-	-	-	-	-	-	-	-	-
-1429	die	-	-	-	-	-	-	-	1655 <12>	-	-	-	-	-	-
-1430	skin/hide	-	-	-	-	-	-	-	-	-	5585 <68>	-	-	-	-
-1431	turtle	-	-	-	-	turtle <3.98>	-	-	-	-	-	-	-	-	-
-1432	sap	-	-	-	-	sap <8.76>	-	-	-	-	-	-	-	-	-
-1433	do (V)	-	-	-	-	do, make <9.11>	-	-	-	-	-	-	-	-	-
-1434	clay	-	-	-	-	clay <9.73>	-	-	-	-	-	-	-	-	-
-1435	to take	-	-	-	-	-	-	-	-	-	6184 <73>	-	-	-	-
-1436	in	-	-	-	-	-	-	-	-	-	3184 <98>	-	-	-	-
-1437	trousers	-	-	-	-	trousers <6.48>	-	-	-	-	-	-	-	-	-
-1438	eyelid	-	-	-	-	eyelid <4.213>	-	-	-	-	-	-	-	-	-
-1439	trade	-	-	-	-	trade, barter <11.83>	-	-	-	-	-	-	-	-	-
-1440	ask (V)	-	-	-	-	ask, request <18.35>	-	-	-	-	-	-	-	-	-
-1441	omen	-	-	-	-	omen, portent <22.47>	-	-	-	-	-	-	-	-	-
-1442	tent	-	-	-	-	tent <7.14>	-	-	-	-	-	-	-	-	-
-1443	chisel	-	-	-	-	chisel <9.84>	-	-	-	-	-	-	-	-	-
-1444	prevent (V)	-	-	-	-	hinder, prevent <19.59>	-	-	-	-	-	-	-	-	-
-1445	sour	-	-	-	-	-	-	-	-	-	-	sour <162>	-	-	-
-1446	snore (V)	-	-	-	-	snore <4.612>	-	-	-	-	-	-	-	-	-
-1447	wake up (V)	-	-	-	-	wake up <4.63>	-	-	-	-	-	-	-	-	-
-1448	stump	-	-	-	-	tree stump <8.72>	-	-	-	-	-	-	-	-	-
-1449	hard	-	-	-	-	-	-	-	-	-	2875 <99>	-	-	-	-
-1450	save (V)	-	-	-	-	save, rescue <11.25>	-	-	-	-	-	-	-	-	-
-1451	insane	-	-	-	-	insane, crazy <17.23>	-	-	-	-	-	-	-	-	-
-1452	fork	-	-	-	-	fork <5.39>	-	-	-	-	-	-	-	-	-
-1453	furrow	-	-	-	-	furrow <8.212>	-	-	-	-	-	-	-	-	-
-1454	calf	-	-	-	-	calf <3.24>	-	-	-	-	-	-	-	-	-
-1455	younger sister	-	-	-	-	younger sister <2.455>	-	-	-	-	-	-	-	-	-
-1456	holy	-	-	-	-	holy, sacred <22.19>	-	-	-	-	-	-	-	-	-
-1457	drip (V)	-	-	-	-	drip <10.24>	-	-	-	-	-	-	-	-	-
-1458	nettle	-	-	-	-	nettle <8.97>	-	-	-	-	-	-	-	-	-
-1459	fright	-	-	-	-	fear, fright <16.53>	-	-	-	-	-	-	-	-	-
-1460	beehive	-	-	-	-	beehive <3.822>	-	-	-	-	-	-	-	-	-
-1461	cup	-	-	-	-	cup, drinking vessel <5.35>	-	-	-	-	-	-	-	-	-
-1462	braid	-	-	-	-	braid <6.921>	-	-	-	-	-	-	-	-	-
-1463	spine	-	-	-	-	spine <4.191>	-	-	-	-	-	-	-	-	-
-1464	mould (V)	-	-	-	-	mold (clay etc) <9.72>	-	-	-	-	-	-	-	-	-
-1465	hen	-	-	-	-	hen <3.54>	-	-	-	-	-	-	-	-	-
-1466	upper arm	-	upper arm <102>	-	-	-	-	-	-	-	-	-	-	-	-
-1467	dark	-	-	-	-	dark (in color) <15.63>	-	-	-	-	-	-	-	-	-
-1468	ill	-	-	-	-	-	-	-	-	-	-	ill <154>	-	-	-
-1469	yoke	-	-	-	-	yoke <10.78>	-	-	-	-	-	-	-	-	-
-1470	tin	-	-	-	-	tin, tinplate <9.69>	-	-	-	-	-	-	-	-	-
-1471	marry (V)	-	-	-	-	marry <2.33>	-	-	-	-	-	-	-	-	-
-1472	eyelash	-	-	-	-	eyelash <4.214>	-	-	-	-	-	-	-	-	-
-1473	drop	-	-	-	-	drop (vb) <10.16>	-	-	-	-	-	-	-	-	-
-1474	proud	-	-	-	-	proud <16.48>	-	-	-	-	-	-	-	-	-
-1475	continent	-	-	-	-	mainland <1.26>	-	-	-	-	-	-	-	-	-
-1476	pipe	-	-	-	-	pipe <8.691>	-	-	-	-	-	-	-	-	-
-1477	bruise (V)	-	-	-	-	bruise <4.852>	-	-	-	-	-	-	-	-	-
-1478	mute	-	-	-	-	mute <4.96>	-	-	-	-	-	-	-	-	-
-1479	goose	-	-	-	-	goose <3.56>	-	-	-	-	-	-	-	-	-
-1480	banana	-	-	-	-	-	-	-	-	-	-	plaintain/banana <51>	-	-	-
-1481	father-in-law	-	-	-	-	father-in-law (of a man) <2.61>	-	-	-	-	-	-	-	-	-
-1482	danger	-	-	-	-	danger <16.54>	-	-	-	-	-	-	-	-	-
-1483	walk	-	-	-	-	walk <10.45>	-	-	-	-	-	-	-	-	-
-1484	temple 2	-	-	-	-	side of head, temple <4.201>	-	-	-	-	-	-	-	-	-
-1485	hate	-	-	-	-	hate <16.41>	-	-	-	-	-	-	-	-	-
-1486	luck	-	-	-	-	misfortune, bad luck <16.19>	-	-	-	-	-	-	-	-	-
-1487	silent	-	-	-	-	quiet, silence <15.46>	-	-	-	-	-	-	-	-	-
-1488	get (V)	-	to get, pick up <34>	-	-	-	-	-	-	-	-	-	-	-	-
-1489	owl	-	-	-	-	owl <3.596>	-	-	-	-	-	-	-	-	-
-1490	slide (V)	-	-	-	-	slide, slip <10.42>	-	-	-	-	-	-	-	-	-
-1491	hunger	-	-	-	-	hunger <5.14>	-	-	-	-	-	-	-	-	-
-1492	damp	-	-	-	-	wet, damp <15.83>	-	-	-	-	-	-	-	-	-
-1493	dear	-	-	-	-	dear (costly, expensive) <11.88>	-	-	-	-	-	-	-	-	-
-1494	astonish	-	-	-	-	surprised, astonished <16.15>	-	-	-	-	-	-	-	-	-
-1495	give	-	-	-	-	-	-	-	2648 <28>	-	-	-	-	-	-
-1496	write (V)	-	-	-	-	write <18.51>	-	-	-	-	-	-	-	-	-
-1497	creep (V)	-	-	-	-	creep, crawl <10.41>	-	-	-	-	-	-	-	-	-
-1498	plate	-	-	-	-	plate <5.32>	-	-	-	-	-	-	-	-	-
-1499	disappear (V)	-	-	-	-	disappear <10.491>	-	-	-	-	-	-	-	-	-
-1500	camel	-	-	-	-	camel <3.78>	-	-	-	-	-	-	-	-	-
-1501	splash (V)	-	-	-	-	splash <10.352>	-	-	-	-	-	-	-	-	-
-1502	field	-	-	-	-	-	-	-	-	-	-	field <102>	-	-	-
-1503	belt	-	-	-	-	belt, girdle <6.57>	-	-	-	-	-	-	-	-	-
-1504	taste	-	-	-	-	taste <15.31>	-	-	-	-	-	-	-	-	-
-1505	multitude	-	-	-	-	multitude, crowd <13.19>	-	-	-	-	-	-	-	-	-
-1506	dwell (V)	-	-	-	-	dwell, live <7.11>	-	-	-	-	-	-	-	-	-
-1507	obscure	-	-	-	-	obscure <17.35>	-	-	-	-	-	-	-	-	-
-1508	we two (inclusive)	-	we two inclusive <119>	-	-	-	-	-	-	-	-	-	-	-	-
-1509	mother's brother	-	-	-	-	mother's brother <2.511>	-	-	-	-	-	-	-	-	-
-1510	conceive (V)	-	-	-	-	conceive <4.732>	-	-	-	-	-	-	-	-	-
-1511	laugh	-	-	-	-	laugh <16.25>	-	-	-	-	-	-	-	-	-
-1512	yamstick	-	yamstick <146>	-	-	-	-	-	-	-	-	-	-	-	-
-1513	naked	-	-	-	-	naked, bare <4.99>	-	-	-	-	-	-	-	-	-
-1514	rabbit	-	-	-	-	rabbit <3.614>	-	-	-	-	-	-	-	-	-
-1515	inside	-	-	-	-	inside, in <12.5>	-	-	-	-	-	-	-	-	-
-1516	change (V)	-	-	-	-	change <12.93>	-	-	-	-	-	-	-	-	-
-1517	jewel	-	-	-	-	jewel <6.72>	-	-	-	-	-	-	-	-	-
-1518	tool	-	-	-	-	tool <9.422>	-	-	-	-	-	-	-	-	-
-1519	yesterday	-	-	-	-	yesterday <14.49>	-	-	-	-	-	-	-	-	-
-1520	unite (V)	-	-	-	-	join, unite <12.22>	-	-	-	-	-	-	-	-	-
-1521	parrot	-	-	-	-	parrot <3.592>	-	-	-	-	-	-	-	-	-
-1522	to blow	-	-	-	-	-	-	-	-	-	585 <79>	-	-	-	-
-1523	to know	-	-	-	-	-	-	-	-	-	3416 <58>	-	-	-	-
-1524	shadow	-	-	-	-	-	-	-	-	-	-	shade/shadow <97>	-	-	-
-1525	luck	-	-	-	-	good fortune, luck <16.18>	-	-	-	-	-	-	-	-	-
-1526	statue	-	-	-	-	statue <9.83>	-	-	-	-	-	-	-	-	-
-1527	pocket	-	-	-	-	pocket <6.61>	-	-	-	-	-	-	-	-	-
-1528	pain	-	-	-	-	pain <16.31>	-	-	-	-	-	-	-	-	-
-1529	greedy	-	-	-	-	greedy <16.83>	-	-	-	-	-	-	-	-	-
-1530	bay	-	-	-	-	gulf, bay <1.34>	-	-	-	-	-	-	-	-	-
-1531	cat	-	-	-	-	cat <3.62>	-	-	-	-	-	-	-	-	-
-1532	line	-	-	-	-	line <12.84>	-	-	-	-	-	-	-	-	-
-1533	rebuke (V)	-	-	-	-	rebuke, scold <18.39>	-	-	-	-	-	-	-	-	-
-1534	paint (V)	-	-	-	-	paint (noun) <9.88>	-	-	-	-	-	-	-	-	-
-1535	spindle	-	-	-	-	spindle <6.32>	-	-	-	-	-	-	-	-	-
-1536	palm-tree	-	-	-	-	palm tree <8.81>	-	-	-	-	-	-	-	-	-
-1537	to do/make	-	-	-	-	-	-	-	-	-	1768 <25>	-	-	-	-
-1538	goanna	-	goanna <149>	-	-	-	-	-	-	-	-	-	-	-	-
-1539	beak	-	-	-	-	beak <4.241>	-	-	-	-	-	-	-	-	-
-1540	pillow	-	-	-	-	pillow <7.421>	-	-	-	-	-	-	-	-	-
-1541	remains	-	-	-	-	remains, left overs <12.17>	-	-	-	-	-	-	-	-	-
-1542	press (V)	-	-	-	-	press <9.342>	-	-	-	-	-	-	-	-	-
-1543	half	-	-	-	-	half <13.24>	-	-	-	-	-	-	-	-	-
-1544	tax	-	-	-	-	tax, tribute <11.69>	-	-	-	-	-	-	-	-	-
-1545	ladder	-	-	-	-	ladder <7.37>	-	-	-	-	-	-	-	-	-
-1546	thread	-	-	-	-	thread <6.38>	-	-	-	-	-	-	-	-	-
-1547	dig	-	-	-	-	dig <8.22>	-	-	-	-	-	-	-	-	-
-1548	spider web	-	-	-	-	spider web <3.819>	-	-	-	-	-	-	-	-	-
+ID	Gloss	abvd	alpher	asjp	dolgo	ids	ielex	jach100	jach65	jachontov	leijaka	matisoff	starostin	swadesh100	swadesh100b	swadesh200
+1	eye	eye <45>	eye <24>	eye <33>	eye <7>	eye <4.21>	eye <74>	eye <20>	-	eye <25>	eye <83>	eye <6>	eye <25>	eye <25>	-	eye <40>
+2	tooth	tooth <31>	tooth <88>	tooth <20>	tooth <9>	molartooth <4.272>	tooth (rather not molar) <77>	tooth <88>	-	tooth <89>	tooth <30>	tooth <24>	tooth <89>	tooth <89>	-	tooth (front rather than molar) <173>
+3	water	water <122>	water <93>	water <32>	water <14>	water <1.31>	water <150>	water <92>	-	water <94>	water <4>	water <92>	water <94>	water <94>	-	water <181>
+4	tongue	tongue <32>	tongue <87>	tongue <16>	tongue <5>	tongue <4.26>	tongue <78>	tongue <87>	-	tongue <88>	tongue <6>	tongue <23>	tongue <88>	tongue <88>	-	tongue <172>
+5	i	I <182>	I <45>	I <22>	first person marker <1>	I <2.91>	I <1>	I <38>	-	I <42>	1SG pronoun <14>	I <42>	I <42>	I <42>	-	I <78>
+6	blood	blood <23>	blood <7>	blood <1>	-	blood <4.15>	blood <64>	blood <6>	-	blood <9>	blood <7>	blood <2>	blood <9>	blood <9>	-	blood <16>
+7	hand	hand <1>	hand <38>	hand <10>	-	hand <4.33>	hand <83>	hand <32>	-	hand <37>	arm/hand <19>	hand/arm <12>	hand <37>	hand <37>	-	hand <66>
+8	two	Two <198>	two <90>	two <28>	two <2>	two <13.2>	two <23>	two <90>	-	two <91>	-	two <120>	two <91>	two <91>	-	two <176>
+9	name	name <63>	name <56>	name (noun) <7>	name <6>	-	name <207>	name <52>	-	name <57>	name <15>	name <46>	name <57>	name <57>	-	name <100>
+10	star	star <130>	star <80>	star <4>	-	star <1.54>	star <149>	star <78>	star <56>	-	star <97>	star <87>	star <80>	star <80>	-	star <152>
+11	bone	bone <15>	bone <8>	bone <5>	-	bone <4.16>	bone <65>	bone <7>	-	bone <10>	bone <8>	bone <3>	bone <10>	bone <10>	-	bone <18>
+12	thou	thou <183>	you (sg.) <100>	-	second person marker <3>	you (singular) <2.92>	thou <2>	thou <86>	-	thou <87>	2SG pronoun <9>	thou <41>	thou <87>	thou <87>	-	thou <168>
+13	skin	skin <12>	skin <69>	skin <39>	-	flay, skin <9.29>	skin (of a person) <62>	skin <72>	skin <50>	-	skin/hide <68>	skin/bark <20>	skin <75>	skin <75>	-	skin (person's) <137>
+14	ear 1	ear <43>	ear <18>	ear <29>	-	ear <4.22>	ear <73>	ear <16>	-	ear <21>	ear <22>	ear/hear <4>	ear <21>	ear <21>	-	ear <36>
+15	liver	liver <17>	liver <49>	liver <34>	-	liver <4.45>	liver <91>	liver <43>	liver <28>	-	liver <66>	liver <16>	liver <48>	liver <48>	-	liver <91>
+16	fish	fish <111>	fish <132>	fish (noun) <2>	-	fish <3.65>	fish <45>	fish <24>	-	fish <29>	fish <40>	fish <55>	fish <29>	fish <29>	-	fish <50>
+17	dog	dog <96>	dog <16>	dog <21>	-	dog <3.61>	dog <47>	dog <13>	-	dog <18>	dog <86>	dog <54>	dog <18>	dog <18>	-	dog <31>
+18	see (V)	to see <46>	to see <66>	see <35>	-	see <15.51>	to see <101>	see <69>	see <47>	-	to see <89>	see <149>	see <72>	see <72>	-	see <130>
+19	nose	nose <27>	nose <59>	nose <19>	-	nose <4.23>	nose <75>	nose <57>	-	nose <61>	nose <2>	nose <19>	nose <61>	nose <61>	-	nose <106>
+20	louse	louse <108>	-	louse <38>	louse <12>	louse <3.811>	louse <48>	louse <45>	-	louse <50>	louse <16>	louse <56>	louse <50>	louse <50>	-	louse <93>
+21	leaf	leaf <114>	leaf <47>	leaf <30>	-	leaf <8.56>	leaf <56>	leaf <42>	leaf <27>	-	leaf <64>	leaf <77>	leaf <46>	leaf <46>	-	leaf <86>
+22	hear (V)	to hear <44>	hear <41>	hear <14>	-	hear <15.41>	to hear <102>	hear <34>	hear <22>	-	to hear <62>	ear/hear <4>	hear <39>	hear <39>	-	to hear <69>
+23	fire	fire <143>	fire <29>	fire <37>	-	fire <1.81>	fire <167>	fire <23>	-	fire <28>	fire <1>	fire <73>	fire <28>	fire <28>	-	fire <49>
+24	far	far <180>	far <26>	-	-	far (adv) <12.44>	far <198>	far <21>	far <14>	-	far <24>	far <112>	far <101>	-	far <56>	far <42>
+25	heavy	heavy <142>	heavy <140>	-	-	heavy <15.81>	heavy <31>	heavy <36>	heavy <24>	-	heavy <72>	heavy <164>	heavy <102>	-	heavy <61>	heavy <71>
+26	meat	meat/flesh <103>	meat, animal <53>	-	-	meat <5.61>	meat (as in flesh) <63>	meat <48>	meat <32>	-	flesh/meat <18>	meat/animal <52>	meat <53>	meat (flesh) <53>	-	meat (flesh) <96>
+27	egg	egg <98>	egg <21>	-	-	egg <5.97>	egg <67>	egg <19>	-	egg <24>	egg <52>	egg <5>	egg <24>	egg <24>	-	egg <39>
+28	wind	wind <136>	wind <98>	-	-	wind <1.72>	wind (as in breeze) <163>	wind <96>	-	wind <108>	wind <48>	wind <93>	wind <108>	-	wind <17>	wind <191>
+29	person	person/human being <53>	person, Aborigine <63>	person <31>	-	person, human being <2.1>	man (human being) <38>	person <60>	person <39>	-	-	person/human being <40>	person <64>	person <64>	-	person <111>
+30	tail	tail <105>	tail <83>	-	-	tail <4.18>	tail <69>	tail <82>	-	tail <84>	tail <85>	tail <22>	tail <84>	tail <84>	-	tail <160>
+31	one	One <197>	one <62>	one <23>	-	-	one <22>	one <59>	-	one <63>	one <33>	one <116>	one <63>	one <63>	-	one <109>
+32	mouth	mouth <30>	mouth <55>	-	-	mouth <4.24>	mouth <76>	mouth <51>	mouth <34>	-	mouth <5>	mouth <17>	mouth <56>	mouth <56>	-	mouth <99>
+33	night	night <167>	-	night (dark time) <15>	-	night <14.42>	night <177>	night <56>	night <37>	-	night <21>	night <100>	night <60>	night <60>	-	night <105>
+34	foot	leg/foot <4>	foot <32>	-	-	foot <4.37>	foot <80>	foot <26>	foot <17>	-	leg/foot <37>	foot <8>	foot <31>	foot <31>	-	foot <57>
+35	long	long <155>	long <50>	-	-	long <12.57>	long <28>	long <44>	long <29>	-	long <78>	long/tall <158>	long <49>	long <49>	-	long <92>
+36	new	new <163>	-	new <11>	-	new <14.13>	new <183>	new <55>	-	new <59>	new <54>	new <172>	new <59>	new <59>	-	new <104>
+37	black	black <147>	black <6>	-	-	black <15.65>	black <176>	black <5>	black <5>	-	black <43>	black <170>	black <8>	black <8>	-	black <15>
+38	smoke	smoke <145>	smoke <73>	-	-	smoke (noun) <1.83>	smoke <166>	smoke <75>	smoke <53>	-	smoke <49>	smoke <86>	smoke <78>	smoke <78>	-	smoke (of fire) <142>
+39	stone	stone <120>	stone <81>	stone <8>	-	-	stone <156>	stone <79>	-	stone <81>	stone/rock <27>	stone <89>	stone <81>	stone <81>	-	stone <154>
+40	eat (V)	to eat <37>	to eat <20>	-	-	eat <5.11>	to eat <93>	eat <18>	eat <13>	-	to eat <75>	eat <175>	eat <23>	eat <23>	-	to eat <38>
+41	ashes	ashes <146>	ashes <2>	-	-	ashes <1.84>	ashes <168>	ashes <1>	ashes <1>	-	ash <84>	ashes <70>	ashes <2>	ashes <2>	-	ashes <4>
+42	breast	breast <18>	breast <9>	breast (woman’s) <9>	-	breast (of woman) <4.41>	breast <89>	breast <8>	breast <6>	-	breast <12>	vagina or breast/milk <30>	breast <11>	breast <11>	-	-
+43	sun	-	sun <82>	sun <12>	-	sun <1.52>	sun <147>	sun <80>	-	sun <82>	-	sun(day <90>	sun <82>	sun <82>	-	sun <157>
+44	root	root <115>	-	-	-	root <8.54>	root <57>	root <64>	root <43>	-	root <10>	root <83>	root <68>	root <68>	-	root <121>
+45	red	red <149>	-	-	-	red <15.66>	red <172>	red <62>	red <41>	-	red <65>	red <163>	red <66>	red <66>	-	red <116>
+46	head	head <24>	head <39>	-	-	head <4.2>	head <72>	head <33>	head <21>	-	-	head <13>	head <38>	head <38>	-	head <68>
+47	bird	bird <97>	-	-	-	bird <3.581>	bird <46>	bird <4>	bird <4>	-	bird <93>	bird <53>	bird <6>	bird <6>	-	bird <13>
+48	salt	salt <125>	-	-	-	salt <5.81>	salt <155>	salt <66>	-	salt <104>	salt <94>	salt <84>	salt <104>	-	salt <47>	salt <125>
+49	what	what? <188>	what? <95>	-	who/what <4>	-	what <12>	what <93>	-	what <96>	what? <50>	-	what <96>	what <96>	-	what? <184>
+50	give (V)	-	to give <35>	-	-	give back <11.22>	to give <128>	give <28>	-	give <33>	to give <53>	give <177>	give <33>	give <33>	-	to give <60>
+51	sit (V)	to sit <51>	to sit <68>	-	-	sit <12.13>	to sit <124>	sit <71>	sit <49>	-	-	sit <136>	sit <74>	sit <74>	-	sit <136>
+52	sand	sand <121>	sand <138>	-	-	sand <1.215>	sand <157>	sand <67>	sand <45>	-	sand <60>	-	sand <70>	sand <70>	-	sand <126>
+53	die (V)	to die, be dead <75>	to die <104>	die <17>	-	-	to die <109>	die <12>	-	die <17>	-	die <132>	die <17>	die <17>	-	to die <28>
+54	big	big <153>	big <4>	-	-	large, big <12.55>	big <27>	big <3>	big <3>	-	big <32>	-	big <5>	big <5>	-	big <12>
+55	year	year <169>	-	-	-	year <14.73>	year <179>	year <99>	year <64>	year <110>	-	year <114>	year <110>	-	year <100>	year <199>
+56	good	good <164>	good <110>	-	-	good <16.71>	good <185>	good <29>	good <18>	-	good <57>	-	good <34>	good <34>	-	good <61>
+57	cloud	cloud <131>	cloud <136>	-	-	cloud <1.73>	cloud <160>	cloud <9>	cloud <7>	-	-	cloud <71>	cloud <14>	cloud <14>	-	cloud <22>
+58	come (V)	to come <7>	-	come <13>	-	come <10.48>	to come <122>	come <11>	come <9>	-	to come <11>	-	come <16>	come <16>	-	to come <24>
+59	neck	neck <25>	-	-	-	neck <4.28>	neck <87>	neck <54>	neck <36>	-	neck <23>	neck <18>	neck <58>	neck <58>	-	neck <103>
+60	snake	snake <106>	snake <74>	-	-	snake <3.85>	snake <49>	snake <76>	snake <54>	-	-	snake <57>	snake <106>	-	snake <24>	snake <144>
+61	know (V)	to know, be knowledgeable <20>	-	-	-	know <17.17>	to know (a fact) <103>	know <41>	-	know <45>	to know <58>	know <145>	know <45>	know <45>	-	to know (facts) <83>
+62	near	near <179>	near <116>	-	-	near (adv) <12.43>	near <197>	near <53>	near <35>	-	-	near <113>	near <103>	-	near <57>	near <102>
+63	heart	-	heart <42>	-	heart <8>	heart <4.44>	heart <90>	heart <35>	heart <23>	-	-	heart <14>	heart <40>	heart <40>	-	heart <70>
+64	who	who? <189>	who? <97>	-	who/what <4>	-	who <11>	who <95>	-	who <98>	who? <34>	-	who <98>	who <98>	-	who? <188>
+65	road	road/path <6>	-	-	-	road <10.71>	road <170>	road <63>	road <42>	-	-	road <82>	road <67>	road <67>	-	road (or trail) <120>
+66	not	no, not <195>	-	-	verbal negation <10>	-	not <16>	not <58>	not <38>	-	not <56>	-	not <62>	not <62>	-	not <107>
+67	dry	dry <140>	dry (N, Adj) <143>	-	-	dry <15.84>	dry (adjective) <195>	dry <15>	dry <11>	-	-	-	dry <20>	dry <20>	-	dry (substance) <33>
+68	burn (V)	to burn <144>	to burn (intr.) <10>	-	-	burn (vb trans) <1.851>	to burn (intransitive) <169>	-	-	-	to burn (intr.) <55>	drive/hunt <200>	burn tr. <12>	burn tr. <12>	-	to burn (intrans) <20>
+69	cold	cold <139>	-	-	-	cold <15.86>	cold (as in weather) <181>	cold <10>	cold <8>	-	-	cold <160>	cold <15>	cold <15>	-	cold (of weather) <23>
+70	earth	earth/soil <119>	-	-	-	earth, land <1.21>	earth (as in soil) <159>	earth <17>	earth <12>	-	-	earth <72>	earth <22>	earth <22>	-	earth (soil) <37>
+71	moon	moon <129>	moon <54>	-	-	moon <1.53>	moon <148>	moon <49>	-	moon <54>	-	moon <78>	moon <54>	moon <54>	-	-
+72	small	small <152>	small <71>	-	-	-	small <32>	small <74>	small <52>	-	small <95>	-	small <77>	small <77>	-	small <140>
+73	this	this <177>	this <85>	-	-	-	this <7>	this <85>	-	this <86>	this <39>	-	this <86>	this <86>	-	this <167>
+74	white	white <148>	-	-	-	white <15.64>	white <175>	white <94>	white <61>	-	-	white <169>	white <97>	white <97>	-	white <187>
+75	horn	-	-	horn (animal part) <18>	-	horn, trumpet <18.73>	horn <68>	horn <37>	-	horn <41>	horn <38>	horn <15>	horn <41>	horn <41>	-	-
+76	tree	-	tree <89>	tree <24>	-	tree (cf 08.600) <1.42>	tree <51>	tree <89>	-	-	-	tree/wood <91>	tree <90>	tree <90>	-	tree <174>
+77	short	short <154>	short <67>	-	-	short <12.59>	short <33>	short <70>	short <48>	-	-	-	short <105>	-	short <60>	short <134>
+78	thin	thin <156>	-	-	-	thin (in dimension) <12.65>	thin <35>	thin <84>	thin <59>	-	-	thin <151>	thin <107>	-	thin <59>	thin <165>
+79	woman	woman/female <55>	woman <99>	-	-	woman <2.22>	woman <36>	woman <97>	woman <62>	-	-	-	woman <99>	woman <99>	-	woman <195>
+80	knee	-	knee <46>	knee <26>	-	knee <4.36>	knee <82>	knee <40>	knee <26>	-	knee <59>	-	knee <44>	knee <44>	-	-
+81	belly	belly <14>	belly <3>	-	-	-	belly <85>	belly <2>	belly <2>	-	-	belly(exterior) <1>	belly <4>	belly <4>	-	belly <10>
+82	hair	hair <26>	-	-	-	hair (head) <4.14>	hair <71>	hair <31>	hair <20>	-	hair <31>	-	hair <36>	hair <36>	-	hair <65>
+83	many	-	many <52>	-	-	much, many <13.15>	many <18>	many <47>	many <31>	-	-	(be) many (v.) <127>	many <52>	many <52>	-	many <95>
+84	kill (V)	to kill <74>	-	-	-	kill <4.76>	to kill <110>	kill <39>	kill <25>	-	-	kill <192>	kill <43>	kill <43>	-	to kill <82>
+85	full	-	-	full <6>	-	full <13.21>	full <182>	full <27>	-	full <32>	-	full <157>	full <32>	full <32>	-	-
+86	fly (V)	to fly <101>	-	-	-	-	to fly <120>	fly v. <25>	fly v. <16>	-	-	fly <140>	fly v. <30>	fly <30>	-	to fly <55>
+87	mountain	-	-	mountain <3>	-	-	mountain <171>	mountain <50>	mountain <33>	-	-	mountain <79>	mountain <55>	mountain <55>	-	mountain <98>
+88	swim (V)	to swim <9>	-	-	-	swim <10.35>	to swim <119>	swim <81>	swim <57>	-	-	-	swim <83>	swim <83>	-	to swim <159>
+89	rain	rain <133>	rain <145>	-	-	rain (noun) <1.75>	-	rain <61>	rain <40>	-	rain <13>	rain <80>	-	-	rain <21>	-
+90	man	man/male <54>	-	-	-	man (vs. woman) <2.21>	man (adult male) <37>	man <46>	man <30>	-	-	-	man <51>	man <51>	-	man (male human) <94>
+91	say (V)	to say <64>	-	-	-	say <18.22>	to say <140>	-	say <46>	-	to say <29>	-	say <71>	say <71>	-	say <127>
+92	yellow	yellow <150>	-	-	-	yellow <15.69>	yellow <174>	yellow <100>	yellow <65>	-	-	-	yellow <100>	yellow <100>	-	yellow <200>
+93	worm	worm (earthworm) <107>	-	-	-	worm <3.84>	worm <50>	worm <98>	worm <63>	-	-	-	worm <109>	-	worm <25>	worm <197>
+94	green	green <151>	-	-	-	green <15.68>	green <173>	green <30>	green <19>	-	-	-	green <35>	green <35>	-	green <63>
+95	stand (V)	to stand <52>	to be standing <79>	-	-	-	to stand <125>	-	-	-	to stand <45>	stand <135>	stand <79>	stand <79>	-	to stand <151>
+96	grass	grass <118>	grass <134>	-	-	grass <8.51>	grass <60>	-	-	-	-	grass <76>	-	-	grass <38>	grass <62>
+97	child	child <56>	-	-	-	child <2.27>	child (a youth) <39>	-	-	-	child (kin term) <51>	child/son <43>	-	-	child <51>	child (young person rather than as relationship term) <21>
+98	thick	thick <157>	-	-	-	thick (in dimension) <12.63>	thick <30>	-	-	-	thick <77>	thick <171>	-	-	thick <58>	thick <164>
+99	feather	feather <99>	wing feather <129>	-	-	feather <4.393>	feather (rather not down) <70>	-	-	-	-	-	feather <27>	feather <27>	-	feather (larger feathers rather than down) <46>
+100	three	Three <199>	three <115>	-	-	three <13.3>	three <24>	-	-	-	-	three <121>	-	-	three <10>	three <169>
+101	that	that <178>	-	-	-	-	that <8>	that <83>	that <58>	-	-	-	that <85>	that <85>	-	that <161>
+102	fall (V)	to fall <95>	to fall <25>	-	-	fall <10.23>	to fall (as in drop) <127>	-	-	-	to fall <82>	-	-	-	fall <83>	to fall (drop rather than topple) <41>
+103	drink (V)	to drink <40>	-	drink (verb) <25>	-	-	to drink <92>	-	-	-	to drink <42>	-	drink <19>	drink <19>	-	drink <32>
+104	walk (V)	to walk <5>	-	-	-	-	to walk <121>	walk (go) <91>	walk (go) <60>	-	-	-	walk(go) <92>	walk <92>	-	to walk <178>
+105	bite (V)	to bite <41>	-	-	-	-	to bite <94>	-	-	-	to bite <46>	bite <181>	bite <7>	bite <7>	-	to bite <14>
+106	round	-	-	-	-	round <12.81>	round <190>	round <65>	round <44>	-	-	round <166>	round <69>	round <69>	-	-
+107	warm	warm <138>	-	-	-	warm <15.851>	warm (as in weather) <180>	-	-	-	-	warm <165>	warm <93>	warm (hot) <93>	-	warm (of weather) <179>
+108	wing	wing <100>	-	-	-	wing <4.392>	wing <84>	-	-	-	wing <17>	wing <25>	-	-	wing <29>	wing <192>
+109	human being	person/human being <35>	-	-	-	person, human being <2.1>	man (human being) <38>	-	-	-	-	person/human being <40>	person <64>	person <64>	-	person <111>
+110	old	old <162>	-	-	-	old <14.15>	old <184>	-	-	-	old <74>	old <152>	-	-	old <72>	old <108>
+111	sky	sky <128>	sky <70>	-	-	sky <1.51>	sky <162>	-	-	-	-	sky <85>	-	-	sky <14>	sky <138>
+112	we	we <185>	-	we <36>	-	we (exclusive) <2.942>	we <4>	-	-	-	-	-	we <95>	we <95>	-	we <182>
+113	bark	-	-	-	-	bark <8.75>	bark (of tree) <58>	-	-	-	-	skin/bark <20>	bark <3>	bark <3>	-	bark <8>
+114	throw (V)	to throw <94>	to throw <107>	-	-	throw <10.25>	to throw <136>	-	-	-	-	-	-	-	throw <76>	to throw <170>
+115	hit (V)	to hit <72>	to hit (with hand) <43>	-	-	-	to hit <113>	-	-	-	to hit/beat <36>	-	-	-	hit <77>	to hit <73>
+116	day	day <168>	-	-	-	day <14.41>	day (daytime) <178>	-	-	-	-	sun(day <90>	-	-	day <15>	day (opposite of night rather than time measure) <27>
+117	tie (V)	-	-	-	-	tie, bind <9.16>	to tie <137>	-	-	-	to tie <88>	tie <178>	-	-	tie <81>	to tie <171>
+118	rotten	rotten <112>	rotten <65>	-	-	rotten <5.125>	rotten (as, a log) <187>	-	-	-	-	-	-	-	rotten <66>	rotten (especially log) <123>
+119	bad	bad, evil <165>	bad <111>	-	-	bad <16.72>	bad <186>	-	-	-	-	-	-	-	bad <65>	bad (deleterious or unsuitable) <7>
+120	flower	flower <116>	-	-	-	flower <8.57>	flower <59>	-	-	-	-	flower <74>	-	-	flower <37>	flower <54>
+121	suck (V)	to suck <42>	-	-	-	suck <5.16>	to suck <95>	-	-	-	to suck <69>	-	-	-	suck <89>	to suck <156>
+122	back	back <13>	-	-	-	back <4.19>	back <88>	-	-	-	back <47>	-	-	-	back <26>	back (person's) <6>
+123	he	he/she <184>	he <118>	-	-	-	he <3>	-	-	-	3SG pronoun <35>	-	-	-	he <2>	he <67>
+124	you	you <186>	-	you <40>	-	you (plural) <2.95>	you <5>	-	-	-	-	-	-	-	ye <1>	ye <198>
+125	five	Five <201>	-	-	-	five <13.5>	five <26>	-	-	-	-	five <123>	-	-	five <12>	five <51>
+126	laugh (V)	to laugh <33>	to laugh <109>	-	-	-	to laugh <100>	-	-	-	to laugh <61>	laugh <131>	-	-	-	to laugh <85>
+127	fruit	fruit <117>	-	-	-	fruit <5.71>	fruit <54>	-	-	-	-	fruit <75>	-	-	fruit <36>	berry (or fruit) <11>
+128	sharp	sharp <81>	-	-	-	sharp <15.78>	sharp (as a knife) <191>	-	-	-	-	sharp <173>	-	-	sharp <63>	sharp (as knife) <133>
+129	fat	-	-	-	-	grease, fat <5.791>	-	fat n. <22>	fat n. <15>	-	-	-	fat n. <26>	fat (grease) <26>	-	fat (organic substance) <43>
+130	leg	leg/foot <4>	-	-	-	leg <4.35>	leg <81>	-	-	-	leg/foot <37>	-	-	-	leg <27>	leg <88>
+131	vomit (V)	to vomit <35>	-	-	-	vomit <4.57>	to vomit <97>	-	-	-	-	vomit <37>	-	-	puke <88>	to vomit <177>
+132	sew (V)	to sew <67>	-	-	-	sew <6.35>	to sew <138>	-	-	-	-	sew <191>	-	-	sew <82>	to sew <132>
+133	dull	dull, blunt <82>	-	-	-	blunt, dull <15.79>	dull (as a knife) <192>	-	-	-	-	-	-	-	dull <62>	dull (knife) <34>
+134	go (V)	-	to go <36>	-	-	go <10.47>	-	walk (go) <91>	walk (go) <60>	-	to go <3>	-	-	-	-	-
+135	stab (V)	to stab, pierce <71>	-	-	-	stab <9.223>	to stab (or stick) <116>	-	-	-	-	-	-	-	pierce <79>	to stab (or stick) <150>
+136	animal	-	meat, animal <53>	-	-	animal <3.11>	animal <44>	-	-	-	-	meat/animal <52>	-	-	-	animal <3>
+137	father	father <60>	-	-	-	father <2.35>	father <43>	-	-	-	-	-	-	-	father <44>	father <44>
+138	wide	wide <159>	-	-	-	-	wide <29>	-	-	-	wide <96>	-	-	-	wide <54>	wide <189>
+139	seed	-	-	-	-	seed <8.311>	seed <55>	-	-	-	-	-	seed <73>	seed <73>	-	seed <131>
+140	four	Four <200>	-	-	-	-	four <25>	-	-	-	-	four <122>	-	-	four <11>	four <58>
+141	wife	wife <58>	-	-	-	married woman <2.39>	wife <40>	-	-	-	-	-	-	-	wife <46>	wife <190>
+142	mother	mother <59>	-	-	-	mother <2.36>	mother <42>	-	-	-	-	-	-	-	mother <43>	mother <97>
+143	husband	husband <57>	-	-	-	married man <2.38>	husband <41>	-	-	-	-	-	-	-	husband <45>	husband <77>
+144	dust	dust <11>	-	-	-	dust <1.213>	dust <158>	-	-	-	-	-	-	-	dust <97>	dust <35>
+145	squeeze (V)	to squeeze <88>	-	-	-	-	to squeeze <130>	-	-	-	-	squeeze <195>	-	-	squeeze <92>	to squeeze <149>
+146	narrow	narrow <158>	-	-	-	narrow <12.62>	narrow <34>	-	-	-	-	-	-	-	narrow <55>	narrow <101>
+147	they	they <187>	-	-	-	they <2.96>	they <6>	-	-	-	-	-	-	-	they <3>	they <163>
+148	rope	rope <65>	-	-	-	-	rope <61>	-	-	-	rope <91>	-	-	-	rope <99>	rope <122>
+149	dig (V)	to dig <90>	to dig <112>	-	-	-	to dig <118>	-	-	-	-	dig <186>	-	-	-	to dig <29>
+150	think (V)	to think <21>	-	-	-	think (= be of the opinion) <17.14>	to think <104>	-	-	-	-	-	-	-	think <85>	to think <166>
+151	all	all <191>	-	-	-	-	all <17>	-	-	-	-	-	all <1>	all <1>	-	all (of a number) <1>
+152	fog	fog <132>	-	-	-	fog <1.74>	fog <161>	-	-	-	-	-	-	-	fog <16>	fog <56>
+153	sleep (V)	-	-	-	-	-	to sleep <107>	-	-	-	-	sleep/lie down <129>	sleep <76>	sleep <76>	-	sleep <139>
+154	lie 1 (V)	to lie down <49>	-	-	-	-	to lie (as on one's side) <123>	-	-	-	-	-	lie <47>	lie <47>	-	to lie <89>
+155	blow (V)	to blow <137>	-	-	-	-	to blow (as wind) <98>	-	-	-	to blow <79>	blow <189>	-	-	-	to blow (of wind) <17>
+156	lake	lake <126>	-	-	-	lake <1.33>	lake <153>	-	-	-	-	-	-	-	lake <20>	lake <84>
+157	wet	wet <141>	-	-	-	wet, damp <15.83>	wet <194>	-	-	-	-	-	-	-	wet <22>	wet <183>
+158	cut (V)	to cut, hack <78>	to cut <15>	-	-	-	to cut <114>	-	-	-	-	drive/hunt <200>	-	-	-	to cut <26>
+159	in	in, inside <174>	-	-	-	-	in <202>	-	-	-	in <98>	-	-	-	in <40>	in <81>
+160	sea	sea <124>	-	-	-	sea <1.32>	sea (as in ocean) <154>	-	-	-	-	-	-	-	sea <19>	sea (ocean) <129>
+161	claw	-	-	-	-	claw <4.345>	fingernail <79>	-	-	-	-	nail/claw <26>	claw (nail) <13>	claw (nail) <13>	-	-
+162	where	where? <181>	where? <96>	-	-	-	where <13>	-	-	-	-	-	-	-	where <6>	where? <186>
+163	wash (V)	-	-	-	-	wash <9.36>	to wash <132>	-	-	-	-	wash <185>	-	-	wash <23>	to wash <180>
+164	smell (V)	to sniff, smell <29>	to smell it <72>	-	-	-	to smell (sense odor) <105>	-	-	-	-	smell <150>	-	-	-	to smell (perceive odor) <141>
+165	dirty	dirty <10>	-	-	-	dirty, soiled <15.88>	dirty <188>	-	-	-	-	-	-	-	dirty <64>	dirty <30>
+166	fat	fat/grease <104>	fat, grease <27>	-	-	-	fat (noun) <66>	-	-	-	-	fat/grease <7>	-	-	-	-
+167	straight	-	-	-	-	straight <12.73>	straight <189>	-	-	-	-	-	-	-	straight <68>	straight <155>
+168	right	-	-	-	-	right, correct <16.73>	right (correct) <196>	-	-	-	-	-	-	-	right <71>	right (correct) <117>
+169	how	how? <194>	-	-	-	-	how <15>	-	-	-	-	-	-	-	how <4>	how <75>
+170	rub (V)	-	-	-	-	-	to rub <131>	-	-	-	-	rub <194>	-	-	rub <73>	to rub <124>
+171	navel	-	-	-	-	navel <4.43>	-	-	-	-	navel <44>	navel <32>	-	-	navel <32>	-
+172	climb (V)	to climb <172>	to climb <13>	-	-	climb <10.472>	-	-	-	-	-	climb, ascend <138>	-	-	-	-
+173	at	at <173>	-	-	-	-	at <201>	-	-	-	-	-	-	-	at <41>	at <5>
+174	hunt (V)	to hunt <69>	-	-	-	-	to hunt (transitive) <112>	-	-	-	-	drive/hunt <200>	-	-	-	to hunt (game) <76>
+175	sing (V)	-	-	-	-	sing <18.12>	to sing <141>	-	-	-	-	-	-	-	sing <86>	to sing <135>
+176	left side	left <2>	-	-	-	-	left (side) <200>	-	-	-	-	left side <110>	-	-	-	left (hand) <87>
+177	pull (V)	-	-	-	-	pull <9.33>	to pull <134>	-	-	-	-	-	-	-	pull <74>	to pull <113>
+178	when	when? <170>	-	-	-	-	when <14>	-	-	-	-	-	-	-	when <5>	when? <185>
+179	house	house <61>	-	-	-	house <7.12>	-	-	-	-	house <26>	house <105>	-	-	-	-
+180	smooth	-	-	-	-	smooth <15.77>	smooth <193>	-	-	-	-	-	-	-	smooth <67>	smooth <143>
+181	swell (V)	to swell <87>	-	-	-	-	to swell <146>	-	-	-	-	-	-	-	swell <84>	to swell <158>
+182	stick	stick/wood <79>	-	-	-	-	stick (of wood) <53>	-	-	-	-	stick <88>	-	-	-	stick (of wood) <153>
+183	run (V)	-	to run <105>	-	-	run <10.46>	-	-	-	-	to run <81>	run/flee <142>	-	-	-	-
+184	scratch (V)	to scratch <77>	-	-	-	-	to scratch (an itch) <117>	-	-	-	-	scratch(scrape <182>	-	-	-	to scratch (as with fingernails to relieve itch) <128>
+185	right side	right <3>	-	-	-	-	right (side) <199>	-	-	-	-	right side <111>	-	-	-	right (hand) <118>
+186	sleep	to sleep <48>	-	-	-	sleep <4.61>	-	sleep <73>	sleep <51>	-	-	-	-	-	-	-
+187	ice	-	-	-	-	ice <1.77>	ice <165>	-	-	-	-	-	-	-	ice <48>	ice <79>
+188	snow	-	-	-	-	snow (noun) <1.76>	snow <164>	-	-	-	-	-	-	-	snow <49>	snow <145>
+189	gut	-	-	-	-	-	guts <86>	-	-	-	-	guts <9>	-	-	guts <33>	guts <64>
+190	wood	stick/wood <79>	-	-	-	wood <1.43>	-	-	-	-	wood <80>	tree/wood <91>	-	-	-	-
+191	breathe (V)	to breathe <28>	-	-	-	breathe, breath <4.51>	to breathe <99>	-	-	-	-	-	-	-	-	to breathe <19>
+192	if	if <193>	-	-	-	-	if <205>	-	-	-	-	-	-	-	if <42>	if <80>
+193	rain (V)	-	-	-	-	-	to rain <151>	-	-	-	-	-	rain <65>	rain <65>	-	to rain <115>
+194	live (V)	to live, be alive <76>	-	-	-	dwell, live <7.11>	to live <108>	-	-	-	-	-	-	-	-	to live <90>
+195	other	other <190>	-	-	-	-	other <21>	-	-	-	-	-	-	-	other <9>	other <110>
+196	count (V)	to count <196>	-	-	-	count <13.107>	to count <139>	-	-	-	-	-	-	-	-	to count <25>
+197	forest	woods/forest <127>	-	-	-	woods, forest <1.41>	forest <52>	-	-	-	-	-	-	-	-	woods <196>
+198	arm	-	-	-	-	arm <4.31>	-	-	-	-	arm/hand <19>	hand/arm <12>	-	-	arm <28>	-
+199	drink	-	-	-	-	beverage, drink <5.9>	-	drink <14>	drink <10>	-	-	drink <176>	-	-	-	-
+200	stick (V)	-	-	-	-	-	to stab (or stick) <116>	-	-	-	-	-	-	-	pierce <79>	to stab (or stick) <150>
+201	grease	fat/grease <104>	fat, grease <27>	-	-	-	-	-	-	-	-	fat/grease <7>	-	-	-	-
+202	with	-	-	-	-	-	with (accompanying) <203>	-	-	-	-	-	-	-	with <39>	with (accompanying) <194>
+203	sweet	-	-	-	-	sweet <15.35>	-	-	-	-	sweet <90>	sweet <159>	-	-	-	-
+204	thigh	-	thigh <84>	-	-	thigh <4.351>	-	-	-	-	thigh <76>	-	-	-	-	-
+205	soft	-	soft <142>	-	-	soft <15.75>	-	-	-	-	-	soft(to touch) <168>	-	-	-	-
+206	correct	correct, true <166>	-	-	-	right, correct <16.73>	-	-	-	-	-	-	-	-	correct <69>	-
+207	turn (V)	to turn <8>	-	-	-	-	to turn (change direction) <126>	-	-	-	-	-	-	-	-	to turn (change one's direction) <175>
+208	lie down (V)	-	to be lying down <51>	-	-	lie down <12.14>	-	-	-	-	-	sleep/lie down <129>	-	-	-	-
+209	push (V)	-	-	-	-	-	to push <135>	-	-	-	-	-	-	-	push <75>	to push <114>
+210	below	below <176>	down, below <17>	-	-	down, below <12.3>	-	-	-	-	-	-	-	-	-	-
+211	alive	to live, be alive <76>	-	-	-	-	-	-	-	-	-	alive <153>	-	-	alive <98>	-
+212	cook (V)	to cook <39>	-	-	-	cook <5.21>	-	-	-	-	-	cook/boil <183>	-	-	-	-
+213	milk	-	-	-	-	milk (vb) <5.87>	-	-	-	-	-	vagina or breast/milk <30>	-	-	milk <35>	-
+214	finger-nail	-	fingernail <28>	-	finger-nail/toe-nail <11>	fingernail <4.344>	-	-	-	-	-	-	-	-	-	-
+215	buy (V)	to buy <91>	-	-	-	buy <11.81>	-	-	-	-	-	buy <190>	-	-	-	-
+216	here	-	-	-	-	-	here <9>	-	-	-	-	-	-	-	here <7>	here <72>
+217	ripe	-	-	-	-	ripe <5.123>	-	-	-	-	-	ripe/well-cooked <167>	-	-	ripe <96>	-
+218	hold (V)	to hold <89>	-	-	-	-	to hold (in one's hand) <129>	-	-	-	-	-	-	-	-	to hold (in hand) <74>
+219	mosquito	mosquito <109>	mosquito <133>	-	-	mosquito <3.832>	-	-	-	-	-	-	-	-	-	-
+220	there	-	-	-	-	-	there <10>	-	-	-	-	-	-	-	there <8>	there <162>
+221	grease	-	-	-	-	grease, fat <5.791>	-	fat n. <22>	fat n. <15>	-	-	-	-	-	-	-
+222	bitter	-	-	-	-	bitter <15.37>	-	-	-	-	bitter <28>	bitter <161>	-	-	-	-
+223	dream	to dream <50>	dream (N) <122>	-	-	dream <4.62>	-	-	-	-	-	-	-	-	-	-
+224	soil	earth/soil <119>	-	-	-	earth=ground, soil <1.212>	-	-	-	-	soil <63>	-	-	-	-	-
+225	flow (V)	to flow <123>	-	-	-	-	to flow <144>	-	-	-	-	-	-	-	-	to flow <53>
+226	shoulder	shoulder <19>	shoulder <101>	-	-	shoulder <4.3>	-	-	-	-	-	-	-	-	-	-
+227	path	road/path <6>	-	path <27>	-	path <10.72>	-	-	-	-	-	-	-	-	-	-
+228	hard	-	hard <117>	-	-	hard <15.74>	-	-	-	-	hard <99>	-	-	-	-	-
+229	rat	rat <102>	-	-	-	mouse, rat <3.63>	-	-	-	-	-	rat/rodent <69>	-	-	-	-
+230	fear (V)	-	-	-	-	-	to fear <106>	-	-	-	-	fear/frighten <144>	-	-	-	to fear <45>
+231	spit (V)	to spit <36>	-	-	-	-	to spit <96>	-	-	-	-	-	-	-	-	to spit <147>
+232	split (V)	to split <80>	-	-	-	-	to split <115>	-	-	-	-	-	-	-	-	to split <148>
+233	stand	-	-	-	-	stand <12.15>	-	stand <77>	stand <55>	-	-	-	-	-	-	-
+234	fly	-	fly (N) <30>	-	-	fly (vb) <10.37>	-	-	-	-	fly <20>	-	-	-	-	-
+235	hundred	One Hundred <209>	-	-	-	hundred <13.105>	-	-	-	-	-	hundred <119>	-	-	-	-
+236	river	-	-	-	-	-	river <152>	-	-	-	-	river/valley <81>	-	-	-	river <119>
+237	ant	-	-	-	-	ant <3.817>	-	-	-	-	ant <71>	ant <67>	-	-	-	-
+238	needle	needle <68>	-	-	-	needle <6.36>	-	-	-	-	-	needle <104>	-	-	-	-
+239	flesh	meat/flesh <103>	-	-	-	flesh <4.13>	-	-	-	-	flesh/meat <18>	-	-	-	-	-
+240	take (V)	-	to take <106>	-	-	take <11.13>	-	-	-	-	to take <73>	-	-	-	-	-
+241	and	and <192>	-	-	-	-	and <204>	-	-	-	-	-	-	-	-	and <2>
+242	few	-	-	-	-	-	few <20>	-	-	-	-	-	-	-	few <13>	few <47>
+243	branch	branch <113>	-	-	-	branch <8.55>	-	-	-	-	-	branch <94>	-	-	-	-
+244	steal (V)	to steal <73>	-	-	-	steal <21.51>	-	-	-	-	-	steal <179>	-	-	-	-
+245	some	-	-	-	-	some <13.181>	some <19>	-	-	-	-	-	-	-	-	some <146>
+246	freeze (V)	-	-	-	-	-	to freeze <145>	-	-	-	-	-	-	-	freeze <50>	to freeze <59>
+247	grind (V)	-	-	-	-	crush, grind <5.56>	-	-	-	-	to crush/grind <100>	grind <184>	-	-	-	-
+248	down 1	-	down, below <17>	-	-	down, below <12.3>	-	-	-	-	-	-	-	-	down <94>	-
+249	twenty	Twenty <207>	-	-	-	twenty <13.104>	-	-	-	-	-	twenty/score <115>	-	-	-	-
+250	elbow	-	elbow <22>	-	-	elbow <4.32>	-	-	-	-	-	-	-	-	-	-
+251	weep (V)	-	-	-	-	cry, weep <16.37>	-	-	-	-	to cry/weep <87>	-	-	-	-	-
+252	hip	-	hip <128>	-	-	hip <4.463>	-	-	-	-	-	-	-	-	-	-
+253	drive (V)	-	-	-	-	drive <10.65>	-	-	-	-	-	drive/hunt <200>	-	-	-	-
+254	kick (V)	-	-	-	-	kick <10.431>	-	-	-	-	-	kick <197>	-	-	-	-
+255	ten	Ten <206>	-	-	-	-	-	-	-	-	-	ten <118>	-	-	-	-
+256	south	-	south <75>	-	-	south <12.48>	-	-	-	-	-	-	-	-	-	-
+257	nail	-	-	-	-	nail <9.5>	-	-	-	-	-	nail/claw <26>	-	-	-	-
+258	shade	-	shade <137>	-	-	-	-	-	-	-	-	shade/shadow <97>	-	-	-	-
+259	fowl	-	-	-	-	fowl <3.5>	-	-	-	-	-	fowl <64>	-	-	-	-
+260	blow	-	-	-	-	blow <10.38>	-	-	-	-	-	-	-	-	blow <90>	-
+261	dove	-	-	-	-	dove <3.594>	-	-	-	-	-	dover <61>	-	-	-	-
+262	valley	-	-	-	-	valley <1.24>	-	-	-	-	-	river/valley <81>	-	-	-	-
+263	bamboo	-	-	-	-	bamboo <8.94>	-	-	-	-	-	bamboo <96>	-	-	-	-
+264	mortar	-	-	-	-	mortar <5.58>	-	-	-	-	-	mortar <108>	-	-	-	-
+265	float (V)	-	-	-	-	-	to float <143>	-	-	-	-	-	-	-	-	to float <52>
+266	dark	-	-	-	-	dark (in color) <15.63>	-	-	-	-	-	-	-	-	dark <52>	-
+267	tomorrow	-	tomorrow <114>	-	-	tomorrow <14.48>	-	-	-	-	-	-	-	-	-	-
+268	brain	-	-	-	-	brain <4.203>	-	-	-	-	-	brain <31>	-	-	-	-
+269	hide (V)	-	-	-	-	hide, conceal <12.27>	-	-	-	-	to hide <67>	-	-	-	-	-
+270	mud	-	mud <135>	-	-	mud <1.214>	-	-	-	-	-	-	-	-	-	-
+271	forehead	-	forehead <33>	-	-	forehead <4.205>	-	-	-	-	-	-	-	-	-	-
+272	son	-	-	-	-	son <2.41>	-	-	-	-	-	child/son <43>	-	-	-	-
+273	up	-	up <91>	-	-	-	-	-	-	-	-	-	-	-	up <95>	-
+274	sniff (V)	to sniff, smell <29>	-	-	-	sniff <15.212>	-	-	-	-	-	-	-	-	-	-
+275	tall	-	-	-	-	tall <12.58>	-	-	-	-	-	long/tall <158>	-	-	-	-
+276	lightning	lightning <135>	-	-	-	lightning <1.55>	-	-	-	-	-	-	-	-	-	-
+277	son-in-law	-	-	-	-	son-in-law (of a woman) <2.631>	-	-	-	-	-	son-in-law <45>	-	-	-	-
+278	seven	Seven <203>	-	-	-	-	-	-	-	-	-	seven <117>	-	-	-	-
+279	rice	-	-	-	-	rice <8.48>	-	-	-	-	-	plaintain/banana <51>	-	-	-	-
+280	frog	-	-	-	-	frog <3.95>	-	-	-	-	-	frog <58>	-	-	-	-
+281	roof	thatch/roof <62>	-	-	-	roof <7.51>	-	-	-	-	-	-	-	-	-	-
+282	nine	Nine <205>	-	-	-	-	-	-	-	-	-	nine <126>	-	-	-	-
+283	smell	-	-	-	-	stinking, bad smelling <15.26>	-	-	-	-	-	-	-	-	smell <87>	-
+284	born	-	-	-	-	born (to be) <4.72>	-	-	-	-	-	be born <128>	-	-	-	-
+285	true	correc, true <166>	-	-	-	true <16.66>	-	-	-	-	-	-	-	-	-	-
+286	ground	-	ground <37>	-	-	earth=ground, soil <1.212>	-	-	-	-	-	-	-	-	-	-
+287	pick up (V)	-	to get, pick up <34>	-	-	pick up <12.212>	-	-	-	-	-	-	-	-	-	-
+288	cooked	-	-	-	-	cooked <5.121>	-	-	-	-	-	ripe/well-cooked <167>	-	-	-	-
+289	play (V)	-	-	-	-	-	to play <142>	-	-	-	-	-	-	-	-	to play <112>
+290	cut	-	-	-	-	cut <9.22>	-	-	-	-	-	-	-	-	cut <53>	-
+291	shade	-	-	-	-	shade, shadow <1.63>	-	-	-	-	shade/shadow <92>	-	-	-	-	-
+292	grow (V)	to grow <86>	-	-	-	grow <12.53>	-	-	-	-	-	-	-	-	-	-
+293	west	-	west <94>	-	-	west <12.46>	-	-	-	-	-	-	-	-	-	-
+294	thousand	One Thousand <210>	-	-	-	thousand <13.106>	-	-	-	-	-	-	-	-	-	-
+295	medicine	-	-	-	-	medicine, drug <4.88>	-	-	-	-	-	plaintain/banana <51>	-	-	-	-
+296	split	-	-	-	-	split <9.27>	-	-	-	-	-	-	-	-	split <78>	-
+297	now	-	now, today <60>	-	-	now <14.18>	-	-	-	-	-	-	-	-	-	-
+298	thunder	thunder <134>	-	-	-	thunder <1.56>	-	-	-	-	-	-	-	-	-	-
+299	cry (V)	-	-	-	-	cry, weep <16.37>	-	-	-	-	to cry/weep <87>	-	-	-	-	-
+300	chest	-	chest <12>	-	-	chest <4.4>	-	-	-	-	-	-	-	-	-	-
+301	old man	-	old man <61>	-	-	old man <2.461>	-	-	-	-	-	-	-	-	-	-
+302	ashamed	shy, ashamed <161>	-	-	-	-	-	-	-	-	-	ashamed <146>	-	-	-	-
+303	light 1	-	light <141>	-	-	-	-	-	-	-	-	lightweight <174>	-	-	-	-
+304	dig	-	-	-	-	dig <8.22>	-	-	-	-	-	-	-	-	dig <80>	-
+305	wipe (V)	-	-	-	-	-	to wipe <133>	-	-	-	-	-	-	-	-	to wipe <193>
+306	hole	-	hole <139>	-	-	hole <12.85>	-	-	-	-	-	-	-	-	-	-
+307	she	-	-	-	-	he/she/it <2.93>	-	-	-	-	3SG pronoun <35>	-	-	-	-	-
+308	north	-	north <58>	-	-	north <12.47>	-	-	-	-	-	-	-	-	-	-
+309	mushroom	-	-	-	-	mushroom <8.98>	-	-	-	-	-	mushroom/fungus <49>	-	-	-	-
+310	iron	-	-	-	-	iron <9.67>	-	-	-	-	-	iron <101>	-	-	-	-
+311	because	-	-	-	-	-	because <206>	-	-	-	-	-	-	-	-	because <9>
+312	boat	-	-	-	-	boat <10.83>	-	-	-	-	-	boat <107>	-	-	-	-
+313	insect	-	-	-	-	insect <3.81>	-	-	-	-	-	insect, bug, vermin <59>	-	-	-	-
+314	six	Six <202>	-	-	-	-	-	-	-	-	-	six <124>	-	-	-	-
+315	dead	to die, be dead <75>	-	-	dead <15>	-	-	-	-	-	-	-	-	-	-	-
+316	male	man/male <54>	-	-	-	male <2.23>	-	-	-	-	-	-	-	-	-	-
+317	breath	-	-	-	-	breathe, breath <4.51>	-	-	-	-	-	breath/life <39>	-	-	-	-
+318	silver	-	-	-	-	silver <9.65>	-	-	-	-	-	silver <95>	-	-	-	-
+319	put (V)	-	-	-	-	put <12.12>	-	-	-	-	-	put, place <199>	-	-	-	-
+320	eight	Eight <204>	-	-	-	-	-	-	-	-	-	eight <125>	-	-	-	-
+321	itch	-	-	-	-	itch <4.854>	-	-	-	-	-	itchy <156>	-	-	-	-
+322	left	-	-	-	-	left (side) <12.42>	-	-	-	-	-	-	-	-	left <70>	-
+323	spit	-	-	-	-	spit <4.56>	-	-	-	-	-	spit <21>	-	-	-	-
+324	saliva	-	spit (N) <78>	-	-	-	-	-	-	-	-	-	-	-	saliva <34>	-
+325	weave (V)	-	-	-	-	weave, plait <9.75>	-	-	-	-	-	waeve <193>	-	-	-	-
+326	finger	-	-	-	-	finger <4.34>	-	-	-	-	-	finger/toe <27>	-	-	-	-
+327	rock	-	-	-	-	stone, rock <1.44>	-	-	-	-	stone/rock <27>	-	-	-	-	-
+328	rib	-	rib <64>	-	-	rib <4.162>	-	-	-	-	-	-	-	-	-	-
+329	nephew	-	-	-	-	nephew <2.53>	-	-	-	-	-	grandchild (nephew) <44>	-	-	-	-
+330	fur	-	-	-	-	fur <6.28>	-	-	-	-	-	-	-	-	fur <31>	-
+331	beat (V)	to pound, beat <93>	-	-	-	-	-	-	-	-	to hit/beat <36>	-	-	-	-	-
+332	throat	-	throat <86>	-	-	throat <4.29>	-	-	-	-	-	-	-	-	-	-
+333	it	-	-	-	-	he/she/it <2.93>	-	-	-	-	3SG pronoun <35>	-	-	-	-	-
+334	scrape (V)	-	-	-	-	scrape <5.48>	-	-	-	-	-	scratch(scrape <182>	-	-	-	-
+335	do (V)	-	-	-	-	do, make <9.11>	-	-	-	-	to do/make <25>	-	-	-	-	-
+336	female	woman/female <55>	-	-	-	female (adj) <3.13>	-	-	-	-	-	-	-	-	-	-
+337	make (V)	-	-	-	-	do, make <9.11>	-	-	-	-	to do/make <25>	-	-	-	-	-
+338	extinguish (V)	-	-	-	-	extinguish <1.861>	-	-	-	-	-	extinguish <188>	-	-	-	-
+339	chew (V)	to chew <38>	-	-	-	chew <5.18>	-	-	-	-	-	-	-	-	-	-
+340	bee	-	-	-	-	bee <3.82>	-	-	-	-	-	bee <60>	-	-	-	-
+341	hair (body)	-	-	-	-	body hair <4.144>	-	-	-	-	-	hair(body) <11>	-	-	-	-
+342	flee (V)	-	-	-	-	flee <10.51>	-	-	-	-	-	run/flee <142>	-	-	-	-
+343	let go (V)	-	-	-	-	release, let go <11.34>	-	-	-	-	-	let go; set free; loosen <187>	-	-	-	-
+344	yesterday	-	-	-	-	yesterday <14.49>	-	-	-	-	yesterday <41>	-	-	-	-	-
+345	sell (V)	-	-	-	-	sell <11.82>	-	-	-	-	-	sell <198>	-	-	-	-
+346	blunt	dull, blunt <82>	-	-	-	blunt, dull <15.79>	-	-	-	-	-	-	-	-	-	-
+347	pound (V)	to pound, beat <93>	-	-	-	pound with fist <9.211>	-	-	-	-	-	-	-	-	-	-
+348	flow	-	-	-	-	flow <10.32>	-	-	-	-	-	-	-	-	flow <18>	-
+349	spider	spider <110>	-	-	-	spider <3.818>	-	-	-	-	-	-	-	-	-	-
+350	hide (V)	to hide <171>	-	-	-	-	-	-	-	-	-	hide <141>	-	-	-	-
+351	plant	to plant <84>	-	-	-	plant (vb) <8.531>	-	-	-	-	-	-	-	-	-	-
+352	woods	woods/forest <127>	-	-	-	woods, forest <1.41>	-	-	-	-	-	-	-	-	-	-
+353	shadow	-	-	-	-	shade, shadow <1.63>	-	-	-	-	shade/shadow <92>	-	-	-	-	-
+354	east	-	east <19>	-	-	east <12.45>	-	-	-	-	-	-	-	-	-	-
+355	thatch	thatch/roof <62>	-	-	-	thatch <7.52>	-	-	-	-	-	-	-	-	-	-
+356	tear	-	-	-	tear (noun) <13>	tear (noun) <16.38>	-	-	-	-	-	-	-	-	-	-
+357	fear	to fear <22>	-	-	-	-	-	-	-	-	-	-	-	-	fear <91>	-
+358	pig	-	-	-	-	pig <3.35>	-	-	-	-	-	pig <63>	-	-	-	-
+359	chin	-	chin <127>	-	-	chin <4.209>	-	-	-	-	-	-	-	-	-	-
+360	yam	-	yam <148>	-	-	yam <8.912>	-	-	-	-	-	-	-	-	-	-
+361	choose (V)	to choose <85>	-	-	-	choose <16.622>	-	-	-	-	-	-	-	-	-	-
+362	forget (V)	-	-	-	-	forget <17.32>	-	-	-	-	-	forget <147>	-	-	-	-
+363	monkey	-	-	-	-	monkey <3.76>	-	-	-	-	-	monkey <62>	-	-	-	-
+364	life	-	-	-	-	live, living, life <4.74>	-	-	-	-	-	breath/life <39>	-	-	-	-
+365	bean	-	-	-	-	bean <5.66>	-	-	-	-	-	peas, beans <47>	-	-	-	-
+366	lick (V)	-	-	-	-	lick <4.59>	-	-	-	-	-	lick <180>	-	-	-	-
+367	hold	-	-	-	-	hold <11.15>	-	-	-	-	-	-	-	-	hold <93>	-
+368	crush (V)	-	-	-	-	crush, grind <5.56>	-	-	-	-	to crush/grind <100>	-	-	-	-	-
+369	hair (head)	-	head hair <40>	-	-	-	-	-	-	-	-	hair(head) <10>	-	-	-	-
+370	hide	-	-	-	-	skin, hide <4.12>	-	-	-	-	skin/hide <68>	-	-	-	-	-
+371	lip	-	-	-	-	lip <4.25>	-	-	-	-	-	-	-	-	lip <30>	-
+372	fight (V)	-	-	-	-	-	to fight <111>	-	-	-	-	-	-	-	-	to fight <48>
+373	horse	-	-	-	-	horse (equine) <3.41>	-	-	-	-	-	horse <66>	-	-	-	-
+374	penis	-	-	-	-	penis <4.492>	-	-	-	-	-	penis <29>	-	-	-	-
+375	today	-	now, today <60>	-	-	today <14.47>	-	-	-	-	-	-	-	-	-	-
+376	carry (V)	-	-	-	-	carry (bear) <10.61>	-	-	-	-	to carry <70>	-	-	-	-	-
+377	toe	-	-	-	-	toe <4.38>	-	-	-	-	-	finger/toe <27>	-	-	-	-
+378	axe	-	axe <126>	-	-	ax <9.25>	-	-	-	-	-	-	-	-	-	-
+379	armpit	-	armpit <1>	-	-	armpit <4.312>	-	-	-	-	-	-	-	-	-	-
+380	bite	-	bite <5>	-	-	bite <4.58>	-	-	-	-	-	-	-	-	-	-
+381	cry (V)	to cry <34>	to cry <14>	-	-	-	-	-	-	-	-	-	-	-	-	-
+382	hew (V)	-	-	-	-	chop, hew <9.222>	-	-	-	-	-	-	-	-	-	-
+383	bright	-	-	-	-	bright <15.57>	-	-	-	-	-	-	-	-	-	-
+384	cast (V)	-	-	-	-	cast (metals) <9.63>	-	-	-	-	-	-	-	-	-	-
+385	catch (V)	-	-	-	-	catch (ball) <10.252>	-	-	-	-	-	-	-	-	-	-
+386	yes	-	-	-	-	yes, affirmative <17.55>	-	-	-	-	-	-	-	-	-	-
+387	attack (V)	-	-	-	-	attack <20.43>	-	-	-	-	-	-	-	-	-	-
+388	gut	-	-	-	-	intestines, guts <4.461>	-	-	-	-	-	-	-	-	-	-
+389	emerge (V)	-	-	-	-	-	-	-	-	-	-	emerge <143>	-	-	-	-
+390	urine	-	urine <92>	-	-	-	-	-	-	-	-	-	-	-	-	-
+391	shelf	-	-	-	-	shelf <7.47>	-	-	-	-	-	-	-	-	-	-
+392	hungry	-	hungry <44>	-	-	-	-	-	-	-	-	-	-	-	-	-
+393	corn	-	-	-	-	maize, corn <8.47>	-	-	-	-	-	-	-	-	-	-
+394	nit	-	-	-	-	nit (louse egg) <3.812>	-	-	-	-	-	-	-	-	-	-
+395	raft	-	-	-	-	raft <10.84>	-	-	-	-	-	-	-	-	-	-
+396	subject	-	-	-	-	citizen, subject <19.37>	-	-	-	-	-	-	-	-	-	-
+397	soup	-	-	-	-	soup, broth <5.64>	-	-	-	-	-	-	-	-	-	-
+398	defeat (V)	-	-	-	-	defeat <20.42>	-	-	-	-	-	-	-	-	-	-
+399	grandson	-	-	-	-	grandson <2.48>	-	-	-	-	-	-	-	-	-	-
+400	always	-	-	-	-	always <14.31>	-	-	-	-	-	-	-	-	-	-
+401	world	-	-	-	-	world <1.1>	-	-	-	-	-	-	-	-	-	-
+402	fireplace	-	-	-	-	fireplace <7.31>	-	-	-	-	-	-	-	-	-	-
+403	bow	-	-	-	-	-	-	-	-	-	-	bow <106>	-	-	-	-
+404	burst open (V)	to open, uncover <92>	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+405	brick	-	-	-	-	adobe <7.64>	-	-	-	-	-	-	-	-	-	-
+406	bridge	-	-	-	-	bridge <10.74>	-	-	-	-	-	-	-	-	-	-
+407	clothing	-	-	-	-	clothing, clothes <6.12>	-	-	-	-	-	-	-	-	-	-
+408	crooked	-	-	-	-	crooked <12.74>	-	-	-	-	-	-	-	-	-	-
+409	food	-	-	-	-	food <5.12>	-	-	-	-	-	-	-	-	-	-
+410	cheese	-	-	-	-	cheese <5.88>	-	-	-	-	-	-	-	-	-	-
+411	hurry (V)	-	-	-	-	hasten, hurry <14.23>	-	-	-	-	-	-	-	-	-	-
+412	wake up (V)	-	-	-	-	wake up <4.63>	-	-	-	-	-	-	-	-	-	-
+413	bald	-	-	-	-	bald <4.93>	-	-	-	-	-	-	-	-	-	-
+414	twice	-	-	-	-	two times <13.38>	-	-	-	-	-	-	-	-	-	-
+415	river	-	-	-	-	river, stream, brook <1.36>	-	-	-	-	-	-	-	-	-	-
+416	tent	-	-	-	-	tent <7.14>	-	-	-	-	-	-	-	-	-	-
+417	rescue (V)	-	-	-	-	save, rescue <11.25>	-	-	-	-	-	-	-	-	-	-
+418	read (V)	-	-	-	-	read <18.52>	-	-	-	-	-	-	-	-	-	-
+419	drown (V)	-	-	-	-	drowned <4.751>	-	-	-	-	-	-	-	-	-	-
+420	painful sensation	painful, sick <160>	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+421	famine	-	-	-	-	famine <5.141>	-	-	-	-	-	-	-	-	-	-
+422	waterfall	-	-	-	-	waterfall <1.39>	-	-	-	-	-	-	-	-	-	-
+423	shield	-	shield <124>	-	-	-	-	-	-	-	-	-	-	-	-	-
+424	button	-	-	-	-	button <6.62>	-	-	-	-	-	-	-	-	-	-
+425	wave	-	-	-	-	wave <1.35>	-	-	-	-	-	-	-	-	-	-
+426	change (V)	-	-	-	-	change <12.93>	-	-	-	-	-	-	-	-	-	-
+427	father's sister	-	-	-	-	father's sister <2.522>	-	-	-	-	-	-	-	-	-	-
+428	few	-	-	-	-	little (quantity), few <13.17>	-	-	-	-	-	-	-	-	-	-
+429	sheep	-	-	-	-	sheep <3.25>	-	-	-	-	-	-	-	-	-	-
+430	sieve (V)	-	-	-	-	sieve, strain <5.47>	-	-	-	-	-	-	-	-	-	-
+431	pain	-	-	-	-	pain <16.31>	-	-	-	-	-	-	-	-	-	-
+432	sap	-	-	-	-	sap <8.76>	-	-	-	-	-	-	-	-	-	-
+433	explain (V)	-	-	-	-	explain <17.38>	-	-	-	-	-	-	-	-	-	-
+434	shoot	shoot <70>	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+435	up	-	-	-	-	up, above <12.8>	-	-	-	-	-	-	-	-	-	-
+436	good	-	-	-	-	fragrant, good smelling <15.25>	-	-	-	-	-	-	-	-	-	-
+437	scream (V)	-	-	-	-	shriek, screech <18.18>	-	-	-	-	-	-	-	-	-	-
+438	evening	-	-	-	-	evening <14.46>	-	-	-	-	-	-	-	-	-	-
+439	kindle (V)	-	-	-	-	light, kindle, ignite <1.86>	-	-	-	-	-	-	-	-	-	-
+440	mould (V)	-	-	-	-	mold (clay etc) <9.72>	-	-	-	-	-	-	-	-	-	-
+441	cord	-	-	-	-	rope, cord <9.19>	-	-	-	-	-	-	-	-	-	-
+442	jealousy	-	-	-	-	envy, jealousy <16.44>	-	-	-	-	-	-	-	-	-	-
+443	field	-	-	-	-	field (for cultivation) <8.12>	-	-	-	-	-	-	-	-	-	-
+444	skin	-	-	-	-	skin, hide <4.12>	-	-	-	-	-	-	-	-	-	-
+445	nut	-	-	-	-	nut <5.77>	-	-	-	-	-	-	-	-	-	-
+446	paddle	-	-	-	-	paddle (noun) <10.851>	-	-	-	-	-	-	-	-	-	-
+447	ocean	-	-	-	-	ocean <1.329>	-	-	-	-	-	-	-	-	-	-
+448	sorrow	-	-	-	-	grief, sorrow, sadness <16.32>	-	-	-	-	-	-	-	-	-	-
+449	broth	-	-	-	-	soup, broth <5.64>	-	-	-	-	-	-	-	-	-	-
+450	hope	-	-	-	-	hope <16.63>	-	-	-	-	-	-	-	-	-	-
+451	sure	-	-	-	-	sure, certain <17.37>	-	-	-	-	-	-	-	-	-	-
+452	gnat	-	-	-	-	sandfly (midge), gnat <3.831>	-	-	-	-	-	-	-	-	-	-
+453	leather	-	-	-	-	leather <6.29>	-	-	-	-	-	-	-	-	-	-
+454	smell	-	-	-	-	fragrant, good smelling <15.25>	-	-	-	-	-	-	-	-	-	-
+455	hawk	-	-	-	-	hawk <3.585>	-	-	-	-	-	-	-	-	-	-
+456	precipice	-	-	-	-	cliff, precipice <1.222>	-	-	-	-	-	-	-	-	-	-
+457	sweat	-	-	-	-	-	-	-	-	-	-	sweat <35>	-	-	-	-
+458	long time	-	-	-	-	long-time (for a) <14.332>	-	-	-	-	-	-	-	-	-	-
+459	weapon	-	-	-	-	weapons, arms <20.21>	-	-	-	-	-	-	-	-	-	-
+460	crawl (V)	-	-	-	-	creep, crawl <10.41>	-	-	-	-	-	-	-	-	-	-
+461	ring	-	-	-	-	ring (for finger) <6.73>	-	-	-	-	-	-	-	-	-	-
+462	in	-	-	-	-	inside, in <12.5>	-	-	-	-	-	-	-	-	-	-
+463	flour	-	-	-	-	meal, flour <5.55>	-	-	-	-	-	-	-	-	-	-
+464	room	-	-	-	-	room <7.21>	-	-	-	-	-	-	-	-	-	-
+465	bend	-	-	-	-	bend <9.14>	-	-	-	-	-	-	-	-	-	-
+466	approach (V)	-	-	-	-	approach <10.56>	-	-	-	-	-	-	-	-	-	-
+467	hasten (V)	-	-	-	-	hasten, hurry <14.23>	-	-	-	-	-	-	-	-	-	-
+468	boomerang	-	boomerang <123>	-	-	-	-	-	-	-	-	-	-	-	-	-
+469	place	-	-	-	-	place <12.11>	-	-	-	-	-	-	-	-	-	-
+470	tongs	-	-	-	-	tongs <5.391>	-	-	-	-	-	-	-	-	-	-
+471	gape (V)	-	-	-	-	yawn, gape <4.52>	-	-	-	-	-	-	-	-	-	-
+472	shine (V)	-	-	-	-	seem <17.18>	-	-	-	-	-	-	-	-	-	-
+473	older brother	-	-	-	-	older brother <2.444>	-	-	-	-	-	-	-	-	-	-
+474	flat	-	-	-	-	flat <12.71>	-	-	-	-	-	-	-	-	-	-
+475	nostril	-	-	-	-	nostril <4.231>	-	-	-	-	-	-	-	-	-	-
+476	score	-	-	-	-	-	-	-	-	-	-	twenty/score <115>	-	-	-	-
+477	swift	-	-	-	-	swift, fast, quick <14.21>	-	-	-	-	-	-	-	-	-	-
+478	glad	-	-	-	-	joyful, glad, happy <16.23>	-	-	-	-	-	-	-	-	-	-
+479	intention	-	-	-	-	intention, purpose <17.41>	-	-	-	-	-	-	-	-	-	-
+480	blanket	-	-	-	-	blanket <7.422>	-	-	-	-	-	-	-	-	-	-
+481	broom	-	-	-	-	broom <9.38>	-	-	-	-	-	-	-	-	-	-
+482	dye (V)	-	-	-	-	dye <6.39>	-	-	-	-	-	-	-	-	-	-
+483	light 2	-	-	-	-	light (in color) <15.62>	-	-	-	-	-	-	-	-	-	-
+484	carve (V)	-	-	-	-	carve <9.81>	-	-	-	-	-	-	-	-	-	-
+485	pubic hair	-	-	-	-	pubic hair <4.145>	-	-	-	-	-	-	-	-	-	-
+486	chief	-	-	-	-	chief, chieftain <19.24>	-	-	-	-	-	-	-	-	-	-
+487	ill	-	-	-	-	-	-	-	-	-	-	ill <154>	-	-	-	-
+488	time	-	-	-	-	time <14.11>	-	-	-	-	-	-	-	-	-	-
+489	sound	-	-	-	-	sound, noise <15.44>	-	-	-	-	-	-	-	-	-	-
+490	sugar	-	-	-	-	sugar cane <8.941>	-	-	-	-	-	-	-	-	-	-
+491	paint (V)	-	-	-	-	paint (noun) <9.88>	-	-	-	-	-	-	-	-	-	-
+492	mow (V)	-	-	-	-	mow, reap <8.32>	-	-	-	-	-	-	-	-	-	-
+493	piece	-	-	-	-	part, piece <13.23>	-	-	-	-	-	-	-	-	-	-
+494	parrot	-	-	-	-	parrot <3.592>	-	-	-	-	-	-	-	-	-	-
+495	float	-	-	-	-	float <10.34>	-	-	-	-	-	-	-	-	-	-
+496	pawn	-	-	-	-	farmer <8.11>	-	-	-	-	-	-	-	-	-	-
+497	hot	-	-	-	-	hot <15.85>	-	-	-	-	-	-	-	-	-	-
+498	aunt	-	-	-	-	aunt <2.52>	-	-	-	-	-	-	-	-	-	-
+499	foal	-	-	-	-	foal, colt <3.45>	-	-	-	-	-	-	-	-	-	-
+500	send (V)	-	-	-	-	send <10.63>	-	-	-	-	-	-	-	-	-	-
+501	rye	-	-	-	-	rye <8.45>	-	-	-	-	-	-	-	-	-	-
+502	crow	-	-	-	-	crow <3.593>	-	-	-	-	-	-	-	-	-	-
+503	court	-	-	-	-	yard, court <7.15>	-	-	-	-	-	-	-	-	-	-
+504	yawn (V)	to yawn <47>	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+505	gourd	-	-	-	-	gourd <8.93>	-	-	-	-	-	-	-	-	-	-
+506	insane	-	-	-	-	insane, crazy <17.23>	-	-	-	-	-	-	-	-	-	-
+507	embers	-	-	-	-	embers <1.841>	-	-	-	-	-	-	-	-	-	-
+508	guard	-	-	-	-	guard, sentinel <20.471>	-	-	-	-	-	-	-	-	-	-
+509	bull	-	-	-	-	bull <3.21>	-	-	-	-	-	-	-	-	-	-
+510	dance	-	-	-	-	dance <10.44>	-	-	-	-	-	-	-	-	-	-
+511	hut	-	-	-	-	hut <7.13>	-	-	-	-	-	-	-	-	-	-
+512	roll	-	-	-	-	roll <10.15>	-	-	-	-	-	-	-	-	-	-
+513	honey	-	-	-	-	honey <5.84>	-	-	-	-	-	-	-	-	-	-
+514	bind (V)	-	-	-	-	tie, bind <9.16>	-	-	-	-	-	-	-	-	-	-
+515	infant	-	-	-	-	infant, baby <2.28>	-	-	-	-	-	-	-	-	-	-
+516	break (V)	-	-	-	-	break <9.26>	-	-	-	-	-	-	-	-	-	-
+517	swear (V)	-	-	-	-	swear <21.24>	-	-	-	-	-	-	-	-	-	-
+518	midday	-	-	-	-	noon, midday <14.45>	-	-	-	-	-	-	-	-	-	-
+519	cousin	-	-	-	-	cousin <2.55>	-	-	-	-	-	-	-	-	-	-
+520	row	-	-	-	-	row (vb) <10.852>	-	-	-	-	-	-	-	-	-	-
+521	bare	-	-	-	-	naked, bare <4.99>	-	-	-	-	-	-	-	-	-	-
+522	egg yolk	-	-	-	-	egg yolk <5.971>	-	-	-	-	-	-	-	-	-	-
+523	door	-	-	-	-	door, gate <7.22>	-	-	-	-	-	-	-	-	-	-
+524	stone	-	-	-	-	stone, rock <1.44>	-	-	-	-	-	-	-	-	-	-
+525	teach (V)	-	-	-	-	teach <17.25>	-	-	-	-	-	-	-	-	-	-
+526	light (V)	-	-	-	-	light, kindle, ignite <1.86>	-	-	-	-	-	-	-	-	-	-
+527	reach (V)	-	-	-	-	reach, arrive <10.55>	-	-	-	-	-	-	-	-	-	-
+528	god	-	-	-	-	God <22.12>	-	-	-	-	-	-	-	-	-	-
+529	astonish	-	-	-	-	surprised, astonished <16.15>	-	-	-	-	-	-	-	-	-	-
+530	nothing	-	-	-	-	zero, nothing <13.0>	-	-	-	-	-	-	-	-	-	-
+531	announce (V)	-	-	-	-	announce <18.43>	-	-	-	-	-	-	-	-	-	-
+532	cheek	-	-	-	-	cheek <4.208>	-	-	-	-	-	-	-	-	-	-
+533	calm	-	-	-	-	calm (of sea) <1.322>	-	-	-	-	-	-	-	-	-	-
+534	first	-	-	-	-	first <13.34>	-	-	-	-	-	-	-	-	-	-
+535	cap	-	-	-	-	hat, cap <6.55>	-	-	-	-	-	-	-	-	-	-
+536	fold	-	-	-	-	fold <9.15>	-	-	-	-	-	-	-	-	-	-
+537	latch	-	-	-	-	latch, door-bolt <7.231>	-	-	-	-	-	-	-	-	-	-
+538	end	-	-	-	-	end (temporal) <14.26>	-	-	-	-	-	-	-	-	-	-
+539	circle	-	-	-	-	circle <12.82>	-	-	-	-	-	-	-	-	-	-
+540	wrong	-	-	-	-	wrong <16.74>	-	-	-	-	-	-	-	-	-	-
+541	lock 1	-	-	-	-	lock (noun) <7.23>	-	-	-	-	-	-	-	-	-	-
+542	guess (V)	-	-	-	-	guess <17.171>	-	-	-	-	-	-	-	-	-	-
+543	pointed	-	-	-	-	pointed <12.352>	-	-	-	-	-	-	-	-	-	-
+544	set free (V)	-	-	-	-	-	-	-	-	-	-	let go; set free; loosen <187>	-	-	-	-
+545	wise	-	-	-	-	wise <17.21>	-	-	-	-	-	-	-	-	-	-
+546	tired	-	-	-	-	tired, weary <4.91>	-	-	-	-	-	-	-	-	-	-
+547	window	-	-	-	-	window <7.25>	-	-	-	-	-	-	-	-	-	-
+548	girdle	-	-	-	-	belt, girdle <6.57>	-	-	-	-	-	-	-	-	-	-
+549	drop	-	-	-	-	drop (vb) <10.16>	-	-	-	-	-	-	-	-	-	-
+550	tool	-	-	-	-	tool <9.422>	-	-	-	-	-	-	-	-	-	-
+551	dive (V)	-	-	-	-	dive <10.351>	-	-	-	-	-	-	-	-	-	-
+552	aid (V)	-	-	-	-	help, aid <19.58>	-	-	-	-	-	-	-	-	-	-
+553	damp	-	-	-	-	wet, damp <15.83>	-	-	-	-	-	-	-	-	-	-
+554	scold (V)	-	-	-	-	rebuke, scold <18.39>	-	-	-	-	-	-	-	-	-	-
+555	ram	-	-	-	-	ram <3.26>	-	-	-	-	-	-	-	-	-	-
+556	fungus	-	-	-	-	-	-	-	-	-	-	mushroom/fungus <49>	-	-	-	-
+557	post	-	-	-	-	post, pole <7.56>	-	-	-	-	-	-	-	-	-	-
+558	begin (V)	-	-	-	-	begin, beginning <14.25>	-	-	-	-	-	-	-	-	-	-
+559	feel (V)	-	-	-	-	feel <15.72>	-	-	-	-	-	-	-	-	-	-
+560	crop 1	-	-	-	-	goiter <4.842>	-	-	-	-	-	-	-	-	-	-
+561	gill	-	-	-	-	gill <3.654>	-	-	-	-	-	-	-	-	-	-
+562	die (V)	-	-	-	-	die, dead <4.75>	-	-	-	-	-	-	-	-	-	-
+563	embrace (V)	-	-	-	-	embrace <16.3>	-	-	-	-	-	-	-	-	-	-
+564	key	-	-	-	-	key <7.24>	-	-	-	-	-	-	-	-	-	-
+565	shoulderblade	-	-	-	-	shoulderblade <4.301>	-	-	-	-	-	-	-	-	-	-
+566	dish	-	-	-	-	dish <5.31>	-	-	-	-	-	-	-	-	-	-
+567	stable 1	-	-	-	-	stable, stall <3.19>	-	-	-	-	-	-	-	-	-	-
+568	again	-	-	-	-	again <14.35>	-	-	-	-	-	-	-	-	-	-
+569	money	-	-	-	-	money <11.43>	-	-	-	-	-	-	-	-	-	-
+570	kneel (V)	-	-	-	-	kneel <10.412>	-	-	-	-	-	-	-	-	-	-
+571	daughter	-	-	-	-	daughter <2.42>	-	-	-	-	-	-	-	-	-	-
+572	mat	-	-	-	-	mat <9.77>	-	-	-	-	-	-	-	-	-	-
+573	yoke	-	-	-	-	yoke <10.78>	-	-	-	-	-	-	-	-	-	-
+574	statue	-	-	-	-	statue <9.83>	-	-	-	-	-	-	-	-	-	-
+575	evil	bad, evil <165>	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+576	tell (V)	-	-	-	-	tell story <18.221>	-	-	-	-	-	-	-	-	-	-
+577	laugh	-	-	-	-	laugh <16.25>	-	-	-	-	-	-	-	-	-	-
+578	stepfather	-	-	-	-	stepfather <2.71>	-	-	-	-	-	-	-	-	-	-
+579	strike (V)	-	-	-	-	strike (hit, beat) <9.21>	-	-	-	-	-	-	-	-	-	-
+580	sink (V)	-	-	-	-	sink <10.33>	-	-	-	-	-	-	-	-	-	-
+581	temple 1	-	-	-	-	temple, church <22.13>	-	-	-	-	-	-	-	-	-	-
+582	carriage	-	-	-	-	carriage, wagon, cart <10.75>	-	-	-	-	-	-	-	-	-	-
+583	deep	-	-	-	-	deep <12.67>	-	-	-	-	-	-	-	-	-	-
+584	fragrant	-	-	-	-	fragrant, good smelling <15.25>	-	-	-	-	-	-	-	-	-	-
+585	hate	-	-	-	-	hate <16.41>	-	-	-	-	-	-	-	-	-	-
+586	conceal (V)	-	-	-	-	hide, conceal <12.27>	-	-	-	-	-	-	-	-	-	-
+587	omen	-	-	-	-	omen, portent <22.47>	-	-	-	-	-	-	-	-	-	-
+588	sore	-	-	-	-	wound, sore <4.85>	-	-	-	-	-	-	-	-	-	-
+589	torch	-	-	-	-	lamp, torch <7.45>	-	-	-	-	-	-	-	-	-	-
+590	skull	-	-	-	-	skull <4.202>	-	-	-	-	-	-	-	-	-	-
+591	firefly	-	-	-	-	firefly <3.91>	-	-	-	-	-	-	-	-	-	-
+592	well 2	-	-	-	-	spring, well <1.37>	-	-	-	-	-	-	-	-	-	-
+593	oats	-	-	-	-	oats <8.46>	-	-	-	-	-	-	-	-	-	-
+594	charcoal	-	-	-	-	charcoal <1.89>	-	-	-	-	-	-	-	-	-	-
+595	cattle	-	-	-	-	cattle (bovine) <3.2>	-	-	-	-	-	-	-	-	-	-
+596	bread	-	-	-	-	bread <5.51>	-	-	-	-	-	-	-	-	-	-
+597	borrow	-	-	-	-	borrow <11.62>	-	-	-	-	-	-	-	-	-	-
+598	suspect (V)	-	-	-	-	suspect <17.44>	-	-	-	-	-	-	-	-	-	-
+599	spin (V)	-	-	-	-	spin <6.31>	-	-	-	-	-	-	-	-	-	-
+600	danger	-	-	-	-	danger <16.54>	-	-	-	-	-	-	-	-	-	-
+601	pair	-	-	-	-	pair <13.37>	-	-	-	-	-	-	-	-	-	-
+602	reap (V)	-	-	-	-	mow, reap <8.32>	-	-	-	-	-	-	-	-	-	-
+603	canoe	-	-	-	-	canoe <10.831>	-	-	-	-	-	-	-	-	-	-
+604	part	-	-	-	-	part, piece <13.23>	-	-	-	-	-	-	-	-	-	-
+605	turtle	-	-	-	-	turtle <3.98>	-	-	-	-	-	-	-	-	-	-
+606	ditch	-	-	-	-	ditch <8.17>	-	-	-	-	-	-	-	-	-	-
+607	blame	-	-	-	-	blame <16.78>	-	-	-	-	-	-	-	-	-	-
+608	price	-	-	-	-	price <11.87>	-	-	-	-	-	-	-	-	-	-
+609	snail	-	-	-	-	snail <3.94>	-	-	-	-	-	-	-	-	-	-
+610	stall	-	-	-	-	stable, stall <3.19>	-	-	-	-	-	-	-	-	-	-
+611	knife	-	-	-	-	knife <5.38>	-	-	-	-	-	-	-	-	-	-
+612	all	-	-	-	-	every, all <13.14>	-	-	-	-	-	-	-	-	-	-
+613	join (V)	-	-	-	-	join, unite <12.22>	-	-	-	-	-	-	-	-	-	-
+614	pelican	-	pelican <131>	-	-	-	-	-	-	-	-	-	-	-	-	-
+615	taste	-	-	-	-	taste <15.31>	-	-	-	-	-	-	-	-	-	-
+616	fry (V)	-	-	-	-	roast, fry <5.23>	-	-	-	-	-	-	-	-	-	-
+617	ornament	-	-	-	-	ornament, adornment <6.71>	-	-	-	-	-	-	-	-	-	-
+618	bake (V)	-	-	-	-	bake <5.24>	-	-	-	-	-	-	-	-	-	-
+619	pandanus	-	pandanus <150>	-	-	-	-	-	-	-	-	-	-	-	-	-
+620	turn over (V)	-	-	-	-	turn over <10.12>	-	-	-	-	-	-	-	-	-	-
+621	handkerchief	-	-	-	-	handkerchief, rag <6.81>	-	-	-	-	-	-	-	-	-	-
+622	request (V)	-	-	-	-	ask, request <18.35>	-	-	-	-	-	-	-	-	-	-
+623	half	-	-	-	-	half <13.24>	-	-	-	-	-	-	-	-	-	-
+624	right side	-	-	-	-	right (side) <12.41>	-	-	-	-	-	-	-	-	-	-
+625	slip (V)	-	-	-	-	slide, slip <10.42>	-	-	-	-	-	-	-	-	-	-
+626	dream (V)	-	-	-	-	-	-	-	-	-	-	dream <148>	-	-	-	-
+627	cave	-	-	-	-	cave <1.28>	-	-	-	-	-	-	-	-	-	-
+628	middle	-	-	-	-	middle, center <12.37>	-	-	-	-	-	-	-	-	-	-
+629	rest	-	-	-	-	rest <4.912>	-	-	-	-	-	-	-	-	-	-
+630	oil	-	-	-	-	oil <5.79>	-	-	-	-	-	-	-	-	-	-
+631	deaf	-	-	-	-	deaf <4.95>	-	-	-	-	-	-	-	-	-	-
+632	father's brother	-	-	-	-	father's brother <2.512>	-	-	-	-	-	-	-	-	-	-
+633	unite (V)	-	-	-	-	join, unite <12.22>	-	-	-	-	-	-	-	-	-	-
+634	fall down (V)	-	-	-	-	-	-	-	-	-	-	fall (from a height) <137>	-	-	-	-
+635	shirt	-	-	-	-	shirt <6.44>	-	-	-	-	-	-	-	-	-	-
+636	palm	-	-	-	-	-	-	-	-	-	-	palm <28>	-	-	-	-
+637	cultivate (V)	-	-	-	-	cultivate, till <8.15>	-	-	-	-	-	-	-	-	-	-
+638	dinner	-	-	-	-	dinner <5.44>	-	-	-	-	-	-	-	-	-	-
+639	bad	-	-	-	-	misfortune, bad luck <16.19>	-	-	-	-	-	-	-	-	-	-
+640	span	-	-	-	-	span, fathom <12.541>	-	-	-	-	-	-	-	-	-	-
+641	mother-in-law	-	-	-	-	mother-in-law (of a woman) <2.621>	-	-	-	-	-	-	-	-	-	-
+642	strong	-	-	-	-	strong, mighty, powerful <4.81>	-	-	-	-	-	-	-	-	-	-
+643	destroy (V)	-	-	-	-	destroy <11.27>	-	-	-	-	-	-	-	-	-	-
+644	square	-	-	-	-	square <12.78>	-	-	-	-	-	-	-	-	-	-
+645	staff	-	-	-	-	staff, walking stick <19.25>	-	-	-	-	-	-	-	-	-	-
+646	spear (V)	-	to spear <108>	-	-	-	-	-	-	-	-	-	-	-	-	-
+647	winter	-	-	-	-	winter <14.74>	-	-	-	-	-	-	-	-	-	-
+648	stove	-	-	-	-	stove <7.32>	-	-	-	-	-	-	-	-	-	-
+649	splash (V)	-	-	-	-	splash <10.352>	-	-	-	-	-	-	-	-	-	-
+650	cat	-	-	-	-	cat <3.62>	-	-	-	-	-	-	-	-	-	-
+651	clothes	-	-	-	-	clothing, clothes <6.12>	-	-	-	-	-	-	-	-	-	-
+652	go down (V)	-	-	-	-	go down <10.473>	-	-	-	-	-	-	-	-	-	-
+653	fan	-	-	-	-	fan (noun) <9.79>	-	-	-	-	-	-	-	-	-	-
+654	line	-	-	-	-	line <12.84>	-	-	-	-	-	-	-	-	-	-
+655	dawn	-	-	-	-	dawn <14.43>	-	-	-	-	-	-	-	-	-	-
+656	shiver (V)	-	-	-	-	shiver <4.68>	-	-	-	-	-	-	-	-	-	-
+657	top	-	-	-	-	top <12.33>	-	-	-	-	-	-	-	-	-	-
+658	nettle	-	-	-	-	nettle <8.97>	-	-	-	-	-	-	-	-	-	-
+659	anger	-	-	-	-	anger <16.42>	-	-	-	-	-	-	-	-	-	-
+660	learn (V)	-	-	-	-	learn <17.24>	-	-	-	-	-	-	-	-	-	-
+661	one	-	-	-	-	one <13.1>	-	-	-	-	-	-	-	-	-	-
+662	teat	-	-	-	-	nipple, teat <4.412>	-	-	-	-	-	-	-	-	-	-
+663	move (V)	-	-	-	-	move <10.11>	-	-	-	-	-	-	-	-	-	-
+664	place (V)	-	-	-	-	-	-	-	-	-	-	put, place <199>	-	-	-	-
+665	retreat (V)	-	-	-	-	retreat <20.45>	-	-	-	-	-	-	-	-	-	-
+666	drip (V)	-	-	-	-	drip <10.24>	-	-	-	-	-	-	-	-	-	-
+667	every	-	-	-	-	every, all <13.14>	-	-	-	-	-	-	-	-	-	-
+668	stop (V)	-	-	-	-	cease, stop <14.28>	-	-	-	-	-	-	-	-	-	-
+669	shop	-	-	-	-	store, shop <11.86>	-	-	-	-	-	-	-	-	-	-
+670	acid	-	-	-	-	acid, sour <15.38>	-	-	-	-	-	-	-	-	-	-
+671	ear-ring	-	-	-	-	earring <6.77>	-	-	-	-	-	-	-	-	-	-
+672	cross (V)	-	-	-	-	cross <12.77>	-	-	-	-	-	-	-	-	-	-
+673	go away (V)	-	-	-	-	go away, depart <10.49>	-	-	-	-	-	-	-	-	-	-
+674	fish poison	-	-	-	-	fish poison (root) <8.96>	-	-	-	-	-	-	-	-	-	-
+675	grasp (V)	-	-	-	-	seize, grasp <11.14>	-	-	-	-	-	-	-	-	-	-
+676	clean	-	-	-	-	clean <15.87>	-	-	-	-	-	-	-	-	-	-
+677	glass	-	-	-	-	glass <9.74>	-	-	-	-	-	-	-	-	-	-
+678	shadow	-	-	-	-	-	-	-	-	-	-	shade/shadow <97>	-	-	-	-
+679	lazy	-	-	-	-	lazy <4.92>	-	-	-	-	-	-	-	-	-	-
+680	cloth	-	-	-	-	cloth <6.21>	-	-	-	-	-	-	-	-	-	-
+681	yard	-	-	-	-	yard, court <7.15>	-	-	-	-	-	-	-	-	-	-
+682	spring 2	-	-	-	-	spring <14.75>	-	-	-	-	-	-	-	-	-	-
+683	kettle	-	-	-	-	kettle <5.27>	-	-	-	-	-	-	-	-	-	-
+684	green	-	-	-	-	green, unripe <5.124>	-	-	-	-	-	-	-	-	-	-
+685	heron	-	-	-	-	heron <3.583>	-	-	-	-	-	-	-	-	-	-
+686	fish scale	-	-	-	-	fishscale <3.653>	-	-	-	-	-	-	-	-	-	-
+687	notion	-	-	-	-	idea, notion <17.19>	-	-	-	-	-	-	-	-	-	-
+688	scar	-	-	-	-	scar <4.858>	-	-	-	-	-	-	-	-	-	-
+689	colour	-	-	-	-	color <15.61>	-	-	-	-	-	-	-	-	-	-
+690	braid	-	-	-	-	braid <6.921>	-	-	-	-	-	-	-	-	-	-
+691	squeeze (V)	-	-	-	-	squeeze, wring <9.343>	-	-	-	-	-	-	-	-	-	-
+692	nape of neck	-	-	-	-	nape of neck <4.281>	-	-	-	-	-	-	-	-	-	-
+693	speak (V)	-	-	-	-	speak, talk <18.21>	-	-	-	-	-	-	-	-	-	-
+694	stupid	-	-	-	-	foolish, stupid <17.22>	-	-	-	-	-	-	-	-	-	-
+695	grain	-	-	-	-	grain (barley, oats etc) <8.42>	-	-	-	-	-	-	-	-	-	-
+696	mead	-	-	-	-	mead <5.91>	-	-	-	-	-	-	-	-	-	-
+697	younger brother	-	-	-	-	younger brother <2.445>	-	-	-	-	-	-	-	-	-	-
+698	boot	-	-	-	-	boot <6.52>	-	-	-	-	-	-	-	-	-	-
+699	mother's brother	-	-	-	-	mother's brother <2.511>	-	-	-	-	-	-	-	-	-	-
+700	mucus	-	-	-	-	mucus (nasal) <4.232>	-	-	-	-	-	-	-	-	-	-
+701	dew	-	-	-	-	dew <1.64>	-	-	-	-	-	-	-	-	-	-
+702	flame	-	-	-	-	flame (noun) <1.82>	-	-	-	-	-	-	-	-	-	-
+703	sneeze (V)	-	-	-	-	sneeze <4.54>	-	-	-	-	-	-	-	-	-	-
+704	fox	-	-	-	-	fox <3.74>	-	-	-	-	-	-	-	-	-	-
+705	adornment	-	-	-	-	ornament, adornment <6.71>	-	-	-	-	-	-	-	-	-	-
+706	broken	-	-	-	-	broken <9.261>	-	-	-	-	-	-	-	-	-	-
+707	spider web	-	-	-	-	spider web <3.819>	-	-	-	-	-	-	-	-	-	-
+708	rudder	-	-	-	-	rudder <10.86>	-	-	-	-	-	-	-	-	-	-
+709	poor	-	-	-	-	poor <11.52>	-	-	-	-	-	-	-	-	-	-
+710	waist	-	-	-	-	waist <4.462>	-	-	-	-	-	-	-	-	-	-
+711	collect (V)	-	-	-	-	collect, gather <12.21>	-	-	-	-	-	-	-	-	-	-
+712	untie (V)	-	-	-	-	untie <9.161>	-	-	-	-	-	-	-	-	-	-
+713	marry (V)	-	-	-	-	marry <2.33>	-	-	-	-	-	-	-	-	-	-
+714	promise (V)	-	-	-	-	promise <18.36>	-	-	-	-	-	-	-	-	-	-
+715	parent	-	-	-	-	parents <2.37>	-	-	-	-	-	-	-	-	-	-
+716	relative	-	-	-	-	relatives, kinsmen <2.81>	-	-	-	-	-	-	-	-	-	-
+717	rodent	-	-	-	-	-	-	-	-	-	-	rat/rodent <69>	-	-	-	-
+718	brave	-	-	-	-	brave <16.52>	-	-	-	-	-	-	-	-	-	-
+719	cheat (V)	-	-	-	-	betray <17.441>	-	-	-	-	-	-	-	-	-	-
+720	smile (V)	-	-	-	-	smile <16.251>	-	-	-	-	-	-	-	-	-	-
+721	glue	-	-	-	-	glue <9.56>	-	-	-	-	-	-	-	-	-	-
+722	want	-	-	-	-	desire, want <16.62>	-	-	-	-	-	-	-	-	-	-
+723	happy	-	-	-	-	joyful, glad, happy <16.23>	-	-	-	-	-	-	-	-	-	-
+724	late	-	-	-	-	late <14.17>	-	-	-	-	-	-	-	-	-	-
+725	spirit	-	-	-	-	soul, spirit <16.11>	-	-	-	-	-	-	-	-	-	-
+726	govern (V)	-	-	-	-	rule, govern <19.31>	-	-	-	-	-	-	-	-	-	-
+727	share (V)	-	-	-	-	share (distribute) <11.91>	-	-	-	-	-	-	-	-	-	-
+728	comb	-	-	-	-	comb <6.91>	-	-	-	-	-	-	-	-	-	-
+729	bury (V)	-	-	-	-	bury (the dead) <4.78>	-	-	-	-	-	-	-	-	-	-
+730	touch (V)	-	-	-	-	touch <15.71>	-	-	-	-	-	-	-	-	-	-
+731	plate	-	-	-	-	plate <5.32>	-	-	-	-	-	-	-	-	-	-
+732	grape	-	-	-	-	grape <5.76>	-	-	-	-	-	-	-	-	-	-
+733	joint	-	-	-	-	-	-	-	-	-	-	joint <98>	-	-	-	-
+734	ascend (V)	-	-	-	-	-	-	-	-	-	-	climb, ascend <138>	-	-	-	-
+735	shove (V)	-	-	-	-	push, shove <10.67>	-	-	-	-	-	-	-	-	-	-
+736	bless (V)	-	-	-	-	bless <22.23>	-	-	-	-	-	-	-	-	-	-
+737	chilli-pepper	-	-	-	-	chili pepper <5.821>	-	-	-	-	-	-	-	-	-	-
+738	blind	-	-	-	-	blind <4.97>	-	-	-	-	-	-	-	-	-	-
+739	wrap (V)	-	-	-	-	wind, wrap <10.14>	-	-	-	-	-	-	-	-	-	-
+740	ask (V)	-	-	-	-	ask, request <18.35>	-	-	-	-	-	-	-	-	-	-
+741	daughter-in-law	-	-	-	-	daughter-in-law (of a woman) <2.641>	-	-	-	-	-	-	-	-	-	-
+742	wall	-	-	-	-	wall <7.27>	-	-	-	-	-	-	-	-	-	-
+743	weather	-	-	-	-	weather <1.78>	-	-	-	-	-	-	-	-	-	-
+744	he	-	-	-	-	he/she/it <2.93>	-	-	-	-	-	-	-	-	-	-
+745	neighbour	-	-	-	-	neighbor <19.54>	-	-	-	-	-	-	-	-	-	-
+746	udder	-	-	-	-	udder <4.42>	-	-	-	-	-	-	-	-	-	-
+747	cotton	-	-	-	-	cotton <6.24>	-	-	-	-	-	-	-	-	-	-
+748	be knowledgeable	to know, be knowledgeable <20>	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+749	pus	-	-	-	-	pus <4.857>	-	-	-	-	-	-	-	-	-	-
+750	thumb	-	-	-	-	thumb <4.342>	-	-	-	-	-	-	-	-	-	-
+751	fork	-	-	-	-	fork <5.39>	-	-	-	-	-	-	-	-	-	-
+752	raw	-	-	-	-	raw <5.122>	-	-	-	-	-	-	-	-	-	-
+753	sick	-	-	-	-	sick, sickness <4.84>	-	-	-	-	-	-	-	-	-	-
+754	acorn	-	-	-	-	acorn <8.66>	-	-	-	-	-	-	-	-	-	-
+755	otter	-	-	-	-	-	-	-	-	-	-	otter <65>	-	-	-	-
+756	family	-	-	-	-	family <2.82>	-	-	-	-	-	-	-	-	-	-
+757	study	-	-	-	-	study <17.242>	-	-	-	-	-	-	-	-	-	-
+758	beginning	-	-	-	-	begin, beginning <14.25>	-	-	-	-	-	-	-	-	-	-
+759	frighten (V)	-	-	-	-	-	-	-	-	-	-	fear/frighten <144>	-	-	-	-
+760	by-and-by	-	by-and-by <11>	-	-	-	-	-	-	-	-	-	-	-	-	-
+761	prevent (V)	-	-	-	-	hinder, prevent <19.59>	-	-	-	-	-	-	-	-	-	-
+762	lend (V)	-	-	-	-	lend <11.61>	-	-	-	-	-	-	-	-	-	-
+763	get (V)	-	-	-	-	get, obtain <11.16>	-	-	-	-	-	-	-	-	-	-
+764	stir (V)	-	-	-	-	stir, mix <5.49>	-	-	-	-	-	-	-	-	-	-
+765	bunch	-	-	-	-	bunch <5.712>	-	-	-	-	-	-	-	-	-	-
+766	similar	-	-	-	-	like, similar <12.92>	-	-	-	-	-	-	-	-	-	-
+767	necklace	-	-	-	-	necklace <6.75>	-	-	-	-	-	-	-	-	-	-
+768	rebuke (V)	-	-	-	-	rebuke, scold <18.39>	-	-	-	-	-	-	-	-	-	-
+769	stammer (V)	-	-	-	-	stutter, stammer <18.211>	-	-	-	-	-	-	-	-	-	-
+770	wheel	-	-	-	-	wheel <10.76>	-	-	-	-	-	-	-	-	-	-
+771	meet (V)	-	-	-	-	meet <19.65>	-	-	-	-	-	-	-	-	-	-
+772	look at (V)	-	-	-	-	look, look at <15.52>	-	-	-	-	-	-	-	-	-	-
+773	coat	-	-	-	-	coat <6.43>	-	-	-	-	-	-	-	-	-	-
+774	vegetable	-	-	-	-	vegetables <5.65>	-	-	-	-	-	-	-	-	-	-
+775	hiccough	-	-	-	-	hiccough <4.521>	-	-	-	-	-	-	-	-	-	-
+776	descend (V)	-	-	-	-	-	-	-	-	-	-	descend <139>	-	-	-	-
+777	he-goat	-	-	-	-	he-goat <3.37>	-	-	-	-	-	-	-	-	-	-
+778	sour	-	-	-	-	acid, sour <15.38>	-	-	-	-	-	-	-	-	-	-
+779	fir	-	-	-	-	fir <8.65>	-	-	-	-	-	-	-	-	-	-
+780	stink	-	-	-	-	stinking, bad smelling <15.26>	-	-	-	-	-	-	-	-	-	-
+781	floor	-	-	-	-	floor <7.26>	-	-	-	-	-	-	-	-	-	-
+782	coin	-	-	-	-	coin <11.44>	-	-	-	-	-	-	-	-	-	-
+783	noise	-	-	-	-	sound, noise <15.44>	-	-	-	-	-	-	-	-	-	-
+784	wind (V)	-	-	-	-	wind, wrap <10.14>	-	-	-	-	-	-	-	-	-	-
+785	loud	-	-	-	-	loud <15.45>	-	-	-	-	-	-	-	-	-	-
+786	tribute	-	-	-	-	tax, tribute <11.69>	-	-	-	-	-	-	-	-	-	-
+787	worship (V)	-	-	-	-	worship <22.16>	-	-	-	-	-	-	-	-	-	-
+788	vagina	-	-	-	-	-	-	-	-	-	-	vagina or breast/milk <30>	-	-	-	-
+789	jump (V)	-	-	-	-	jump, leap <10.43>	-	-	-	-	-	-	-	-	-	-
+790	save (V)	-	-	-	-	save, rescue <11.25>	-	-	-	-	-	-	-	-	-	-
+791	stallion	-	-	-	-	stallion <3.42>	-	-	-	-	-	-	-	-	-	-
+792	like	-	-	-	-	like, similar <12.92>	-	-	-	-	-	-	-	-	-	-
+793	lie 2 (V)	-	-	-	-	lie, tell lies <16.67>	-	-	-	-	-	-	-	-	-	-
+794	shoot (V)	-	-	-	-	-	-	-	-	-	-	shoot <196>	-	-	-	-
+795	fear	-	-	-	-	fear, fright <16.53>	-	-	-	-	-	-	-	-	-	-
+796	hang up (V)	-	-	-	-	hang up <9.341>	-	-	-	-	-	-	-	-	-	-
+797	perspire (V)	-	-	-	-	perspire <4.55>	-	-	-	-	-	-	-	-	-	-
+798	ankle	-	-	-	-	ankle <4.371>	-	-	-	-	-	-	-	-	-	-
+799	girl	-	-	-	-	girl <2.26>	-	-	-	-	-	-	-	-	-	-
+800	measure	-	-	-	-	measure <12.54>	-	-	-	-	-	-	-	-	-	-
+801	chair	-	-	-	-	chair <7.43>	-	-	-	-	-	-	-	-	-	-
+802	strain (V)	-	-	-	-	sieve, strain <5.47>	-	-	-	-	-	-	-	-	-	-
+803	broad	-	-	-	-	wide, broad <12.61>	-	-	-	-	-	-	-	-	-	-
+804	rag	-	-	-	-	handkerchief, rag <6.81>	-	-	-	-	-	-	-	-	-	-
+805	early	-	-	-	-	early <14.16>	-	-	-	-	-	-	-	-	-	-
+806	try (V)	-	-	-	-	try, attempt <17.48>	-	-	-	-	-	-	-	-	-	-
+807	liquor	-	-	-	-	-	-	-	-	-	-	liquor <50>	-	-	-	-
+808	spearthrower	-	spearthrower <125>	-	-	-	-	-	-	-	-	-	-	-	-	-
+809	help (V)	-	-	-	-	help, aid <19.58>	-	-	-	-	-	-	-	-	-	-
+810	ignite (V)	-	-	-	-	light, kindle, ignite <1.86>	-	-	-	-	-	-	-	-	-	-
+811	kid	-	-	-	-	kid <3.38>	-	-	-	-	-	-	-	-	-	-
+812	boil	-	-	-	-	boil (noun) <4.856>	-	-	-	-	-	-	-	-	-	-
+813	lame	-	-	-	-	lame <4.94>	-	-	-	-	-	-	-	-	-	-
+814	loosen (V)	-	-	-	-	-	-	-	-	-	-	let go; set free; loosen <187>	-	-	-	-
+815	merchant	-	-	-	-	merchant <11.84>	-	-	-	-	-	-	-	-	-	-
+816	arms	-	-	-	-	weapons, arms <20.21>	-	-	-	-	-	-	-	-	-	-
+817	weary	-	-	-	-	tired, weary <4.91>	-	-	-	-	-	-	-	-	-	-
+818	collarbone	-	-	-	-	collarbone <4.302>	-	-	-	-	-	-	-	-	-	-
+819	duck	-	-	-	-	duck <3.57>	-	-	-	-	-	-	-	-	-	-
+820	cockroach	-	-	-	-	cockroach <3.816>	-	-	-	-	-	-	-	-	-	-
+821	ancestor	-	-	-	-	ancestors <2.56>	-	-	-	-	-	-	-	-	-	-
+822	look for (V)	-	-	-	-	seek, look for <11.31>	-	-	-	-	-	-	-	-	-	-
+823	spear	-	spear (N) <77>	-	-	-	-	-	-	-	-	-	-	-	-	-
+824	clay	-	-	-	-	clay <9.73>	-	-	-	-	-	-	-	-	-	-
+825	grandchild	-	-	-	-	-	-	-	-	-	-	grandchild (nephew) <44>	-	-	-	-
+826	rub (V)	-	-	-	-	rub, wipe <9.31>	-	-	-	-	-	-	-	-	-	-
+827	unripe	-	-	-	-	green, unripe <5.124>	-	-	-	-	-	-	-	-	-	-
+828	earn (V)	-	-	-	-	earn <11.79>	-	-	-	-	-	-	-	-	-	-
+829	deceit	-	-	-	-	deceit <16.68>	-	-	-	-	-	-	-	-	-	-
+830	lead	-	-	-	-	lead (noun) <9.68>	-	-	-	-	-	-	-	-	-	-
+831	lose (V)	-	-	-	-	lose <11.33>	-	-	-	-	-	-	-	-	-	-
+832	mountain	-	-	-	-	mountain, hill <1.22>	-	-	-	-	-	-	-	-	-	-
+833	furrow	-	-	-	-	furrow <8.212>	-	-	-	-	-	-	-	-	-	-
+834	womb	-	-	-	-	womb <4.47>	-	-	-	-	-	-	-	-	-	-
+835	leap (V)	-	-	-	-	jump, leap <10.43>	-	-	-	-	-	-	-	-	-	-
+836	keep (V)	-	-	-	-	keep, retain <11.17>	-	-	-	-	-	-	-	-	-	-
+837	beautiful	-	-	-	-	beautiful <16.81>	-	-	-	-	-	-	-	-	-	-
+838	butter	-	-	-	-	butter <5.89>	-	-	-	-	-	-	-	-	-	-
+839	endure (V)	-	-	-	-	last, endure <14.252>	-	-	-	-	-	-	-	-	-	-
+840	sphere	-	-	-	-	sphere, ball <12.83>	-	-	-	-	-	-	-	-	-	-
+841	spread out (V)	-	-	-	-	spread out <9.34>	-	-	-	-	-	-	-	-	-	-
+842	sick	painful, sick <160>	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+843	cloak	-	-	-	-	cloak <6.41>	-	-	-	-	-	-	-	-	-	-
+844	oak	-	-	-	-	oak <8.61>	-	-	-	-	-	-	-	-	-	-
+845	maize	-	-	-	-	maize, corn <8.47>	-	-	-	-	-	-	-	-	-	-
+846	corner	-	-	-	-	corner <12.76>	-	-	-	-	-	-	-	-	-	-
+847	rich	-	-	-	-	rich <11.51>	-	-	-	-	-	-	-	-	-	-
+848	boar	-	-	-	-	boar <3.32>	-	-	-	-	-	-	-	-	-	-
+849	oar	-	-	-	-	oar <10.85>	-	-	-	-	-	-	-	-	-	-
+850	believe (V)	-	-	-	-	believe <17.15>	-	-	-	-	-	-	-	-	-	-
+851	outside	-	-	-	-	outside <12.6>	-	-	-	-	-	-	-	-	-	-
+852	divide (V)	-	-	-	-	divide <12.232>	-	-	-	-	-	-	-	-	-	-
+853	plough (V)	-	-	-	-	plow <8.21>	-	-	-	-	-	-	-	-	-	-
+854	old woman	-	-	-	-	old woman <2.471>	-	-	-	-	-	-	-	-	-	-
+855	stepmother	-	-	-	-	stepmother <2.72>	-	-	-	-	-	-	-	-	-	-
+856	forge (V)	-	-	-	-	forge <9.61>	-	-	-	-	-	-	-	-	-	-
+857	hack (V)	to cut, hack <78>	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+858	quarrel (V)	-	-	-	-	strife, quarrel <19.62>	-	-	-	-	-	-	-	-	-	-
+859	pea	-	-	-	-	-	-	-	-	-	-	peas, beans <47>	-	-	-	-
+860	murder (V)	-	-	-	-	murder <21.42>	-	-	-	-	-	-	-	-	-	-
+861	pot	-	-	-	-	pot, cooking vessel <5.26>	-	-	-	-	-	-	-	-	-	-
+862	thorn	-	-	-	-	-	-	-	-	-	-	thorn(prick) <99>	-	-	-	-
+863	beverage	-	-	-	-	beverage, drink <5.9>	-	-	-	-	-	-	-	-	-	-
+864	vulture	-	-	-	-	vulture <3.586>	-	-	-	-	-	-	-	-	-	-
+865	mirror	-	-	-	-	mirror <6.96>	-	-	-	-	-	-	-	-	-	-
+866	herdsman	-	-	-	-	herdsman <3.18>	-	-	-	-	-	-	-	-	-	-
+867	camel	-	-	-	-	camel <3.78>	-	-	-	-	-	-	-	-	-	-
+868	bad	-	-	-	-	stinking, bad smelling <15.26>	-	-	-	-	-	-	-	-	-	-
+869	empty	-	-	-	-	empty <13.22>	-	-	-	-	-	-	-	-	-	-
+870	look (V)	-	-	-	-	look, look at <15.52>	-	-	-	-	-	-	-	-	-	-
+871	foam	-	-	-	-	foam <1.324>	-	-	-	-	-	-	-	-	-	-
+872	grandmother	-	-	-	-	grandmother <2.47>	-	-	-	-	-	-	-	-	-	-
+873	tie up (V)	to tie up, fasten <66>	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+874	shit (V)	-	-	-	-	-	-	-	-	-	-	shit <33>	-	-	-	-
+875	cock 1	-	-	-	-	cock, rooster <3.52>	-	-	-	-	-	-	-	-	-	-
+876	deny (V)	-	-	-	-	deny <18.34>	-	-	-	-	-	-	-	-	-	-
+877	fifty	Fifty <208>	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+878	shark	-	-	-	-	shark <3.661>	-	-	-	-	-	-	-	-	-	-
+879	lift (V)	-	-	-	-	raise, lift <10.22>	-	-	-	-	-	-	-	-	-	-
+880	copper	-	-	-	-	copper, bronze <9.66>	-	-	-	-	-	-	-	-	-	-
+881	grief	-	-	-	-	grief, sorrow, sadness <16.32>	-	-	-	-	-	-	-	-	-	-
+882	kiss	-	-	-	-	kiss <16.29>	-	-	-	-	-	-	-	-	-	-
+883	lamb	-	-	-	-	lamb <3.29>	-	-	-	-	-	-	-	-	-	-
+884	threshing-floor	-	-	-	-	threshing-floor <8.35>	-	-	-	-	-	-	-	-	-	-
+885	adze	-	-	-	-	adze <9.251>	-	-	-	-	-	-	-	-	-	-
+886	boast (V)	-	-	-	-	boast <18.45>	-	-	-	-	-	-	-	-	-	-
+887	beak	-	-	-	-	beak <4.241>	-	-	-	-	-	-	-	-	-	-
+888	proud	-	-	-	-	proud <16.48>	-	-	-	-	-	-	-	-	-	-
+889	butterfly	-	-	-	-	butterfly <3.92>	-	-	-	-	-	-	-	-	-	-
+890	banana tree	-	-	-	-	banana tree <8.84>	-	-	-	-	-	-	-	-	-	-
+891	flea	-	-	-	-	flea <3.813>	-	-	-	-	-	-	-	-	-	-
+892	foolish	-	-	-	-	foolish, stupid <17.22>	-	-	-	-	-	-	-	-	-	-
+893	pile up (V)	-	-	-	-	pile up <12.213>	-	-	-	-	-	-	-	-	-	-
+894	market	-	-	-	-	market (place) <11.85>	-	-	-	-	-	-	-	-	-	-
+895	beard	-	-	-	-	beard <4.142>	-	-	-	-	-	-	-	-	-	-
+896	headdress	-	-	-	-	headband, headdress <6.78>	-	-	-	-	-	-	-	-	-	-
+897	uncle	-	-	-	-	uncle <2.51>	-	-	-	-	-	-	-	-	-	-
+898	snore (V)	-	-	-	-	snore <4.612>	-	-	-	-	-	-	-	-	-	-
+899	kitchen	-	-	-	-	cookhouse <7.17>	-	-	-	-	-	-	-	-	-	-
+900	shoe	-	-	-	-	shoemaker, cobbler <6.54>	-	-	-	-	-	-	-	-	-	-
+901	meal	-	-	-	-	meal (a) <5.41>	-	-	-	-	-	-	-	-	-	-
+902	gold	-	-	-	-	gold <9.64>	-	-	-	-	-	-	-	-	-	-
+903	match	-	-	-	-	match (noun) <1.87>	-	-	-	-	-	-	-	-	-	-
+904	healthy	-	-	-	-	well, health <4.83>	-	-	-	-	-	-	-	-	-	-
+905	press (V)	-	-	-	-	press <9.342>	-	-	-	-	-	-	-	-	-	-
+906	calf	-	-	-	-	calf <3.24>	-	-	-	-	-	-	-	-	-	-
+907	rabbit	-	-	-	-	rabbit <3.614>	-	-	-	-	-	-	-	-	-	-
+908	joyful	-	-	-	-	joyful, glad, happy <16.23>	-	-	-	-	-	-	-	-	-	-
+909	stretch (V)	-	-	-	-	stretch <9.32>	-	-	-	-	-	-	-	-	-	-
+910	blister	-	-	-	-	blister <4.855>	-	-	-	-	-	-	-	-	-	-
+911	stay (V)	-	-	-	-	remain, stay <12.16>	-	-	-	-	-	-	-	-	-	-
+912	understand (V)	-	-	-	-	understand <17.16>	-	-	-	-	-	-	-	-	-	-
+913	awaken (V)	-	-	-	-	-	-	-	-	-	-	awaken <133>	-	-	-	-
+914	collar	-	-	-	-	collar <6.45>	-	-	-	-	-	-	-	-	-	-
+915	nipple	-	-	-	-	nipple, teat <4.412>	-	-	-	-	-	-	-	-	-	-
+916	school	-	-	-	-	school <17.28>	-	-	-	-	-	-	-	-	-	-
+917	chain	-	-	-	-	chain <9.18>	-	-	-	-	-	-	-	-	-	-
+918	after	-	-	-	-	after <12.1>	-	-	-	-	-	-	-	-	-	-
+919	ball	-	-	-	-	sphere, ball <12.83>	-	-	-	-	-	-	-	-	-	-
+920	yamstick	-	yamstick <146>	-	-	-	-	-	-	-	-	-	-	-	-	-
+921	remember (V)	-	-	-	-	remember <17.31>	-	-	-	-	-	-	-	-	-	-
+922	conceive (V)	-	-	-	-	conceive <4.732>	-	-	-	-	-	-	-	-	-	-
+923	spleen	-	-	-	-	spleen <4.452>	-	-	-	-	-	-	-	-	-	-
+924	pocket	-	-	-	-	pocket <6.61>	-	-	-	-	-	-	-	-	-	-
+925	soul	-	-	-	-	soul, spirit <16.11>	-	-	-	-	-	-	-	-	-	-
+926	dolphin	-	-	-	-	porpoise, dolphin <3.662>	-	-	-	-	-	-	-	-	-	-
+927	mouse	-	-	-	-	mouse, rat <3.63>	-	-	-	-	-	-	-	-	-	-
+928	inside	-	-	-	-	inside, in <12.5>	-	-	-	-	-	-	-	-	-	-
+929	hen	-	-	-	-	hen <3.54>	-	-	-	-	-	-	-	-	-	-
+930	bring (V)	-	-	-	-	bring <10.62>	-	-	-	-	-	-	-	-	-	-
+931	palm-tree	-	-	-	-	palm tree <8.81>	-	-	-	-	-	-	-	-	-	-
+932	breakfast	-	-	-	-	breakfast <5.42>	-	-	-	-	-	-	-	-	-	-
+933	hunger	-	-	-	-	hunger <5.14>	-	-	-	-	-	-	-	-	-	-
+934	noon	-	-	-	-	noon, midday <14.45>	-	-	-	-	-	-	-	-	-	-
+935	goanna	-	goanna <149>	-	-	-	-	-	-	-	-	-	-	-	-	-
+936	snot	-	-	-	-	-	-	-	-	-	-	snot <36>	-	-	-	-
+937	carry on shoulder (V)	-	-	-	-	carry-on-shoulder <10.613>	-	-	-	-	-	-	-	-	-	-
+938	ship	-	-	-	-	ship <10.81>	-	-	-	-	-	-	-	-	-	-
+939	holy	-	-	-	-	holy, sacred <22.19>	-	-	-	-	-	-	-	-	-	-
+940	write (V)	-	-	-	-	write <18.51>	-	-	-	-	-	-	-	-	-	-
+941	shame	-	-	-	-	shame (noun) <16.45>	-	-	-	-	-	-	-	-	-	-
+942	barley	-	-	-	-	barley <8.44>	-	-	-	-	-	-	-	-	-	-
+943	above	-	-	-	-	up, above <12.8>	-	-	-	-	-	-	-	-	-	-
+944	cut down (V)	-	-	-	-	cut down <9.221>	-	-	-	-	-	-	-	-	-	-
+945	thread	-	-	-	-	thread <6.38>	-	-	-	-	-	-	-	-	-	-
+946	imitate (V)	-	-	-	-	imitate <17.172>	-	-	-	-	-	-	-	-	-	-
+947	chop (V)	-	-	-	-	chop, hew <9.222>	-	-	-	-	-	-	-	-	-	-
+948	drug	-	-	-	-	medicine, drug <4.88>	-	-	-	-	-	-	-	-	-	-
+949	have (V)	-	-	-	-	have <11.11>	-	-	-	-	-	-	-	-	-	-
+950	excrement	-	excrement <23>	-	-	-	-	-	-	-	-	-	-	-	-	-
+951	kidney	-	-	-	-	kidney <4.451>	-	-	-	-	-	-	-	-	-	-
+952	pray (V)	-	-	-	-	pray <22.17>	-	-	-	-	-	-	-	-	-	-
+953	possess (V)	-	-	-	-	own, possess <11.12>	-	-	-	-	-	-	-	-	-	-
+954	crazy	-	-	-	-	insane, crazy <17.23>	-	-	-	-	-	-	-	-	-	-
+955	beehive	-	-	-	-	beehive <3.822>	-	-	-	-	-	-	-	-	-	-
+956	widower	-	-	-	-	widower <2.77>	-	-	-	-	-	-	-	-	-	-
+957	cry out (V)	-	-	-	-	shout, cry out <18.13>	-	-	-	-	-	-	-	-	-	-
+958	low	-	-	-	-	low <12.32>	-	-	-	-	-	-	-	-	-	-
+959	find (V)	-	-	-	-	find <11.32>	-	-	-	-	-	-	-	-	-	-
+960	twin	-	-	-	-	twins <2.458>	-	-	-	-	-	-	-	-	-	-
+961	shallow	-	-	-	-	shallow <12.68>	-	-	-	-	-	-	-	-	-	-
+962	wrinkled	-	-	-	-	wrinkled <15.89>	-	-	-	-	-	-	-	-	-	-
+963	table	-	-	-	-	table <7.44>	-	-	-	-	-	-	-	-	-	-
+964	talk (V)	-	-	-	-	speak, talk <18.21>	-	-	-	-	-	-	-	-	-	-
+965	hammer	-	-	-	-	hammer <9.49>	-	-	-	-	-	-	-	-	-	-
+966	ewe	-	-	-	-	ewe <3.28>	-	-	-	-	-	-	-	-	-	-
+967	depart (V)	-	-	-	-	go away, depart <10.49>	-	-	-	-	-	-	-	-	-	-
+968	weep (V)	-	-	-	-	-	-	-	-	-	-	weep <130>	-	-	-	-
+969	love	-	-	-	-	love <16.27>	-	-	-	-	-	-	-	-	-	-
+970	fasten (V)	to tie up, fasten <66>	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+971	scissors	-	-	-	-	scissors, shears <9.24>	-	-	-	-	-	-	-	-	-	-
+972	little	-	-	-	-	small, little <12.56>	-	-	-	-	-	-	-	-	-	-
+973	reckon (V)	-	-	-	-	account, reckoning <11.66>	-	-	-	-	-	-	-	-	-	-
+974	divorce (V)	-	-	-	-	divorce <2.341>	-	-	-	-	-	-	-	-	-	-
+975	fathom	-	-	-	-	span, fathom <12.541>	-	-	-	-	-	-	-	-	-	-
+976	stutter (V)	-	-	-	-	stutter, stammer <18.211>	-	-	-	-	-	-	-	-	-	-
+977	pasture	-	-	-	-	pasture <3.16>	-	-	-	-	-	-	-	-	-	-
+978	fish net	-	-	-	-	fishnet <20.54>	-	-	-	-	-	-	-	-	-	-
+979	hat	-	-	-	-	hat, cap <6.55>	-	-	-	-	-	-	-	-	-	-
+980	creek	-	creek <113>	-	-	-	-	-	-	-	-	-	-	-	-	-
+981	pumpkin	-	-	-	-	pumpkin, squash <8.931>	-	-	-	-	-	-	-	-	-	-
+982	bracelet	-	-	-	-	bracelet <6.74>	-	-	-	-	-	-	-	-	-	-
+983	older sister	-	-	-	-	older sister <2.454>	-	-	-	-	-	-	-	-	-	-
+984	show	-	-	-	-	show <15.55>	-	-	-	-	-	-	-	-	-	-
+985	teacher	-	-	-	-	teacher <17.27>	-	-	-	-	-	-	-	-	-	-
+986	shout (V)	-	-	-	-	shout, cry out <18.13>	-	-	-	-	-	-	-	-	-	-
+987	gate	-	-	-	-	door, gate <7.22>	-	-	-	-	-	-	-	-	-	-
+988	play	-	-	-	-	play <16.26>	-	-	-	-	-	-	-	-	-	-
+989	mute	-	-	-	-	mute <4.96>	-	-	-	-	-	-	-	-	-	-
+990	get (V)	-	to get, pick up <34>	-	-	-	-	-	-	-	-	-	-	-	-	-
+991	lunch	-	-	-	-	lunch <5.43>	-	-	-	-	-	-	-	-	-	-
+992	go up (V)	-	-	-	-	go up <10.471>	-	-	-	-	-	-	-	-	-	-
+993	silk	-	-	-	-	silk <6.25>	-	-	-	-	-	-	-	-	-	-
+994	banana	-	-	-	-	-	-	-	-	-	-	plaintain/banana <51>	-	-	-	-
+995	tide	-	-	-	-	tide <1.352>	-	-	-	-	-	-	-	-	-	-
+996	marrow	-	-	-	-	-	-	-	-	-	-	marrow <38>	-	-	-	-
+997	pestle	-	-	-	-	pestle <5.59>	-	-	-	-	-	-	-	-	-	-
+998	autumn	-	-	-	-	autumn <14.77>	-	-	-	-	-	-	-	-	-	-
+999	roast (V)	-	-	-	-	roast, fry <5.23>	-	-	-	-	-	-	-	-	-	-
+1000	vein	-	-	-	-	vein, artery <4.151>	-	-	-	-	-	-	-	-	-	-
+1001	wedding	-	-	-	-	marriage, wedding <2.34>	-	-	-	-	-	-	-	-	-	-
+1002	eel	-	-	-	-	freshwater eel <3.665>	-	-	-	-	-	-	-	-	-	-
+1003	cup	-	-	-	-	cup, drinking vessel <5.35>	-	-	-	-	-	-	-	-	-	-
+1004	scythe	-	-	-	-	sickle, scythe <8.33>	-	-	-	-	-	-	-	-	-	-
+1005	island	-	-	-	-	island <1.25>	-	-	-	-	-	-	-	-	-	-
+1006	shut (V)	-	-	-	-	shut, close <12.25>	-	-	-	-	-	-	-	-	-	-
+1007	speak (V)	-	to speak <76>	-	-	-	-	-	-	-	-	-	-	-	-	-
+1008	belt	-	-	-	-	belt, girdle <6.57>	-	-	-	-	-	-	-	-	-	-
+1009	mother's sister	-	-	-	-	mother's sister <2.521>	-	-	-	-	-	-	-	-	-	-
+1010	account	-	-	-	-	account, reckoning <11.66>	-	-	-	-	-	-	-	-	-	-
+1011	heal (V)	-	-	-	-	cure, heal <4.86>	-	-	-	-	-	-	-	-	-	-
+1012	eyelid	-	-	-	-	eyelid <4.213>	-	-	-	-	-	-	-	-	-	-
+1013	wasp	-	-	-	-	wasp <3.823>	-	-	-	-	-	-	-	-	-	-
+1014	land	-	-	-	-	earth, land <1.21>	-	-	-	-	-	-	-	-	-	-
+1015	poison	-	-	-	-	poison <4.89>	-	-	-	-	-	-	-	-	-	-
+1016	envy	-	-	-	-	envy, jealousy <16.44>	-	-	-	-	-	-	-	-	-	-
+1017	nape	-	nape <57>	-	-	-	-	-	-	-	-	-	-	-	-	-
+1018	we two (inclusive)	-	we two inclusive <119>	-	-	-	-	-	-	-	-	-	-	-	-	-
+1019	offspring	-	-	-	-	offspring (son or daughter) <2.43>	-	-	-	-	-	-	-	-	-	-
+1020	spring 1	-	-	-	-	spring, well <1.37>	-	-	-	-	-	-	-	-	-	-
+1021	birch	-	-	-	-	birch <8.63>	-	-	-	-	-	-	-	-	-	-
+1022	vegetable food	-	vegetable food <31>	-	-	-	-	-	-	-	-	-	-	-	-	-
+1023	spindle	-	-	-	-	spindle <6.32>	-	-	-	-	-	-	-	-	-	-
+1024	buttocks	-	-	-	-	buttocks <4.464>	-	-	-	-	-	-	-	-	-	-
+1025	fermented drink	-	-	-	-	fermented drink <5.94>	-	-	-	-	-	-	-	-	-	-
+1026	tobacco	-	-	-	-	tobacco <8.68>	-	-	-	-	-	-	-	-	-	-
+1027	summer	-	-	-	-	summer <14.76>	-	-	-	-	-	-	-	-	-	-
+1028	bronze	-	-	-	-	copper, bronze <9.66>	-	-	-	-	-	-	-	-	-	-
+1029	spoon	-	-	-	-	spoon <5.37>	-	-	-	-	-	-	-	-	-	-
+1030	cure (V)	-	-	-	-	cure, heal <4.86>	-	-	-	-	-	-	-	-	-	-
+1031	air	-	-	-	-	air <1.71>	-	-	-	-	-	-	-	-	-	-
+1032	little	-	-	-	-	little (quantity), few <13.17>	-	-	-	-	-	-	-	-	-	-
+1033	wolf	-	-	-	-	wolf <3.71>	-	-	-	-	-	-	-	-	-	-
+1034	ass	-	-	-	-	ass, donkey <3.46>	-	-	-	-	-	-	-	-	-	-
+1035	jamb	-	-	-	-	doorpost, jamb <7.221>	-	-	-	-	-	-	-	-	-	-
+1036	jaw	-	-	-	-	jaw <4.207>	-	-	-	-	-	-	-	-	-	-
+1037	tin	-	-	-	-	tin, tinplate <9.69>	-	-	-	-	-	-	-	-	-	-
+1038	bead	-	-	-	-	bead <6.76>	-	-	-	-	-	-	-	-	-	-
+1039	slow	-	-	-	-	slow <14.22>	-	-	-	-	-	-	-	-	-	-
+1040	gum 2	-	-	-	-	gums <4.271>	-	-	-	-	-	-	-	-	-	-
+1041	regret (V)	-	-	-	-	regret, be sorry <16.34>	-	-	-	-	-	-	-	-	-	-
+1042	piss (V)	-	-	-	-	-	-	-	-	-	-	piss <34>	-	-	-	-
+1043	side	-	-	-	-	side <12.36>	-	-	-	-	-	-	-	-	-	-
+1044	shy	shy, ashamed <161>	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1045	mind	-	-	-	-	mind <17.11>	-	-	-	-	-	-	-	-	-	-
+1046	pinch	-	-	-	-	pinch <15.712>	-	-	-	-	-	-	-	-	-	-
+1047	clear	-	-	-	-	clear, plain <17.34>	-	-	-	-	-	-	-	-	-	-
+1048	fat (thick)	-	-	-	-	-	-	-	-	-	-	fat <155>	-	-	-	-
+1049	admit (V)	-	-	-	-	admit, confess <18.33>	-	-	-	-	-	-	-	-	-	-
+1050	cover	-	-	-	-	cover <12.26>	-	-	-	-	-	-	-	-	-	-
+1051	carry in arms (V)	-	-	-	-	carry-underarm <10.615>	-	-	-	-	-	-	-	-	-	-
+1052	obtain (V)	-	-	-	-	get, obtain <11.16>	-	-	-	-	-	-	-	-	-	-
+1053	more	-	-	-	-	more <13.16>	-	-	-	-	-	-	-	-	-	-
+1054	tax	-	-	-	-	tax, tribute <11.69>	-	-	-	-	-	-	-	-	-	-
+1055	ox	-	-	-	-	ox <3.22>	-	-	-	-	-	-	-	-	-	-
+1056	season	-	-	-	-	season <14.78>	-	-	-	-	-	-	-	-	-	-
+1057	ready	-	-	-	-	ready <14.29>	-	-	-	-	-	-	-	-	-	-
+1058	pitcher	-	-	-	-	pitcher, jug <5.34>	-	-	-	-	-	-	-	-	-	-
+1059	harm (V)	-	-	-	-	harm, injure, damage <11.28>	-	-	-	-	-	-	-	-	-	-
+1060	pregnant	-	-	-	-	pregnant <4.73>	-	-	-	-	-	-	-	-	-	-
+1061	obscure	-	-	-	-	obscure <17.35>	-	-	-	-	-	-	-	-	-	-
+1062	sickness	-	-	-	-	sick, sickness <4.84>	-	-	-	-	-	-	-	-	-	-
+1063	work	-	-	-	-	work <9.12>	-	-	-	-	-	-	-	-	-	-
+1064	weak	-	-	-	-	weak <4.82>	-	-	-	-	-	-	-	-	-	-
+1065	enough	-	-	-	-	enough <13.18>	-	-	-	-	-	-	-	-	-	-
+1066	cough (V)	-	-	-	-	-	-	-	-	-	-	cough <134>	-	-	-	-
+1067	worry	-	-	-	-	anxiety, worry <16.33>	-	-	-	-	-	-	-	-	-	-
+1068	listen (V)	-	-	-	-	listen <15.42>	-	-	-	-	-	-	-	-	-	-
+1069	arrive (V)	-	-	-	-	reach, arrive <10.55>	-	-	-	-	-	-	-	-	-	-
+1070	thirst	-	-	-	-	thirst <5.15>	-	-	-	-	-	-	-	-	-	-
+1071	brother	-	-	-	-	brother <2.44>	-	-	-	-	-	-	-	-	-	-
+1072	wrist	-	-	-	-	wrist <4.321>	-	-	-	-	-	-	-	-	-	-
+1073	veil (V)	-	-	-	-	veil <6.59>	-	-	-	-	-	-	-	-	-	-
+1074	soon	-	-	-	-	soon <14.331>	-	-	-	-	-	-	-	-	-	-
+1075	chisel	-	-	-	-	chisel <9.84>	-	-	-	-	-	-	-	-	-	-
+1076	eyebrow	-	-	-	-	eyebrow <4.212>	-	-	-	-	-	-	-	-	-	-
+1077	dandruff	-	-	-	-	dandruff <4.146>	-	-	-	-	-	-	-	-	-	-
+1078	donkey	-	-	-	-	ass, donkey <3.46>	-	-	-	-	-	-	-	-	-	-
+1079	field	-	-	-	-	-	-	-	-	-	-	field <102>	-	-	-	-
+1080	mix (V)	-	-	-	-	stir, mix <5.49>	-	-	-	-	-	-	-	-	-	-
+1081	pillow	-	-	-	-	pillow <7.421>	-	-	-	-	-	-	-	-	-	-
+1082	certain	-	-	-	-	sure, certain <17.37>	-	-	-	-	-	-	-	-	-	-
+1083	morning	-	-	-	-	morning <14.44>	-	-	-	-	-	-	-	-	-	-
+1084	make (V)	-	-	-	-	shoemaker, cobbler <6.54>	-	-	-	-	-	-	-	-	-	-
+1085	intestine	-	-	-	-	intestines, guts <4.461>	-	-	-	-	-	-	-	-	-	-
+1086	young	-	-	-	-	young <14.14>	-	-	-	-	-	-	-	-	-	-
+1087	anvil	-	-	-	-	anvil <9.62>	-	-	-	-	-	-	-	-	-	-
+1088	give up (V)	-	-	-	-	surrender <20.46>	-	-	-	-	-	-	-	-	-	-
+1089	mare	-	-	-	-	mare <3.44>	-	-	-	-	-	-	-	-	-	-
+1090	scorpion	-	-	-	-	scorpion <3.815>	-	-	-	-	-	-	-	-	-	-
+1091	blacksmith	-	-	-	-	smith, blacksmith <9.6>	-	-	-	-	-	-	-	-	-	-
+1092	greedy	-	-	-	-	greedy <16.83>	-	-	-	-	-	-	-	-	-	-
+1093	wax	-	-	-	-	beeswax <3.821>	-	-	-	-	-	-	-	-	-	-
+1094	remains	-	-	-	-	remains, left overs <12.17>	-	-	-	-	-	-	-	-	-	-
+1095	month	-	-	-	-	month <14.71>	-	-	-	-	-	-	-	-	-	-
+1096	felt	-	-	-	-	felt <6.27>	-	-	-	-	-	-	-	-	-	-
+1097	stomach	-	-	-	-	stomach <4.46>	-	-	-	-	-	-	-	-	-	-
+1098	linen	-	-	-	-	linen, flax <6.23>	-	-	-	-	-	-	-	-	-	-
+1099	hay	-	-	-	-	hay <8.52>	-	-	-	-	-	-	-	-	-	-
+1100	answer (V)	-	-	-	-	answer <18.32>	-	-	-	-	-	-	-	-	-	-
+1101	fart (V)	-	-	-	-	break wind <4.64>	-	-	-	-	-	-	-	-	-	-
+1102	bay	-	-	-	-	gulf, bay <1.34>	-	-	-	-	-	-	-	-	-	-
+1103	sickness	-	sickness <144>	-	-	-	-	-	-	-	-	-	-	-	-	-
+1104	hinder (V)	-	-	-	-	hinder, prevent <19.59>	-	-	-	-	-	-	-	-	-	-
+1105	put on (V)	-	-	-	-	put on (clothes) <6.11>	-	-	-	-	-	-	-	-	-	-
+1106	intoxicated	-	-	-	-	intoxicated <4.98>	-	-	-	-	-	-	-	-	-	-
+1107	rough	-	-	-	-	rough <15.76>	-	-	-	-	-	-	-	-	-	-
+1108	threaten (V)	-	-	-	-	threaten <18.44>	-	-	-	-	-	-	-	-	-	-
+1109	desire	-	-	-	-	desire, want <16.62>	-	-	-	-	-	-	-	-	-	-
+1110	only	-	-	-	-	alone, only <13.33>	-	-	-	-	-	-	-	-	-	-
+1111	hill	-	-	-	-	mountain, hill <1.22>	-	-	-	-	-	-	-	-	-	-
+1112	preserve (V)	-	-	-	-	preserve, look after <11.24>	-	-	-	-	-	-	-	-	-	-
+1113	bear	-	-	-	-	-	-	-	-	-	-	bear <68>	-	-	-	-
+1114	swamp	-	-	-	-	swamp <1.38>	-	-	-	-	-	-	-	-	-	-
+1115	saw	-	-	-	-	saw <9.48>	-	-	-	-	-	-	-	-	-	-
+1116	shore	-	-	-	-	shore <1.27>	-	-	-	-	-	-	-	-	-	-
+1117	owl	-	-	-	-	owl <3.596>	-	-	-	-	-	-	-	-	-	-
+1118	marriage	-	-	-	-	marriage, wedding <2.34>	-	-	-	-	-	-	-	-	-	-
+1119	wide	-	-	-	-	wide, broad <12.61>	-	-	-	-	-	-	-	-	-	-
+1120	no	-	-	-	-	no, negative <17.56>	-	-	-	-	-	-	-	-	-	-
+1121	descendant	-	-	-	-	descendants <2.57>	-	-	-	-	-	-	-	-	-	-
+1122	swallow	-	-	-	-	swallow <5.181>	-	-	-	-	-	-	-	-	-	-
+1123	colt	-	-	-	-	foal, colt <3.45>	-	-	-	-	-	-	-	-	-	-
+1124	nest	-	-	-	-	nest <3.58>	-	-	-	-	-	-	-	-	-	-
+1125	widow	-	-	-	-	widow <2.76>	-	-	-	-	-	-	-	-	-	-
+1126	small	-	-	-	-	small, little <12.56>	-	-	-	-	-	-	-	-	-	-
+1127	naked	-	-	-	-	naked, bare <4.99>	-	-	-	-	-	-	-	-	-	-
+1128	bottom	-	-	-	-	bottom <12.34>	-	-	-	-	-	-	-	-	-	-
+1129	separate	-	-	-	-	separate <12.23>	-	-	-	-	-	-	-	-	-	-
+1130	skirt	-	-	-	-	skirt <6.46>	-	-	-	-	-	-	-	-	-	-
+1131	creep (V)	-	-	-	-	creep, crawl <10.41>	-	-	-	-	-	-	-	-	-	-
+1132	juice	-	-	-	-	-	-	-	-	-	-	plaintain/banana <51>	-	-	-	-
+1133	bathe (V)	-	-	-	-	bathe <4.69>	-	-	-	-	-	-	-	-	-	-
+1134	grasshopper	-	-	-	-	grasshopper <3.93>	-	-	-	-	-	-	-	-	-	-
+1135	gather (V)	-	-	-	-	collect, gather <12.21>	-	-	-	-	-	-	-	-	-	-
+1136	garden	-	-	-	-	garden <8.13>	-	-	-	-	-	-	-	-	-	-
+1137	fever	-	-	-	-	fever <4.841>	-	-	-	-	-	-	-	-	-	-
+1138	mighty	-	-	-	-	strong, mighty, powerful <4.81>	-	-	-	-	-	-	-	-	-	-
+1139	whirlpool	-	-	-	-	whirlpool <1.362>	-	-	-	-	-	-	-	-	-	-
+1140	clever	-	-	-	-	clever <16.84>	-	-	-	-	-	-	-	-	-	-
+1141	rule (V)	-	-	-	-	rule, govern <19.31>	-	-	-	-	-	-	-	-	-	-
+1142	damage (V)	-	-	-	-	harm, injure, damage <11.28>	-	-	-	-	-	-	-	-	-	-
+1143	judge (V)	-	-	-	-	judge (vb) <21.16>	-	-	-	-	-	-	-	-	-	-
+1144	beer	-	-	-	-	beer <5.93>	-	-	-	-	-	-	-	-	-	-
+1145	sock	-	-	-	-	stocking, sock <6.49>	-	-	-	-	-	-	-	-	-	-
+1146	second	-	-	-	-	second <13.36>	-	-	-	-	-	-	-	-	-	-
+1147	storm	-	-	-	-	storm <1.58>	-	-	-	-	-	-	-	-	-	-
+1148	seek (V)	-	-	-	-	seek, look for <11.31>	-	-	-	-	-	-	-	-	-	-
+1149	sibling	-	-	-	-	sibling <2.456>	-	-	-	-	-	-	-	-	-	-
+1150	edge	-	-	-	-	edge <12.353>	-	-	-	-	-	-	-	-	-	-
+1151	pity	-	-	-	-	pity <16.35>	-	-	-	-	-	-	-	-	-	-
+1152	toe-nail	-	-	-	finger-nail/toe-nail <11>	-	-	-	-	-	-	-	-	-	-	-
+1153	quick	-	-	-	-	swift, fast, quick <14.21>	-	-	-	-	-	-	-	-	-	-
+1154	potato	-	-	-	-	potato <5.7>	-	-	-	-	-	-	-	-	-	-
+1155	uncover (V)	to open, uncover <92>	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1156	mistake	-	-	-	-	mistake, error <16.77>	-	-	-	-	-	-	-	-	-	-
+1157	pan	-	-	-	-	pan <5.28>	-	-	-	-	-	-	-	-	-	-
+1158	seize (V)	-	-	-	-	seize, grasp <11.14>	-	-	-	-	-	-	-	-	-	-
+1159	basket	-	-	-	-	basket <9.76>	-	-	-	-	-	-	-	-	-	-
+1160	spade	-	-	-	-	spade <8.23>	-	-	-	-	-	-	-	-	-	-
+1161	preach (V)	-	-	-	-	preach <22.22>	-	-	-	-	-	-	-	-	-	-
+1162	urinate (V)	-	-	-	-	urinate <4.65>	-	-	-	-	-	-	-	-	-	-
+1163	rope	-	-	-	-	rope, cord <9.19>	-	-	-	-	-	-	-	-	-	-
+1164	much	-	-	-	-	much, many <13.15>	-	-	-	-	-	-	-	-	-	-
+1165	sweep (V)	-	-	-	-	sweep <9.37>	-	-	-	-	-	-	-	-	-	-
+1166	hook	-	-	-	-	fishhook <20.52>	-	-	-	-	-	-	-	-	-	-
+1167	beggar	-	-	-	-	beggar <11.53>	-	-	-	-	-	-	-	-	-	-
+1168	above	above <175>	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1169	dead	-	-	-	-	die, dead <4.75>	-	-	-	-	-	-	-	-	-	-
+1170	brush (V)	-	-	-	-	brush <6.92>	-	-	-	-	-	-	-	-	-	-
+1171	blue	-	-	-	-	blue <15.67>	-	-	-	-	-	-	-	-	-	-
+1172	pay (V)	-	-	-	-	pay (vb) <11.65>	-	-	-	-	-	-	-	-	-	-
+1173	moan (V)	-	-	-	-	groan <16.39>	-	-	-	-	-	-	-	-	-	-
+1174	young woman	-	-	-	-	young woman (adolescent) <2.261>	-	-	-	-	-	-	-	-	-	-
+1175	thresh (V)	-	-	-	-	thresh <8.34>	-	-	-	-	-	-	-	-	-	-
+1176	jug	-	-	-	-	pitcher, jug <5.34>	-	-	-	-	-	-	-	-	-	-
+1177	weigh (V)	-	-	-	-	weigh <11.92>	-	-	-	-	-	-	-	-	-	-
+1178	condemn (V)	-	-	-	-	condemn <21.32>	-	-	-	-	-	-	-	-	-	-
+1179	work (V)	to work <83>	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1180	bowl	-	-	-	-	bowl <5.33>	-	-	-	-	-	-	-	-	-	-
+1181	goat	-	-	-	-	goat <3.36>	-	-	-	-	-	-	-	-	-	-
+1182	leave it (V)	-	to leave it <48>	-	-	-	-	-	-	-	-	-	-	-	-	-
+1183	trade	-	-	-	-	trade, barter <11.83>	-	-	-	-	-	-	-	-	-	-
+1184	last	-	-	-	-	last <13.35>	-	-	-	-	-	-	-	-	-	-
+1185	trunk	-	-	-	-	tree trunk <8.73>	-	-	-	-	-	-	-	-	-	-
+1186	vermin	-	-	-	-	-	-	-	-	-	-	insect, bug, vermin <59>	-	-	-	-
+1187	fin	-	-	-	-	fin (dorsal) <3.652>	-	-	-	-	-	-	-	-	-	-
+1188	pine	-	-	-	-	pine <8.64>	-	-	-	-	-	-	-	-	-	-
+1189	thing	-	-	-	-	thing <11.18>	-	-	-	-	-	-	-	-	-	-
+1190	fault	-	-	-	-	fault <16.76>	-	-	-	-	-	-	-	-	-	-
+1191	crop 2	-	-	-	-	crop, harvest <8.41>	-	-	-	-	-	-	-	-	-	-
+1192	string	-	string <147>	-	-	-	-	-	-	-	-	-	-	-	-	-
+1193	mule	-	-	-	-	mule <3.47>	-	-	-	-	-	-	-	-	-	-
+1194	ride (V)	-	-	-	-	ride <10.66>	-	-	-	-	-	-	-	-	-	-
+1195	fright	-	-	-	-	fear, fright <16.53>	-	-	-	-	-	-	-	-	-	-
+1196	trough	-	-	-	-	trough <7.48>	-	-	-	-	-	-	-	-	-	-
+1197	mangrove	-	mangrove (Avicennia sp.) <151>	-	-	-	-	-	-	-	-	-	-	-	-	-
+1198	miss (V)	-	-	-	-	miss (target) <20.63>	-	-	-	-	-	-	-	-	-	-
+1199	sister	-	-	-	-	sister <2.45>	-	-	-	-	-	-	-	-	-	-
+1200	elephant	-	-	-	-	elephant <3.77>	-	-	-	-	-	-	-	-	-	-
+1201	wound	-	-	-	-	wound, sore <4.85>	-	-	-	-	-	-	-	-	-	-
+1202	defecate (V)	-	-	-	-	defecate <4.66>	-	-	-	-	-	-	-	-	-	-
+1203	crowd	-	-	-	-	multitude, crowd <13.19>	-	-	-	-	-	-	-	-	-	-
+1204	upper arm	-	upper arm <102>	-	-	-	-	-	-	-	-	-	-	-	-	-
+1205	beget	-	-	-	-	beget (of father) <4.71>	-	-	-	-	-	-	-	-	-	-
+1206	raise (V)	-	-	-	-	raise, lift <10.22>	-	-	-	-	-	-	-	-	-	-
+1207	village	-	-	-	-	-	-	-	-	-	-	village <109>	-	-	-	-
+1208	bear	-	-	-	-	bear <3.73>	-	-	-	-	-	-	-	-	-	-
+1209	fast	-	-	-	-	swift, fast, quick <14.21>	-	-	-	-	-	-	-	-	-	-
+1210	tomb	-	-	-	-	grave, tomb <4.79>	-	-	-	-	-	-	-	-	-	-
+1211	often	-	-	-	-	often <14.32>	-	-	-	-	-	-	-	-	-	-
+1212	peel	-	-	-	-	peel <5.46>	-	-	-	-	-	-	-	-	-	-
+1213	error	-	-	-	-	mistake, error <16.77>	-	-	-	-	-	-	-	-	-	-
+1214	intestine	intestines <16>	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1215	pour (V)	-	-	-	-	pour <9.35>	-	-	-	-	-	-	-	-	-	-
+1216	you two	-	you two <120>	-	-	-	-	-	-	-	-	-	-	-	-	-
+1217	accuse (V)	-	-	-	-	accuse <21.31>	-	-	-	-	-	-	-	-	-	-
+1218	board	-	-	-	-	board <7.57>	-	-	-	-	-	-	-	-	-	-
+1219	cough	-	-	-	-	cough <4.53>	-	-	-	-	-	-	-	-	-	-
+1220	crouch (V)	-	-	-	-	crouch <10.413>	-	-	-	-	-	-	-	-	-	-
+1221	bat	-	-	-	-	bat <3.591>	-	-	-	-	-	-	-	-	-	-
+1222	shin	-	shin <103>	-	-	-	-	-	-	-	-	-	-	-	-	-
+1223	hour	-	-	-	-	hour <14.51>	-	-	-	-	-	-	-	-	-	-
+1224	livestock	-	-	-	-	livestock <3.15>	-	-	-	-	-	-	-	-	-	-
+1225	prick	-	-	-	-	-	-	-	-	-	-	thorn(prick) <99>	-	-	-	-
+1226	stream	-	-	-	-	river, stream, brook <1.36>	-	-	-	-	-	-	-	-	-	-
+1227	arrow	-	-	-	-	-	-	-	-	-	-	arrow <103>	-	-	-	-
+1228	shovel	-	-	-	-	shovel <8.24>	-	-	-	-	-	-	-	-	-	-
+1229	orphan	-	-	-	-	orphan <2.75>	-	-	-	-	-	-	-	-	-	-
+1230	firewood	-	-	-	-	firewood <1.88>	-	-	-	-	-	-	-	-	-	-
+1231	boil (V)	-	-	-	-	-	-	-	-	-	-	cook/boil <183>	-	-	-	-
+1232	say(V)	-	-	-	-	-	-	say <68>	-	-	-	-	-	-	-	-
+1233	close (V)	-	-	-	-	shut, close <12.25>	-	-	-	-	-	-	-	-	-	-
+1234	choke	-	-	-	-	choke <5.19>	-	-	-	-	-	-	-	-	-	-
+1235	delay (V)	-	-	-	-	retard, delay <14.24>	-	-	-	-	-	-	-	-	-	-
+1236	plantain	-	-	-	-	-	-	-	-	-	-	plaintain/banana <51>	-	-	-	-
+1237	fence	-	-	-	-	fence <8.16>	-	-	-	-	-	-	-	-	-	-
+1238	awl	-	-	-	-	awl <6.37>	-	-	-	-	-	-	-	-	-	-
+1239	age	-	-	-	-	age <14.12>	-	-	-	-	-	-	-	-	-	-
+1240	dear	-	-	-	-	dear (costly, expensive) <11.88>	-	-	-	-	-	-	-	-	-	-
+1241	shoe	-	-	-	-	shoe <6.51>	-	-	-	-	-	-	-	-	-	-
+1242	hoe	-	-	-	-	hoe <8.25>	-	-	-	-	-	-	-	-	-	-
+1243	stocking	-	-	-	-	stocking, sock <6.49>	-	-	-	-	-	-	-	-	-	-
+1244	pursue (V)	-	-	-	-	pursue <10.53>	-	-	-	-	-	-	-	-	-	-
+1245	open	-	-	-	-	open <12.24>	-	-	-	-	-	-	-	-	-	-
+1246	anxiety	-	-	-	-	anxiety, worry <16.33>	-	-	-	-	-	-	-	-	-	-
+1247	howl (V)	-	-	-	-	howl <18.19>	-	-	-	-	-	-	-	-	-	-
+1248	apologize (V)	-	-	-	-	forgive <16.69>	-	-	-	-	-	-	-	-	-	-
+1249	go out (V)	-	-	-	-	go out <10.474>	-	-	-	-	-	-	-	-	-	-
+1250	language	-	language <121>	-	-	-	-	-	-	-	-	-	-	-	-	-
+1251	dwell (V)	-	-	-	-	dwell, live <7.11>	-	-	-	-	-	-	-	-	-	-
+1252	knead (V)	-	-	-	-	knead <5.54>	-	-	-	-	-	-	-	-	-	-
+1253	defend (V)	-	-	-	-	defend <20.44>	-	-	-	-	-	-	-	-	-	-
+1254	ugly	-	-	-	-	ugly <16.82>	-	-	-	-	-	-	-	-	-	-
+1255	push (V)	-	-	-	-	push, shove <10.67>	-	-	-	-	-	-	-	-	-	-
+1256	porpoise	-	-	-	-	porpoise, dolphin <3.662>	-	-	-	-	-	-	-	-	-	-
+1257	look after (V)	-	-	-	-	preserve, look after <11.24>	-	-	-	-	-	-	-	-	-	-
+1258	sail	-	-	-	-	sail (noun) <10.88>	-	-	-	-	-	-	-	-	-	-
+1259	rafter	-	-	-	-	rafter <7.54>	-	-	-	-	-	-	-	-	-	-
+1260	permit (V)	-	-	-	-	let, permit <19.47>	-	-	-	-	-	-	-	-	-	-
+1261	silent	-	-	-	-	quiet, silence <15.46>	-	-	-	-	-	-	-	-	-	-
+1262	mill	-	-	-	-	mill <5.57>	-	-	-	-	-	-	-	-	-	-
+1263	coconut	-	-	-	-	coconut <8.82>	-	-	-	-	-	-	-	-	-	-
+1264	jewel	-	-	-	-	jewel <6.72>	-	-	-	-	-	-	-	-	-	-
+1265	cease (V)	-	-	-	-	cease, stop <14.28>	-	-	-	-	-	-	-	-	-	-
+1266	bed	-	-	-	-	bed <7.42>	-	-	-	-	-	-	-	-	-	-
+1267	large	-	-	-	-	large, big <12.55>	-	-	-	-	-	-	-	-	-	-
+1268	wheat	-	-	-	-	wheat <8.43>	-	-	-	-	-	-	-	-	-	-
+1269	cheap	-	-	-	-	cheap <11.89>	-	-	-	-	-	-	-	-	-	-
+1270	sow	-	-	-	-	sow <8.31>	-	-	-	-	-	-	-	-	-	-
+1271	under	-	-	-	-	under <12.7>	-	-	-	-	-	-	-	-	-	-
+1272	pole	-	-	-	-	post, pole <7.56>	-	-	-	-	-	-	-	-	-	-
+1273	testicle	-	-	-	-	testicle <4.49>	-	-	-	-	-	-	-	-	-	-
+1274	noble	-	-	-	-	noble, nobleman <19.36>	-	-	-	-	-	-	-	-	-	-
+1275	slide (V)	-	-	-	-	slide, slip <10.42>	-	-	-	-	-	-	-	-	-	-
+1276	reef	-	-	-	-	reef <1.342>	-	-	-	-	-	-	-	-	-	-
+1277	heel	-	-	-	-	heel <4.372>	-	-	-	-	-	-	-	-	-	-
+1278	eyelash	-	-	-	-	eyelash <4.214>	-	-	-	-	-	-	-	-	-	-
+1279	praise (V)	-	-	-	-	praise <16.79>	-	-	-	-	-	-	-	-	-	-
+1280	turn around (V)	-	-	-	-	turn around <10.13>	-	-	-	-	-	-	-	-	-	-
+1281	temple 2	-	-	-	-	side of head, temple <4.201>	-	-	-	-	-	-	-	-	-	-
+1282	chimney	-	-	-	-	chimney <7.33>	-	-	-	-	-	-	-	-	-	-
+1283	dare	-	-	-	-	dare <16.51>	-	-	-	-	-	-	-	-	-	-
+1284	young man	-	-	-	-	young man (adolescent) <2.251>	-	-	-	-	-	-	-	-	-	-
+1285	secret	-	-	-	-	secret <17.36>	-	-	-	-	-	-	-	-	-	-
+1286	luck	-	-	-	-	good fortune, luck <16.18>	-	-	-	-	-	-	-	-	-	-
+1287	powerful	-	-	-	-	strong, mighty, powerful <4.81>	-	-	-	-	-	-	-	-	-	-
+1288	mast	-	-	-	-	mast <10.87>	-	-	-	-	-	-	-	-	-	-
+1289	sickle	-	-	-	-	sickle, scythe <8.33>	-	-	-	-	-	-	-	-	-	-
+1290	knot	-	-	-	-	knot (noun) <9.192>	-	-	-	-	-	-	-	-	-	-
+1291	palm of hand	-	-	-	-	palm of hand <4.331>	-	-	-	-	-	-	-	-	-	-
+1292	face	-	-	-	-	face <4.204>	-	-	-	-	-	-	-	-	-	-
+1293	bug	-	-	-	-	-	-	-	-	-	-	insect, bug, vermin <59>	-	-	-	-
+1294	finish	-	-	-	-	finish <14.27>	-	-	-	-	-	-	-	-	-	-
+1295	sour	-	-	-	-	-	-	-	-	-	-	sour <162>	-	-	-	-
+1296	rice (cooked)	-	-	-	-	-	-	-	-	-	-	plaintain/banana <51>	-	-	-	-
+1297	body	-	-	-	-	body <4.11>	-	-	-	-	-	-	-	-	-	-
+1298	high	-	-	-	-	high <12.31>	-	-	-	-	-	-	-	-	-	-
+1299	granddaughter	-	-	-	-	granddaughter <2.49>	-	-	-	-	-	-	-	-	-	-
+1300	build (V)	-	-	-	-	build <9.44>	-	-	-	-	-	-	-	-	-	-
+1301	luck	-	-	-	-	misfortune, bad luck <16.19>	-	-	-	-	-	-	-	-	-	-
+1302	chicken	-	-	-	-	chicken <3.55>	-	-	-	-	-	-	-	-	-	-
+1303	darkness	-	-	-	-	darkness <1.62>	-	-	-	-	-	-	-	-	-	-
+1304	dough	-	-	-	-	dough <5.53>	-	-	-	-	-	-	-	-	-	-
+1305	rise (V)	-	-	-	-	rise <10.21>	-	-	-	-	-	-	-	-	-	-
+1306	swelling	-	-	-	-	swelling <4.853>	-	-	-	-	-	-	-	-	-	-
+1307	let (V)	-	-	-	-	let, permit <19.47>	-	-	-	-	-	-	-	-	-	-
+1308	return (V)	-	-	-	-	come back <10.481>	-	-	-	-	-	-	-	-	-	-
+1309	remain (V)	-	-	-	-	remain, stay <12.16>	-	-	-	-	-	-	-	-	-	-
+1310	grandfather	-	-	-	-	grandfather <2.46>	-	-	-	-	-	-	-	-	-	-
+1311	lung	-	-	-	-	lung <4.441>	-	-	-	-	-	-	-	-	-	-
+1312	cliff	-	-	-	-	cliff, precipice <1.222>	-	-	-	-	-	-	-	-	-	-
+1313	rake	-	-	-	-	rake <8.27>	-	-	-	-	-	-	-	-	-	-
+1314	well 1	-	-	-	-	well, health <4.83>	-	-	-	-	-	-	-	-	-	-
+1315	continent	-	-	-	-	mainland <1.26>	-	-	-	-	-	-	-	-	-	-
+1316	injure (V)	-	-	-	-	harm, injure, damage <11.28>	-	-	-	-	-	-	-	-	-	-
+1317	bruise (V)	-	-	-	-	bruise <4.852>	-	-	-	-	-	-	-	-	-	-
+1318	candle	-	-	-	-	candle <7.46>	-	-	-	-	-	-	-	-	-	-
+1319	calf of leg	-	-	-	-	calf of leg <4.352>	-	-	-	-	-	-	-	-	-	-
+1320	goose	-	-	-	-	goose <3.56>	-	-	-	-	-	-	-	-	-	-
+1321	poison	-	-	-	-	-	-	-	-	-	-	poison [antifood] <48>	-	-	-	-
+1322	forbid (V)	-	-	-	-	forbid <18.38>	-	-	-	-	-	-	-	-	-	-
+1323	pepper	-	-	-	-	pepper <5.82>	-	-	-	-	-	-	-	-	-	-
+1324	hire (V)	-	-	-	-	hire <11.77>	-	-	-	-	-	-	-	-	-	-
+1325	brook	-	-	-	-	river, stream, brook <1.36>	-	-	-	-	-	-	-	-	-	-
+1326	enter (V)	-	-	-	-	enter <10.57>	-	-	-	-	-	-	-	-	-	-
+1327	limp	-	-	-	-	limp <10.451>	-	-	-	-	-	-	-	-	-	-
+1328	yawn (V)	-	-	-	-	yawn, gape <4.52>	-	-	-	-	-	-	-	-	-	-
+1329	spine	-	-	-	-	spine <4.191>	-	-	-	-	-	-	-	-	-	-
+1330	captive	-	-	-	-	captive, prisoner <20.47>	-	-	-	-	-	-	-	-	-	-
+1331	follow (V)	-	-	-	-	follow <10.52>	-	-	-	-	-	-	-	-	-	-
+1332	twist (V)	-	-	-	-	twist <10.17>	-	-	-	-	-	-	-	-	-	-
+1333	footprint	-	-	-	-	footprint <4.374>	-	-	-	-	-	-	-	-	-	-
+1334	deer	-	-	-	-	deer <3.75>	-	-	-	-	-	-	-	-	-	-
+1335	ladder	-	-	-	-	ladder <7.37>	-	-	-	-	-	-	-	-	-	-
+1336	eagle	-	-	-	-	eagle <3.584>	-	-	-	-	-	-	-	-	-	-
+1337	wring (V)	-	-	-	-	squeeze, wring <9.343>	-	-	-	-	-	-	-	-	-	-
+1338	walk	-	-	-	-	walk <10.45>	-	-	-	-	-	-	-	-	-	-
+1339	plait	-	-	-	-	weave, plait <9.75>	-	-	-	-	-	-	-	-	-	-
+1340	before	-	-	-	-	before <12.4>	-	-	-	-	-	-	-	-	-	-
+1341	wine	-	-	-	-	wine <5.92>	-	-	-	-	-	-	-	-	-	-
+1342	younger sister	-	-	-	-	younger sister <2.455>	-	-	-	-	-	-	-	-	-	-
+1343	pipe	-	-	-	-	pipe <8.691>	-	-	-	-	-	-	-	-	-	-
+1344	obey (V)	-	-	-	-	obey <19.46>	-	-	-	-	-	-	-	-	-	-
+1345	vine	-	-	-	-	vine <8.67>	-	-	-	-	-	-	-	-	-	-
+1346	axle	-	-	-	-	axle <10.77>	-	-	-	-	-	-	-	-	-	-
+1347	boy	-	-	-	-	boy <2.25>	-	-	-	-	-	-	-	-	-	-
+1348	whale	-	-	-	-	whale <3.663>	-	-	-	-	-	-	-	-	-	-
+1349	shell	-	-	-	-	shell <3.655>	-	-	-	-	-	-	-	-	-	-
+1350	wool	-	-	-	-	wool <6.22>	-	-	-	-	-	-	-	-	-	-
+1351	release (V)	-	-	-	-	release, let go <11.34>	-	-	-	-	-	-	-	-	-	-
+1352	father-in-law	-	-	-	-	father-in-law (of a man) <2.61>	-	-	-	-	-	-	-	-	-	-
+1353	salty	-	-	-	-	salty <15.36>	-	-	-	-	-	-	-	-	-	-
+1354	corpse	-	-	-	-	corpse <4.77>	-	-	-	-	-	-	-	-	-	-
+1355	wipe (V)	-	-	-	-	rub, wipe <9.31>	-	-	-	-	-	-	-	-	-	-
+1356	blink (V)	-	-	-	-	blink <4.215>	-	-	-	-	-	-	-	-	-	-
+1357	stump	-	-	-	-	tree stump <8.72>	-	-	-	-	-	-	-	-	-	-
+1358	cow	-	-	-	-	cow <3.23>	-	-	-	-	-	-	-	-	-	-
+1359	trousers	-	-	-	-	trousers <6.48>	-	-	-	-	-	-	-	-	-	-
+1360	possum	-	possum <130>	-	-	-	-	-	-	-	-	-	-	-	-	-
+1361	soiled	-	-	-	-	dirty, soiled <15.88>	-	-	-	-	-	-	-	-	-	-
+1362	rainbow	-	-	-	-	rainbow <1.59>	-	-	-	-	-	-	-	-	-	-
+1363	call (V)	-	-	-	-	call (=summon) <18.41>	-	-	-	-	-	-	-	-	-	-
+1364	she	he/she <184>	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1365	shake (V)	-	-	-	-	shake <10.26>	-	-	-	-	-	-	-	-	-	-
+1366	inside	in, inside <174>	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1367	alone	-	-	-	-	alone, only <13.33>	-	-	-	-	-	-	-	-	-	-
+1368	centipede	-	-	-	-	centipede <3.814>	-	-	-	-	-	-	-	-	-	-
+1369	harvest	-	-	-	-	crop, harvest <8.41>	-	-	-	-	-	-	-	-	-	-
+1370	pottery	-	-	-	-	potter <9.71>	-	-	-	-	-	-	-	-	-	-
+1371	arc	-	-	-	-	arch <7.58>	-	-	-	-	-	-	-	-	-	-
+1372	debt	-	-	-	-	owe <11.63>	-	-	-	-	-	-	-	-	-	-
+1373	disappear (V)	-	-	-	-	disappear <10.491>	-	-	-	-	-	-	-	-	-	-
+1374	lizard	-	-	-	-	lizard <3.96>	-	-	-	-	-	-	-	-	-	-
+1375	how much	-	-	-	-	how much? <17.63>	-	-	-	-	-	-	-	-	-	-
+1376	grave	-	-	-	-	grave, tomb <4.79>	-	-	-	-	-	-	-	-	-	-
+1377	multitude	-	-	-	-	multitude, crowd <13.19>	-	-	-	-	-	-	-	-	-	-
+1378	quiet	-	-	-	-	quiet, silence <15.46>	-	-	-	-	-	-	-	-	-	-
