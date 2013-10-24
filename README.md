@@ -29,6 +29,7 @@ Using an alias "the earth" that links directly to "the soil" helps us to identif
 Mapping is complicated. For example, given the concept string "hot" in one Swadesh list, and the concept string "warm (hot)" in another one, are we correct in mapping the two concepts? Even more complicated are "burn (transitive)" and "burn (intransitive)", or simpley "burn". The strategy we use here to overcome this problem is as follows:
 
 * only the main concepts are linked to our basic, what is in brackets won't be linked (thus, "fat (grease)" will ONLY be linked to "THE FAT", not to "THE GREASE",
+* if multiple concepts are given separated by a comma or a slash, all concepts will be mapped separately,
 * additionally, mergers of near synonyms will be defined that help us to map those concept that are often merged in Swadesh lists, as a result, a merger is defined between "THE FAT" and "THE GREASE", and if needed, both concepts can be displayed in a "merged fashion" when comparing different Swadesh lists.
 
 
