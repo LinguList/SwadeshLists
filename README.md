@@ -7,7 +7,7 @@ Currently, all data contained in the folder of separate Swadesh lists is provide
 
 The references for all files are not yet complete and will be added in the future.
 
-# How concepts are mapped among different Swadesh Lists
+## How concepts are mapped among different Swadesh Lists
 
 As a basis, we shall use the WOLD meanings (http://wold.livingsources.org/). All concepts in the WOLD are preanalyzed in an initial step and split into separate concepts, if the original WOLD concept contains multiple concepts strings, we split it into separate concepts. For example, the entry:
 
