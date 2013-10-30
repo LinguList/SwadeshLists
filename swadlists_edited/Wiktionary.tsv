@@ -1,0 +1,208 @@
+Key	Concept	Number	Gloss
+169	I	1	I
+170	THOU	2	thou
+172	HE	3	he
+175	WE	4	we
+178	YOU	5	you
+179	THEY	6	they
+1894	THIS	7	this
+1895	THAT	8	that
+1896	HERE	9	here
+1897	THERE	10	there
+1554	WHO?	11	who
+1550	WHAT?	12	what
+1552	WHERE?	13	where
+1551	WHEN?	14	when
+1547	HOW?	15	how
+1893	NOT	16	not
+1286	ALL	17	all
+1287	MANY	18	many
+1291	SOME	19	some
+1289	FEW	20	few
+1898	OTHER	21	other
+1269	ONE	22	one
+1270	TWO	23	two
+1271	THREE	24	three
+1272	FOUR	25	four
+1273	FIVE	26	five
+1241	BIG	27	big
+1243	LONG	28	long
+1246	WIDE	29	wide
+1248	THICK	30	thick
+1421	HEAVY	31	heavy
+1242	SMALL	32	small
+1245	SHORT	33	short
+1247	NARROW	34	narrow
+1249	THIN	35	thin
+97	THE WOMAN	36	woman
+96	THE MAN	37	man (adult male)
+95	THE PERSON	38	man (human being)
+104	THE CHILD (YOUNG HUMAN)	39	child (a youth)
+107	THE WIFE	40	wife
+106	THE HUSBAND	41	husband
+112	THE MOTHER	42	mother
+111	THE FATHER	43	father
+197	THE ANIMAL	44	animal
+254	THE FISH	45	fish
+235	THE BIRD	46	bird
+248	THE DOG	47	dog
+343	THE LOUSE	48	louse
+298	THE SNAKE	49	snake
+297	THE WORM	50	worm
+830	THE TREE	51	tree
+40	THE FOREST	52	forest
+1629	THE WALKING STICK	53	stick (of wood)
+603	THE FRUIT	54	fruit
+807	THE SEED	55	seed
+828	THE LEAF	56	leaf
+826	THE ROOT	57	root
+844	THE BARK	58	bark (of tree)
+829	THE FLOWER	59	flower
+822	THE GRASS	60	grass
+930	THE ROPE	61	rope
+364	THE SKIN	62	skin (of a person)
+597	THE MEAT	63	meat (as in flesh)
+372	THE BLOOD	64	blood
+375	THE BONE	65	bone
+611	THE FAT	66	fat (noun)
+626	THE EGG	67	egg
+377	THE HORN	68	horn
+378	THE TAIL	69	tail
+434	THE FEATHER	70	feather (rather not down)
+367	THE HAIR	71	hair
+381	THE HEAD	72	head
+395	THE EAR	73	ear
+390	THE EYE	74	eye
+398	THE NOSE	75	nose
+401	THE MOUTH	76	mouth
+405	THE TOOTH	77	tooth (rather not molar)
+404	THE TONGUE	78	tongue
+422	THE FINGERNAIL	79	fingernail
+428	THE FOOT	80	foot
+424	THE LEG	81	leg
+427	THE KNEE	82	knee
+418	THE HAND	83	hand
+433	THE WING	84	wing
+441	THE BELLY	85	belly
+449	THE GUTS	86	guts
+408	THE NECK	87	neck
+1267	BACK	88	back
+436	THE BREAST	89	breast
+442	THE HEART	90	heart
+444	THE LIVER	91	liver
+549	TO DRINK	92	to drink
+542	TO EAT	93	to eat
+468	TO BITE	94	to bite
+553	TO SUCK	95	to suck
+466	TO SPIT	96	to spit
+467	TO VOMIT	97	to vomit
+1065	TO BLOW	98	to blow (as wind)
+460	TO BREATHE	99	to breathe
+1444	TO LAUGH	100	to laugh
+1397	TO SEE	101	to see
+1391	TO HEAR	102	to hear
+1509	TO KNOW	103	to know (a fact)
+1505	TO THINK (REFLECT)	104	to think
+1382	TO SMELL (TRANSITIVE)	105	to smell (sense odor)
+1920	TO FEAR	106	to fear
+471	TO SLEEP	107	to sleep
+729	TO LIVE	108	to live
+487	TO DIE	109	to die
+490	TO KILL	110	to kill
+1702	TO FIGHT	111	to fight
+1739	TO HUNT	112	to hunt (transitive)
+933	TO HIT	113	to hit
+936	TO CUT	114	to cut
+948	TO SPLIT	115	to split
+939	TO STAB	116	to stab (or stick)
+510	TO SCRATCH	117	to scratch (an itch)
+797	TO DIG	118	to dig
+1060	TO SWIM	119	to swim
+1064	TO FLY	120	to fly
+1074	TO WALK	121	to walk
+1082	TO COME	122	to come
+1922	TO LIE (ON THE FLOOR)	123	to lie (as on one's side)
+1206	TO SIT	124	to sit
+1208	TO STAND	125	to stand
+1043	TO TURN	126	to turn (change direction)
+1052	TO FALL	127	to fall (as in drop)
+1144	TO GIVE	128	to give
+1140	TO HOLD	129	to hold (in one's hand)
+958	TO SQUEEZE	130	to squeeze
+951	TO RUB	131	to rub
+960	TO WASH	132	to wash
+952	TO WIPE	133	to wipe
+954	TO PULL	134	to pull
+1104	TO PUSH	135	to push
+1054	TO THROW	136	to throw
+927	TO TIE	137	to tie
+669	TO SEW	138	to sew
+1285	TO COUNT	139	to count
+1575	TO SAY	140	to say
+1564	TO SING	141	to sing
+1446	TO PLAY	142	to play
+1059	TO FLOAT	143	to float
+1057	TO FLOW	144	to flow
+68	TO FREEZE	145	to freeze
+1918	TO SWELL	146	to swell
+47	THE SUN	147	sun
+48	THE MOON	148	moon
+49	THE STAR	149	star
+17	THE WATER	150	water
+1921	TO RAIN	151	to rain
+32	THE RIVER	152	river
+23	THE LAKE	153	lake
+18	THE SEA	154	sea (as in ocean)
+612	THE SALT	155	salt
+43	THE STONE	156	stone
+6	THE SAND	157	sand
+4	THE DUST	158	dust
+3	THE SOIL	159	earth (as in soil)
+62	THE CLOUD	160	cloud
+63	THE FOG	161	fog
+46	THE SKY	162	sky
+61	THE WIND	163	wind (as in breeze)
+65	THE SNOW	164	snow
+66	THE ICE	165	ice
+72	THE SMOKE	166	smoke
+70	THE FIRE	167	fire
+74	THE ASH	168	ashes
+77	TO BURN (INTRANSITIVE)	169	to burn (intransitive)
+1105	THE ROAD	170	road
+7	THE MOUNTAIN	171	mountain
+1408	RED	172	red
+1410	GREEN	173	green
+1411	YELLOW	174	yellow
+1406	WHITE	175	white
+1407	BLACK	176	black
+1346	THE NIGHT	177	night
+1344	THE DAY (OPPOSED TO NIGHT)	178	day (daytime)
+1368	THE YEAR	179	year
+1426	WARM	180	warm (as in weather)
+1427	COLD	181	cold (as in weather)
+1293	FULL	182	full
+1319	NEW	183	new
+1321	OLD	184	old
+1477	GOOD	185	good
+1478	BAD	186	bad
+548	ROTTEN	187	rotten (as, a log)
+1429	DIRTY	188	dirty
+1253	STRAIGHT	189	straight
+1259	ROUND	190	round
+1419	SHARP	191	sharp (as a knife)
+1420	BLUNT	192	dull (as a knife)
+1418	SMOOTH	193	smooth
+1423	WET	194	wet
+1424	DRY	195	dry (adjective)
+1479	RIGHT (BE CORRECT)	196	right (correct)
+1232	NEAR	197	near
+1233	FAR	198	far
+1230	RIGHT (SIDE)	199	right (side)
+1231	LEFT	200	left (side)
+1194	AT	201	at
+1193	IN	202	in
+1891	WITH	203	with (accompanying)
+1541	AND	204	and
+1543	IF	205	if
+1542	BECAUSE	206	because
+1581	THE NAME	207	name

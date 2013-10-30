@@ -1,0 +1,234 @@
+Key	Concept	Number	Gloss
+3	THE SOIL	119	earth/soil
+4	THE DUST	11	dust
+6	THE SAND	121	sand
+17	THE WATER	122	water
+18	THE SEA	124	sea
+23	THE LAKE	126	lake
+39	THE WOODS	127	woods/forest
+40	THE FOREST	127	woods/forest
+42	THE WOOD	79	stick/wood
+43	THE STONE	120	stone
+46	THE SKY	128	sky
+48	THE MOON	129	moon
+49	THE STAR	130	star
+50	THE LIGHTNING	135	lightning
+51	THE THUNDER	134	thunder
+61	THE WIND	136	wind
+62	THE CLOUD	131	cloud
+63	THE FOG	132	fog
+64	THE RAIN	133	rain
+70	THE FIRE	143	fire
+72	THE SMOKE	145	smoke
+74	THE ASH	146	ashes
+77	TO BURN (INTRANSITIVE)	144	to burn
+95	THE PERSON	53	person/human being
+96	THE MAN	54	man/male
+97	THE WOMAN	55	woman/female
+98	MALE (OF HUMANS)	54	man/male
+99	FEMALE (OF HUMANS)	55	woman/female
+104	THE CHILD (YOUNG HUMAN)	56	child
+106	THE HUSBAND	57	husband
+107	THE WIFE	58	wife
+111	THE FATHER	60	father
+112	THE MOTHER	59	mother
+169	I	182	I
+170	THOU	183	thou
+171	HE/SHE/IT (3RD PERSON MARKER)	184	he/she
+175	WE	185	we
+178	YOU	186	you
+179	THEY	187	they
+235	THE BIRD	97	bird
+248	THE DOG	96	dog
+253	THE RAT	102	rat
+254	THE FISH	111	fish
+282	THE SPIDER	110	spider
+292	THE MOSQUITO	109	mosquito
+297	THE WORM	107	worm (earthworm)
+298	THE SNAKE	106	snake
+343	THE LOUSE	108	louse
+364	THE SKIN	12	skin
+366	THE FLESH	103	meat/flesh
+367	THE HAIR	26	hair
+372	THE BLOOD	23	blood
+375	THE BONE	15	bone
+378	THE TAIL	105	tail
+381	THE HEAD	24	head
+390	THE EYE	45	eye
+395	THE EAR	43	ear
+398	THE NOSE	27	nose
+401	THE MOUTH	30	mouth
+404	THE TONGUE	32	tongue
+405	THE TOOTH	31	tooth
+408	THE NECK	25	neck
+411	THE SHOULDER	19	shoulder
+418	THE HAND	1	hand
+424	THE LEG	4	leg/foot
+428	THE FOOT	4	leg/foot
+433	THE WING	100	wing
+434	THE FEATHER	99	feather
+436	THE BREAST	18	breast
+441	THE BELLY	14	belly
+444	THE LIVER	17	liver
+448	THE INTESTINES	16	intestines
+460	TO BREATHE	28	to breathe
+461	TO YAWN	47	to yawn
+466	TO SPIT	36	to spit
+467	TO VOMIT	35	to vomit
+468	TO BITE	41	to bite
+471	TO SLEEP	48	to sleep
+473	TO DREAM	50	to dream
+485	TO BE ALIVE	76	to live, be alive
+487	TO DIE	75	to die, be dead
+488	DEAD	75	to die, be dead
+490	TO KILL	74	to kill
+498	SICK	160	painful, sick
+510	TO SCRATCH	77	to scratch
+542	TO EAT	37	to eat
+548	ROTTEN	112	rotten
+549	TO DRINK	40	to drink
+553	TO SUCK	42	to suck
+554	TO CHEW	38	to chew
+557	TO COOK	39	to cook
+597	THE MEAT	103	meat/flesh
+603	THE FRUIT	117	fruit
+610	THE GREASE	104	fat/grease
+611	THE FAT	104	fat/grease
+612	THE SALT	125	salt
+626	THE EGG	98	egg
+669	TO SEW	67	to sew
+670	THE NEEDLE (FOR SEWING)	68	needle
+729	TO LIVE	76	to live, be alive
+730	THE HOUSE	61	house
+765	THE ROOF	62	thatch/roof
+766	THE THATCH	62	thatch/roof
+797	TO DIG	90	to dig
+822	THE GRASS	118	grass
+825	TO PLANT	84	to plant
+826	THE ROOT	115	root
+827	THE BRANCH	113	branch
+828	THE LEAF	114	leaf
+829	THE FLOWER	116	flower
+927	TO TIE	66	to tie up, fasten
+930	THE ROPE	65	rope
+933	TO HIT	72	to hit
+934	TO BEAT	93	to pound, beat
+935	TO POUND	93	to pound, beat
+936	TO CUT	78	to cut, hack
+939	TO STAB	71	to stab, pierce
+948	TO SPLIT	80	to split
+958	TO SQUEEZE	88	to squeeze
+1043	TO TURN	8	to turn
+1052	TO FALL	95	to fall
+1054	TO THROW	94	to throw
+1057	TO FLOW	123	to flow
+1060	TO SWIM	9	to swim
+1064	TO FLY	101	to fly
+1065	TO BLOW	137	to blow
+1074	TO WALK	5	to walk
+1079	TO CLIMB	172	to climb
+1082	TO COME	7	to come
+1105	THE ROAD	6	road/path
+1106	THE PATH	6	road/path
+1140	TO HOLD	89	to hold
+1171	TO BUY	91	to buy
+1193	IN	174	in, inside
+1194	AT	173	at
+1199	INSIDE	174	in, inside
+1203	ABOVE	175	above
+1206	TO SIT	51	to sit
+1207	TO LIE DOWN	49	to lie down
+1208	TO STAND	52	to stand
+1217	TO OPEN	92	to open, uncover
+1220	TO HIDE	171	to hide
+1230	RIGHT (SIDE)	3	right
+1231	LEFT	2	left
+1232	NEAR	179	near
+1233	FAR	180	far
+1238	TO GROW	86	to grow
+1241	BIG	153	big
+1242	SMALL	152	small
+1243	LONG	155	long
+1245	SHORT	154	short
+1246	WIDE	159	wide
+1247	NARROW	158	narrow
+1248	THICK	157	thick
+1249	THIN	156	thin
+1267	BACK	13	back
+1269	ONE	197	One
+1270	TWO	198	Two
+1271	THREE	199	Three
+1272	FOUR	200	Four
+1273	FIVE	201	Five
+1274	SIX	202	Six
+1275	SEVEN	203	Seven
+1276	EIGHT	204	Eight
+1277	NINE	205	Nine
+1278	TEN	206	Ten
+1282	TWENTY	207	Twenty
+1285	TO COUNT	196	to count
+1286	ALL	191	all
+1319	NEW	163	new
+1321	OLD	162	old
+1344	THE DAY (OPPOSED TO NIGHT)	168	day
+1346	THE NIGHT	167	night
+1368	THE YEAR	169	year
+1381	TO SNIFF	29	to sniff, smell
+1382	TO SMELL (TRANSITIVE)	29	to sniff, smell
+1391	TO HEAR	44	to hear
+1397	TO SEE	46	to see
+1406	WHITE	148	white
+1407	BLACK	147	black
+1408	RED	149	red
+1410	GREEN	151	green
+1411	YELLOW	150	yellow
+1419	SHARP	81	sharp
+1420	BLUNT	82	dull, blunt
+1421	HEAVY	142	heavy
+1423	WET	141	wet
+1424	DRY	140	dry
+1426	WARM	138	warm
+1427	COLD	139	cold
+1429	DIRTY	10	dirty
+1444	TO LAUGH	33	to laugh
+1456	TO CRY	34	to cry
+1470	TO CHOOSE	85	to choose
+1473	TRUE	166	correct, true
+1477	GOOD	164	good
+1478	BAD	165	bad, evil
+1937	EVIL	165	bad, evil
+1495	TO BE ASHAMED	161	shy, ashamed
+1505	TO THINK (REFLECT)	21	to think
+1509	TO KNOW	20	to know, be knowledgeable
+1541	AND	192	and
+1543	IF	193	if
+1547	HOW?	194	how?
+1550	WHAT?	188	what?
+1551	WHEN?	170	when?
+1552	WHERE?	181	where?
+1554	WHO?	189	who?
+1575	TO SAY	64	to say
+1581	THE NAME	63	name
+1629	THE WALKING STICK	79	stick/wood
+1739	TO HUNT	69	to hunt
+1740	TO SHOOT	70	to shoot
+1777	TO STEAL	73	to steal
+1893	NOT	195	no, not
+1894	THIS	177	this
+1895	THAT	178	that
+1898	OTHER	190	other
+1918	TO SWELL	87	to swell
+1920	TO FEAR	22	to fear
+1923	FIFTY	208	Fifty
+1924	HUNDRED	209	One Hundred
+1925	THOUSAND	210	One Thousand
+1927	TO PIERCE	71	to stab, pierce
+1928	TO HACK	78	to cut, hack
+1929	TO WORK	83	to work
+1930	TO UNCOVER	92	to open, uncover
+1931	TO BE KNOWLEDGEABLE	20	to know, be knowledgeable
+1932	THE HUMAN BEING	53	person/human being
+1933	TO FASTEN	66	to tie up, fasten
+1934	PAINFUL	160	painful, sick
+1935	CORRECT	166	correct, true
+1936	BELOW	176	below
