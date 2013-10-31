@@ -1,5 +1,5 @@
 Number	Gloss
-1	belly(exterior)
+1	belly (exterior)
 2	blood
 3	bone
 4	ear/hear
@@ -8,8 +8,8 @@ Number	Gloss
 7	fat/grease
 8	foot
 9	guts
-10	hair(head)
-11	hair(body)
+10	hair (head)
+11	hair (body)
 12	hand/arm
 13	head
 14	heart
@@ -49,7 +49,10 @@ Number	Gloss
 48	poison [antifood]
 49	mushroom/fungus
 50	liquor
-51	plaintain/banana
+51	plantain/banana
+51a	medicine/juice
+51b	rice (in fields)
+51c	rice (cooked)
 52	meat/animal
 53	bird
 54	dog
@@ -59,7 +62,7 @@ Number	Gloss
 58	frog
 59	insect, bug, vermin
 60	bee
-61	dover
+61	dove
 62	monkey
 63	pig
 64	fowl
@@ -67,6 +70,8 @@ Number	Gloss
 66	horse
 67	ant
 68	bear
+68a	leech
+68b	water leech
 69	rat/rodent
 70	ashes
 71	cloud
@@ -88,7 +93,7 @@ Number	Gloss
 87	star
 88	stick
 89	stone
-90	sun(day
+90	sun/day
 91	tree/wood
 92	water
 93	wind
@@ -97,10 +102,12 @@ Number	Gloss
 96	bamboo
 97	shade/shadow
 98	joint
-99	thorn(prick)
+99	thorn (prick)
 100	night
 101	iron
 102	field
+102a	swidden
+102b	irrigated paddy field
 103	arrow
 104	needle
 105	house
@@ -166,7 +173,7 @@ Number	Gloss
 165	warm
 166	round
 167	ripe/well-cooked
-168	soft(to touch)
+168	soft (to touch)
 169	white
 170	black
 171	thick
@@ -180,7 +187,7 @@ Number	Gloss
 179	steal
 180	lick
 181	bite
-182	scratch(scrape
+182	scratch (scrape)
 183	cook/boil
 184	grind
 185	wash
@@ -191,7 +198,7 @@ Number	Gloss
 190	buy
 191	sew
 192	kill
-193	waeve
+193	weave
 194	rub
 195	squeeze
 196	shoot
@@ -199,3 +206,5 @@ Number	Gloss
 198	sell
 199	put, place
 200	drive/hunt
+200a	burn
+200b	cut

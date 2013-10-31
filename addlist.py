@@ -39,17 +39,18 @@ fuzzy = {}
 
 for line in meta:
     
-    try:
-        fuzzy[line[3]] += [line[2]]
-    except KeyError:
-        fuzzy[line[3]] = [line[2]]
-    
-    if line[-1] != '-':
-        for a in line[-1].split(','):
-            try:
-                fuzzy[a] += [line[2]]
-            except:
-                fuzzy[a] = [line[2]]
+    if line[1] != "IGNORE":
+        try:
+            fuzzy[line[3]] += [line[2]]
+        except KeyError:
+            fuzzy[line[3]] = [line[2]]
+        
+        if line[-1] != '-':
+            for a in line[-1].split(','):
+                try:
+                    fuzzy[a] += [line[2]]
+                except:
+                    fuzzy[a] = [line[2]]
 
 metaIdx = dict([(l[2],l[0]) for l in meta])
 
@@ -103,10 +104,10 @@ for line in sw[idx:]:
         # check whether it's there
         if g in fuzzy:
             if len(fuzzy[g]) == 1:
-                print("[i] Direct match found for «{0}».".format(g))
+                print("[{1}] Direct match found for «{0}».".format(g,n))
                 swnew += [[metaIdx[fuzzy[g][0]],fuzzy[g][0]]+line]
             else:
-                print("[i] Multiple matches found for «{0}».".format(g))
+                print("[{1}] Multiple matches found for «{0}».".format(g,n))
                 print("... "+', '.join(fuzzy[g]))
                 answers = input("[?] Which one should be inserted? ")
                 if answers.isdigit():
@@ -115,6 +116,13 @@ for line in sw[idx:]:
                                 metaIdx[fuzzy[g][int(answers)-1]],
                                 fuzzy[g][int(answers)-1]]+line
                             ]
+                elif ',' in answers and sum([1 for a in answers.split(',') if a.isdigit()]) == len(answers.split(',')):
+                    for a in answers.split(','):
+                        swnew += [
+                                [
+                                    metaIdx[fuzzy[g][int(a)-1]],
+                                    fuzzy[g][int(a)-1]]+line
+                                ]
                 else:
                     for a in answers.split(','):
                         swnew += [[metaIdx[a],a]+line]
@@ -122,7 +130,7 @@ for line in sw[idx:]:
                 #for answer in answers.split(','):
                 #    swnew += [[metaIdx[answer],answer]+line]
         else:
-            answers = input("[?] Entry «{0}» could not be found in database, do you have an idea? ".format(g))
+            answers = input("[{1}] Entry «{0}» could not be found in database, do you have an idea? ".format(g,n))
             if answers == 'x':
                 answers = g.replace('/',',')
             elif answers == 's':
@@ -135,7 +143,7 @@ for line in sw[idx:]:
                         print("[i] Found match for entry «{0}».".format(answer))
                         swnew += [[metaIdx[fuzzy[answer][0]],fuzzy[answer][0]]+line]
                     else:
-                        print("[?] Entry «{0}» has multiple counterparts in the metalist.".format(answer))
+                        print("[{1}] Entry «{0}» has multiple counterparts in the metalist.".format(answer,n))
                         print("[:] "+','.join(fuzzy[answer]))
                         answer2 = input("[?] Which one do you mean? " )
                         if answer2.isdigit():
@@ -149,8 +157,8 @@ for line in sw[idx:]:
                                 print(a)
                                 swnew += [[metaIdx[a],a]+line]
                 else:
-                    print("[?] Entry «{0}» could not be found in database.".format(answer))
-                    answer = input("[?] How should it be rendered in the database?" )
+                    print("[{1}] Entry «{0}» could not be found in database.".format(answer,n))
+                    answer = input("[?] How should it be rendered in the database? " )
                     if answer not in "n":
                         meta += [[maxIdx,0,answer]+ 8 * ["-"]]
                         fuzzy[clean(answer)] = [answer]

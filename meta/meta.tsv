@@ -1,0 +1,1970 @@
+1	KEPT	THE WORLD	world	1.1	the world	Noun	The physical world	0.40	0.84	0.86	48	-
+2	KEPT	THE LAND	land	1.21	the land	Noun	The physical world	0.27	0.90	0.94	50	-
+3	SPLIT	THE SOIL	soil	1.212	the soil	Noun	The physical world	0.10	0.88	0.95	44	earth
+4	KEPT	THE DUST	dust	1.213	the dust	Noun	The physical world	0.23	0.89	0.93	55	-
+5	KEPT	THE MUD	mud	1.214	the mud	Noun	The physical world	0.15	0.84	0.92	53	-
+6	KEPT	THE SAND	sand	1.215	the sand	Noun	The physical world	0.10	0.88	0.93	46	-
+7	SPLIT	THE MOUNTAIN	mountain	1.22	the mountain or hill	Noun	The physical world	0.17	0.89	0.97	73	-
+8	SPLIT	THE HILL	hill	1.22	the mountain or hill	Noun	The physical world	0.17	0.89	0.97	73	-
+9	SPLIT	THE CLIFF	cliff	1.222	the cliff or precipice	Noun	The physical world	0.17	0.87	0.94	50	-
+10	SPLIT	THE PRECIPICE	precipice	1.222	the cliff or precipice	Noun	The physical world	0.17	0.87	0.94	50	-
+11	KEPT	THE PLAIN	plain	1.23	the plain	Noun	The physical world	0.26	0.90	0.79	52	-
+12	KEPT	THE VALLEY	valley	1.24	the valley	Noun	The physical world	0.18	0.84	0.89	46	-
+13	KEPT	THE ISLAND	island	1.25	the island	Noun	The physical world	0.39	0.85	0.90	47	-
+14	KEPT	THE MAINLAND	mainland	1.26	the mainland	Noun	The physical world	0.42	0.82	0.75	29	-
+15	KEPT	THE SHORE	shore	1.27	the shore	Noun	The physical world	0.15	0.84	0.76	59	-
+16	KEPT	THE CAVE	cave	1.28	the cave	Noun	The physical world	0.20	0.81	0.87	49	-
+17	KEPT	THE WATER	water	1.31	the water	Noun	The physical world	0.09	0.90	0.99	45	-
+18	KEPT	THE SEA	sea	1.32	the sea	Noun	The physical world	0.46	0.86	0.92	43	-
+19	KEPT	CALM	calm	1.322	calm	Adjective	The physical world	0.26	0.87	0.84	35	-
+20	KEPT	ROUGH (OF SEA)	rough	1.323	rough(2)	Adjective	The physical world	0.16	0.80	0.71	34	-
+21	KEPT	THE FOAM	foam	1.324	the foam	Noun	The physical world	0.15	0.84	0.95	47	-
+22	KEPT	THE OCEAN	ocean	1.329	the ocean	Noun	The physical world	0.61	0.81	0.79	35	-
+23	KEPT	THE LAKE	lake	1.33	the lake	Noun	The physical world	0.21	0.84	0.92	47	-
+24	KEPT	THE BAY	bay	1.34	the bay	Noun	The physical world	0.34	0.79	0.88	28	-
+25	KEPT	THE LAGOON	lagoon	1.341	the lagoon	Noun	The physical world	0.39	0.82	0.88	24	-
+26	KEPT	THE REEF	reef	1.342	the reef	Noun	The physical world	0.24	0.82	0.80	23	-
+27	KEPT	THE CAPE	cape	1.343	the cape	Noun	The physical world	0.37	0.87	0.87	20	-
+28	KEPT	THE WAVE	wave	1.35	the wave	Noun	The physical world	0.13	0.81	0.88	46	-
+29	KEPT	THE TIDE	tide	1.352	the tide	Noun	The physical world	0.17	0.77	0.71	24	-
+30	KEPT	THE LOW TIDE	low tide	1.353	the low tide	Noun	The physical world	0.12	0.79	0.68	20	-
+31	KEPT	THE HIGH TIDE	high tide	1.354	the high tide	Noun	The physical world	0.14	0.71	0.67	26	-
+32	SPLIT	THE RIVER	river	1.36	the river or stream	Noun	The physical world	0.22	0.89	0.92	63	-
+33	SPLIT	THE STREAM	stream	1.36	the river or stream	Noun	The physical world	0.22	0.89	0.92	63	-
+34	KEPT	THE WHIRLPOOL	whirlpool	1.362	the whirlpool	Noun	The physical world	0.10	0.77	0.71	41	-
+35	SPLIT	THE SPRING	spring	1.37	the spring or well	Noun	The physical world	0.21	0.81	0.85	66	-
+36	SPLIT	THE WELL	well	1.37	the spring or well	Noun	The physical world	0.21	0.81	0.85	66	-
+37	KEPT	THE SWAMP	swamp	1.38	the swamp	Noun	The physical world	0.21	0.81	0.85	54	-
+38	KEPT	THE WATERFALL	waterfall	1.39	the waterfall	Noun	The physical world	0.22	0.81	0.68	45	-
+39	SPLIT	THE WOODS	woods	1.41	the woods or forest	Noun	The physical world	0.16	0.86	0.94	59	-
+40	SPLIT	THE FOREST	forest	1.41	the woods or forest	Noun	The physical world	0.16	0.86	0.94	59	-
+41	KEPT	THE SAVANNA	savanna	1.411	the savanna	Noun	The physical world	0.58	0.76	0.95	26	-
+42	KEPT	THE WOOD	wood	1.43	the wood	Noun	The physical world	0.14	0.93	0.94	43	-
+43	SPLIT	THE STONE	stone	1.44	the stone or rock	Noun	The physical world	0.10	0.89	0.96	54	-
+44	SPLIT	THE ROCK	rock	1.44	the stone or rock	Noun	The physical world	0.10	0.89	0.96	54	-
+45	KEPT	THE EARTHQUAKE	earthquake	1.45	the earthquake	Noun	The physical world	0.25	0.81	0.67	40	-
+46	KEPT	THE SKY	sky	1.51	the sky	Noun	The physical world	0.27	0.91	0.91	46	-
+47	KEPT	THE SUN	sun	1.52	the sun	Noun	The physical world	0.14	0.89	0.87	48	-
+48	KEPT	THE MOON	moon	1.53	the moon	Noun	The physical world	0.28	0.89	0.96	49	-
+49	KEPT	THE STAR	star	1.54	the star	Noun	The physical world	0.17	0.89	0.97	43	-
+50	KEPT	THE LIGHTNING	lightning	1.55	the lightning	Noun	The physical world	0.16	0.82	0.77	49	-
+51	KEPT	THE THUNDER	thunder	1.56	the thunder	Noun	The physical world	0.10	0.83	0.82	47	-
+52	KEPT	THE BOLT OF LIGHTNING	bolt of lightning	1.57	the bolt of lightning	Noun	The physical world	0.26	0.85	0.80	42	-
+53	KEPT	THE STORM	storm	1.58	the storm	Noun	The physical world	0.24	0.79	0.80	48	-
+54	KEPT	THE RAINBOW	rainbow	1.59	the rainbow	Noun	The physical world	0.14	0.84	0.79	44	-
+55	KEPT	THE LIGHT	light	1.61	the light	Noun	The physical world	0.21	0.89	0.89	49	-
+56	KEPT	THE DARKNESS	darkness	1.62	the darkness	Noun	The physical world	0.15	0.87	0.74	49	-
+57	SPLIT	THE SHADE	shade	1.63	the shade or shadow	Noun	The physical world	0.11	0.90	0.93	52	-
+58	SPLIT	THE SHADOW	shadow	1.63	the shade or shadow	Noun	The physical world	0.11	0.90	0.93	52	-
+59	KEPT	THE DEW	dew	1.64	the dew	Noun	The physical world	0.16	0.87	0.90	50	-
+60	KEPT	THE AIR	air	1.71	the air	Noun	The physical world	0.48	0.92	0.94	42	-
+61	KEPT	THE WIND	wind	1.72	the wind	Noun	The physical world	0.17	0.91	0.99	45	-
+62	KEPT	THE CLOUD	cloud	1.73	the cloud	Noun	The physical world	0.16	0.89	0.94	45	-
+63	KEPT	THE FOG	fog	1.74	the fog	Noun	The physical world	0.14	0.86	0.91	48	-
+64	KEPT	THE RAIN	rain	1.75	the rain	Noun	The physical world	0.08	0.91	0.95	43	-
+65	KEPT	THE SNOW	snow	1.76	the snow	Noun	The physical world	0.24	0.89	0.93	36	-
+66	KEPT	THE ICE	ice	1.77	the ice	Noun	The physical world	0.23	0.83	0.90	45	-
+67	KEPT	THE ARCTIC LIGHTS	arctic lights	1.771	the arctic lights	Noun	The physical world	0.22	0.72	0.56	16	-
+68	KEPT	TO FREEZE	freeze	1.775	to freeze	Verb	The physical world	0.13	0.84	0.77	37	-
+69	KEPT	THE WEATHER	weather	1.78	the weather	Noun	The physical world	0.36	0.83	0.85	39	-
+70	KEPT	THE FIRE	fire	1.81	the fire	Noun	The physical world	0.04	0.94	0.99	42	-
+71	KEPT	THE FLAME	flame	1.82	the flame	Noun	The physical world	0.18	0.88	0.76	45	-
+72	KEPT	THE SMOKE	smoke	1.83	the smoke	Noun	The physical world	0.08	0.84	0.93	44	-
+73	KEPT	THE STEAM	steam	1.831	the steam	Noun	The physical world	0.23	0.83	0.88	45	-
+74	KEPT	THE ASH	ash	1.84	the ash	Noun	The physical world	0.15	0.87	0.92	43	ashes
+75	KEPT	THE EMBERS	embers	1.841	the embers	Noun	The physical world	0.25	0.80	0.83	44	-
+76	KEPT	TO BURN (TRANSITIVE)	burn	1.851	to burn(1)	Verb	The physical world	0.10	0.89	0.78	47	-
+77	KEPT	TO BURN (INTRANSITIVE)	burn	1.852	to burn(2)	Verb	The physical world	0.05	0.85	0.89	44	-
+78	KEPT	TO LIGHT	light	1.86	to light	Verb	The physical world	0.06	0.82	0.77	53	-
+79	KEPT	TO EXTINGUISH	extinguish	1.861	to extinguish	Verb	The physical world	0.15	0.89	0.76	45	-
+80	KEPT	THE MATCH	match	1.87	the match	Noun	The physical world	0.67	0.74	0.87	52	-
+81	KEPT	THE FIREWOOD	firewood	1.88	the firewood	Noun	The physical world	0.05	0.89	0.84	42	-
+82	KEPT	THE CHARCOAL	charcoal	1.89	the charcoal	Noun	The physical world	0.26	0.88	0.88	46	-
+83	KEPT	THE BEACH	beach	1.99901	the beach	Noun	The physical world	0.00	0.50	0.62	2	-
+84	KEPT	THE COAL	coal	1.99903	the coal	Noun	The physical world	0.00	1.00	1.00	1	-
+85	KEPT	THE CONSTELLATION	constellation	1.99904	the constellation	Noun	The physical world	0.00	1.00	1.00	1	-
+86	SPLIT	THE JADE	jade	1.99905	the jade or jadeite	Noun	The physical world	1.00	0.60	1.00	1	-
+87	SPLIT	THE JADEITE	jadeite	1.99905	the jade or jadeite	Noun	The physical world	1.00	0.60	1.00	1	-
+88	KEPT	THE LOAM	loam	1.99906	the loam	Noun	The physical world	0.00	0.50	0.75	1	-
+89	IGNORE	THE RIVER (DUPLICATE)	river	1.99907	the river	Noun	The physical world	1.00	0.50	1.00	2	-
+90	KEPT	THE RIVER MOUTH	river mouth	1.99908	the river mouth	Noun	The physical world	0.00	0.50	1.00	1	-
+91	KEPT	THE SHORT DRY SEASON	short dry season	1.99909	the short dry season	Noun	The physical world	0.00	0.50	0.50	1	-
+92	KEPT	THE SPRING	spring	1.9991	the spring	Noun	The physical world	0.00	0.67	0.67	2	-
+93	KEPT	TO BLAZE	blaze	1.99911	to blaze	Verb	The physical world	0.00	1.00	0.75	1	-
+94	KEPT	TO MELT	melt	1.99912	to melt	Verb	The physical world	0.00	1.00	0.75	2	-
+95	KEPT	THE PERSON	person	2.1	the person	Noun	Kinship	0.32	0.93	0.93	51	-
+96	KEPT	THE MAN	man	2.21	the man	Noun	Kinship	0.10	0.89	0.88	52	-
+97	KEPT	THE WOMAN	woman	2.22	the woman	Noun	Kinship	0.16	0.82	0.89	53	-
+98	KEPT	MALE (OF HUMANS)	male	2.23	male(1)	Adjective	Kinship	0.19	0.87	0.83	44	-
+99	KEPT	FEMALE (OF HUMANS)	female	2.24	female(1)	Adjective	Kinship	0.16	0.86	0.85	44	-
+100	KEPT	THE BOY	boy	2.25	the boy	Noun	Kinship	0.17	0.86	0.74	49	-
+101	KEPT	THE YOUNG MAN	young man	2.251	the young man	Noun	Kinship	0.24	0.87	0.74	51	-
+102	KEPT	THE GIRL	girl	2.26	the girl	Noun	Kinship	0.14	0.88	0.76	48	-
+103	KEPT	THE YOUNG WOMAN	young woman	2.261	the young woman	Noun	Kinship	0.17	0.85	0.76	49	-
+104	KEPT	THE CHILD (YOUNG HUMAN)	child	2.27	the child(1)	Noun	Kinship	0.15	0.85	0.89	51	-
+105	KEPT	THE BABY	baby	2.28	the baby	Noun	Kinship	0.22	0.80	0.81	50	-
+106	KEPT	THE HUSBAND	husband	2.31	the husband	Noun	Kinship	0.20	0.88	0.90	57	-
+107	KEPT	THE WIFE	wife	2.32	the wife	Noun	Kinship	0.18	0.85	0.84	59	-
+108	KEPT	TO MARRY	marry	2.33	to marry	Verb	Kinship	0.14	0.81	0.69	68	-
+109	KEPT	THE WEDDING	wedding	2.34	the wedding	Noun	Kinship	0.25	0.80	0.76	46	-
+110	KEPT	THE DIVORCE	divorce	2.341	the divorce	Noun	Kinship	0.25	0.79	0.65	40	-
+111	KEPT	THE FATHER	father	2.35	the father	Noun	Kinship	0.25	0.86	0.96	53	-
+112	KEPT	THE MOTHER	mother	2.36	the mother	Noun	Kinship	0.19	0.87	0.95	57	-
+113	KEPT	THE PARENTS	parents	2.37	the parents	Noun	Kinship	0.12	0.84	0.63	42	-
+114	KEPT	THE MARRIED MAN	married man	2.38	the married man	Noun	Kinship	0.05	0.80	0.62	29	-
+115	KEPT	THE MARRIED WOMAN	married woman	2.39	the married woman	Noun	Kinship	0.01	0.77	0.59	30	-
+116	KEPT	THE SON	son	2.41	the son	Noun	Kinship	0.11	0.88	0.87	48	-
+117	KEPT	THE DAUGHTER	daughter	2.42	the daughter	Noun	Kinship	0.12	0.86	0.85	48	-
+118	KEPT	THE CHILD (SON OR DAUGHTER)	child	2.43	the child(2)	Noun	Kinship	0.07	0.88	0.93	49	-
+119	KEPT	THE BROTHER	brother	2.44	the brother	Noun	Kinship	0.06	0.87	0.81	48	-
+120	KEPT	THE OLDER BROTHER	older brother	2.444	the older brother	Noun	Kinship	0.06	0.85	0.79	44	-
+121	KEPT	THE YOUNGER BROTHER	younger brother	2.445	the younger brother	Noun	Kinship	0.03	0.84	0.73	40	-
+122	KEPT	THE SISTER	sister	2.45	the sister	Noun	Kinship	0.12	0.81	0.81	48	-
+123	KEPT	THE OLDER SISTER	older sister	2.454	the older sister	Noun	Kinship	0.06	0.82	0.71	43	-
+124	KEPT	THE YOUNGER SISTER	younger sister	2.455	the younger sister	Noun	Kinship	0.01	0.79	0.68	39	-
+125	KEPT	THE SIBLING	sibling	2.456	the sibling	Noun	Kinship	0.14	0.85	0.66	39	-
+126	KEPT	THE OLDER SIBLING	older sibling	2.4561	the older sibling	Noun	Kinship	0.06	0.85	0.77	31	-
+127	KEPT	THE YOUNGER SIBLING	younger sibling	2.4562	the younger sibling	Noun	Kinship	0.17	0.86	0.81	26	-
+128	KEPT	THE TWINS	twins	2.458	the twins	Noun	Kinship	0.23	0.81	0.76	43	-
+129	KEPT	THE GRANDFATHER	grandfather	2.46	the grandfather	Noun	Kinship	0.27	0.83	0.83	58	-
+130	KEPT	THE OLD MAN	old man	2.461	the old man	Noun	Kinship	0.23	0.81	0.75	45	-
+131	KEPT	THE GRANDMOTHER	grandmother	2.47	the grandmother	Noun	Kinship	0.27	0.84	0.82	59	-
+132	KEPT	THE OLD WOMAN	old woman	2.471	the old woman	Noun	Kinship	0.13	0.78	0.69	45	-
+133	KEPT	THE GRANDPARENTS	grandparents	2.4711	the grandparents	Noun	Kinship	0.19	0.83	0.65	29	-
+134	KEPT	THE GRANDSON	grandson	2.48	the grandson	Noun	Kinship	0.10	0.85	0.75	45	-
+135	KEPT	THE GRANDDAUGHTER	granddaughter	2.49	the granddaughter	Noun	Kinship	0.10	0.83	0.73	46	-
+136	KEPT	THE GRANDCHILD	grandchild	2.5	the grandchild	Noun	Kinship	0.13	0.83	0.86	38	-
+137	KEPT	THE UNCLE	uncle	2.51	the uncle	Noun	Kinship	0.30	0.87	0.94	41	-
+138	KEPT	THE MOTHER'S BROTHER	mother's brother	2.511	the mother's brother	Noun	Kinship	0.21	0.78	0.91	40	-
+139	KEPT	THE FATHER'S BROTHER	father's brother	2.512	the father's brother	Noun	Kinship	0.22	0.81	0.79	43	-
+140	KEPT	THE AUNT	aunt	2.52	the aunt	Noun	Kinship	0.24	0.84	0.87	45	-
+141	KEPT	THE MOTHER'S SISTER	mother's sister	2.521	the mother's sister	Noun	Kinship	0.22	0.79	0.82	42	-
+142	KEPT	THE FATHER'S SISTER	father's sister	2.522	the father's sister	Noun	Kinship	0.28	0.84	0.91	42	-
+143	KEPT	THE NEPHEW	nephew	2.53	the nephew	Noun	Kinship	0.19	0.84	0.73	47	-
+144	KEPT	THE NIECE	niece	2.54	the niece	Noun	Kinship	0.15	0.82	0.68	48	-
+145	KEPT	THE SIBLING’S CHILD	sibling’s child	2.541	the sibling’s child	Noun	Kinship	0.22	0.84	0.81	36	-
+146	KEPT	THE COUSIN	cousin	2.55	the cousin	Noun	Kinship	0.12	0.80	0.70	76	-
+147	KEPT	THE ANCESTORS	ancestors	2.56	the ancestors	Noun	Kinship	0.28	0.80	0.70	43	-
+148	KEPT	THE DESCENDANTS	descendants	2.57	the descendants	Noun	Kinship	0.35	0.82	0.70	45	-
+149	KEPT	THE FATHER-IN-LAW (OF A MAN)	father-in-law	2.61	the father-in-law (of a man)	Noun	Kinship	0.13	0.83	0.73	43	-
+150	KEPT	THE FATHER-IN-LAW (OF A WOMAN)	father-in-law	2.611	the father-in-law (of a woman)	Noun	Kinship	0.17	0.79	0.76	42	-
+151	KEPT	THE MOTHER-IN-LAW (OF A MAN)	mother-in-law	2.62	the mother-in-law (of a man)	Noun	Kinship	0.12	0.80	0.72	44	-
+152	KEPT	THE MOTHER-IN-LAW (OF A WOMAN)	mother-in-law	2.621	the mother-in-law (of a woman)	Noun	Kinship	0.19	0.83	0.75	43	-
+153	KEPT	THE PARENTS-IN-LAW	parents-in-law	2.622	the parents-in-law	Noun	Kinship	0.11	0.89	0.72	30	-
+154	KEPT	THE SON-IN-LAW (OF A MAN)	son-in-law	2.63	the son-in-law (of a man)	Noun	Kinship	0.20	0.85	0.85	43	-
+155	KEPT	THE SON-IN-LAW (OF A WOMAN)	son-in-law	2.631	the son-in-law (of a woman)	Noun	Kinship	0.22	0.83	0.86	41	-
+156	KEPT	THE DAUGHTER-IN-LAW (OF A MAN)	daughter-in-law	2.64	the daughter-in-law (of a man)	Noun	Kinship	0.09	0.85	0.80	42	-
+157	KEPT	THE DAUGTHER-IN-LAW (OF A WOMAN)	daugther-in-law	2.641	the daughter-in-law (of a woman)	Noun	Kinship	0.11	0.88	0.82	41	-
+158	KEPT	THE CHILD-IN-LAW	child-in-law	2.6411	the child-in-law	Noun	Kinship	0.04	0.92	0.80	26	-
+159	KEPT	THE SIBLING-IN-LAW	sibling-in-law	2.6412	the sibling-in-law	Noun	Kinship	0.12	0.91	0.85	45	-
+160	KEPT	THE STEPFATHER	stepfather	2.71	the stepfather	Noun	Kinship	0.12	0.83	0.58	46	-
+161	KEPT	THE STEPMOTHER	stepmother	2.72	the stepmother	Noun	Kinship	0.14	0.83	0.59	45	-
+162	KEPT	THE STEPSON	stepson	2.73	the stepson	Noun	Kinship	0.07	0.79	0.60	38	-
+163	KEPT	THE STEPDAUGHTER	stepdaughter	2.74	the stepdaughter	Noun	Kinship	0.10	0.82	0.60	37	-
+164	KEPT	THE ORPHAN	orphan	2.75	the orphan	Noun	Kinship	0.23	0.82	0.88	43	-
+165	KEPT	THE WIDOW	widow	2.76	the widow	Noun	Kinship	0.27	0.86	0.74	44	-
+166	KEPT	THE WIDOWER	widower	2.77	the widower	Noun	Kinship	0.21	0.83	0.72	38	-
+167	KEPT	THE RELATIVES	relatives	2.81	the relatives	Noun	Kinship	0.40	0.83	0.84	51	-
+168	KEPT	THE FAMILY	family	2.82	the family	Noun	Kinship	0.42	0.84	0.86	48	-
+169	KEPT	I	I	2.91	I	Function word	Kinship	0.03	0.88	0.94	59	-
+170	KEPT	THOU	thou	2.92	you (singular)	Function word	Kinship	0.04	0.84	0.93	60	-
+171	SPLIT	HE/SHE/IT (3RD PERSON MARKER)	he/she/it	2.93	he/she/it	Function word	Kinship	0.00	0.81	0.96	49	he/she
+172	KEPT	HE	he	2.931	he	Function word	Kinship	0.06	0.92	0.97	39	-
+173	KEPT	SHE	she	2.932	she	Function word	Kinship	0.05	0.89	0.93	40	-
+174	KEPT	IT	it	2.933	it	Function word	Kinship	0.03	0.88	0.91	30	-
+175	KEPT	WE	we	2.94	we	Function word	Kinship	0.01	0.90	0.88	39	-
+176	KEPT	WE (INCLUSIVE)	we	2.941	we (inclusive)	Function word	Kinship	0.00	0.77	0.77	39	-
+177	KEPT	WE (EXCLUSIVE)	we	2.942	we (exclusive)	Function word	Kinship	0.00	0.72	0.78	40	-
+178	KEPT	YOU	you	2.95	you (plural)	Function word	Kinship	0.04	0.79	0.81	53	-
+179	KEPT	THEY	they	2.96	they	Function word	Kinship	0.07	0.80	0.80	49	-
+180	KEPT	STEP-	step-	2.99902	step-	Adjective	Kinship	1.00	0.90	1.00	1	-
+181	KEPT	THE CO-FATHER-IN-LAW	co-father-in-law	2.99903	the co-father-in-law	Noun	Kinship	1.00	0.95	1.00	2	-
+182	KEPT	THE CO-MOTHER-IN-LAW	co-mother-in-law	2.99904	the co-mother-in-law	Noun	Kinship	0.50	0.95	0.75	2	-
+183	KEPT	THE FATHER-IN-LAW	father-in-law	2.99905	the father-in-law	Noun	Kinship	1.00	0.90	0.50	1	-
+184	KEPT	THE GERMAN	German	2.99906	the German	Noun	Kinship	1.00	1.00	1.00	1	-
+185	KEPT	THE HUNGARIAN	Hungarian	2.99907	the Hungarian	Noun	Kinship	1.00	1.00	1.00	1	-
+186	KEPT	THE LOVER	lover	2.99908	the lover	Noun	Kinship	0.00	1.00	0.75	2	-
+187	KEPT	THE MOTHER-IN-LAW	mother-in-law	2.99909	the mother-in-law	Noun	Kinship	1.00	0.90	0.50	1	-
+188	KEPT	THE NON-GYPSY	non-Gypsy	2.9991	the non-Gypsy	Noun	Kinship	0.25	1.00	0.88	4	-
+189	KEPT	THE PARENT’S ELDER BROTHER	parent’s elder brother	2.99911	the parent’s elder brother	Noun	Kinship	0.00	0.50	1.00	1	-
+190	KEPT	THE PARENT’S ELDER SISTER	parent’s elder sister	2.99912	the parent’s elder sister	Noun	Kinship	0.00	0.50	1.00	1	-
+191	KEPT	THE PARENT’S YOUNGER BROTHER	parent’s younger brother	2.99913	the parent’s younger brother	Noun	Kinship	0.50	1.00	1.00	1	-
+192	KEPT	THE PARENT’S YOUNGER SISTER	parent’s younger sister	2.99914	the parent’s younger sister	Noun	Kinship	0.50	0.50	1.00	1	-
+193	KEPT	THE SLOVAK	Slovak	2.99915	the Slovak	Noun	Kinship	1.00	1.00	1.00	1	-
+194	KEPT	THE SPOUSE	spouse	2.99916	the spouse	Noun	Kinship	1.00	0.90	1.00	1	-
+195	KEPT	THE STEPCHILD	stepchild	2.99917	the stepchild	Noun	Kinship	0.00	0.75	0.50	2	-
+196	KEPT	THE VLAX GYPSY	Vlax Gypsy	2.99918	the Vlax Gypsy	Noun	Kinship	1.00	1.00	1.00	1	-
+197	KEPT	THE ANIMAL	animal	3.11	the animal	Noun	Animals	0.46	0.83	0.90	50	-
+198	KEPT	MALE (OF ANIMALS)	male	3.12	male(2)	Adjective	Animals	0.17	0.93	0.88	48	-
+199	KEPT	FEMALE (OF ANIMALS)	female	3.13	female(2)	Adjective	Animals	0.12	0.90	0.89	44	-
+200	KEPT	THE LIVESTOCK	livestock	3.15	the livestock	Noun	Animals	0.28	0.82	0.78	45	-
+201	KEPT	THE PASTURE	pasture	3.16	the pasture	Noun	Animals	0.36	0.82	0.84	43	-
+202	KEPT	THE HERDSMAN	herdsman	3.18	the herdsman	Noun	Animals	0.21	0.82	0.67	39	-
+203	SPLIT	THE STABLE	stable	3.19	the stable or stall	Noun	Animals	0.25	0.83	0.86	47	-
+204	SPLIT	THE STALL	stall	3.19	the stable or stall	Noun	Animals	0.25	0.83	0.86	47	-
+205	KEPT	THE CATTLE	cattle	3.2	the cattle	Noun	Animals	0.32	0.85	0.84	36	-
+206	KEPT	THE BULL	bull	3.21	the bull	Noun	Animals	0.31	0.85	0.84	44	-
+207	KEPT	THE OX	ox	3.22	the ox	Noun	Animals	0.49	0.87	0.91	36	-
+208	KEPT	THE COW	cow	3.23	the cow	Noun	Animals	0.30	0.84	0.86	41	-
+209	KEPT	THE CALF	calf	3.24	the calf	Noun	Animals	0.21	0.88	0.76	45	-
+210	KEPT	THE SHEEP	sheep	3.25	the sheep	Noun	Animals	0.43	0.90	0.96	42	-
+211	KEPT	THE RAM	ram	3.26	the ram	Noun	Animals	0.19	0.86	0.83	34	-
+212	KEPT	THE EWE	ewe	3.28	the ewe	Noun	Animals	0.09	0.84	0.73	29	-
+213	KEPT	THE LAMB	lamb	3.29	the lamb	Noun	Animals	0.20	0.81	0.74	43	-
+214	KEPT	THE BOAR	boar	3.32	the boar	Noun	Animals	0.23	0.85	0.80	39	-
+215	KEPT	THE SOW	sow	3.34	the sow	Noun	Animals	0.14	0.87	0.68	28	-
+216	KEPT	THE PIG	pig	3.35	the pig	Noun	Animals	0.30	0.85	0.90	51	-
+217	KEPT	THE GOAT	goat	3.36	the goat	Noun	Animals	0.37	0.87	0.96	43	-
+218	KEPT	THE HE-GOAT	he-goat	3.37	the he-goat	Noun	Animals	0.28	0.85	0.79	31	-
+219	KEPT	THE KID	kid	3.38	the kid	Noun	Animals	0.12	0.83	0.62	35	-
+220	KEPT	THE HORSE	horse	3.41	the horse	Noun	Animals	0.57	0.86	0.99	47	-
+221	KEPT	THE STALLION	stallion	3.42	the stallion	Noun	Animals	0.31	0.84	0.74	40	-
+222	KEPT	THE MARE	mare	3.44	the mare	Noun	Animals	0.27	0.85	0.74	35	-
+223	SPLIT	THE FOAL	foal	3.45	the foal or colt	Noun	Animals	0.21	0.86	0.76	40	-
+224	SPLIT	THE COLT	colt	3.45	the foal or colt	Noun	Animals	0.21	0.86	0.76	40	-
+225	KEPT	THE DONKEY	donkey	3.46	the donkey	Noun	Animals	0.63	0.83	0.94	41	-
+226	KEPT	THE MULE	mule	3.47	the mule	Noun	Animals	0.69	0.85	0.88	33	-
+227	KEPT	THE FOWL	fowl	3.5	the fowl	Noun	Animals	0.15	0.82	0.75	32	-
+228	SPLIT	THE COCK	cock	3.52	the cock/rooster	Noun	Animals	0.30	0.84	0.75	41	-
+229	SPLIT	THE ROOSTER	rooster	3.52	the cock/rooster	Noun	Animals	0.30	0.84	0.75	41	-
+230	KEPT	THE HEN	hen	3.54	the hen	Noun	Animals	0.13	0.89	0.75	41	-
+231	KEPT	THE CHICKEN	chicken	3.55	the chicken	Noun	Animals	0.37	0.89	0.92	39	-
+232	KEPT	THE GOOSE	goose	3.56	the goose	Noun	Animals	0.47	0.88	0.95	37	-
+233	KEPT	THE DUCK	duck	3.57	the duck	Noun	Animals	0.46	0.86	0.93	46	-
+234	KEPT	THE NEST	nest	3.58	the nest	Noun	Animals	0.12	0.88	0.90	43	-
+235	KEPT	THE BIRD	bird	3.581	the bird	Noun	Animals	0.16	0.80	0.96	48	-
+236	KEPT	THE SEAGULL	seagull	3.582	the seagull	Noun	Animals	0.21	0.76	0.91	25	-
+237	KEPT	THE HERON	heron	3.583	the heron	Noun	Animals	0.20	0.80	0.91	38	-
+238	KEPT	THE EAGLE	eagle	3.584	the eagle	Noun	Animals	0.25	0.85	0.95	45	-
+239	KEPT	THE HAWK	hawk	3.585	the hawk	Noun	Animals	0.16	0.82	0.94	50	-
+240	KEPT	THE VULTURE	vulture	3.586	the vulture	Noun	Animals	0.11	0.81	0.93	35	-
+241	KEPT	THE BAT	bat	3.591	the bat	Noun	Animals	0.22	0.82	0.90	46	-
+242	KEPT	THE PARROT	parrot	3.592	the parrot	Noun	Animals	0.50	0.82	0.93	44	-
+243	KEPT	THE CROW	crow	3.593	the crow	Noun	Animals	0.14	0.83	0.96	39	-
+244	KEPT	THE DOVE	dove	3.594	the dove	Noun	Animals	0.26	0.86	0.94	39	-
+245	KEPT	THE OWL	owl	3.596	the owl	Noun	Animals	0.15	0.81	0.93	57	-
+246	KEPT	THE CORMORANT	cormorant	3.597	the cormorant	Noun	Animals	0.36	0.81	0.92	19	-
+247	KEPT	THE TOUCAN	toucan	3.598	the toucan	Noun	Animals	0.50	0.75	0.87	15	-
+248	KEPT	THE DOG	dog	3.61	the dog	Noun	Animals	0.16	0.88	0.96	50	-
+249	KEPT	THE RABBIT	rabbit	3.614	the rabbit	Noun	Animals	0.44	0.90	0.95	40	-
+250	KEPT	THE CAT	cat	3.62	the cat	Noun	Animals	0.34	0.80	0.94	55	-
+251	KEPT	THE OPOSSUM	opossum	3.622	the opossum	Noun	Animals	0.48	0.78	0.87	22	-
+252	SPLIT	THE MOUSE	mouse	3.63	the mouse or rat	Noun	Animals	0.18	0.82	0.93	64	-
+253	SPLIT	THE RAT	rat	3.63	the mouse or rat	Noun	Animals	0.18	0.82	0.93	64	-
+254	KEPT	THE FISH	fish	3.65	the fish	Noun	Animals	0.15	0.85	0.98	48	-
+255	KEPT	THE FIN	fin	3.652	the fin	Noun	Animals	0.07	0.74	0.86	36	-
+256	KEPT	THE SCALE	scale	3.653	the scale	Noun	Animals	0.21	0.86	0.90	38	-
+257	KEPT	THE GILL	gill	3.654	the gill	Noun	Animals	0.19	0.81	0.93	30	-
+258	KEPT	THE SHELL	shell	3.655	the shell	Noun	Animals	0.21	0.79	0.93	44	-
+259	KEPT	THE SHARK	shark	3.661	the shark	Noun	Animals	0.43	0.79	0.89	24	-
+260	SPLIT	THE PORPOISE	porpoise	3.662	the porpoise or dolphin	Noun	Animals	0.55	0.81	0.96	23	-
+261	SPLIT	THE DOLPHIN	dolphin	3.662	the porpoise or dolphin	Noun	Animals	0.55	0.81	0.96	23	-
+262	KEPT	THE WHALE	whale	3.663	the whale	Noun	Animals	0.43	0.85	0.87	25	-
+263	KEPT	THE STINGRAY	stingray	3.664	the stingray	Noun	Animals	0.24	0.84	0.91	22	-
+264	KEPT	THE FRESHWATER EEL	freshwater eel	3.665	the freshwater eel	Noun	Animals	0.17	0.80	0.85	32	-
+265	KEPT	THE WOLF	wolf	3.71	the wolf	Noun	Animals	0.27	0.86	0.88	36	-
+266	KEPT	THE LION	lion	3.72	the lion	Noun	Animals	0.66	0.84	0.93	42	-
+267	KEPT	THE BEAR	bear	3.73	the bear	Noun	Animals	0.35	0.85	0.98	32	-
+268	KEPT	THE FOX	fox	3.74	the fox	Noun	Animals	0.17	0.84	0.94	37	-
+269	KEPT	THE DEER	deer	3.75	the deer	Noun	Animals	0.15	0.87	0.95	44	-
+270	KEPT	THE MONKEY	monkey	3.76	the monkey	Noun	Animals	0.33	0.79	0.95	54	-
+271	KEPT	THE ELEPHANT	elephant	3.77	the elephant	Noun	Animals	0.64	0.79	0.98	43	-
+272	KEPT	THE CAMEL	camel	3.78	the camel	Noun	Animals	0.84	0.83	0.92	32	-
+273	KEPT	THE INSECT	insect	3.81	the insect	Noun	Animals	0.44	0.86	0.88	41	-
+274	KEPT	THE HEAD LOUSE	head louse	3.811	the head louse	Noun	Animals	0.05	0.87	0.94	47	-
+275	KEPT	THE BODY LOUSE	body louse	3.8112	the body louse	Noun	Animals	0.05	0.86	0.95	39	-
+276	KEPT	THE NIT	nit	3.812	the nit	Noun	Animals	0.05	0.83	0.81	37	-
+277	KEPT	THE FLEA	flea	3.813	the flea	Noun	Animals	0.07	0.84	0.90	43	-
+278	KEPT	THE CENTIPEDE	centipede	3.814	the centipede	Noun	Animals	0.14	0.83	0.83	39	-
+279	KEPT	THE SCORPION	scorpion	3.815	the scorpion	Noun	Animals	0.32	0.82	0.91	37	-
+280	KEPT	THE COCKROACH	cockroach	3.816	the cockroach	Noun	Animals	0.36	0.80	0.89	42	-
+281	KEPT	THE ANT	ant	3.817	the ant	Noun	Animals	0.12	0.85	0.97	51	-
+282	KEPT	THE SPIDER	spider	3.818	the spider	Noun	Animals	0.25	0.85	0.92	46	-
+283	KEPT	THE SPIDER WEB	spider web	3.819	the spider web	Noun	Animals	0.08	0.79	0.60	39	-
+284	KEPT	THE BEE	bee	3.82	the bee	Noun	Animals	0.14	0.81	0.88	63	-
+285	KEPT	THE BEESWAX	beeswax	3.821	the beeswax	Noun	Animals	0.10	0.86	0.69	36	-
+286	KEPT	THE BEEHIVE	beehive	3.822	the beehive	Noun	Animals	0.13	0.84	0.71	42	-
+287	KEPT	THE WASP	wasp	3.823	the wasp	Noun	Animals	0.16	0.85	0.92	47	-
+288	KEPT	THE FLY	fly	3.83	the fly	Noun	Animals	0.05	0.87	0.94	44	-
+289	SPLIT	THE SANDFLY	sandfly	3.831	the sandfly or midge or gnat	Noun	Animals	0.08	0.80	0.88	40	-
+290	SPLIT	THE MIDGE	midge	3.831	the sandfly or midge or gnat	Noun	Animals	0.08	0.80	0.88	40	-
+291	SPLIT	THE GNAT	gnat	3.831	the sandfly or midge or gnat	Noun	Animals	0.08	0.80	0.88	40	-
+292	KEPT	THE MOSQUITO	mosquito	3.832	the mosquito	Noun	Animals	0.22	0.82	0.93	45	-
+293	SPLIT	THE PRAWNS	prawns	3.833	the prawns or shrimp	Noun	Animals	0.37	0.83	0.97	33	-
+294	SPLIT	THE SHRIMP	shrimp	3.833	the prawns or shrimp	Noun	Animals	0.37	0.83	0.97	33	-
+295	KEPT	THE TERMITES	termites	3.834	the termites	Noun	Animals	0.27	0.83	0.91	30	-
+296	KEPT	THE TICK	tick	3.835	the tick	Noun	Animals	0.15	0.83	0.93	34	-
+297	KEPT	THE WORM	worm	3.84	the worm	Noun	Animals	0.12	0.86	0.91	62	-
+298	KEPT	THE SNAKE	snake	3.85	the snake	Noun	Animals	0.15	0.85	0.95	51	-
+299	KEPT	THE COYOTE	coyote	3.862	the coyote	Noun	Animals	0.40	0.87	0.90	15	-
+300	KEPT	THE HARE	hare	3.863	the hare	Noun	Animals	0.14	0.80	0.85	39	-
+301	KEPT	THE QUAIL	quail	3.865	the quail	Noun	Animals	0.15	0.83	0.93	32	-
+302	KEPT	THE RACCOON	raccoon	3.866	the raccoon	Noun	Animals	0.43	0.79	0.82	14	-
+303	KEPT	THE SQUIRREL	squirrel	3.869	the squirrel	Noun	Animals	0.23	0.81	0.88	38	-
+304	SPLIT	THE REINDEER	reindeer	3.871	the reindeer/caribou	Noun	Animals	0.54	0.85	0.90	17	-
+305	SPLIT	THE CARIBOU	caribou	3.871	the reindeer/caribou	Noun	Animals	0.54	0.85	0.90	17	-
+306	SPLIT	THE ELK	elk	3.872	the elk/moose	Noun	Animals	0.31	0.83	0.85	19	-
+307	SPLIT	THE MOOSE	moose	3.872	the elk/moose	Noun	Animals	0.31	0.83	0.85	19	-
+308	KEPT	THE BEAVER	beaver	3.873	the beaver	Noun	Animals	0.44	0.81	0.91	16	-
+309	KEPT	THE KANGAROO	kangaroo	3.88	the kangaroo	Noun	Animals	0.84	0.72	0.97	19	-
+310	KEPT	THE ANTEATER	anteater	3.89	the anteater	Noun	Animals	0.11	0.75	0.76	25	-
+311	KEPT	THE JAGUAR	jaguar	3.9	the jaguar	Noun	Animals	0.41	0.83	0.90	27	-
+312	KEPT	THE FIREFLY	firefly	3.91	the firefly	Noun	Animals	0.10	0.79	0.80	36	-
+313	KEPT	THE CHAMELEON	chameleon	3.913	the chameleon	Noun	Animals	0.32	0.75	0.90	28	-
+314	KEPT	THE BUFFALO	buffalo	3.917	the buffalo	Noun	Animals	0.54	0.75	0.90	32	-
+315	KEPT	THE BUTTERFLY	butterfly	3.92	the butterfly	Noun	Animals	0.14	0.82	0.89	45	-
+316	KEPT	THE GRASSHOPPER	grasshopper	3.93	the grasshopper	Noun	Animals	0.11	0.81	0.89	46	-
+317	KEPT	THE SNAIL	snail	3.94	the snail	Noun	Animals	0.21	0.85	0.89	52	-
+318	KEPT	THE FROG	frog	3.95	the frog	Noun	Animals	0.22	0.85	0.98	48	-
+319	KEPT	THE LIZARD	lizard	3.96	the lizard	Noun	Animals	0.23	0.81	0.98	51	-
+320	SPLIT	THE CROCODILE	crocodile	3.97	the crocodile or alligator	Noun	Animals	0.53	0.85	0.95	46	-
+321	SPLIT	THE ALLIGATOR	alligator	3.97	the crocodile or alligator	Noun	Animals	0.53	0.85	0.95	46	-
+322	KEPT	THE TURTLE	turtle	3.98	the turtle	Noun	Animals	0.24	0.79	0.95	48	-
+323	KEPT	THE TAPIR	tapir	3.99	the tapir	Noun	Animals	0.45	0.79	0.90	19	-
+324	KEPT	THE AGOUTI	agouti	3.99902	the agouti	Noun	Animals	0.00	0.50	1.00	1	-
+325	KEPT	THE AMPHIBIAN	amphibian	3.99903	the amphibian	Noun	Animals	1.00	0.60	1.00	1	-
+326	KEPT	THE ANDEAN GUINEA PIG	Andean guinea pig	3.99904	the Andean guinea pig	Noun	Animals	0.00	1.00	1.00	1	-
+327	KEPT	THE ANDEAN OWL	Andean owl	3.99905	the Andean owl	Noun	Animals	1.00	1.00	1.00	1	-
+328	KEPT	THE ARMADILLO	armadillo	3.99906	the armadillo	Noun	Animals	0.33	0.57	1.00	3	-
+329	KEPT	THE BANDICOOT	bandicoot	3.99907	the bandicoot	Noun	Animals	1.00	0.90	1.00	1	-
+330	KEPT	THE BARN OWL	barn owl	3.99908	the barn owl	Noun	Animals	0.50	0.50	1.00	1	-
+331	KEPT	THE BUSTARD	bustard	3.99909	the bustard	Noun	Animals	1.00	0.50	1.00	1	-
+332	KEPT	THE CAPIBARA	capibara	3.9991	the capibara	Noun	Animals	1.00	1.00	1.00	1	-
+333	KEPT	THE CATERPILLAR	caterpillar	3.99911	the caterpillar	Noun	Animals	1.00	0.90	1.00	1	-
+334	KEPT	THE CODFISH	codfish	3.99912	the codfish	Noun	Animals	1.00	0.90	1.00	1	-
+335	KEPT	THE CONDOR	condor	3.99913	the condor	Noun	Animals	0.00	0.90	1.00	1	-
+336	KEPT	THE HERD	herd	3.99917	the herd	Noun	Animals	1.00	0.90	1.00	2	-
+337	KEPT	THE HOCCO	hocco	3.99918	the hocco	Noun	Animals	0.00	0.50	1.00	1	-
+338	KEPT	THE HUMMING BIRD	humming bird	3.99919	the humming bird	Noun	Animals	0.00	1.00	1.00	1	-
+339	KEPT	THE IBIS	ibis	3.9992	the ibis	Noun	Animals	0.00	0.50	1.00	1	-
+340	KEPT	THE IGUANA	iguana	3.99921	the iguana	Noun	Animals	0.00	0.50	1.00	1	-
+341	KEPT	THE JABIRU	jabiru	3.99922	the jabiru	Noun	Animals	0.00	0.50	1.00	1	-
+342	KEPT	THE KINGFISHER	kingfisher	3.99923	the kingfisher	Noun	Animals	1.00	0.60	1.00	1	-
+343	KEPT	THE LOUSE	louse	3.99924	the louse	Noun	Animals	0.00	1.00	1.00	1	-
+344	KEPT	THE MAINE LOBSTER	Maine lobster	3.99925	the Maine lobster	Noun	Animals	1.00	0.60	1.00	1	-
+345	KEPT	THE MALE PIG	male pig	3.99926	the male pig	Noun	Animals	0.00	0.50	0.50	1	-
+346	KEPT	THE MARAIL	marail	3.99928	the marail	Noun	Animals	0.00	0.50	1.00	1	-
+347	KEPT	THE MOLE	mole	3.99929	the mole	Noun	Animals	1.00	0.60	1.00	1	-
+348	KEPT	THE PACA	paca	3.9993	the paca	Noun	Animals	0.00	0.50	1.00	1	-
+349	KEPT	THE SLEEPYHEAD BIRD	sleepyhead bird	3.99931	the sleepyhead bird	Noun	Animals	0.50	0.50	1.00	1	-
+350	KEPT	THE PARTRIDGE	partridge	3.99932	the partridge	Noun	Animals	0.00	0.50	1.00	1	-
+351	KEPT	THE PET	pet	3.99933	the pet	Noun	Animals	0.00	0.50	1.00	1	-
+352	KEPT	THE PIRANHA	piranha	3.99934	the piranha	Noun	Animals	0.00	0.50	1.00	1	-
+353	KEPT	THE PLOVER	plover	3.99935	the plover	Noun	Animals	0.75	0.50	1.00	1	-
+354	KEPT	THE POUCHED MARMOT	pouched marmot	3.99936	the pouched marmot	Noun	Animals	1.00	0.95	1.00	2	-
+355	KEPT	THE PRAIRIE DOG	prairie dog	3.99937	the prairie dog	Noun	Animals	1.00	0.60	1.00	1	-
+356	KEPT	THE ROADRUNNER	roadrunner	3.99938	the roadrunner	Noun	Animals	0.00	1.00	1.00	1	-
+357	KEPT	THE SKUNK	skunk	3.99939	the skunk	Noun	Animals	0.40	0.84	1.00	3	-
+358	KEPT	THE SONGBIRD	songbird	3.9994	the songbird	Noun	Animals	0.75	1.00	1.00	1	-
+359	KEPT	THE SPARROW	sparrow	3.99941	the sparrow	Noun	Animals	0.00	1.00	1.00	1	-
+360	KEPT	THE TIGER	tiger	3.99942	the tiger	Noun	Animals	0.50	0.95	1.00	2	-
+361	KEPT	THE TRUMPETER BIRD	trumpeter bird	3.99943	the trumpeter bird	Noun	Animals	0.00	0.50	1.00	1	-
+362	KEPT	THE CHIPMUNK	chipmunk	3.99944	the chipmunk	Noun	Animals	1.00	0.60	1.00	1	-
+363	KEPT	THE BODY	body	4.11	the body	Noun	The body	0.19	0.85	0.94	51	-
+364	SPLIT	THE SKIN	skin	4.12	the skin or hide	Noun	The body	0.11	0.90	0.92	49	-
+365	SPLIT	THE HIDE	hide	4.12	the skin or hide	Noun	The body	0.11	0.90	0.92	49	-
+366	KEPT	THE FLESH	flesh	4.13	the flesh	Noun	The body	0.15	0.89	1.00	44	-
+367	KEPT	THE HAIR	hair	4.14	the hair	Noun	The body	0.06	0.88	0.92	48	-
+368	KEPT	THE BEARD	beard	4.142	the beard	Noun	The body	0.17	0.83	0.93	45	-
+369	KEPT	THE BODY HAIR	body hair	4.144	the body hair	Noun	The body	0.12	0.87	0.87	40	-
+370	KEPT	THE PUBIC HAIR	pubic hair	4.145	the pubic hair	Noun	The body	0.17	0.81	0.80	43	-
+371	KEPT	THE DANDRUFF	dandruff	4.146	the dandruff	Noun	The body	0.26	0.78	0.82	40	-
+372	KEPT	THE BLOOD	blood	4.15	the blood	Noun	The body	0.10	0.90	1.00	47	-
+373	SPLIT	THE VEIN	vein	4.151	the vein or artery	Noun	The body	0.26	0.82	0.79	54	-
+374	SPLIT	THE ARTERY	artery	4.151	the vein or artery	Noun	The body	0.26	0.82	0.79	54	-
+375	KEPT	THE BONE	bone	4.16	the bone	Noun	The body	0.08	0.88	0.97	44	-
+376	KEPT	THE RIB	rib	4.162	the rib	Noun	The body	0.11	0.86	0.80	45	-
+377	KEPT	THE HORN	horn	4.17	the horn	Noun	The body	0.16	0.88	0.99	42	-
+378	KEPT	THE TAIL	tail	4.18	the tail	Noun	The body	0.12	0.87	0.97	48	-
+379	KEPT	THE BACK	back	4.19	the back	Noun	The body	0.08	0.86	0.92	48	-
+380	KEPT	THE SPINE	spine	4.191	the spine	Noun	The body	0.14	0.79	0.66	46	-
+381	KEPT	THE HEAD	head	4.2	the head	Noun	The body	0.20	0.85	0.97	50	-
+382	KEPT	THE TEMPLES	temples	4.201	the temples	Noun	The body	0.18	0.81	0.82	38	-
+383	KEPT	THE SKULL	skull	4.202	the skull	Noun	The body	0.18	0.77	0.67	47	-
+384	KEPT	THE BRAIN	brain	4.203	the brain	Noun	The body	0.13	0.82	0.92	49	-
+385	KEPT	THE FACE	face	4.204	the face	Noun	The body	0.27	0.83	0.97	52	-
+386	KEPT	THE FOREHEAD	forehead	4.205	the forehead	Noun	The body	0.07	0.84	0.87	44	-
+387	KEPT	THE JAW	jaw	4.207	the jaw	Noun	The body	0.13	0.83	0.87	45	-
+388	KEPT	THE CHEEK	cheek	4.208	the cheek	Noun	The body	0.07	0.84	0.92	45	-
+389	KEPT	THE CHIN	chin	4.209	the chin	Noun	The body	0.06	0.84	0.89	45	-
+390	KEPT	THE EYE	eye	4.21	the eye	Noun	The body	0.10	0.87	0.92	44	-
+391	KEPT	THE EYEBROW	eyebrow	4.212	the eyebrow	Noun	The body	0.15	0.80	0.83	46	-
+392	KEPT	THE EYELID	eyelid	4.213	the eyelid	Noun	The body	0.04	0.75	0.60	43	-
+393	KEPT	THE EYELASH	eyelash	4.214	the eyelash	Noun	The body	0.07	0.81	0.70	41	-
+394	KEPT	TO BLINK	blink	4.215	to blink	Verb	The body	0.14	0.81	0.74	47	-
+395	KEPT	THE EAR	ear	4.22	the ear	Noun	The body	0.10	0.86	0.96	47	-
+396	KEPT	THE EARLOBE	earlobe	4.221	the earlobe	Noun	The body	0.09	0.79	0.59	36	-
+397	KEPT	THE EARWAX	earwax	4.222	the earwax	Noun	The body	0.08	0.79	0.66	39	-
+398	KEPT	THE NOSE	nose	4.23	the nose	Noun	The body	0.03	0.89	0.98	42	-
+399	KEPT	THE NOSTRIL	nostril	4.231	the nostril	Noun	The body	0.07	0.76	0.56	43	-
+400	KEPT	THE NASAL MUCUS	nasal mucus	4.232	the nasal mucus	Noun	The body	0.07	0.80	0.91	46	-
+401	KEPT	THE MOUTH	mouth	4.24	the mouth	Noun	The body	0.08	0.89	0.98	45	-
+402	KEPT	THE BEAK	beak	4.241	the beak	Noun	The body	0.26	0.84	0.86	45	-
+403	KEPT	THE LIP	lip	4.25	the lip	Noun	The body	0.08	0.86	0.86	43	-
+404	KEPT	THE TONGUE	tongue	4.26	the tongue	Noun	The body	0.07	0.88	0.95	42	-
+405	KEPT	THE TOOTH	tooth	4.27	the tooth	Noun	The body	0.12	0.92	0.97	49	-
+406	KEPT	THE GUMS	gums	4.271	the gums	Noun	The body	0.14	0.81	0.79	43	-
+407	KEPT	THE MOLAR TOOTH	molar tooth	4.272	the molar tooth	Noun	The body	0.09	0.83	0.78	42	-
+408	KEPT	THE NECK	neck	4.28	the neck	Noun	The body	0.10	0.85	0.96	47	-
+409	KEPT	THE NAPE OF THE NECK	nape of the neck	4.281	the nape of the neck	Noun	The body	0.17	0.81	0.82	45	-
+410	KEPT	THE THROAT	throat	4.29	the throat	Noun	The body	0.13	0.85	0.93	50	-
+411	KEPT	THE SHOULDER	shoulder	4.3	the shoulder	Noun	The body	0.13	0.87	0.94	43	-
+412	KEPT	THE SHOULDERBLADE	shoulderblade	4.301	the shoulderblade	Noun	The body	0.23	0.76	0.76	43	-
+413	KEPT	THE COLLARBONE	collarbone	4.302	the collarbone	Noun	The body	0.16	0.70	0.70	35	-
+414	KEPT	THE ARM	arm	4.31	the arm	Noun	The body	0.09	0.86	0.94	45	-
+415	KEPT	THE ARMPIT	armpit	4.312	the armpit	Noun	The body	0.15	0.78	0.86	46	-
+416	KEPT	THE ELBOW	elbow	4.32	the elbow	Noun	The body	0.09	0.81	0.85	44	-
+417	KEPT	THE WRIST	wrist	4.321	the wrist	Noun	The body	0.13	0.77	0.74	42	-
+418	KEPT	THE HAND	hand	4.33	the hand	Noun	The body	0.15	0.87	0.99	45	-
+419	KEPT	THE PALM OF THE HAND	palm of the hand	4.331	the palm of the hand	Noun	The body	0.11	0.84	0.73	46	-
+420	KEPT	THE FINGER	finger	4.34	the finger	Noun	The body	0.05	0.83	0.82	43	-
+421	KEPT	THE THUMB	thumb	4.342	the thumb	Noun	The body	0.08	0.77	0.67	44	-
+422	KEPT	THE FINGERNAIL	fingernail	4.344	the fingernail	Noun	The body	0.08	0.85	0.87	42	-
+423	KEPT	THE CLAW	claw	4.345	the claw	Noun	The body	0.12	0.83	0.92	46	-
+424	KEPT	THE LEG	leg	4.35	the leg	Noun	The body	0.15	0.91	0.98	41	-
+425	KEPT	THE THIGH	thigh	4.351	the thigh	Noun	The body	0.09	0.85	0.92	42	-
+426	KEPT	THE CALF OF THE LEG	calf of the leg	4.352	the calf of the leg	Noun	The body	0.07	0.79	0.80	39	-
+427	KEPT	THE KNEE	knee	4.36	the knee	Noun	The body	0.09	0.84	0.92	45	-
+428	KEPT	THE FOOT	foot	4.37	the foot	Noun	The body	0.14	0.86	0.96	48	-
+429	KEPT	THE ANKLE	ankle	4.371	the ankle	Noun	The body	0.11	0.78	0.75	46	-
+430	KEPT	THE HEEL	heel	4.372	the heel	Noun	The body	0.06	0.78	0.81	44	-
+431	KEPT	THE FOOTPRINT	footprint	4.374	the footprint	Noun	The body	0.13	0.80	0.74	46	-
+432	KEPT	THE TOE	toe	4.38	the toe	Noun	The body	0.09	0.80	0.67	46	-
+433	KEPT	THE WING	wing	4.392	the wing	Noun	The body	0.12	0.88	0.97	43	-
+434	KEPT	THE FEATHER	feather	4.393	the feather	Noun	The body	0.11	0.86	0.88	45	-
+435	KEPT	THE CHEST	chest	4.4	the chest	Noun	The body	0.17	0.82	0.91	49	-
+436	KEPT	THE BREAST	breast	4.41	the breast	Noun	The body	0.05	0.89	0.97	47	-
+437	SPLIT	THE NIPPLE	nipple	4.412	the nipple or teat	Noun	The body	0.06	0.76	0.71	47	-
+438	SPLIT	THE TEAT	teat	4.412	the nipple or teat	Noun	The body	0.06	0.76	0.71	47	-
+439	KEPT	THE UDDER	udder	4.42	the udder	Noun	The body	0.05	0.90	0.91	40	-
+440	KEPT	THE NAVEL	navel	4.43	the navel	Noun	The body	0.12	0.92	0.98	42	-
+441	KEPT	THE BELLY	belly	4.431	the belly	Noun	The body	0.16	0.88	0.97	46	-
+442	KEPT	THE HEART	heart	4.44	the heart	Noun	The body	0.22	0.83	0.96	55	-
+443	KEPT	THE LUNG	lung	4.441	the lung	Noun	The body	0.26	0.85	0.91	42	-
+444	KEPT	THE LIVER	liver	4.45	the liver	Noun	The body	0.13	0.90	0.97	46	-
+445	KEPT	THE KIDNEY	kidney	4.451	the kidney	Noun	The body	0.17	0.85	0.91	45	-
+446	KEPT	THE SPLEEN	spleen	4.452	the spleen	Noun	The body	0.20	0.80	0.95	38	-
+447	KEPT	THE STOMACH	stomach	4.46	the stomach	Noun	The body	0.32	0.85	0.97	48	-
+448	SPLIT	THE INTESTINES	intestines	4.461	the intestines or guts	Noun	The body	0.17	0.85	0.86	53	-
+449	SPLIT	THE GUTS	guts	4.461	the intestines or guts	Noun	The body	0.17	0.85	0.86	53	-
+450	KEPT	THE WAIST	waist	4.462	the waist	Noun	The body	0.16	0.85	0.91	45	-
+451	KEPT	THE HIP	hip	4.463	the hip	Noun	The body	0.12	0.83	0.92	52	-
+452	KEPT	THE BUTTOCKS	buttocks	4.464	the buttocks	Noun	The body	0.10	0.83	0.88	58	-
+453	SPLIT	THE SINEW	sinew	4.465	the sinew or tendon	Noun	The body	0.17	0.85	0.96	41	-
+454	SPLIT	THE TENDON	tendon	4.465	the sinew or tendon	Noun	The body	0.17	0.85	0.96	41	-
+455	KEPT	THE WOMB	womb	4.47	the womb	Noun	The body	0.29	0.80	0.79	54	-
+456	KEPT	THE TESTICLES	testicles	4.49	the testicles	Noun	The body	0.21	0.85	0.87	67	-
+457	KEPT	THE PENIS	penis	4.492	the penis	Noun	The body	0.29	0.84	0.95	75	-
+458	KEPT	THE VAGINA	vagina	4.493	the vagina	Noun	The body	0.34	0.76	0.91	57	-
+459	KEPT	THE VULVA	vulva	4.494	the vulva	Noun	The body	0.32	0.83	0.88	41	-
+460	KEPT	TO BREATHE	breathe	4.51	to breathe	Verb	The body	0.12	0.79	0.70	45	-
+461	KEPT	TO YAWN	yawn	4.52	to yawn	Verb	The body	0.12	0.79	0.76	42	-
+462	KEPT	TO HICCOUGH	hiccough	4.521	to hiccough	Verb	The body	0.13	0.79	0.87	42	-
+463	KEPT	TO COUGH	cough	4.53	to cough	Verb	The body	0.06	0.84	0.85	41	-
+464	KEPT	TO SNEEZE	sneeze	4.54	to sneeze	Verb	The body	0.12	0.81	0.87	42	-
+465	KEPT	TO PERSPIRE	perspire	4.55	to perspire	Verb	The body	0.15	0.80	0.71	50	-
+466	KEPT	TO SPIT	spit	4.56	to spit	Verb	The body	0.06	0.84	0.79	46	-
+467	KEPT	TO VOMIT	vomit	4.57	to vomit	Verb	The body	0.22	0.85	0.90	57	puke
+468	KEPT	TO BITE	bite	4.58	to bite	Verb	The body	0.04	0.90	0.89	54	-
+469	KEPT	TO LICK	lick	4.59	to lick	Verb	The body	0.16	0.89	0.90	42	-
+470	KEPT	TO DRIBBLE	dribble	4.591	to dribble	Verb	The body	0.10	0.77	0.71	42	-
+471	KEPT	TO SLEEP	sleep	4.61	to sleep	Verb	The body	0.10	0.85	0.87	49	-
+472	KEPT	TO SNORE	snore	4.612	to snore	Verb	The body	0.12	0.82	0.79	50	-
+473	KEPT	TO DREAM	dream	4.62	to dream	Verb	The body	0.09	0.84	0.75	44	-
+474	KEPT	TO WAKE UP	wake up	4.63	to wake up	Verb	The body	0.11	0.79	0.81	47	-
+475	KEPT	TO FART	fart	4.64	to fart	Verb	The body	0.04	0.85	0.80	50	-
+476	KEPT	TO PISS	piss	4.65	to piss	Verb	The body	0.19	0.84	0.79	49	-
+477	KEPT	TO SHIT	shit	4.66	to shit	Verb	The body	0.15	0.85	0.79	54	-
+478	KEPT	TO HAVE SEX	have sex	4.67	to have sex	Verb	The body	0.12	0.84	0.76	64	-
+479	KEPT	TO SHIVER	shiver	4.68	to shiver	Verb	The body	0.07	0.79	0.82	53	-
+480	KEPT	TO BATHE	bathe	4.69	to bathe	Verb	The body	0.12	0.85	0.77	49	-
+481	KEPT	TO BEGET	beget	4.71	to beget	Verb	The body	0.16	0.82	0.76	36	-
+482	KEPT	TO BE BORN	be born	4.72	to be born	Verb	The body	0.17	0.86	0.76	44	-
+483	KEPT	PREGNANT	pregnant	4.73	pregnant	Adjective	The body	0.07	0.74	0.71	55	-
+484	KEPT	TO CONCEIVE	conceive	4.732	to conceive	Verb	The body	0.09	0.73	0.65	38	-
+485	KEPT	TO BE ALIVE	be alive	4.74	to be alive	Verb	The body	0.13	0.84	0.82	48	-
+486	KEPT	THE LIFE	life	4.741	the life	Noun	The body	0.28	0.82	0.80	48	-
+487	KEPT	TO DIE	die	4.75	to die	Verb	The body	0.20	0.83	0.90	61	-
+488	KEPT	DEAD	dead	4.7501	dead	Adjective	The body	0.10	0.87	0.78	47	-
+489	KEPT	TO DROWN	drown	4.751	to drown	Verb	The body	0.16	0.81	0.70	43	-
+490	KEPT	TO KILL	kill	4.76	to kill	Verb	The body	0.08	0.86	0.83	48	-
+491	KEPT	THE CORPSE	corpse	4.77	the corpse	Noun	The body	0.37	0.83	0.90	45	-
+492	KEPT	THE CARCASS	carcass	4.771	the carcass	Noun	The body	0.26	0.75	0.82	39	-
+493	KEPT	TO BURY	bury	4.78	to bury	Verb	The body	0.12	0.84	0.83	47	-
+494	KEPT	THE GRAVE	grave	4.79	the grave	Noun	The body	0.30	0.82	0.89	49	-
+495	KEPT	STRONG	strong	4.81	strong	Adjective	The body	0.28	0.82	0.87	52	-
+496	KEPT	WEAK	weak	4.82	weak	Adjective	The body	0.17	0.79	0.80	52	-
+497	KEPT	HEALTHY	healthy	4.83	healthy	Adjective	The body	0.35	0.87	0.78	46	-
+498	SPLIT	SICK	sick	4.84	sick/ill	Adjective	The body	0.18	0.81	0.85	51	-
+499	SPLIT	ILL	ill	4.84	sick/ill	Adjective	The body	0.18	0.81	0.85	51	-
+500	KEPT	THE FEVER	fever	4.841	the fever	Noun	The body	0.31	0.80	0.84	48	-
+501	SPLIT	THE GOITRE	goitre	4.842	the goitre/goiter	Noun	The body	0.14	0.83	0.78	32	-
+502	SPLIT	THE GOITER	goiter	4.842	the goitre/goiter	Noun	The body	0.14	0.83	0.78	32	-
+503	KEPT	THE COLD	cold	4.843	the cold	Noun	The body	0.19	0.79	0.85	46	-
+504	KEPT	THE DISEASE	disease	4.844	the disease	Noun	The body	0.34	0.80	0.78	48	-
+505	SPLIT	THE WOUND	wound	4.85	the wound or sore	Noun	The body	0.15	0.81	0.88	52	-
+506	SPLIT	THE SORE	sore	4.85	the wound or sore	Noun	The body	0.15	0.81	0.88	52	-
+507	KEPT	THE BRUISE	bruise	4.852	the bruise	Noun	The body	0.07	0.77	0.77	44	-
+508	KEPT	THE SWELLING	swelling	4.853	the swelling	Noun	The body	0.12	0.84	0.77	50	-
+509	KEPT	THE ITCH	itch	4.854	the itch	Noun	The body	0.03	0.84	0.79	44	-
+510	KEPT	TO SCRATCH	scratch	4.8541	to scratch	Verb	The body	0.09	0.81	0.90	47	-
+511	KEPT	THE BLISTER	blister	4.855	the blister	Noun	The body	0.10	0.80	0.79	42	-
+512	KEPT	THE BOIL	boil	4.856	the boil	Noun	The body	0.13	0.80	0.88	46	-
+513	KEPT	THE PUS	pus	4.857	the pus	Noun	The body	0.12	0.89	0.96	47	-
+514	KEPT	THE SCAR	scar	4.858	the scar	Noun	The body	0.24	0.81	0.85	49	-
+515	KEPT	TO CURE	cure	4.86	to cure	Verb	The body	0.19	0.76	0.72	50	-
+516	KEPT	THE PHYSICIAN	physician	4.87	the physician	Noun	The body	0.59	0.79	0.87	59	-
+517	KEPT	THE MEDICINE	medicine	4.88	the medicine	Noun	The body	0.42	0.84	0.90	54	-
+518	KEPT	THE POISON	poison	4.89	the poison	Noun	The body	0.44	0.84	0.94	49	-
+519	KEPT	TIRED	tired	4.91	tired	Adjective	The body	0.20	0.82	0.87	48	-
+520	KEPT	TO REST	rest	4.912	to rest	Verb	The body	0.21	0.84	0.75	47	-
+521	KEPT	LAZY	lazy	4.92	lazy	Adjective	The body	0.24	0.81	0.89	59	-
+522	KEPT	BALD	bald	4.93	bald	Adjective	The body	0.19	0.81	0.82	51	-
+523	KEPT	LAME	lame	4.94	lame	Adjective	The body	0.18	0.83	0.88	43	-
+524	KEPT	DEAF	deaf	4.95	deaf	Adjective	The body	0.16	0.86	0.80	47	-
+525	KEPT	MUTE	mute	4.96	mute	Adjective	The body	0.12	0.82	0.84	42	-
+526	KEPT	BLIND	blind	4.97	blind	Adjective	The body	0.11	0.83	0.86	46	-
+527	KEPT	DRUNK	drunk	4.98	drunk	Adjective	The body	0.07	0.81	0.75	52	-
+528	KEPT	NAKED	naked	4.99	naked	Adjective	The body	0.08	0.83	0.84	52	-
+529	KEPT	BAREFOOT	barefoot	4.99901	barefoot	Adjective	The body	0.00	1.00	0.75	1	-
+530	KEPT	SWOLLEN	swollen	4.99902	swollen	Adjective	The body	0.00	1.00	1.00	1	-
+531	KEPT	THE CANINE TOOTH	canine tooth	4.99903	the canine tooth	Noun	The body	0.00	1.00	1.00	1	-
+532	KEPT	THE CHOLESTEROL	cholesterol	4.99904	the cholesterol	Noun	The body	1.00	0.60	1.00	1	-
+533	KEPT	THE DRIBBLE	dribble	4.99905	the dribble	Noun	The body	0.00	1.00	1.00	1	-
+534	KEPT	THE FIST	fist	4.99906	the fist	Noun	The body	0.50	1.00	1.00	1	-
+535	KEPT	THE LAP	lap	4.99907	the lap	Noun	The body	1.00	1.00	1.00	1	-
+536	KEPT	THE METABOLISM	metabolism	4.99908	the metabolism	Noun	The body	1.00	0.60	1.00	1	-
+537	KEPT	THE SALIVA	saliva	4.9991	the saliva	Noun	The body	1.00	0.90	1.00	1	-
+538	KEPT	THE SCABIES	scabies	4.99911	the scabies	Noun	The body	0.50	1.00	1.00	1	-
+539	KEPT	THE STRENGTH	strength	4.99912	the strength	Noun	The body	1.00	1.00	1.00	1	-
+540	KEPT	THE UMBILICAL CORD	umbilical cord	4.99913	the umbilical cord	Noun	The body	0.00	0.50	1.00	1	-
+541	KEPT	TO ITCH	itch	4.99914	to itch	Verb	The body	0.00	1.00	0.75	1	-
+542	KEPT	TO EAT	eat	5.11	to eat	Verb	Food and drink	0.08	0.90	0.92	58	-
+543	KEPT	THE FOOD	food	5.12	the food	Noun	Food and drink	0.17	0.82	0.75	54	-
+544	KEPT	COOKED	cooked	5.121	cooked	Adjective	Food and drink	0.06	0.84	0.75	46	-
+545	KEPT	RAW	raw	5.122	raw	Adjective	Food and drink	0.05	0.83	0.87	43	-
+546	KEPT	RIPE	ripe	5.123	ripe	Adjective	Food and drink	0.09	0.85	0.85	49	-
+547	KEPT	UNRIPE	unripe	5.124	unripe	Adjective	Food and drink	0.10	0.79	0.79	50	-
+548	KEPT	ROTTEN	rotten	5.125	rotten	Adjective	Food and drink	0.16	0.83	0.85	47	-
+549	KEPT	TO DRINK	drink	5.13	to drink	Verb	Food and drink	0.10	0.86	0.93	47	-
+550	KEPT	TO BE HUNGRY	be hungry	5.14	to be hungry	Verb	Food and drink	0.03	0.80	0.76	47	-
+551	KEPT	THE FAMINE	famine	5.141	the famine	Noun	Food and drink	0.17	0.85	0.78	39	-
+552	KEPT	TO BE THIRSTY	be thirsty	5.15	to be thirsty	Verb	Food and drink	0.07	0.83	0.69	43	-
+553	KEPT	TO SUCK	suck	5.16	to suck	Verb	Food and drink	0.06	0.84	0.89	53	-
+554	KEPT	TO CHEW	chew	5.18	to chew	Verb	Food and drink	0.07	0.85	0.88	47	-
+555	KEPT	TO SWALLOW	swallow	5.181	to swallow	Verb	Food and drink	0.08	0.83	0.87	43	-
+556	KEPT	TO CHOKE	choke	5.19	to choke	Verb	Food and drink	0.17	0.76	0.78	51	-
+557	KEPT	TO COOK	cook	5.21	to cook	Verb	Food and drink	0.18	0.82	0.80	53	-
+558	KEPT	TO BOIL	boil	5.22	to boil	Verb	Food and drink	0.18	0.81	0.83	53	-
+559	SPLIT	TO ROAST	roast	5.23	to roast or fry	Verb	Food and drink	0.28	0.86	0.94	77	-
+560	SPLIT	TO FRY	fry	5.23	to roast or fry	Verb	Food and drink	0.28	0.86	0.94	77	-
+561	KEPT	TO BAKE	bake	5.24	to bake	Verb	Food and drink	0.16	0.84	0.88	39	-
+562	KEPT	THE OVEN	oven	5.25	the oven	Noun	Food and drink	0.51	0.82	0.90	46	-
+563	KEPT	THE POT	pot	5.26	the pot	Noun	Food and drink	0.33	0.84	0.96	55	-
+564	KEPT	THE KETTLE	kettle	5.27	the kettle	Noun	Food and drink	0.68	0.84	0.92	43	-
+565	KEPT	THE PAN	pan	5.28	the pan	Noun	Food and drink	0.55	0.83	0.86	48	-
+566	KEPT	THE DISH	dish	5.31	the dish	Noun	Food and drink	0.55	0.80	0.99	46	-
+567	KEPT	THE PLATE	plate	5.32	the plate	Noun	Food and drink	0.54	0.76	0.94	46	-
+568	KEPT	THE BOWL	bowl	5.33	the bowl	Noun	Food and drink	0.56	0.85	0.96	55	-
+569	SPLIT	THE JUG	jug	5.34	the jug/pitcher	Noun	Food and drink	0.40	0.86	0.93	50	-
+570	SPLIT	THE PITCHER	pitcher	5.34	the jug/pitcher	Noun	Food and drink	0.40	0.86	0.93	50	-
+571	KEPT	THE CUP	cup	5.35	the cup	Noun	Food and drink	0.62	0.80	0.93	52	-
+572	KEPT	THE SAUCER	saucer	5.36	the saucer	Noun	Food and drink	0.50	0.78	0.80	33	-
+573	KEPT	THE SPOON	spoon	5.37	the spoon	Noun	Food and drink	0.40	0.82	0.91	52	-
+574	KEPT	THE KNIFE (FOR EATING)	knife	5.38	the knife(1)	Noun	Food and drink	0.26	0.86	0.91	40	-
+575	KEPT	THE FORK	fork	5.39	the fork	Noun	Food and drink	0.54	0.74	0.88	42	-
+576	KEPT	THE TONGS	tongs	5.391	the tongs	Noun	Food and drink	0.40	0.75	0.86	42	-
+577	KEPT	THE MEAL	meal	5.41	the meal	Noun	Food and drink	0.14	0.83	0.79	50	-
+578	KEPT	THE BREAKFAST	breakfast	5.42	the breakfast	Noun	Food and drink	0.26	0.76	0.66	42	-
+579	KEPT	THE LUNCH	lunch	5.43	the lunch	Noun	Food and drink	0.26	0.75	0.72	39	-
+580	KEPT	THE DINNER	dinner	5.44	the dinner	Noun	Food and drink	0.18	0.76	0.59	27	-
+581	KEPT	THE SUPPER	supper	5.45	the supper	Noun	Food and drink	0.19	0.81	0.66	35	-
+582	KEPT	TO PEEL	peel	5.46	to peel	Verb	Food and drink	0.15	0.79	0.83	49	-
+583	SPLIT	TO SIEVE	sieve	5.47	to sieve or to strain	Verb	Food and drink	0.17	0.85	0.87	55	-
+584	SPLIT	TO TO STRAIN	to strain	5.47	to sieve or to strain	Verb	Food and drink	0.17	0.85	0.87	55	-
+585	KEPT	TO SCRAPE	scrape	5.48	to scrape	Verb	Food and drink	0.09	0.86	0.89	53	-
+586	SPLIT	TO STIR	stir	5.49	to stir or to mix	Verb	Food and drink	0.13	0.83	0.86	61	-
+587	SPLIT	TO TO MIX	to mix	5.49	to stir or to mix	Verb	Food and drink	0.13	0.83	0.86	61	-
+588	KEPT	THE BREAD	bread	5.51	the bread	Noun	Food and drink	0.48	0.87	0.89	46	-
+589	KEPT	THE DOUGH	dough	5.53	the dough	Noun	Food and drink	0.31	0.80	0.86	41	-
+590	KEPT	TO KNEAD	knead	5.54	to knead	Verb	Food and drink	0.15	0.85	0.88	48	-
+591	KEPT	THE FLOUR	flour	5.55	the flour	Noun	Food and drink	0.35	0.86	0.94	45	-
+592	SPLIT	TO CRUSH	crush	5.56	to crush or to grind	Verb	Food and drink	0.08	0.86	0.89	61	-
+593	SPLIT	TO GRIND	grind	5.56	to crush or to grind	Verb	Food and drink	0.08	0.86	0.89	61	-
+594	KEPT	THE MILL	mill	5.57	the mill	Noun	Food and drink	0.30	0.86	0.79	35	-
+595	KEPT	THE MORTAR (BOWL)	mortar	5.58	the mortar(1)	Noun	Food and drink	0.18	0.84	0.91	43	-
+596	KEPT	THE PESTLE	pestle	5.59	the pestle	Noun	Food and drink	0.15	0.78	0.72	40	-
+597	KEPT	THE MEAT	meat	5.61	the meat	Noun	Food and drink	0.13	0.88	0.97	43	-
+598	KEPT	THE SAUSAGE	sausage	5.63	the sausage	Noun	Food and drink	0.53	0.75	0.91	36	-
+599	KEPT	THE SOUP	soup	5.64	the soup	Noun	Food and drink	0.53	0.83	0.98	49	-
+600	KEPT	THE VEGETABLES	vegetables	5.65	the vegetables	Noun	Food and drink	0.26	0.83	0.86	39	-
+601	KEPT	THE BEAN	bean	5.66	the bean	Noun	Food and drink	0.41	0.85	0.95	44	-
+602	KEPT	THE POTATO	potato	5.7	the potato	Noun	Food and drink	0.42	0.78	0.83	50	-
+603	KEPT	THE FRUIT	fruit	5.71	the fruit	Noun	Food and drink	0.25	0.86	0.87	46	-
+604	KEPT	THE BUNCH	bunch	5.712	the bunch	Noun	Food and drink	0.14	0.80	0.91	42	-
+605	KEPT	THE FIG	fig	5.75	the fig	Noun	Food and drink	0.56	0.78	0.93	31	-
+606	KEPT	THE GRAPE	grape	5.76	the grape	Noun	Food and drink	0.46	0.81	0.90	37	-
+607	KEPT	THE NUT	nut	5.77	the nut	Noun	Food and drink	0.27	0.80	0.88	46	-
+608	KEPT	THE OLIVE	olive	5.78	the olive	Noun	Food and drink	0.93	0.87	0.95	24	-
+609	KEPT	THE OIL	oil	5.79	the oil	Noun	Food and drink	0.60	0.81	0.92	43	-
+610	SPLIT	THE GREASE	grease	5.791	the grease or fat	Noun	Food and drink	0.18	0.88	0.92	46	-
+611	SPLIT	THE FAT	fat	5.791	the grease or fat	Noun	Food and drink	0.18	0.88	0.92	46	-
+612	KEPT	THE SALT	salt	5.81	the salt	Noun	Food and drink	0.15	0.84	0.98	44	-
+613	KEPT	THE PEPPER	pepper	5.82	the pepper	Noun	Food and drink	0.66	0.83	0.89	36	-
+614	KEPT	THE CHILI PEPPER	chili pepper	5.821	the chili pepper	Noun	Food and drink	0.41	0.84	0.89	39	-
+615	KEPT	THE HONEY	honey	5.84	the honey	Noun	Food and drink	0.31	0.84	0.91	45	-
+616	KEPT	THE SUGAR	sugar	5.85	the sugar	Noun	Food and drink	0.79	0.82	0.94	41	-
+617	KEPT	THE MILK	milk	5.86	the milk	Noun	Food and drink	0.31	0.85	0.89	48	-
+618	KEPT	TO MILK	milk	5.87	to milk	Verb	Food and drink	0.07	0.82	0.74	37	-
+619	KEPT	THE CHEESE	cheese	5.88	the cheese	Noun	Food and drink	0.66	0.84	0.92	38	-
+620	KEPT	THE BUTTER	butter	5.89	the butter	Noun	Food and drink	0.49	0.83	0.89	40	-
+621	KEPT	THE DRINK	drink	5.9	the drink	Noun	Food and drink	0.08	0.87	0.68	43	-
+622	KEPT	THE MEAD	mead	5.91	the mead	Noun	Food and drink	0.32	0.83	0.76	18	-
+623	KEPT	THE WINE	wine	5.92	the wine	Noun	Food and drink	0.74	0.84	0.96	43	-
+624	KEPT	THE BEER	beer	5.93	the beer	Noun	Food and drink	0.68	0.77	0.96	45	-
+625	KEPT	THE FERMENTED DRINK	fermented drink	5.94	the fermented drink	Noun	Food and drink	0.48	0.78	0.91	39	-
+626	KEPT	THE EGG	egg	5.97	the egg	Noun	Food and drink	0.09	0.90	0.95	44	-
+627	KEPT	THE YOLK	yolk	5.971	the yolk	Noun	Food and drink	0.03	0.79	0.68	41	-
+628	KEPT	THE MANIOC BREAD	manioc bread	5.983	the manioc bread	Noun	Food and drink	0.33	0.70	0.80	12	-
+629	KEPT	THE FIG TREE	fig tree	5.99901	the fig tree	Noun	Food and drink	0.50	1.00	1.00	2	-
+630	KEPT	SATED	sated	5.99902	sated	Adjective	Food and drink	0.00	1.00	1.00	1	-
+631	KEPT	THE SOY SAUCE	soy sauce	5.99903	the soy sauce	Noun	Food and drink	1.00	0.90	1.00	1	-
+632	KEPT	THE AYAHUASCA	ayahuasca	5.99904	the ayahuasca	Noun	Food and drink	1.00	1.00	1.00	1	-
+633	KEPT	THE BACON	bacon	5.99905	the bacon	Noun	Food and drink	0.00	1.00	0.75	1	-
+634	KEPT	THE BISCUIT	biscuit	5.99906	the biscuit	Noun	Food and drink	1.00	0.80	1.00	1	-
+635	KEPT	THE BRANDY	brandy	5.99907	the brandy	Noun	Food and drink	1.00	0.90	1.00	1	-
+636	KEPT	THE CABBAGE	cabbage	5.99908	the cabbage	Noun	Food and drink	1.00	1.00	1.00	1	-
+637	KEPT	THE CASSAVA FLOUR	cassava flour	5.99909	the cassava flour	Noun	Food and drink	0.00	0.50	0.50	1	-
+638	KEPT	THE CREAM	cream	5.9991	the cream	Noun	Food and drink	1.00	0.90	1.00	1	-
+639	KEPT	THE JAPANESE FISH CAKE	Japanese fish cake	5.99911	the Japanese fish cake	Noun	Food and drink	1.00	0.60	1.00	1	-
+640	KEPT	THE JELLY	jelly	5.99912	the jelly	Noun	Food and drink	1.00	1.00	1.00	1	-
+641	KEPT	THE MANIOC JUICE	manioc juice	5.99913	the manioc juice	Noun	Food and drink	0.00	0.50	0.50	1	-
+642	KEPT	THE MOCHI	mochi	5.99914	the mochi	Noun	Food and drink	1.00	0.60	1.00	1	-
+643	KEPT	THE RAMEN NOODLES	ramen noodles	5.99915	the ramen noodles	Noun	Food and drink	1.00	0.60	1.00	1	-
+644	SPLIT	THE RICE BALL	rice ball	5.99916	the rice ball or musubi	Noun	Food and drink	1.00	0.60	1.00	1	-
+645	SPLIT	THE MUSUBI	musubi	5.99916	the rice ball or musubi	Noun	Food and drink	1.00	0.60	1.00	1	-
+646	KEPT	THE ROASTED CASSAVA MEAL	roasted cassava meal	5.99917	the roasted cassava meal	Noun	Food and drink	0.00	0.50	1.00	1	-
+647	KEPT	THE SMOKED FOOD	smoked food	5.99918	the smoked food	Noun	Food and drink	0.00	0.50	0.75	1	-
+648	KEPT	THE TAMALE	tamale	5.99919	the tamale	Noun	Food and drink	0.50	0.85	1.00	2	-
+649	SPLIT	THE TOFU	tofu	5.9992	the tofu or bean curd	Noun	Food and drink	1.00	0.60	1.00	1	-
+650	SPLIT	THE BEAN CURD	bean curd	5.9992	the tofu or bean curd	Noun	Food and drink	1.00	0.60	1.00	1	-
+651	KEPT	THE TORTILLA	tortilla	5.99921	the tortilla	Noun	Food and drink	0.50	0.90	0.75	2	-
+652	KEPT	THE VINEGAR	vinegar	5.99922	the vinegar	Noun	Food and drink	0.00	1.00	1.00	1	-
+653	KEPT	TO PUT ON	put on	6.11	to put on	Verb	Clothing and grooming	0.07	0.87	0.82	50	-
+654	SPLIT	THE CLOTHING	clothing	6.12	the clothing or clothes	Noun	Clothing and grooming	0.20	0.86	0.80	50	-
+655	SPLIT	THE CLOTHES	clothes	6.12	the clothing or clothes	Noun	Clothing and grooming	0.20	0.86	0.80	50	-
+656	KEPT	THE TAILOR	tailor	6.13	the tailor	Noun	Clothing and grooming	0.29	0.79	0.66	34	-
+657	KEPT	THE CLOTH	cloth	6.21	the cloth	Noun	Clothing and grooming	0.36	0.82	0.95	47	-
+658	KEPT	THE WOOL	wool	6.22	the wool	Noun	Clothing and grooming	0.32	0.88	0.81	38	-
+659	KEPT	THE LINEN	linen	6.23	the linen	Noun	Clothing and grooming	0.66	0.84	0.90	23	-
+660	KEPT	THE COTTON	cotton	6.24	the cotton	Noun	Clothing and grooming	0.49	0.85	0.90	37	-
+661	KEPT	THE SILK	silk	6.25	the silk	Noun	Clothing and grooming	0.80	0.84	0.95	37	-
+662	KEPT	THE FELT	felt	6.27	the felt	Noun	Clothing and grooming	0.39	0.76	0.95	22	-
+663	KEPT	THE FUR	fur	6.28	the fur	Noun	Clothing and grooming	0.29	0.86	0.90	40	-
+664	KEPT	THE LEATHER	leather	6.29	the leather	Noun	Clothing and grooming	0.14	0.86	0.89	44	-
+665	KEPT	TO SPIN	spin	6.31	to spin	Verb	Clothing and grooming	0.01	0.83	0.86	43	-
+666	KEPT	THE SPINDLE	spindle	6.32	the spindle	Noun	Clothing and grooming	0.10	0.79	0.85	35	-
+667	IGNORE	TO WEAVE	weave	6.33	to weave	Verb	Clothing and grooming	0.07	0.90	0.93	39	-
+668	KEPT	THE LOOM	loom	6.34	the loom	Noun	Clothing and grooming	0.16	0.85	0.81	32	-
+669	KEPT	TO SEW	sew	6.35	to sew	Verb	Clothing and grooming	0.11	0.86	0.89	44	-
+670	KEPT	THE NEEDLE (FOR SEWING)	needle	6.36	the needle(1)	Noun	Clothing and grooming	0.37	0.85	0.94	44	-
+671	KEPT	THE AWL	awl	6.37	the awl	Noun	Clothing and grooming	0.28	0.82	0.95	31	-
+672	KEPT	THE THREAD	thread	6.38	the thread	Noun	Clothing and grooming	0.28	0.86	0.97	48	-
+673	KEPT	TO DYE	dye	6.39	to dye	Verb	Clothing and grooming	0.22	0.86	0.80	35	-
+674	KEPT	THE CLOAK	cloak	6.41	the cloak	Noun	Clothing and grooming	0.70	0.85	0.88	31	-
+675	KEPT	THE PONCHO	poncho	6.411	the poncho	Noun	Clothing and grooming	0.58	0.80	0.93	20	-
+676	KEPT	THE DRESS (OF WOMAN)	dress	6.42	the (woman's) dress	Noun	Clothing and grooming	0.47	0.82	0.89	50	-
+677	KEPT	THE COAT	coat	6.43	the coat	Noun	Clothing and grooming	0.61	0.76	0.88	49	-
+678	KEPT	THE SHIRT	shirt	6.44	the shirt	Noun	Clothing and grooming	0.51	0.83	0.94	52	-
+679	KEPT	THE COLLAR	collar	6.45	the collar	Noun	Clothing and grooming	0.37	0.81	0.86	44	-
+680	KEPT	THE SKIRT	skirt	6.46	the skirt	Noun	Clothing and grooming	0.61	0.80	0.97	51	-
+681	KEPT	THE GRASS-SKIRT	grass-skirt	6.461	the grass-skirt	Noun	Clothing and grooming	0.25	0.70	0.72	9	-
+682	KEPT	THE TROUSERS	trousers	6.48	the trousers	Noun	Clothing and grooming	0.56	0.81	0.94	47	-
+683	SPLIT	THE SOCK	sock	6.49	the sock or stocking	Noun	Clothing and grooming	0.68	0.79	0.88	61	-
+684	SPLIT	THE STOCKING	stocking	6.49	the sock or stocking	Noun	Clothing and grooming	0.68	0.79	0.88	61	-
+685	KEPT	THE SHOE	shoe	6.51	the shoe	Noun	Clothing and grooming	0.45	0.79	0.95	52	-
+686	KEPT	THE BOOT	boot	6.52	the boot	Noun	Clothing and grooming	0.67	0.76	0.92	46	-
+687	KEPT	THE SHOEMAKER	shoemaker	6.54	the shoemaker	Noun	Clothing and grooming	0.24	0.76	0.66	29	-
+688	SPLIT	THE HAT	hat	6.55	the hat or cap	Noun	Clothing and grooming	0.49	0.80	0.93	65	-
+689	SPLIT	THE CAP	cap	6.55	the hat or cap	Noun	Clothing and grooming	0.49	0.80	0.93	65	-
+690	KEPT	THE BELT	belt	6.57	the belt	Noun	Clothing and grooming	0.30	0.82	0.85	52	-
+691	KEPT	THE GLOVE	glove	6.58	the glove	Noun	Clothing and grooming	0.23	0.78	0.69	32	-
+692	KEPT	THE VEIL	veil	6.59	the veil	Noun	Clothing and grooming	0.60	0.86	0.89	32	-
+693	KEPT	THE POCKET	pocket	6.61	the pocket	Noun	Clothing and grooming	0.60	0.80	0.98	42	-
+694	KEPT	THE BUTTON	button	6.62	the button	Noun	Clothing and grooming	0.59	0.75	0.96	45	-
+695	KEPT	THE PIN	pin	6.63	the pin	Noun	Clothing and grooming	0.58	0.79	0.92	41	-
+696	SPLIT	THE ORNAMENT	ornament	6.71	the ornament or adornment	Noun	Clothing and grooming	0.31	0.78	0.81	50	-
+697	SPLIT	THE ADORNMENT	adornment	6.71	the ornament or adornment	Noun	Clothing and grooming	0.31	0.78	0.81	50	-
+698	KEPT	THE JEWEL	jewel	6.72	the jewel	Noun	Clothing and grooming	0.48	0.82	0.81	33	-
+699	KEPT	THE RING	ring	6.73	the ring	Noun	Clothing and grooming	0.22	0.79	0.87	44	-
+700	KEPT	THE BRACELET	bracelet	6.74	the bracelet	Noun	Clothing and grooming	0.20	0.78	0.73	43	-
+701	KEPT	THE NECKLACE	necklace	6.75	the necklace	Noun	Clothing and grooming	0.24	0.79	0.88	48	-
+702	KEPT	THE BEAD	bead	6.76	the bead	Noun	Clothing and grooming	0.25	0.82	0.92	41	-
+703	KEPT	THE EARRING	earring	6.77	the earring	Noun	Clothing and grooming	0.21	0.74	0.76	47	-
+704	SPLIT	THE HEADBAND	headband	6.78	the headband or headdress	Noun	Clothing and grooming	0.37	0.78	0.82	46	-
+705	SPLIT	THE HEADDRESS	headdress	6.78	the headband or headdress	Noun	Clothing and grooming	0.37	0.78	0.82	46	-
+706	KEPT	THE TATTOO	tattoo	6.79	the tattoo	Noun	Clothing and grooming	0.23	0.79	0.82	30	-
+707	SPLIT	THE HANDKERCHIEF	handkerchief	6.81	the handkerchief or rag	Noun	Clothing and grooming	0.48	0.80	0.84	58	-
+708	SPLIT	THE RAG	rag	6.81	the handkerchief or rag	Noun	Clothing and grooming	0.48	0.80	0.84	58	-
+709	KEPT	THE TOWEL	towel	6.82	the towel	Noun	Clothing and grooming	0.66	0.77	0.88	45	-
+710	KEPT	THE COMB	comb	6.91	the comb	Noun	Clothing and grooming	0.17	0.83	0.83	50	-
+711	KEPT	THE BRUSH	brush	6.92	the brush	Noun	Clothing and grooming	0.48	0.76	0.88	42	-
+712	SPLIT	THE PLAIT	plait	6.921	the plait/braid	Noun	Clothing and grooming	0.22	0.78	0.83	45	-
+713	SPLIT	THE BRAID	braid	6.921	the plait/braid	Noun	Clothing and grooming	0.22	0.78	0.83	45	-
+714	KEPT	THE RAZOR	razor	6.93	the razor	Noun	Clothing and grooming	0.34	0.78	0.77	44	-
+715	KEPT	THE OINTMENT	ointment	6.94	the ointment	Noun	Clothing and grooming	0.43	0.78	0.82	44	-
+716	KEPT	THE SOAP	soap	6.95	the soap	Noun	Clothing and grooming	0.78	0.82	0.97	44	-
+717	KEPT	THE MIRROR	mirror	6.96	the mirror	Noun	Clothing and grooming	0.40	0.84	0.85	45	-
+718	KEPT	THE SNOWSHOE	snowshoe	6.98	the snowshoe	Noun	Clothing and grooming	0.14	0.76	0.70	14	-
+719	KEPT	THE BAG	bag	6.99901	the bag	Noun	Clothing and grooming	0.81	0.70	1.00	4	-
+720	KEPT	THE FRINGE	fringe	6.99903	the fringe	Noun	Clothing and grooming	0.00	0.50	1.00	1	-
+721	KEPT	THE LEG BAND	leg band	6.99904	the leg band	Noun	Clothing and grooming	0.00	0.50	1.00	1	-
+722	KEPT	THE POMPOM	pompom	6.99906	the pompom	Noun	Clothing and grooming	1.00	0.80	1.00	1	-
+723	KEPT	THE SANDAL	sandal	6.99907	the sandal	Noun	Clothing and grooming	1.00	0.80	1.00	1	-
+724	KEPT	THE SLEEVE	sleeve	6.99908	the sleeve	Noun	Clothing and grooming	0.00	1.00	1.00	1	-
+725	KEPT	THE SMOCK	smock	6.99909	the smock	Noun	Clothing and grooming	1.00	0.80	1.00	1	-
+726	SPLIT	THE STYLE	style	6.9991	the style or fashion	Noun	Clothing and grooming	1.00	0.90	1.00	1	-
+727	SPLIT	THE FASHION	fashion	6.9991	the style or fashion	Noun	Clothing and grooming	1.00	0.90	1.00	1	-
+728	KEPT	TO WEAR	wear	6.99911	to wear	Verb	Clothing and grooming	0.00	1.00	0.75	1	-
+729	KEPT	TO LIVE	live	7.11	to live	Verb	The house	0.15	0.89	0.86	47	-
+730	KEPT	THE HOUSE	house	7.12	the house	Noun	The house	0.11	0.87	0.97	46	-
+731	KEPT	THE HUT	hut	7.13	the hut	Noun	The house	0.39	0.77	0.89	45	-
+732	KEPT	THE GARDEN-HOUSE	garden-house	7.131	the garden-house	Noun	The house	0.31	0.77	0.77	18	-
+733	KEPT	THE TENT	tent	7.14	the tent	Noun	The house	0.64	0.82	0.94	40	-
+734	SPLIT	THE YARD	yard	7.15	the yard or court	Noun	The house	0.23	0.80	0.92	42	-
+735	SPLIT	THE COURT	court	7.15	the yard or court	Noun	The house	0.23	0.80	0.92	42	-
+736	KEPT	THE MEN'S HOUSE	men's house	7.16	the men's house	Noun	The house	0.13	0.76	0.65	10	-
+737	KEPT	THE COOKHOUSE	cookhouse	7.17	the cookhouse	Noun	The house	0.33	0.72	0.69	37	-
+738	KEPT	THE MEETING HOUSE	meeting house	7.18	the meeting house	Noun	The house	0.25	0.76	0.69	29	-
+739	KEPT	THE ROOM	room	7.21	the room	Noun	The house	0.51	0.82	0.90	52	-
+740	SPLIT	THE DOOR	door	7.22	the door or gate	Noun	The house	0.23	0.87	0.90	59	-
+741	SPLIT	THE GATE	gate	7.22	the door or gate	Noun	The house	0.23	0.87	0.90	59	-
+742	KEPT	THE DOORPOST	doorpost	7.221	the doorpost	Noun	The house	0.23	0.79	0.71	40	-
+743	KEPT	THE LOCK	lock	7.23	the lock	Noun	The house	0.51	0.82	0.86	43	-
+744	SPLIT	THE LATCH	latch	7.231	the latch or door-bolt	Noun	The house	0.40	0.81	0.85	37	-
+745	SPLIT	THE DOOR-BOLT	door-bolt	7.231	the latch or door-bolt	Noun	The house	0.40	0.81	0.85	37	-
+746	KEPT	THE PADLOCK	padlock	7.232	the padlock	Noun	The house	0.46	0.78	0.79	30	-
+747	KEPT	THE KEY	key	7.24	the key	Noun	The house	0.47	0.79	0.83	43	-
+748	KEPT	THE WINDOW	window	7.25	the window	Noun	The house	0.57	0.82	0.91	47	-
+749	KEPT	THE FLOOR	floor	7.26	the floor	Noun	The house	0.35	0.82	0.88	47	-
+750	KEPT	THE WALL	wall	7.27	the wall	Noun	The house	0.34	0.82	0.95	46	-
+751	KEPT	THE FIREPLACE	fireplace	7.31	the fireplace	Noun	The house	0.23	0.79	0.76	45	-
+752	KEPT	THE STOVE	stove	7.32	the stove	Noun	The house	0.58	0.84	0.90	37	-
+753	KEPT	THE CHIMNEY	chimney	7.33	the chimney	Noun	The house	0.34	0.85	0.76	36	-
+754	KEPT	THE LADDER	ladder	7.37	the ladder	Noun	The house	0.23	0.81	0.88	51	-
+755	KEPT	THE BED	bed	7.42	the bed	Noun	The house	0.39	0.84	0.92	52	-
+756	KEPT	THE PILLOW	pillow	7.421	the pillow	Noun	The house	0.26	0.83	0.90	42	-
+757	KEPT	THE BLANKET	blanket	7.422	the blanket	Noun	The house	0.48	0.78	0.88	54	-
+758	KEPT	THE CHAIR	chair	7.43	the chair	Noun	The house	0.47	0.78	0.87	50	-
+759	KEPT	THE TABLE	table	7.44	the table	Noun	The house	0.74	0.81	0.96	44	-
+760	SPLIT	THE LAMP	lamp	7.45	the lamp or torch	Noun	The house	0.65	0.78	0.93	73	-
+761	SPLIT	THE TORCH	torch	7.45	the lamp or torch	Noun	The house	0.65	0.78	0.93	73	-
+762	KEPT	THE CANDLE	candle	7.46	the candle	Noun	The house	0.63	0.83	0.93	42	-
+763	KEPT	THE SHELF	shelf	7.47	the shelf	Noun	The house	0.44	0.78	0.90	41	-
+764	KEPT	THE TROUGH	trough	7.48	the trough	Noun	The house	0.31	0.88	0.92	43	-
+765	KEPT	THE ROOF	roof	7.51	the roof	Noun	The house	0.14	0.79	0.79	46	-
+766	KEPT	THE THATCH	thatch	7.52	the thatch	Noun	The house	0.03	0.82	0.71	30	-
+767	KEPT	THE RIDGEPOLE	ridgepole	7.53	the ridgepole	Noun	The house	0.12	0.80	0.76	34	-
+768	KEPT	THE RAFTER	rafter	7.54	the rafter	Noun	The house	0.17	0.79	0.80	41	-
+769	KEPT	THE BEAM	beam	7.55	the beam	Noun	The house	0.30	0.80	0.93	47	-
+770	SPLIT	THE POST	post	7.56	the post or pole	Noun	The house	0.39	0.82	0.94	51	-
+771	SPLIT	THE POLE	pole	7.56	the post or pole	Noun	The house	0.39	0.82	0.94	51	-
+772	KEPT	THE BOARD	board	7.57	the board	Noun	The house	0.38	0.76	0.92	39	-
+773	KEPT	THE ARCH	arch	7.58	the arch	Noun	The house	0.46	0.79	0.90	35	-
+774	KEPT	THE MASON	mason	7.61	the mason	Noun	The house	0.42	0.77	0.72	31	-
+775	KEPT	THE BRICK	brick	7.62	the brick	Noun	The house	0.66	0.81	0.93	39	-
+776	KEPT	THE MORTAR (SUBSTANCE)	mortar	7.63	the mortar(2)	Noun	The house	0.50	0.83	0.95	29	-
+777	KEPT	THE ADOBE	adobe	7.64	the adobe	Noun	The house	0.31	0.82	0.81	23	-
+778	KEPT	THE CAMP	camp	7.65	the camp	Noun	The house	0.37	0.78	0.82	38	-
+779	KEPT	THE HAMMOCK	hammock	7.66	the hammock	Noun	The house	0.40	0.79	0.82	26	-
+780	KEPT	TO TAN	tan	7.67	to tan	Verb	The house	0.22	0.84	0.73	29	-
+781	KEPT	THE BENCH	bench	7.99901	the bench	Noun	The house	0.00	0.75	1.00	2	-
+782	KEPT	THE CASE	case	7.99902	the case	Noun	The house	1.00	0.80	1.00	1	-
+783	KEPT	THE GRIDDLE	griddle	7.99903	the griddle	Noun	The house	0.00	0.50	0.75	1	-
+784	KEPT	THE GUESTROOM	guestroom	7.99904	the guestroom	Noun	The house	1.00	0.90	0.75	1	-
+785	KEPT	THE MOSQUITO NET	mosquito net	7.99905	the mosquito net	Noun	The house	1.00	0.70	1.00	1	-
+786	KEPT	THE ROOF TILE	roof tile	7.99906	the roof tile	Noun	The house	1.00	0.90	1.00	1	-
+787	KEPT	THE FARMER	farmer	8.11	the farmer	Noun	Agriculture and vegetation	0.44	0.77	0.73	39	-
+788	KEPT	THE FIELD	field	8.12	the field	Noun	Agriculture and vegetation	0.19	0.84	0.88	53	-
+789	KEPT	THE PADDY	paddy	8.121	the paddy	Noun	Agriculture and vegetation	0.16	0.87	0.74	16	-
+790	KEPT	THE GARDEN	garden	8.13	the garden	Noun	Agriculture and vegetation	0.46	0.82	0.93	43	-
+791	KEPT	TO CULTIVATE	cultivate	8.15	to cultivate	Verb	Agriculture and vegetation	0.14	0.79	0.75	37	-
+792	KEPT	THE FENCE	fence	8.16	the fence	Noun	Agriculture and vegetation	0.27	0.87	0.94	49	-
+793	KEPT	THE DITCH	ditch	8.17	the ditch	Noun	Agriculture and vegetation	0.48	0.86	0.90	54	-
+794	SPLIT	TO PLOUGH	plough	8.21	to plough/plow	Verb	Agriculture and vegetation	0.26	0.81	0.82	39	-
+795	SPLIT	TO PLOW	plow	8.21	to plough/plow	Verb	Agriculture and vegetation	0.26	0.81	0.82	39	-
+796	KEPT	THE FURROW	furrow	8.212	the furrow	Noun	Agriculture and vegetation	0.19	0.87	0.89	34	-
+797	KEPT	TO DIG	dig	8.22	to dig	Verb	Agriculture and vegetation	0.11	0.83	0.89	50	-
+798	KEPT	THE SPADE	spade	8.23	the spade	Noun	Agriculture and vegetation	0.50	0.80	0.93	38	-
+799	KEPT	THE SHOVEL	shovel	8.24	the shovel	Noun	Agriculture and vegetation	0.61	0.75	0.97	45	-
+800	KEPT	THE HOE	hoe	8.25	the hoe	Noun	Agriculture and vegetation	0.29	0.81	0.89	44	-
+801	SPLIT	THE PITCHFORK	pitchfork	8.26	the fork(2)/pitchfork	Noun	Agriculture and vegetation	0.41	0.78	0.91	35	-
+802	SPLIT	THE PITCHFORK	pitchfork	8.26	the fork(2)/pitchfork	Noun	Agriculture and vegetation	0.41	0.78	0.91	35	-
+803	KEPT	THE RAKE	rake	8.27	the rake	Noun	Agriculture and vegetation	0.35	0.80	0.81	40	-
+804	KEPT	THE DIGGING STICK (YAMSTICK)	digging stick	8.28	the digging stick (=yamstick)	Noun	Agriculture and vegetation	0.06	0.77	0.76	20	-
+805	KEPT	THE LASSO	lasso	8.29	the lasso	Noun	Agriculture and vegetation	0.51	0.83	0.84	23	-
+806	KEPT	TO SOW	sow	8.31	to sow	Verb	Agriculture and vegetation	0.07	0.82	0.86	47	-
+807	KEPT	THE SEED	seed	8.311	the seed	Noun	Agriculture and vegetation	0.20	0.88	0.92	49	-
+808	KEPT	TO MOW	mow	8.32	to mow	Verb	Agriculture and vegetation	0.16	0.80	0.85	39	-
+809	SPLIT	THE SICKLE	sickle	8.33	the sickle or scythe	Noun	Agriculture and vegetation	0.52	0.87	0.92	45	-
+810	SPLIT	THE SCYTHE	scythe	8.33	the sickle or scythe	Noun	Agriculture and vegetation	0.52	0.87	0.92	45	-
+811	KEPT	TO THRESH	thresh	8.34	to thresh	Verb	Agriculture and vegetation	0.17	0.84	0.83	40	-
+812	KEPT	THE THRESHING-FLOOR	threshing-floor	8.35	the threshing-floor	Noun	Agriculture and vegetation	0.18	0.80	0.75	30	-
+813	KEPT	THE HARVEST	harvest	8.41	the harvest	Noun	Agriculture and vegetation	0.27	0.80	0.73	41	-
+814	KEPT	THE GRAIN	grain	8.42	the grain	Noun	Agriculture and vegetation	0.39	0.88	0.91	41	-
+815	KEPT	THE WHEAT	wheat	8.43	the wheat	Noun	Agriculture and vegetation	0.52	0.86	0.91	38	-
+816	KEPT	THE BARLEY	barley	8.44	the barley	Noun	Agriculture and vegetation	0.55	0.86	0.96	29	-
+817	KEPT	THE RYE	rye	8.45	the rye	Noun	Agriculture and vegetation	0.33	0.76	0.87	20	-
+818	KEPT	THE OATS	oats	8.46	the oats	Noun	Agriculture and vegetation	0.68	0.77	0.89	24	-
+819	SPLIT	THE MAIZE	maize	8.47	the maize/corn	Noun	Agriculture and vegetation	0.39	0.81	0.92	42	-
+820	SPLIT	THE CORN	corn	8.47	the maize/corn	Noun	Agriculture and vegetation	0.39	0.81	0.92	42	-
+821	KEPT	THE RICE	rice	8.48	the rice	Noun	Agriculture and vegetation	0.62	0.82	0.97	46	-
+822	KEPT	THE GRASS	grass	8.51	the grass	Noun	Agriculture and vegetation	0.17	0.86	0.97	45	-
+823	KEPT	THE HAY	hay	8.52	the hay	Noun	Agriculture and vegetation	0.15	0.77	0.86	38	-
+824	KEPT	THE PLANT	plant	8.53	the plant	Noun	Agriculture and vegetation	0.36	0.84	0.75	39	-
+825	KEPT	TO PLANT	plant	8.531	to plant	Verb	Agriculture and vegetation	0.23	0.87	0.84	43	-
+826	KEPT	THE ROOT	root	8.54	the root	Noun	Agriculture and vegetation	0.06	0.86	0.97	48	-
+827	KEPT	THE BRANCH	branch	8.55	the branch	Noun	Agriculture and vegetation	0.17	0.88	0.96	50	-
+828	KEPT	THE LEAF	leaf	8.56	the leaf	Noun	Agriculture and vegetation	0.10	0.90	0.98	47	-
+829	KEPT	THE FLOWER	flower	8.57	the flower	Noun	Agriculture and vegetation	0.25	0.88	0.96	51	-
+830	KEPT	THE TREE	tree	8.6	the tree	Noun	Agriculture and vegetation	0.25	0.79	0.95	59	-
+831	KEPT	THE OAK	oak	8.61	the oak	Noun	Agriculture and vegetation	0.29	0.85	0.92	26	-
+832	KEPT	THE BEECH	beech	8.62	the beech	Noun	Agriculture and vegetation	0.14	0.89	0.88	14	-
+833	KEPT	THE BIRCH	birch	8.63	the birch	Noun	Agriculture and vegetation	0.19	0.80	0.92	20	-
+834	KEPT	THE PINE	pine	8.64	the pine	Noun	Agriculture and vegetation	0.41	0.80	0.88	31	-
+835	KEPT	THE FIR	fir	8.65	the fir	Noun	Agriculture and vegetation	0.32	0.94	0.95	19	-
+836	KEPT	THE ACORN	acorn	8.66	the acorn	Noun	Agriculture and vegetation	0.17	0.90	0.83	18	-
+837	KEPT	THE VINE	vine	8.67	the vine	Noun	Agriculture and vegetation	0.19	0.83	0.78	37	-
+838	KEPT	THE TOBACCO	tobacco	8.68	the tobacco	Noun	Agriculture and vegetation	0.66	0.80	0.95	44	-
+839	KEPT	TO SMOKE	smoke	8.69	to smoke	Verb	Agriculture and vegetation	0.20	0.79	0.73	47	-
+840	KEPT	THE PIPE	pipe	8.691	the pipe	Noun	Agriculture and vegetation	0.60	0.81	0.93	41	-
+841	KEPT	THE TREE STUMP	tree stump	8.72	the tree stump	Noun	Agriculture and vegetation	0.12	0.81	0.82	41	-
+842	KEPT	THE TREE TRUNK	tree trunk	8.73	the tree trunk	Noun	Agriculture and vegetation	0.10	0.78	0.81	43	-
+843	KEPT	THE FORKED BRANCH	forked branch	8.74	the forked branch	Noun	Agriculture and vegetation	0.14	0.78	0.76	35	-
+844	KEPT	THE BARK	bark	8.75	the bark	Noun	Agriculture and vegetation	0.16	0.81	0.87	49	-
+845	KEPT	THE SAP	sap	8.76	the sap	Noun	Agriculture and vegetation	0.20	0.83	0.83	46	-
+846	KEPT	THE PALM TREE	palm tree	8.81	the palm tree	Noun	Agriculture and vegetation	0.30	0.82	0.92	50	-
+847	KEPT	THE COCONUT	coconut	8.82	the coconut	Noun	Agriculture and vegetation	0.49	0.80	0.84	33	-
+848	KEPT	THE CITRUS FRUIT	citrus fruit	8.83	the citrus fruit	Noun	Agriculture and vegetation	0.60	0.76	0.85	44	-
+849	KEPT	THE BANANA	banana	8.84	the banana	Noun	Agriculture and vegetation	0.62	0.74	0.97	39	-
+850	KEPT	THE BANYAN	banyan	8.85	the banyan	Noun	Agriculture and vegetation	0.50	0.78	0.91	15	-
+851	KEPT	THE SWEET POTATO	sweet potato	8.91	the sweet potato	Noun	Agriculture and vegetation	0.35	0.79	0.80	34	-
+852	SPLIT	THE MILLET	millet	8.911	the millet or sorghum	Noun	Agriculture and vegetation	0.29	0.87	0.95	42	-
+853	SPLIT	THE SORGHUM	sorghum	8.911	the millet or sorghum	Noun	Agriculture and vegetation	0.29	0.87	0.95	42	-
+854	KEPT	THE YAM	yam	8.912	the yam	Noun	Agriculture and vegetation	0.30	0.85	0.80	24	-
+855	SPLIT	THE CASSAVA	cassava	8.92	the cassava/manioc	Noun	Agriculture and vegetation	0.43	0.81	0.92	32	-
+856	SPLIT	THE MANIOC	manioc	8.92	the cassava/manioc	Noun	Agriculture and vegetation	0.43	0.81	0.92	32	-
+857	KEPT	THE GOURD	gourd	8.93	the gourd	Noun	Agriculture and vegetation	0.26	0.80	0.94	37	-
+858	SPLIT	THE PUMPKIN	pumpkin	8.931	the pumpkin or squash	Noun	Agriculture and vegetation	0.40	0.81	0.92	45	-
+859	SPLIT	THE SQUASH	squash	8.931	the pumpkin or squash	Noun	Agriculture and vegetation	0.40	0.81	0.92	45	-
+860	KEPT	THE BAMBOO	bamboo	8.94	the bamboo	Noun	Agriculture and vegetation	0.36	0.79	0.96	39	-
+861	KEPT	THE SUGAR CANE	sugar cane	8.941	the sugar cane	Noun	Agriculture and vegetation	0.25	0.88	0.85	33	-
+862	KEPT	THE FISH POISON	fish poison	8.96	the fish poison	Noun	Agriculture and vegetation	0.21	0.79	0.84	19	-
+863	KEPT	THE NETTLE	nettle	8.97	the nettle	Noun	Agriculture and vegetation	0.15	0.84	0.88	30	-
+864	KEPT	THE MUSHROOM	mushroom	8.98	the mushroom	Noun	Agriculture and vegetation	0.27	0.88	0.88	46	-
+865	KEPT	THE LARCH	larch	8.991	the larch	Noun	Agriculture and vegetation	0.36	0.87	0.82	11	-
+866	KEPT	THE NEEDLE (OF A TREE)	needle	8.993	the needle(2)	Noun	Agriculture and vegetation	0.13	0.80	0.86	23	-
+867	KEPT	THE CONE	cone	8.996	the cone	Noun	Agriculture and vegetation	0.22	0.78	0.81	28	-
+868	KEPT	THE ALMOND	almond	8.99901	the almond	Noun	Agriculture and vegetation	1.00	0.50	1.00	1	-
+869	KEPT	THE AMOMUM	amomum	8.99902	the amomum	Noun	Agriculture and vegetation	1.00	0.90	1.00	1	-
+870	KEPT	THE ANATTO	anatto	8.99903	the anatto	Noun	Agriculture and vegetation	0.00	0.50	1.00	1	-
+871	KEPT	THE ANDEAN WEED	Andean weed	8.99904	the Andean weed	Noun	Agriculture and vegetation	0.75	1.00	1.00	1	-
+872	KEPT	THE APPLE	apple	8.99905	the apple	Noun	Agriculture and vegetation	0.50	0.95	1.00	2	-
+873	KEPT	THE ASH TREE	ash tree	8.99906	the ash tree	Noun	Agriculture and vegetation	1.00	0.90	1.00	1	-
+874	KEPT	THE BLACK TREE DYE	black tree dye	8.99907	the black tree dye	Noun	Agriculture and vegetation	0.00	0.50	1.00	1	-
+875	KEPT	THE BROCCOLI	broccoli	8.99908	the broccoli	Noun	Agriculture and vegetation	1.00	0.60	1.00	1	-
+876	KEPT	THE BROMELIA	bromelia	8.99909	the bromelia	Noun	Agriculture and vegetation	0.00	0.50	1.00	1	-
+877	KEPT	THE CARROT	carrot	8.9991	the carrot	Noun	Agriculture and vegetation	1.00	1.00	1.00	1	-
+878	KEPT	THE CASHEW	cashew	8.99911	the cashew	Noun	Agriculture and vegetation	0.00	0.50	1.00	1	-
+879	KEPT	THE CHINESE RICE FLOWER	Chinese rice flower	8.99912	the Chinese rice flower	Noun	Agriculture and vegetation	1.00	0.90	1.00	1	-
+880	KEPT	THE CONIFEROUS TREE	coniferous tree	8.99914	the coniferous tree	Noun	Agriculture and vegetation	0.00	1.00	0.50	1	-
+881	KEPT	THE COTTONTREE	cottontree	8.99915	the cottontree	Noun	Agriculture and vegetation	0.00	0.50	1.00	1	-
+882	KEPT	THE CREEPER	creeper	8.99916	the creeper	Noun	Agriculture and vegetation	0.75	1.00	1.00	1	-
+883	KEPT	THE MORTIÑO	mortiño	8.99917	the mortiño	Noun	Agriculture and vegetation	0.75	1.00	1.00	1	-
+884	KEPT	THE DUNG	dung	8.99918	the dung	Noun	Agriculture and vegetation	0.75	0.50	1.00	1	-
+885	KEPT	THE GUAVA	guava	8.99921	the guava	Noun	Agriculture and vegetation	1.00	0.50	1.00	1	-
+886	KEPT	THE JARILLA	jarilla	8.99922	the jarilla	Noun	Agriculture and vegetation	0.50	0.50	1.00	1	-
+887	KEPT	THE JOWAR	jowar	8.99923	the jowar	Noun	Agriculture and vegetation	0.00	0.50	0.50	1	-
+888	KEPT	THE KOHLRABI	kohlrabi	8.99924	the kohlrabi	Noun	Agriculture and vegetation	1.00	0.90	1.00	1	-
+889	KEPT	THE LIANA	liana	8.99925	the liana	Noun	Agriculture and vegetation	0.00	0.50	1.00	1	-
+890	KEPT	THE LIMA BEANS	lima beans	8.99926	the lima beans	Noun	Agriculture and vegetation	1.00	0.80	1.00	1	-
+891	KEPT	THE LUPIN	lupin	8.99927	the lupin	Noun	Agriculture and vegetation	0.00	1.00	1.00	1	-
+892	KEPT	THE MAMUELCHOIQUE	mamuelchoique	8.99929	the mamuelchoique	Noun	Agriculture and vegetation	1.00	0.50	1.00	1	-
+893	KEPT	THE MANGO	mango	8.9993	the mango	Noun	Agriculture and vegetation	1.00	0.90	1.00	1	-
+894	KEPT	THE MANGROVE	mangrove	8.99931	the mangrove	Noun	Agriculture and vegetation	0.00	0.50	1.00	2	-
+895	KEPT	THE MELON	melon	8.99932	the melon	Noun	Agriculture and vegetation	1.00	0.90	1.00	1	-
+896	KEPT	THE MILLET	millet	8.99933	the millet	Noun	Agriculture and vegetation	0.00	0.70	0.70	4	-
+897	KEPT	THE ONION	onion	8.99935	the onion	Noun	Agriculture and vegetation	0.83	0.80	1.00	3	-
+898	KEPT	THE ORANGE	orange	8.99936	the orange	Noun	Agriculture and vegetation	1.00	0.80	1.00	1	-
+899	KEPT	THE PEA	pea	8.99937	the pea	Noun	Agriculture and vegetation	1.00	0.70	1.00	1	-
+900	KEPT	THE PEAR	pear	8.99938	the pear	Noun	Agriculture and vegetation	1.00	1.00	1.00	1	-
+901	KEPT	THE PINEAPPLE	pineapple	8.99939	the pineapple	Noun	Agriculture and vegetation	1.00	0.50	1.00	1	-
+902	KEPT	THE PLUM	plum	8.99941	the plum	Noun	Agriculture and vegetation	1.00	1.00	1.00	1	-
+903	KEPT	THE REED	reed	8.99943	the reed	Noun	Agriculture and vegetation	0.00	0.50	1.00	1	-
+904	KEPT	THE RUBBER TREE	rubber tree	8.99944	the rubber tree	Noun	Agriculture and vegetation	0.00	0.50	1.00	1	-
+905	KEPT	THE SENSITIVE MIMOSA	sensitive mimosa	8.99945	the sensitive mimosa	Noun	Agriculture and vegetation	0.00	1.00	0.50	1	-
+906	KEPT	THE STRAW	straw	8.99946	the straw	Noun	Agriculture and vegetation	0.75	1.00	1.00	1	-
+907	KEPT	THE SUGAR BEET	sugar beet	8.99947	the sugar beet	Noun	Agriculture and vegetation	1.00	1.00	1.00	1	-
+908	KEPT	THE TAR	tar	8.99948	the tar	Noun	Agriculture and vegetation	1.00	0.70	1.00	1	-
+909	KEPT	THE TARO	taro	8.99949	the taro	Noun	Agriculture and vegetation	1.00	1.00	1.00	1	-
+910	KEPT	THE TREE DYE	tree dye	8.9995	the tree dye	Noun	Agriculture and vegetation	0.75	0.50	1.00	1	-
+911	KEPT	THE TURNIP	turnip	8.99952	the turnip	Noun	Agriculture and vegetation	0.67	0.87	1.00	2	-
+912	KEPT	THE VETCH	vetch	8.99953	the vetch	Noun	Agriculture and vegetation	1.00	1.00	1.00	1	-
+913	KEPT	THE WATERMELON	watermelon	8.99954	the watermelon	Noun	Agriculture and vegetation	1.00	0.90	1.00	1	-
+914	KEPT	THE WHIP	whip	8.99955	the whip	Noun	Agriculture and vegetation	0.88	0.95	1.00	2	-
+915	KEPT	THE WILD MAIZE	wild maize	8.99956	the wild maize	Noun	Agriculture and vegetation	0.00	1.00	0.50	1	-
+916	KEPT	THE WILLOW	willow	8.99957	the willow	Noun	Agriculture and vegetation	1.00	0.70	1.00	2	-
+917	KEPT	THE WOODY SHRUB	woody shrub	8.99958	the woody shrub	Noun	Agriculture and vegetation	0.75	1.00	1.00	1	-
+918	KEPT	THE YERBA MATE	yerba mate	8.99959	the yerba mate	Noun	Agriculture and vegetation	0.75	0.50	1.00	1	-
+919	KEPT	TO GROW (TRANSITIVE)	grow	8.9996	to grow(2)	Verb	Agriculture and vegetation	1.00	0.90	1.00	1	-
+920	KEPT	TO PICK	pick	8.99961	to pick	Verb	Agriculture and vegetation	0.00	0.50	1.00	1	-
+921	KEPT	TO RAISE	raise	8.99962	to raise	Verb	Agriculture and vegetation	1.00	0.90	1.00	1	-
+922	KEPT	TO DO	do	9.11	to do	Verb	Basic actions and technology	0.03	0.90	0.94	42	-
+923	KEPT	TO MAKE	make	9.111	to make	Verb	Basic actions and technology	0.08	0.87	0.90	47	-
+924	KEPT	THE WORK	work	9.12	the work	Noun	Basic actions and technology	0.36	0.85	0.91	48	-
+925	KEPT	TO BEND	bend	9.14	to bend	Verb	Basic actions and technology	0.12	0.80	0.85	60	-
+926	KEPT	TO FOLD	fold	9.15	to fold	Verb	Basic actions and technology	0.10	0.80	0.86	51	-
+927	KEPT	TO TIE	tie	9.16	to tie	Verb	Basic actions and technology	0.12	0.87	0.95	61	-
+928	KEPT	TO UNTIE	untie	9.161	to untie	Verb	Basic actions and technology	0.08	0.83	0.78	44	-
+929	KEPT	THE CHAIN	chain	9.18	the chain	Noun	Basic actions and technology	0.56	0.76	0.92	46	-
+930	KEPT	THE ROPE	rope	9.19	the rope	Noun	Basic actions and technology	0.15	0.87	0.99	52	-
+931	KEPT	THE KNOT	knot	9.192	the knot	Noun	Basic actions and technology	0.11	0.79	0.93	47	-
+932	SPLIT	TO STRIKE	strike	9.21	to strike or hit or beat	Verb	Basic actions and technology	0.04	0.81	0.95	72	-
+933	SPLIT	TO HIT	hit	9.21	to strike or hit or beat	Verb	Basic actions and technology	0.04	0.81	0.95	72	-
+934	SPLIT	TO BEAT	beat	9.21	to strike or hit or beat	Verb	Basic actions and technology	0.04	0.81	0.95	72	-
+935	KEPT	TO POUND	pound	9.211	to pound	Verb	Basic actions and technology	0.22	0.84	0.84	47	-
+936	KEPT	TO CUT	cut	9.22	to cut	Verb	Basic actions and technology	0.08	0.79	0.91	64	-
+937	KEPT	TO CUT DOWN	cut down	9.221	to cut down	Verb	Basic actions and technology	0.07	0.82	0.80	40	-
+938	KEPT	TO CHOP	chop	9.222	to chop	Verb	Basic actions and technology	0.05	0.82	0.88	53	-
+939	KEPT	TO STAB	stab	9.223	to stab	Verb	Basic actions and technology	0.10	0.78	0.83	58	-
+940	KEPT	THE KNIFE (FOR PREPARING FOOD)	knife	9.23	the knife(2)	Noun	Basic actions and technology	0.38	0.85	0.94	43	-
+941	SPLIT	THE SCISSORS	scissors	9.24	the scissors or shears	Noun	Basic actions and technology	0.48	0.81	0.88	45	-
+942	SPLIT	THE SHEARS	shears	9.24	the scissors or shears	Noun	Basic actions and technology	0.48	0.81	0.88	45	-
+943	SPLIT	THE AXE	axe	9.25	the axe/ax	Noun	Basic actions and technology	0.35	0.83	0.95	45	-
+944	SPLIT	THE AX	ax	9.25	the axe/ax	Noun	Basic actions and technology	0.35	0.83	0.95	45	-
+945	KEPT	THE ADZE	adze	9.251	the adze	Noun	Basic actions and technology	0.34	0.74	0.87	33	-
+946	KEPT	TO BREAK	break	9.26	to break	Verb	Basic actions and technology	0.07	0.84	0.82	52	-
+947	KEPT	BROKEN	broken	9.261	broken	Adjective	Basic actions and technology	0.09	0.81	0.71	51	-
+948	KEPT	TO SPLIT	split	9.27	to split	Verb	Basic actions and technology	0.14	0.85	0.83	53	-
+949	KEPT	TO TEAR	tear	9.28	to tear	Verb	Basic actions and technology	0.06	0.83	0.88	57	-
+950	KEPT	TO SKIN	skin	9.29	to skin	Verb	Basic actions and technology	0.11	0.79	0.77	49	-
+951	KEPT	TO RUB	rub	9.31	to rub	Verb	Basic actions and technology	0.17	0.87	0.89	54	-
+952	KEPT	TO WIPE	wipe	9.311	to wipe	Verb	Basic actions and technology	0.14	0.81	0.86	43	-
+953	KEPT	TO STRETCH	stretch	9.32	to stretch	Verb	Basic actions and technology	0.09	0.85	0.76	48	-
+954	KEPT	TO PULL	pull	9.33	to pull	Verb	Basic actions and technology	0.14	0.85	0.94	51	-
+955	KEPT	TO SPREAD OUT	spread out	9.34	to spread out	Verb	Basic actions and technology	0.10	0.83	0.81	54	-
+956	KEPT	TO HANG UP	hang up	9.341	to hang up	Verb	Basic actions and technology	0.11	0.82	0.86	51	-
+957	KEPT	TO PRESS	press	9.342	to press	Verb	Basic actions and technology	0.20	0.82	0.86	47	-
+958	KEPT	TO SQUEEZE	squeeze	9.343	to squeeze	Verb	Basic actions and technology	0.18	0.84	0.87	57	-
+959	KEPT	TO POUR	pour	9.35	to pour	Verb	Basic actions and technology	0.13	0.86	0.93	57	-
+960	KEPT	TO WASH	wash	9.36	to wash	Verb	Basic actions and technology	0.10	0.84	0.88	60	-
+961	KEPT	TO SWEEP	sweep	9.37	to sweep	Verb	Basic actions and technology	0.13	0.82	0.87	44	-
+962	KEPT	THE BROOM	broom	9.38	the broom	Noun	Basic actions and technology	0.18	0.83	0.77	41	-
+963	KEPT	THE TOOL	tool	9.422	the tool	Noun	Basic actions and technology	0.35	0.82	0.76	46	-
+964	KEPT	THE CARPENTER	carpenter	9.43	the carpenter	Noun	Basic actions and technology	0.51	0.81	0.76	37	-
+965	KEPT	TO BUILD	build	9.44	to build	Verb	Basic actions and technology	0.20	0.84	0.81	59	-
+966	KEPT	TO BORE	bore	9.46	to bore	Verb	Basic actions and technology	0.15	0.83	0.83	45	-
+967	KEPT	TO HOLLOW OUT	hollow out	9.461	to hollow out	Verb	Basic actions and technology	0.04	0.75	0.76	47	-
+968	KEPT	THE SAW	saw	9.48	the saw	Noun	Basic actions and technology	0.42	0.80	0.89	42	-
+969	KEPT	THE HAMMER	hammer	9.49	the hammer	Noun	Basic actions and technology	0.45	0.77	0.93	52	-
+970	KEPT	THE NAIL	nail	9.5	the nail	Noun	Basic actions and technology	0.41	0.84	0.93	44	-
+971	KEPT	THE GLUE	glue	9.56	the glue	Noun	Basic actions and technology	0.42	0.80	0.93	55	-
+972	KEPT	THE BLACKSMITH	blacksmith	9.6	the blacksmith	Noun	Basic actions and technology	0.29	0.82	0.71	41	-
+973	KEPT	TO FORGE	forge	9.61	to forge	Verb	Basic actions and technology	0.09	0.82	0.73	29	-
+974	KEPT	THE ANVIL	anvil	9.62	the anvil	Noun	Basic actions and technology	0.28	0.77	0.80	29	-
+975	KEPT	TO CAST	cast	9.63	to cast	Verb	Basic actions and technology	0.32	0.89	0.78	28	-
+976	KEPT	THE GOLD	gold	9.64	the gold	Noun	Basic actions and technology	0.57	0.85	0.94	50	-
+977	KEPT	THE SILVER	silver	9.65	the silver	Noun	Basic actions and technology	0.51	0.89	0.90	41	-
+978	KEPT	THE COPPER	copper	9.66	the copper	Noun	Basic actions and technology	0.59	0.87	0.93	41	-
+979	KEPT	THE IRON	iron	9.67	the iron	Noun	Basic actions and technology	0.27	0.80	0.99	40	-
+980	KEPT	THE LEAD	lead	9.68	the lead	Noun	Basic actions and technology	0.53	0.83	0.97	35	-
+981	SPLIT	THE TIN	tin	9.69	the tin or tinplate	Noun	Basic actions and technology	0.58	0.77	0.97	33	-
+982	SPLIT	THE TINPLATE	tinplate	9.69	the tin or tinplate	Noun	Basic actions and technology	0.58	0.77	0.97	33	-
+983	KEPT	THE POTTER	potter	9.71	the potter	Noun	Basic actions and technology	0.17	0.82	0.60	34	-
+984	SPLIT	TO MOULD	mould	9.72	to mould/mold	Verb	Basic actions and technology	0.16	0.84	0.81	34	-
+985	SPLIT	TO MOLD	mold	9.72	to mould/mold	Verb	Basic actions and technology	0.16	0.84	0.81	34	-
+986	KEPT	THE CLAY	clay	9.73	the clay	Noun	Basic actions and technology	0.10	0.84	0.87	42	-
+987	KEPT	THE GLASS	glass	9.74	the glass	Noun	Basic actions and technology	0.62	0.80	0.94	45	-
+988	SPLIT	TO WEAVE	weave	9.75	to weave or plait/braid	Verb	Basic actions and technology	0.08	0.82	0.84	50	-
+989	SPLIT	TO PLAIT/BRAID	plait/braid	9.75	to weave or plait/braid	Verb	Basic actions and technology	0.08	0.82	0.84	50	-
+990	KEPT	THE BASKET	basket	9.76	the basket	Noun	Basic actions and technology	0.42	0.81	0.97	59	-
+991	KEPT	THE MAT	mat	9.77	the mat	Noun	Basic actions and technology	0.29	0.83	0.92	39	-
+992	KEPT	THE RUG	rug	9.771	the rug	Noun	Basic actions and technology	0.67	0.81	0.92	40	-
+993	KEPT	THE NETBAG	netbag	9.78	the netbag	Noun	Basic actions and technology	0.49	0.80	0.88	22	-
+994	KEPT	THE FAN	fan	9.79	the fan	Noun	Basic actions and technology	0.26	0.85	0.78	40	-
+995	KEPT	TO FAN	fan	9.791	to fan	Verb	Basic actions and technology	0.13	0.86	0.80	38	-
+996	KEPT	TO CARVE	carve	9.81	to carve	Verb	Basic actions and technology	0.27	0.86	0.90	48	-
+997	KEPT	THE SCULPTOR	sculptor	9.82	the sculptor	Noun	Basic actions and technology	0.22	0.82	0.58	25	-
+998	KEPT	THE STATUE	statue	9.83	the statue	Noun	Basic actions and technology	0.34	0.81	0.80	30	-
+999	KEPT	THE CHISEL	chisel	9.84	the chisel	Noun	Basic actions and technology	0.41	0.78	0.89	38	-
+1000	KEPT	THE BOOMERANG	boomerang	9.87	the boomerang	Noun	Basic actions and technology	0.78	0.77	0.95	15	-
+1001	KEPT	THE PAINT	paint	9.88	the paint	Noun	Basic actions and technology	0.52	0.79	0.90	50	-
+1002	KEPT	TO PAINT	paint	9.89	to paint	Verb	Basic actions and technology	0.33	0.80	0.78	53	-
+1003	KEPT	TO DRAW WATER	draw water	9.9	to draw water	Verb	Basic actions and technology	0.03	0.79	0.75	36	-
+1004	KEPT	THE PEG	peg	9.91	the peg	Noun	Basic actions and technology	0.32	0.85	0.96	39	-
+1005	KEPT	THE TUMPLINE	tumpline	9.92	the tumpline	Noun	Basic actions and technology	0.12	0.79	0.88	9	-
+1006	KEPT	THE WHETSTONE	whetstone	9.93	the whetstone	Noun	Basic actions and technology	0.13	0.81	0.68	37	-
+1007	KEPT	THE BARREL	barrel	9.99901	the barrel	Noun	Basic actions and technology	1.00	0.80	1.00	1	-
+1008	KEPT	THE BASKETRY	basketry	9.99902	the basketry	Noun	Basic actions and technology	0.00	0.50	1.00	1	-
+1009	KEPT	THE BUCKET	bucket	9.99903	the bucket	Noun	Basic actions and technology	1.00	0.70	1.00	1	-
+1010	KEPT	THE CABLE	cable	9.99904	the cable	Noun	Basic actions and technology	1.00	0.80	1.00	1	-
+1011	KEPT	THE CANVAS SHEET	canvas sheet	9.99905	the canvas sheet	Noun	Basic actions and technology	1.00	0.70	1.00	1	-
+1012	KEPT	THE CORRUGATED IRON	corrugated iron	9.99906	the corrugated iron	Noun	Basic actions and technology	1.00	0.70	1.00	1	-
+1013	KEPT	THE DECK	deck	9.99907	the deck	Noun	Basic actions and technology	1.00	0.90	1.00	1	-
+1014	KEPT	THE DRILL	drill	9.99908	the drill	Noun	Basic actions and technology	0.00	0.80	0.50	1	-
+1015	KEPT	THE FILE	file	9.99909	the file	Noun	Basic actions and technology	0.00	0.50	1.00	1	-
+1016	KEPT	THE HARBOUR	harbour	9.9991	the harbour	Noun	Basic actions and technology	1.00	0.80	1.00	1	-
+1017	KEPT	THE HARPOON	harpoon	9.99911	the harpoon	Noun	Basic actions and technology	1.00	0.70	1.00	1	-
+1018	KEPT	THE HEARTHSTONES	hearthstones	9.99912	the hearthstones	Noun	Basic actions and technology	0.00	0.75	0.75	2	-
+1019	KEPT	THE MANIOC SQUEEZER	manioc squeezer	9.99914	the manioc squeezer	Noun	Basic actions and technology	0.00	0.50	1.00	1	-
+1020	KEPT	THE PENCIL	pencil	9.99915	the pencil	Noun	Basic actions and technology	0.67	0.70	0.83	2	-
+1021	KEPT	THE RUST	rust	9.99916	the rust	Noun	Basic actions and technology	1.00	0.90	1.00	1	-
+1022	KEPT	THE SACK	sack	9.99917	the sack	Noun	Basic actions and technology	0.75	1.00	1.00	1	-
+1023	KEPT	THE SCRAPER	scraper	9.99918	the scraper	Noun	Basic actions and technology	1.00	0.90	1.00	1	-
+1024	KEPT	THE SKIN BAG	skin bag	9.9992	the skin bag	Noun	Basic actions and technology	0.00	1.00	1.00	1	-
+1025	KEPT	THE SLAP	slap	9.99921	the slap	Noun	Basic actions and technology	0.00	1.00	1.00	1	-
+1026	KEPT	THE SPUR	spur	9.99922	the spur	Noun	Basic actions and technology	1.00	0.80	1.00	1	-
+1027	SPLIT	THE STRING	string	9.99923	the string or cord	Noun	Basic actions and technology	0.00	1.00	1.00	1	-
+1028	SPLIT	THE CORD	cord	9.99923	the string or cord	Noun	Basic actions and technology	0.00	1.00	1.00	1	-
+1029	KEPT	THE TRAIL	trail	9.99924	the trail	Noun	Basic actions and technology	0.00	0.50	0.75	1	-
+1030	KEPT	THE WELL	well	9.99925	the well	Noun	Basic actions and technology	0.00	1.00	1.00	1	-
+1031	KEPT	THE WHARF	wharf	9.99926	the wharf	Noun	Basic actions and technology	0.00	0.50	1.00	1	-
+1032	KEPT	THE WHEELBARROW	wheelbarrow	9.99927	the wheelbarrow	Noun	Basic actions and technology	1.00	0.70	1.00	1	-
+1033	KEPT	THE BARBECUE	barbecue	9.99928	to barbecue	Noun	Basic actions and technology	0.00	0.50	1.00	1	-
+1034	KEPT	TO CLOSE	close	9.99929	to close	Verb	Basic actions and technology	0.00	1.00	1.00	1	-
+1035	KEPT	TO DRAW	draw	9.9993	to draw	Verb	Basic actions and technology	0.00	0.50	1.00	1	-
+1036	KEPT	TO DWELL	dwell	9.99931	to dwell	Verb	Basic actions and technology	0.00	0.50	1.00	1	-
+1037	KEPT	TO GO AWAY	go away	9.99932	to go away	Verb	Basic actions and technology	1.00	0.90	1.00	1	-
+1038	KEPT	TO MUDDLE	muddle	9.99933	to muddle	Verb	Basic actions and technology	1.00	0.80	1.00	1	-
+1039	KEPT	TO PREPARE	prepare	9.99934	to prepare	Verb	Basic actions and technology	1.00	0.90	0.75	1	-
+1040	KEPT	TO SMEAR	smear	9.99936	to smear	Verb	Basic actions and technology	0.00	1.00	1.00	1	-
+1041	KEPT	TO SUPPORT	support	9.99938	to support	Verb	Basic actions and technology	1.00	1.00	1.00	1	-
+1042	KEPT	TO MOVE	move	10.11	to move	Verb	Motion	0.28	0.81	0.79	48	-
+1043	KEPT	TO TURN	turn	10.12	to turn	Verb	Motion	0.15	0.82	0.76	50	-
+1044	KEPT	TO TURN AROUND	turn around	10.13	to turn around	Verb	Motion	0.10	0.76	0.69	54	-
+1045	KEPT	TO WRAP	wrap	10.14	to wrap	Verb	Motion	0.11	0.83	0.89	50	-
+1046	KEPT	TO ROLL	roll	10.15	to roll	Verb	Motion	0.19	0.81	0.80	49	-
+1047	KEPT	TO DROP	drop	10.16	to drop	Verb	Motion	0.04	0.82	0.68	44	-
+1048	KEPT	TO TWIST	twist	10.17	to twist	Verb	Motion	0.16	0.80	0.88	48	-
+1049	KEPT	TO RISE	rise	10.21	to rise	Verb	Motion	0.01	0.83	0.76	62	-
+1050	SPLIT	TO RAISE	raise	10.22	to raise or lift	Verb	Motion	0.09	0.83	0.79	60	-
+1051	SPLIT	TO LIFT	lift	10.22	to raise or lift	Verb	Motion	0.09	0.83	0.79	60	-
+1052	KEPT	TO FALL	fall	10.23	to fall	Verb	Motion	0.05	0.86	0.90	50	-
+1053	KEPT	TO DRIP	drip	10.24	to drip	Verb	Motion	0.06	0.84	0.81	46	-
+1054	KEPT	TO THROW	throw	10.25	to throw	Verb	Motion	0.04	0.83	0.92	59	-
+1055	KEPT	TO CATCH	catch	10.252	to catch	Verb	Motion	0.16	0.84	0.87	48	-
+1056	KEPT	TO SHAKE	shake	10.26	to shake	Verb	Motion	0.17	0.82	0.85	59	-
+1057	KEPT	TO FLOW	flow	10.32	to flow	Verb	Motion	0.04	0.85	0.84	44	-
+1058	KEPT	TO SINK	sink	10.33	to sink	Verb	Motion	0.10	0.86	0.80	53	-
+1059	KEPT	TO FLOAT	float	10.34	to float	Verb	Motion	0.05	0.80	0.81	43	-
+1060	KEPT	TO SWIM	swim	10.35	to swim	Verb	Motion	0.10	0.83	0.83	46	-
+1061	KEPT	TO DIVE	dive	10.351	to dive	Verb	Motion	0.16	0.76	0.81	43	-
+1062	KEPT	TO SPLASH	splash	10.352	to splash	Verb	Motion	0.12	0.81	0.77	50	-
+1063	KEPT	TO SAIL	sail	10.36	to sail	Verb	Motion	0.15	0.82	0.61	21	-
+1064	KEPT	TO FLY	fly	10.37	to fly	Verb	Motion	0.13	0.85	0.91	44	-
+1065	KEPT	TO BLOW	blow	10.38	to blow	Verb	Motion	0.04	0.81	0.88	46	-
+1066	KEPT	TO CRAWL	crawl	10.41	to crawl	Verb	Motion	0.11	0.82	0.84	43	-
+1067	KEPT	TO KNEEL	kneel	10.412	to kneel	Verb	Motion	0.07	0.83	0.66	41	-
+1068	KEPT	TO CROUCH	crouch	10.413	to crouch	Verb	Motion	0.22	0.77	0.81	45	-
+1069	SPLIT	TO SLIDE	slide	10.42	to slide or slip	Verb	Motion	0.11	0.83	0.88	54	-
+1070	SPLIT	TO SLIP	slip	10.42	to slide or slip	Verb	Motion	0.11	0.83	0.88	54	-
+1071	KEPT	TO JUMP	jump	10.43	to jump	Verb	Motion	0.06	0.83	0.88	56	-
+1072	KEPT	TO KICK	kick	10.431	to kick	Verb	Motion	0.14	0.83	0.85	46	-
+1073	KEPT	TO DANCE	dance	10.44	to dance	Verb	Motion	0.29	0.80	0.84	52	-
+1074	KEPT	TO WALK	walk	10.45	to walk	Verb	Motion	0.09	0.81	0.82	50	-
+1075	KEPT	TO LIMP	limp	10.451	to limp	Verb	Motion	0.17	0.81	0.76	49	-
+1076	KEPT	TO RUN	run	10.46	to run	Verb	Motion	0.02	0.85	0.87	47	-
+1077	KEPT	TO GO	go	10.47	to go	Verb	Motion	0.04	0.92	0.97	48	-
+1078	KEPT	TO GO UP	go up	10.471	to go up	Verb	Motion	0.11	0.83	0.75	45	-
+1079	KEPT	TO CLIMB	climb	10.472	to climb	Verb	Motion	0.05	0.82	0.84	44	-
+1080	KEPT	TO GO DOWN	go down	10.473	to go down	Verb	Motion	0.12	0.79	0.79	48	-
+1081	KEPT	TO GO OUT	go out	10.474	to go out	Verb	Motion	0.03	0.79	0.77	41	-
+1082	KEPT	TO COME	come	10.48	to come	Verb	Motion	0.03	0.88	0.94	45	-
+1083	KEPT	TO COME BACK	come back	10.481	to come back	Verb	Motion	0.18	0.81	0.83	51	-
+1084	KEPT	TO LEAVE	leave	10.49	to leave	Verb	Motion	0.14	0.82	0.80	54	-
+1085	KEPT	TO DISAPPEAR	disappear	10.491	to disappear	Verb	Motion	0.13	0.82	0.81	48	-
+1086	KEPT	TO FLEE	flee	10.51	to flee	Verb	Motion	0.12	0.82	0.83	48	-
+1087	KEPT	TO FOLLOW	follow	10.52	to follow	Verb	Motion	0.07	0.81	0.81	48	-
+1088	KEPT	TO PURSUE	pursue	10.53	to pursue	Verb	Motion	0.16	0.80	0.78	48	-
+1089	KEPT	TO ARRIVE	arrive	10.55	to arrive	Verb	Motion	0.17	0.84	0.84	61	-
+1090	KEPT	TO APPROACH	approach	10.56	to approach	Verb	Motion	0.07	0.84	0.69	50	-
+1091	KEPT	TO ENTER	enter	10.57	to enter	Verb	Motion	0.07	0.83	0.79	45	-
+1092	SPLIT	TO GO	go	10.58	to go or return home	Verb	Motion	0.03	0.77	0.70	41	-
+1093	SPLIT	TO RETURN HOME	return home	10.58	to go or return home	Verb	Motion	0.03	0.77	0.70	41	-
+1094	KEPT	TO CARRY	carry	10.61	to carry	Verb	Motion	0.08	0.87	0.95	53	-
+1095	KEPT	TO CARRY IN HAND	carry in hand	10.612	to carry in hand	Verb	Motion	0.11	0.77	0.79	39	-
+1096	KEPT	TO CARRY ON SHOULDER	carry on shoulder	10.613	to carry on shoulder	Verb	Motion	0.10	0.83	0.82	34	-
+1097	KEPT	TO CARRY ON HEAD	carry on head	10.614	to carry on head	Verb	Motion	0.19	0.79	0.73	25	-
+1098	KEPT	TO CARRY UNDER THE ARM	carry under the arm	10.615	to carry under the arm	Verb	Motion	0.08	0.80	0.75	27	-
+1099	KEPT	TO BRING	bring	10.62	to bring	Verb	Motion	0.02	0.83	0.75	47	-
+1100	KEPT	TO SEND	send	10.63	to send	Verb	Motion	0.13	0.86	0.81	41	-
+1101	KEPT	TO LEAD	lead	10.64	to lead	Verb	Motion	0.16	0.84	0.74	45	-
+1102	KEPT	TO DRIVE	drive	10.65	to drive	Verb	Motion	0.33	0.80	0.80	44	-
+1103	KEPT	TO RIDE	ride	10.66	to ride	Verb	Motion	0.20	0.86	0.82	40	-
+1104	KEPT	TO PUSH	push	10.67	to push	Verb	Motion	0.17	0.84	0.90	49	-
+1105	KEPT	THE ROAD	road	10.71	the road	Noun	Motion	0.31	0.87	0.94	50	-
+1106	KEPT	THE PATH	path	10.72	the path	Noun	Motion	0.21	0.86	0.92	50	-
+1107	KEPT	THE BRIDGE	bridge	10.74	the bridge	Noun	Motion	0.42	0.85	0.95	44	-
+1108	SPLIT	THE CART	cart	10.75	the cart or wagon	Noun	Motion	0.67	0.84	0.94	42	-
+1109	SPLIT	THE WAGON	wagon	10.75	the cart or wagon	Noun	Motion	0.67	0.84	0.94	42	-
+1110	KEPT	THE WHEEL	wheel	10.76	the wheel	Noun	Motion	0.46	0.83	0.91	45	-
+1111	KEPT	THE AXLE	axle	10.77	the axle	Noun	Motion	0.45	0.85	0.94	35	-
+1112	KEPT	THE YOKE	yoke	10.78	the yoke	Noun	Motion	0.41	0.88	0.94	32	-
+1113	SPLIT	THE SLEDGE	sledge	10.79	the sledge/sled	Noun	Motion	0.43	0.84	0.91	22	-
+1114	SPLIT	THE SLED	sled	10.79	the sledge/sled	Noun	Motion	0.43	0.84	0.91	22	-
+1115	KEPT	THE SHIP	ship	10.81	the ship	Noun	Motion	0.61	0.83	0.94	47	-
+1116	KEPT	THE BOAT	boat	10.83	the boat	Noun	Motion	0.54	0.85	0.95	50	-
+1117	KEPT	THE CANOE	canoe	10.831	the canoe	Noun	Motion	0.44	0.84	0.94	38	-
+1118	KEPT	THE OUTRIGGER	outrigger	10.832	the outrigger	Noun	Motion	0.25	0.77	0.82	19	-
+1119	KEPT	THE RAFT	raft	10.84	the raft	Noun	Motion	0.34	0.84	0.88	30	-
+1120	KEPT	THE OAR	oar	10.85	the oar	Noun	Motion	0.46	0.87	0.87	36	-
+1121	KEPT	THE PADDLE	paddle	10.851	the paddle	Noun	Motion	0.28	0.82	0.88	34	-
+1122	KEPT	TO ROW	row	10.852	to row	Verb	Motion	0.21	0.83	0.79	37	-
+1123	KEPT	THE RUDDER	rudder	10.86	the rudder	Noun	Motion	0.46	0.82	0.85	31	-
+1124	KEPT	THE MAST	mast	10.87	the mast	Noun	Motion	0.34	0.81	0.84	28	-
+1125	KEPT	THE SAIL	sail	10.88	the sail	Noun	Motion	0.40	0.88	0.93	25	-
+1126	KEPT	THE ANCHOR	anchor	10.89	the anchor	Noun	Motion	0.58	0.83	0.92	26	-
+1127	KEPT	THE PORT	port	10.91	the port	Noun	Motion	0.43	0.81	0.82	33	-
+1128	KEPT	TO LAND	land	10.92	to land	Verb	Motion	0.19	0.76	0.71	39	-
+1129	KEPT	TO ACCOMPANY	accompany	10.99901	to accompany	Verb	Motion	1.00	0.90	0.50	1	-
+1130	KEPT	TO CARRY ON THE BACK	carry on the back	10.99903	to carry on the back	Verb	Motion	0.00	0.85	1.00	4	-
+1131	KEPT	TO DIP	dip	10.99904	to dip	Verb	Motion	0.00	1.00	1.00	1	-
+1132	KEPT	TO GIVE A RIDE	give a ride	10.99905	to give a ride	Verb	Motion	1.00	0.80	1.00	1	-
+1133	KEPT	PASS	pass	10.99906	to pass	Function word	Motion	0.00	1.00	1.00	1	-
+1134	KEPT	TO STEP	step	10.99907	to step	Verb	Motion	1.00	0.90	1.00	1	-
+1135	KEPT	TO WAIT	wait	10.99908	to wait	Verb	Motion	0.00	1.00	1.00	1	-
+1136	KEPT	TO HAVE	have	11.11	to have	Verb	Possession	0.04	0.83	0.90	38	-
+1137	KEPT	TO OWN	own	11.12	to own	Verb	Possession	0.26	0.82	0.83	35	-
+1138	KEPT	TO TAKE	take	11.13	to take	Verb	Possession	0.10	0.88	0.89	50	-
+1139	KEPT	TO GRASP	grasp	11.14	to grasp	Verb	Possession	0.03	0.86	0.89	50	-
+1140	KEPT	TO HOLD	hold	11.15	to hold	Verb	Possession	0.10	0.85	0.88	47	-
+1141	KEPT	TO GET	get	11.16	to get	Verb	Possession	0.16	0.85	0.86	48	-
+1142	KEPT	TO KEEP	keep	11.17	to keep	Verb	Possession	0.15	0.83	0.81	49	-
+1143	KEPT	THE THING	thing	11.18	the thing	Noun	Possession	0.23	0.80	0.90	45	-
+1144	KEPT	TO GIVE	give	11.21	to give	Verb	Possession	0.09	0.89	0.91	46	-
+1145	KEPT	TO GIVE BACK	give back	11.22	to give back	Verb	Possession	0.09	0.77	0.68	46	-
+1146	KEPT	TO PRESERVE	preserve	11.24	to preserve	Verb	Possession	0.24	0.79	0.74	46	-
+1147	KEPT	TO RESCUE	rescue	11.25	to rescue	Verb	Possession	0.37	0.79	0.81	45	-
+1148	KEPT	TO DESTROY	destroy	11.27	to destroy	Verb	Possession	0.18	0.79	0.78	50	-
+1149	KEPT	TO INJURE	injure	11.28	to injure	Verb	Possession	0.19	0.80	0.74	55	-
+1150	KEPT	TO DAMAGE	damage	11.29	to damage	Verb	Possession	0.25	0.80	0.78	46	-
+1151	KEPT	TO LOOK FOR	look for	11.31	to look for	Verb	Possession	0.08	0.85	0.88	46	-
+1152	KEPT	TO FIND	find	11.32	to find	Verb	Possession	0.09	0.82	0.87	48	-
+1153	KEPT	TO LOSE	lose	11.33	to lose	Verb	Possession	0.04	0.82	0.75	44	-
+1154	KEPT	TO LET GO	let go	11.34	to let go	Verb	Possession	0.12	0.79	0.80	49	-
+1155	KEPT	THE MONEY	money	11.43	the money	Noun	Possession	0.54	0.87	0.97	53	-
+1156	KEPT	THE COIN	coin	11.44	the coin	Noun	Possession	0.53	0.80	0.82	48	-
+1157	KEPT	RICH	rich	11.51	rich	Adjective	Possession	0.28	0.81	0.82	43	-
+1158	KEPT	POOR	poor	11.52	poor	Adjective	Possession	0.45	0.84	0.90	55	-
+1159	KEPT	THE BEGGAR	beggar	11.53	the beggar	Noun	Possession	0.21	0.80	0.71	44	-
+1160	KEPT	STINGY	stingy	11.54	stingy	Adjective	Possession	0.22	0.77	0.89	55	-
+1161	KEPT	TO LEND	lend	11.61	to lend	Verb	Possession	0.08	0.84	0.76	46	-
+1162	KEPT	TO BORROW	borrow	11.62	to borrow	Verb	Possession	0.11	0.85	0.77	48	-
+1163	KEPT	TO OWE	owe	11.63	to owe	Verb	Possession	0.19	0.79	0.76	36	-
+1164	KEPT	THE DEBT	debt	11.64	the debt	Noun	Possession	0.31	0.83	0.89	42	-
+1165	KEPT	TO PAY	pay	11.65	to pay	Verb	Possession	0.30	0.83	0.84	44	-
+1166	KEPT	THE BILL	bill	11.66	the bill	Noun	Possession	0.63	0.85	0.85	37	-
+1167	KEPT	THE TAX	tax	11.69	the tax	Noun	Possession	0.59	0.81	0.93	42	-
+1168	KEPT	TO HIRE	hire	11.77	to hire	Verb	Possession	0.38	0.81	0.78	38	-
+1169	KEPT	THE WAGES	wages	11.78	the wages	Noun	Possession	0.53	0.81	0.83	50	-
+1170	KEPT	TO EARN	earn	11.79	to earn	Verb	Possession	0.19	0.85	0.74	44	-
+1171	KEPT	TO BUY	buy	11.81	to buy	Verb	Possession	0.15	0.87	0.87	46	-
+1172	KEPT	TO SELL	sell	11.82	to sell	Verb	Possession	0.17	0.86	0.86	43	-
+1173	SPLIT	TO TRADE	trade	11.83	to trade or barter	Verb	Possession	0.26	0.87	0.75	55	-
+1174	SPLIT	TO BARTER	barter	11.83	to trade or barter	Verb	Possession	0.26	0.87	0.75	55	-
+1175	KEPT	THE MERCHANT	merchant	11.84	the merchant	Noun	Possession	0.33	0.85	0.65	49	-
+1176	KEPT	THE MARKET	market	11.85	the market	Noun	Possession	0.67	0.83	0.93	44	-
+1177	SPLIT	THE SHOP	shop	11.86	the shop/store	Noun	Possession	0.70	0.80	0.92	50	-
+1178	SPLIT	THE STORE	store	11.86	the shop/store	Noun	Possession	0.70	0.80	0.92	50	-
+1179	KEPT	THE PRICE	price	11.87	the price	Noun	Possession	0.43	0.80	0.88	42	-
+1180	KEPT	EXPENSIVE	expensive	11.88	expensive	Adjective	Possession	0.30	0.81	0.79	42	-
+1181	KEPT	CHEAP	cheap	11.89	cheap	Adjective	Possession	0.43	0.82	0.81	44	-
+1182	KEPT	TO SHARE	share	11.91	to share	Verb	Possession	0.13	0.81	0.81	43	-
+1183	KEPT	TO WEIGH	weigh	11.92	to weigh	Verb	Possession	0.39	0.82	0.80	37	-
+1184	KEPT	FOR FREE	for free	11.99901	for free	Adverb	Possession	1.00	1.00	0.75	1	-
+1185	KEPT	THE CARD	card	11.99902	the card	Noun	Possession	1.00	0.80	1.00	1	-
+1186	KEPT	THE GIFT	gift	11.99903	the gift	Noun	Possession	1.00	0.50	1.00	1	-
+1187	KEPT	THE PROPERTY	property	11.99904	the property	Noun	Possession	1.00	1.00	1.00	1	-
+1188	KEPT	THE STRING INSTRUMENT	string instrument	11.99905	the string instrument	Noun	Possession	1.00	0.90	1.00	1	-
+1189	KEPT	TO BE WORTH	be worth	11.99906	to be worth	Verb	Possession	0.00	1.00	1.00	1	-
+1190	KEPT	THE RECEIVE	receive	11.99907	to receive	Noun	Possession	1.00	0.50	1.00	1	-
+1191	KEPT	AFTER	after	12.01	after	Function word	Spatial relations	0.08	0.83	0.82	46	-
+1192	KEPT	BEHIND	behind	12.011	behind	Function word	Spatial relations	0.02	0.77	0.79	48	-
+1193	KEPT	IN	in	12.012	in	Function word	Spatial relations	0.05	0.86	0.94	41	-
+1194	KEPT	AT	at	12.013	at	Function word	Spatial relations	0.05	0.89	1.00	44	-
+1195	KEPT	BESIDE	beside	12.02	beside	Function word	Spatial relations	0.07	0.81	0.78	46	-
+1196	KEPT	DOWN	down	12.03	down	Function word	Spatial relations	0.05	0.84	0.77	44	-
+1197	KEPT	BEFORE	before	12.04	before	Function word	Spatial relations	0.10	0.83	0.82	42	-
+1198	KEPT	IN FRONT OF	in front of	12.041	in front of	Function word	Spatial relations	0.06	0.80	0.72	48	-
+1199	KEPT	INSIDE	inside	12.05	inside	Function word	Spatial relations	0.08	0.81	0.78	49	-
+1200	KEPT	OUTSIDE	outside	12.06	outside	Function word	Spatial relations	0.05	0.81	0.80	44	-
+1201	KEPT	UNDER	under	12.07	under	Function word	Spatial relations	0.03	0.79	0.81	48	-
+1202	KEPT	UP	up	12.08	up	Function word	Spatial relations	0.00	0.84	0.78	44	-
+1203	KEPT	ABOVE	above	12.081	above	Function word	Spatial relations	0.03	0.81	0.82	46	-
+1204	KEPT	THE PLACE	place	12.11	the place	Noun	Spatial relations	0.25	0.85	0.96	50	-
+1205	KEPT	TO PUT	put	12.12	to put	Verb	Spatial relations	0.06	0.82	0.86	58	-
+1206	KEPT	TO SIT	sit	12.13	to sit	Verb	Spatial relations	0.09	0.85	0.89	44	-
+1207	SPLIT	TO LIE DOWN	lie down	12.14	to lie down	Verb	Spatial relations	0.02	0.86	0.84	51	-
+1208	KEPT	TO STAND	stand	12.15	to stand	Verb	Spatial relations	0.02	0.84	0.89	44	-
+1209	KEPT	TO REMAIN	remain	12.16	to remain	Verb	Spatial relations	0.14	0.84	0.92	51	-
+1210	KEPT	THE REMAINS	remains	12.17	the remains	Noun	Spatial relations	0.23	0.81	0.77	49	-
+1211	KEPT	TO GATHER	gather	12.21	to gather	Verb	Spatial relations	0.14	0.80	0.86	57	-
+1212	KEPT	TO PICK UP	pick up	12.212	to pick up	Verb	Spatial relations	0.10	0.82	0.80	48	-
+1213	KEPT	TO PILE UP	pile up	12.213	to pile up	Verb	Spatial relations	0.17	0.78	0.74	44	-
+1214	KEPT	TO JOIN	join	12.22	to join	Verb	Spatial relations	0.17	0.86	0.79	46	-
+1215	KEPT	TO SEPARATE	separate	12.23	to separate	Verb	Spatial relations	0.18	0.78	0.82	56	-
+1216	KEPT	TO DIVIDE	divide	12.232	to divide	Verb	Spatial relations	0.19	0.84	0.84	43	-
+1217	KEPT	TO OPEN	open	12.24	to open	Verb	Spatial relations	0.10	0.84	0.86	51	-
+1218	KEPT	TO SHUT	shut	12.25	to shut	Verb	Spatial relations	0.18	0.84	0.85	48	-
+1219	KEPT	TO COVER	cover	12.26	to cover	Verb	Spatial relations	0.09	0.85	0.85	44	-
+1220	KEPT	TO HIDE	hide	12.27	to hide	Verb	Spatial relations	0.07	0.87	0.91	45	-
+1221	KEPT	HIGH	high	12.31	high	Adjective	Spatial relations	0.12	0.84	0.84	43	-
+1222	KEPT	LOW	low	12.32	low	Adjective	Spatial relations	0.10	0.82	0.85	44	-
+1223	KEPT	THE TOP	top	12.33	the top	Noun	Spatial relations	0.26	0.84	0.92	54	-
+1224	KEPT	THE BOTTOM	bottom	12.34	the bottom	Noun	Spatial relations	0.09	0.82	0.93	47	-
+1225	KEPT	THE END (SPATIAL)	end	12.35	the end(1)	Noun	Spatial relations	0.10	0.84	0.89	42	-
+1226	KEPT	POINTED	pointed	12.352	pointed	Adjective	Spatial relations	0.15	0.81	0.80	45	-
+1227	KEPT	THE EDGE	edge	12.353	the edge	Noun	Spatial relations	0.13	0.88	0.96	53	-
+1228	KEPT	THE SIDE	side	12.36	the side	Noun	Spatial relations	0.14	0.79	0.92	53	-
+1229	KEPT	THE MIDDLE	middle	12.37	the middle	Noun	Spatial relations	0.15	0.86	0.87	49	-
+1230	KEPT	RIGHT (SIDE)	right	12.41	right(1)	Adjective	Spatial relations	0.04	0.84	0.87	43	-
+1231	KEPT	LEFT	left	12.42	left	Adjective	Spatial relations	0.15	0.81	0.91	46	-
+1232	KEPT	NEAR	near	12.43	near	Adverb	Spatial relations	0.12	0.80	0.90	44	-
+1233	KEPT	FAR	far	12.44	far	Adverb	Spatial relations	0.06	0.82	0.95	41	-
+1234	KEPT	THE EAST	east	12.45	the east	Noun	Spatial relations	0.23	0.80	0.79	46	-
+1235	KEPT	THE WEST	west	12.46	the west	Noun	Spatial relations	0.24	0.77	0.79	45	-
+1236	KEPT	THE NORTH	north	12.47	the north	Noun	Spatial relations	0.20	0.78	0.80	42	-
+1237	KEPT	THE SOUTH	south	12.48	the south	Noun	Spatial relations	0.26	0.80	0.82	43	-
+1238	KEPT	TO GROW	grow	12.53	to grow	Verb	Spatial relations	0.04	0.83	0.85	51	-
+1239	KEPT	TO MEASURE	measure	12.54	to measure	Verb	Spatial relations	0.20	0.80	0.84	43	-
+1240	KEPT	THE FATHOM	fathom	12.541	the fathom	Noun	Spatial relations	0.17	0.85	0.96	24	-
+1241	KEPT	BIG	big	12.55	big	Adjective	Spatial relations	0.11	0.88	0.98	45	-
+1242	KEPT	SMALL	small	12.56	small	Adjective	Spatial relations	0.09	0.85	0.97	60	-
+1243	KEPT	LONG	long	12.57	long	Adjective	Spatial relations	0.04	0.89	0.90	49	-
+1244	KEPT	TALL	tall	12.58	tall	Adjective	Spatial relations	0.08	0.87	0.84	55	-
+1245	KEPT	SHORT	short	12.59	short	Adjective	Spatial relations	0.10	0.75	0.85	52	-
+1246	KEPT	WIDE	wide	12.61	wide	Adjective	Spatial relations	0.04	0.83	0.89	52	-
+1247	KEPT	NARROW	narrow	12.62	narrow	Adjective	Spatial relations	0.09	0.79	0.84	51	-
+1248	KEPT	THICK	thick	12.63	thick	Adjective	Spatial relations	0.05	0.86	0.91	52	-
+1249	KEPT	THIN	thin	12.65	thin	Adjective	Spatial relations	0.13	0.89	0.90	53	-
+1250	KEPT	DEEP	deep	12.67	deep	Adjective	Spatial relations	0.15	0.83	0.90	46	-
+1251	KEPT	SHALLOW	shallow	12.68	shallow	Adjective	Spatial relations	0.10	0.80	0.82	40	-
+1252	KEPT	FLAT	flat	12.71	flat	Adjective	Spatial relations	0.29	0.83	0.88	51	-
+1253	KEPT	STRAIGHT	straight	12.73	straight	Adjective	Spatial relations	0.13	0.80	0.87	45	-
+1254	KEPT	CROOKED	crooked	12.74	crooked	Adjective	Spatial relations	0.10	0.86	0.85	65	-
+1255	KEPT	THE HOOK	hook	12.75	the hook	Noun	Spatial relations	0.22	0.81	0.89	46	-
+1256	KEPT	THE CORNER	corner	12.76	the corner	Noun	Spatial relations	0.20	0.82	0.96	52	-
+1257	KEPT	THE CROSS	cross	12.77	the cross	Noun	Spatial relations	0.50	0.78	0.87	40	-
+1258	KEPT	THE SQUARE	square	12.78	the square	Noun	Spatial relations	0.45	0.76	0.77	38	-
+1259	KEPT	ROUND	round	12.81	round	Adjective	Spatial relations	0.18	0.87	0.86	49	-
+1260	KEPT	THE CIRCLE	circle	12.82	the circle	Noun	Spatial relations	0.25	0.82	0.91	47	-
+1261	KEPT	THE BALL	ball	12.83	the ball	Noun	Spatial relations	0.57	0.80	0.97	55	-
+1262	KEPT	THE LINE	line	12.84	the line	Noun	Spatial relations	0.47	0.86	0.99	48	-
+1263	KEPT	THE HOLE	hole	12.85	the hole	Noun	Spatial relations	0.10	0.82	0.94	58	-
+1264	KEPT	SIMILAR	similar	12.92	similar	Adjective	Spatial relations	0.17	0.77	0.83	57	-
+1265	KEPT	TO CHANGE	change	12.93	to change	Verb	Spatial relations	0.27	0.85	0.83	49	-
+1266	KEPT	APART	apart	12.99901	apart	Function word	Spatial relations	1.00	0.90	1.00	1	-
+1267	KEPT	BACK	back	12.99902	back	Adverb	Spatial relations	0.00	1.00	0.75	1	-
+1268	KEPT	ZERO	zero	13	zero	Function word	Quantity	0.72	0.80	0.95	34	-
+1269	KEPT	ONE	one	13.01	one	Function word	Quantity	0.13	0.88	0.97	49	-
+1270	KEPT	TWO	two	13.02	two	Function word	Quantity	0.23	0.88	0.98	46	-
+1271	KEPT	THREE	three	13.03	three	Function word	Quantity	0.22	0.89	0.98	45	-
+1272	KEPT	FOUR	four	13.04	four	Function word	Quantity	0.21	0.86	0.96	46	-
+1273	KEPT	FIVE	five	13.05	five	Function word	Quantity	0.23	0.86	0.95	46	-
+1274	KEPT	SIX	six	13.06	six	Function word	Quantity	0.26	0.86	0.98	43	-
+1275	KEPT	SEVEN	seven	13.07	seven	Function word	Quantity	0.29	0.88	0.98	45	-
+1276	KEPT	EIGHT	eight	13.08	eight	Function word	Quantity	0.26	0.85	0.95	43	-
+1277	KEPT	NINE	nine	13.09	nine	Function word	Quantity	0.29	0.86	0.97	44	-
+1278	KEPT	TEN	ten	13.1	ten	Function word	Quantity	0.28	0.87	0.95	44	-
+1279	KEPT	ELEVEN	eleven	13.101	eleven	Function word	Quantity	0.23	0.79	0.68	41	-
+1280	KEPT	TWELVE	twelve	13.102	twelve	Function word	Quantity	0.23	0.78	0.67	41	-
+1281	KEPT	FIFTEEN	fifteen	13.103	fifteen	Function word	Quantity	0.18	0.77	0.62	41	-
+1282	KEPT	TWENTY	twenty	13.104	twenty	Function word	Quantity	0.23	0.82	0.76	41	-
+1283	KEPT	A HUNDRED	a hundred	13.105	a hundred	Function word	Quantity	0.42	0.84	0.91	44	-
+1284	KEPT	A THOUSAND	a thousand	13.106	a thousand	Function word	Quantity	0.58	0.83	0.95	43	-
+1285	KEPT	TO COUNT	count	13.107	to count	Verb	Quantity	0.23	0.84	0.85	41	-
+1286	KEPT	ALL	all	13.14	all	Function word	Quantity	0.19	0.86	0.90	58	-
+1287	KEPT	MANY	many	13.15	many	Function word	Quantity	0.14	0.81	0.93	59	-
+1288	KEPT	MORE	more	13.16	more	Function word	Quantity	0.23	0.80	0.85	45	-
+1289	KEPT	FEW	few	13.17	few	Function word	Quantity	0.09	0.80	0.86	47	-
+1290	KEPT	ENOUGH	enough	13.18	enough	Function word	Quantity	0.21	0.80	0.87	49	-
+1291	KEPT	SOME	some	13.181	some	Function word	Quantity	0.10	0.77	0.83	49	-
+1292	KEPT	THE CROWD	crowd	13.19	the crowd	Noun	Quantity	0.29	0.82	0.78	52	-
+1293	KEPT	FULL	full	13.21	full	Adjective	Quantity	0.11	0.87	0.88	49	-
+1294	KEPT	EMPTY	empty	13.22	empty	Adjective	Quantity	0.14	0.82	0.89	48	-
+1295	KEPT	THE PART	part	13.23	the part	Noun	Quantity	0.24	0.85	0.84	52	-
+1296	KEPT	THE PIECE	piece	13.231	the piece	Noun	Quantity	0.16	0.86	0.81	50	-
+1297	KEPT	THE HALF	half	13.24	the half	Noun	Quantity	0.16	0.87	0.84	47	-
+1298	KEPT	ONLY	only	13.33	only	Function word	Quantity	0.17	0.81	0.87	56	-
+1299	KEPT	ALONE	alone	13.331	alone	Adjective	Quantity	0.10	0.80	0.77	46	-
+1300	KEPT	FIRST	first	13.34	first	Function word	Quantity	0.12	0.84	0.74	52	-
+1301	KEPT	LAST	last	13.35	last	Function word	Quantity	0.11	0.76	0.70	45	-
+1302	KEPT	SECOND	second	13.36	second	Function word	Quantity	0.08	0.83	0.61	39	-
+1303	KEPT	THE PAIR	pair	13.37	the pair	Noun	Quantity	0.36	0.86	0.90	46	-
+1304	SPLIT	TWICE	twice	13.38	twice/two times	Function word	Quantity	0.11	0.78	0.56	43	-
+1305	SPLIT	TWO TIMES	two times	13.38	twice/two times	Function word	Quantity	0.11	0.78	0.56	43	-
+1306	KEPT	THIRD	third	13.42	third	Function word	Quantity	0.08	0.81	0.59	36	-
+1307	KEPT	THREE TIMES	three times	13.44	three times	Function word	Quantity	0.09	0.78	0.54	39	-
+1308	KEPT	A LITTLE	a little	13.99901	a little	Function word	Quantity	0.88	0.97	1.00	3	-
+1309	KEPT	BY	by	13.99902	by	Function word	Quantity	1.00	1.00	1.00	1	-
+1310	SPLIT	EACH	each	13.99903	each or every	Function word	Quantity	1.00	1.00	0.88	2	-
+1311	SPLIT	EVERY	every	13.99903	each or every	Function word	Quantity	1.00	1.00	0.88	2	-
+1312	KEPT	THE CENTIGRAM	centigram	13.99904	the centigram	Noun	Quantity	1.00	0.60	0.50	1	-
+1313	KEPT	THE YARD	yard	13.99905	the yard	Noun	Quantity	1.00	0.60	1.00	1	-
+1314	KEPT	THIRTY	thirty	13.99906	thirty	Function word	Quantity	1.00	1.00	1.00	1	-
+1315	KEPT	TO FILL	fill	13.99907	to fill	Verb	Quantity	0.00	1.00	1.00	1	-
+1316	KEPT	SUBSTITUTE	substitute	13.99908	to substitute	Function word	Quantity	1.00	1.00	1.00	1	-
+1317	KEPT	THE TIME	time	14.11	the time	Noun	Time	0.54	0.83	0.96	62	-
+1318	KEPT	THE AGE	age	14.12	the age	Noun	Time	0.45	0.82	0.87	41	-
+1319	KEPT	NEW	new	14.13	new	Adjective	Time	0.08	0.85	0.92	44	-
+1320	KEPT	YOUNG	young	14.14	young	Adjective	Time	0.16	0.83	0.87	51	-
+1321	KEPT	OLD	old	14.15	old	Adjective	Time	0.10	0.84	0.92	64	-
+1322	KEPT	EARLY	early	14.16	early	Function word	Time	0.17	0.80	0.87	45	-
+1323	KEPT	LATE	late	14.17	late	Function word	Time	0.13	0.83	0.83	45	-
+1324	KEPT	NOW	now	14.18	now	Function word	Time	0.10	0.83	0.87	49	-
+1325	KEPT	IMMEDIATELY	immediately	14.19	immediately	Function word	Time	0.23	0.76	0.77	60	-
+1326	KEPT	FAST	fast	14.21	fast	Adverb	Time	0.11	0.82	0.92	59	-
+1327	KEPT	SLOW	slow	14.22	slow	Adverb	Time	0.08	0.83	0.88	49	-
+1328	KEPT	TO HURRY	hurry	14.23	to hurry	Verb	Time	0.19	0.81	0.81	55	-
+1329	KEPT	TO BE LATE	be late	14.24	to be late	Verb	Time	0.17	0.78	0.70	45	-
+1330	KEPT	TO BEGIN	begin	14.25	to begin	Verb	Time	0.13	0.78	0.86	50	-
+1331	KEPT	THE BEGINNING	beginning	14.251	the beginning	Noun	Time	0.22	0.78	0.72	49	-
+1332	KEPT	TO LAST	last	14.252	to last	Verb	Time	0.18	0.82	0.78	38	-
+1333	KEPT	THE END (TEMPORAL)	end	14.26	the end(2)	Noun	Time	0.13	0.84	0.74	47	-
+1334	KEPT	TO FINISH	finish	14.27	to finish	Verb	Time	0.22	0.80	0.79	59	-
+1335	KEPT	TO CEASE	cease	14.28	to cease	Verb	Time	0.14	0.82	0.78	53	-
+1336	KEPT	READY	ready	14.29	ready	Adjective	Time	0.32	0.84	0.84	52	-
+1337	KEPT	ALWAYS	always	14.31	always	Function word	Time	0.29	0.78	0.80	55	-
+1338	KEPT	OFTEN	often	14.32	often	Function word	Time	0.15	0.81	0.79	57	-
+1339	KEPT	SOMETIMES	sometimes	14.33	sometimes	Function word	Time	0.06	0.77	0.64	52	-
+1340	KEPT	SOON	soon	14.331	soon	Function word	Time	0.06	0.78	0.80	44	-
+1341	KEPT	FOR A LONG TIME	for a long time	14.332	for a long time	Function word	Time	0.08	0.82	0.78	39	-
+1342	KEPT	NEVER	never	14.34	never	Function word	Time	0.15	0.77	0.70	52	-
+1343	KEPT	AGAIN	again	14.35	again	Function word	Time	0.11	0.80	0.84	55	-
+1344	KEPT	THE DAY (OPPOSED TO NIGHT)	day	14.41	the day(1)	Noun	Time	0.14	0.89	0.91	44	-
+1345	KEPT	THE DAY (UNIT OF 24 OURS)	day	14.411	the day(2)	Noun	Time	0.19	0.90	0.91	42	-
+1346	KEPT	THE NIGHT	night	14.42	the night	Noun	Time	0.07	0.90	0.93	46	-
+1347	KEPT	THE DAWN	dawn	14.43	the dawn	Noun	Time	0.33	0.80	0.76	56	-
+1348	KEPT	THE MORNING	morning	14.44	the morning	Noun	Time	0.14	0.81	0.83	41	-
+1349	KEPT	THE MIDDAY	midday	14.45	the midday	Noun	Time	0.10	0.79	0.64	47	-
+1350	KEPT	THE AFTERNOON	afternoon	14.451	the afternoon	Noun	Time	0.16	0.84	0.74	40	-
+1351	KEPT	THE EVENING	evening	14.46	the evening	Noun	Time	0.13	0.83	0.88	45	-
+1352	KEPT	TODAY	today	14.47	today	Function word	Time	0.05	0.84	0.78	47	-
+1353	KEPT	TOMORROW	tomorrow	14.48	tomorrow	Function word	Time	0.06	0.82	0.89	42	-
+1354	KEPT	DAY AFTER TOMORROW	day after tomorrow	14.481	the day after tomorrow	Function word	Time	0.01	0.78	0.66	40	-
+1355	KEPT	YESTERDAY	yesterday	14.49	yesterday	Function word	Time	0.04	0.87	0.92	42	-
+1356	KEPT	DAY BEFORE YESTERDAY	day before yesterday	14.491	the day before yesterday	Function word	Time	0.02	0.80	0.62	41	-
+1357	KEPT	THE HOUR	hour	14.51	the hour	Noun	Time	0.76	0.81	0.93	46	-
+1358	KEPT	THE CLOCK	clock	14.53	the clock	Noun	Time	0.74	0.82	0.93	42	-
+1359	KEPT	THE WEEK	week	14.61	the week	Noun	Time	0.63	0.79	0.93	48	-
+1360	KEPT	THE SUNDAY	Sunday	14.62	Sunday	Noun	Time	0.49	0.83	0.76	42	-
+1361	KEPT	THE MONDAY	Monday	14.63	Monday	Noun	Time	0.54	0.81	0.78	41	-
+1362	KEPT	THE TUESDAY	Tuesday	14.64	Tuesday	Noun	Time	0.53	0.83	0.79	40	-
+1363	KEPT	THE WEDNESDAY	Wednesday	14.65	Wednesday	Noun	Time	0.54	0.82	0.76	41	-
+1364	KEPT	THE THURSDAY	Thursday	14.66	Thursday	Noun	Time	0.61	0.82	0.81	40	-
+1365	KEPT	THE FRIDAY	Friday	14.67	Friday	Noun	Time	0.57	0.81	0.83	41	-
+1366	KEPT	THE SATURDAY	Saturday	14.68	Saturday	Noun	Time	0.66	0.83	0.84	42	-
+1367	KEPT	THE MONTH	month	14.71	the month	Noun	Time	0.19	0.88	0.97	42	-
+1368	KEPT	THE YEAR	year	14.73	the year	Noun	Time	0.19	0.89	0.97	46	-
+1369	KEPT	THE WINTER	winter	14.74	the winter	Noun	Time	0.09	0.83	0.83	40	-
+1370	KEPT	THE SPRING (SEASON)	spring	14.75	the spring(2)	Noun	Time	0.16	0.81	0.77	37	-
+1371	KEPT	THE SUMMER	summer	14.76	the summer	Noun	Time	0.13	0.85	0.84	38	-
+1372	SPLIT	THE AUTUMN	autumn	14.77	the autumn/fall	Noun	Time	0.16	0.82	0.81	36	-
+1373	SPLIT	THE FALL	fall	14.77	the autumn/fall	Noun	Time	0.16	0.82	0.81	36	-
+1374	KEPT	THE SEASON	season	14.78	the season	Noun	Time	0.38	0.75	0.83	43	-
+1375	KEPT	THE CHINESE NEW YEAR	Chinese New Year	14.99901	Chinese New Year	Noun	Time	1.00	0.90	1.00	1	-
+1376	KEPT	LONG AGO	long ago	14.99902	long ago	Adverb	Time	0.00	1.00	1.00	1	-
+1377	KEPT	THE NEW YEAR	New Year	14.99903	New Year	Noun	Time	1.00	0.90	1.00	1	-
+1378	KEPT	THE PERIOD	period	14.99905	the period	Noun	Time	1.00	0.80	1.00	1	-
+1379	KEPT	THE TIME (REOCCURRING OCCASION ON WHICH SOMETHING HAPPENS)	time	14.99906	the time(2)	Noun	Time	1.00	1.00	1.00	1	-
+1380	KEPT	TO SMELL (INTRANSITIVE)	smell	15.21	to smell(1)	Verb	Sense perception	0.11	0.81	0.72	40	-
+1381	KEPT	TO SNIFF	sniff	15.212	to sniff	Verb	Sense perception	0.11	0.84	0.77	45	-
+1382	KEPT	TO SMELL (TRANSITIVE)	smell	15.22	to smell(2)	Verb	Sense perception	0.10	0.79	0.75	44	-
+1383	KEPT	FRAGRANT	fragrant	15.25	fragrant	Adjective	Sense perception	0.10	0.82	0.69	48	-
+1384	KEPT	STINKING	stinking	15.26	stinking	Adjective	Sense perception	0.02	0.82	0.72	44	-
+1385	KEPT	TO TASTE	taste	15.31	to taste	Verb	Sense perception	0.24	0.78	0.74	43	-
+1386	KEPT	SWEET	sweet	15.35	sweet	Adjective	Sense perception	0.09	0.85	0.89	46	-
+1387	KEPT	SALTY	salty	15.36	salty	Adjective	Sense perception	0.06	0.84	0.77	40	-
+1388	KEPT	BITTER	bitter	15.37	bitter	Adjective	Sense perception	0.03	0.87	0.89	42	-
+1389	KEPT	SOUR	sour	15.38	sour	Adjective	Sense perception	0.06	0.81	0.89	49	-
+1390	KEPT	BRACKISH	brackish	15.39	brackish	Adjective	Sense perception	0.18	0.77	0.70	25	-
+1391	KEPT	TO HEAR	hear	15.41	to hear	Verb	Sense perception	0.05	0.82	0.89	46	-
+1392	KEPT	TO LISTEN	listen	15.42	to listen	Verb	Sense perception	0.03	0.86	0.78	42	-
+1393	SPLIT	THE SOUND	sound	15.44	the sound or noise	Noun	Sense perception	0.19	0.80	0.90	61	-
+1394	SPLIT	THE NOISE	noise	15.44	the sound or noise	Noun	Sense perception	0.19	0.80	0.90	61	-
+1395	KEPT	LOUD	loud	15.45	loud	Adjective	Sense perception	0.05	0.81	0.76	46	-
+1396	KEPT	QUIET	quiet	15.46	quiet	Adjective	Sense perception	0.16	0.75	0.89	52	-
+1397	KEPT	TO SEE	see	15.51	to see	Verb	Sense perception	0.08	0.85	0.90	49	-
+1398	KEPT	TO LOOK	look	15.52	to look	Verb	Sense perception	0.09	0.80	0.94	55	-
+1399	KEPT	TO SHOW	show	15.55	to show	Verb	Sense perception	0.06	0.81	0.72	49	-
+1400	KEPT	TO SHINE	shine	15.56	to shine	Verb	Sense perception	0.10	0.81	0.77	55	-
+1401	KEPT	BRIGHT	bright	15.57	bright	Adjective	Sense perception	0.05	0.81	0.82	43	-
+1402	SPLIT	THE COLOUR	colour	15.61	the colour/color	Noun	Sense perception	0.60	0.76	0.94	45	-
+1403	SPLIT	THE COLOR	color	15.61	the colour/color	Noun	Sense perception	0.60	0.76	0.94	45	-
+1404	KEPT	LIGHT (AS OPPOSED TO DARK)	light	15.62	light(2)	Adjective	Sense perception	0.13	0.81	0.81	37	-
+1405	KEPT	DARK	dark	15.63	dark	Adjective	Sense perception	0.10	0.90	0.87	43	-
+1406	KEPT	WHITE	white	15.64	white	Adjective	Sense perception	0.16	0.85	0.92	46	-
+1407	KEPT	BLACK	black	15.65	black	Adjective	Sense perception	0.05	0.87	0.90	43	-
+1408	KEPT	RED	red	15.66	red	Adjective	Sense perception	0.07	0.85	0.90	43	-
+1409	KEPT	BLUE	blue	15.67	blue	Adjective	Sense perception	0.24	0.81	0.88	50	-
+1410	KEPT	GREEN	green	15.68	green	Adjective	Sense perception	0.17	0.78	0.83	48	-
+1411	KEPT	YELLOW	yellow	15.69	yellow	Adjective	Sense perception	0.15	0.85	0.88	45	-
+1412	KEPT	TO TOUCH	touch	15.71	to touch	Verb	Sense perception	0.10	0.78	0.84	49	-
+1413	KEPT	TO PINCH	pinch	15.712	to pinch	Verb	Sense perception	0.13	0.82	0.86	48	-
+1414	KEPT	TO FEEL	feel	15.72	to feel	Verb	Sense perception	0.12	0.81	0.86	44	-
+1415	KEPT	HARD	hard	15.74	hard	Adjective	Sense perception	0.08	0.86	0.90	43	-
+1416	KEPT	SOFT	soft	15.75	soft	Adjective	Sense perception	0.08	0.85	0.89	54	-
+1417	KEPT	ROUGH (HAVING AN UNEVEN SURFACE)	rough	15.76	rough(1)	Adjective	Sense perception	0.15	0.82	0.83	50	-
+1418	KEPT	SMOOTH	smooth	15.77	smooth	Adjective	Sense perception	0.17	0.83	0.87	52	-
+1419	KEPT	SHARP	sharp	15.78	sharp	Adjective	Sense perception	0.10	0.82	0.84	48	-
+1420	SPLIT	BLUNT	blunt	15.79	blunt	Adjective	Sense perception	0.12	0.77	0.87	40	dull
+1421	KEPT	HEAVY	heavy	15.81	heavy	Adjective	Sense perception	0.09	0.88	0.90	43	-
+1422	KEPT	LIGHT (IN WEIGHT)	light	15.82	light(1)	Adjective	Sense perception	0.08	0.84	0.85	44	-
+1423	KEPT	WET	wet	15.83	wet	Adjective	Sense perception	0.10	0.85	0.88	52	-
+1424	KEPT	DRY	dry	15.84	dry	Adjective	Sense perception	0.08	0.84	0.84	46	-
+1425	KEPT	HOT	hot	15.85	hot	Adjective	Sense perception	0.09	0.85	0.85	47	-
+1426	KEPT	WARM	warm	15.851	warm	Adjective	Sense perception	0.09	0.83	0.87	43	-
+1427	KEPT	COLD	cold	15.86	cold	Adjective	Sense perception	0.10	0.87	0.88	51	-
+1428	KEPT	CLEAN	clean	15.87	clean	Adjective	Sense perception	0.14	0.81	0.83	42	-
+1429	KEPT	DIRTY	dirty	15.88	dirty	Adjective	Sense perception	0.13	0.80	0.82	55	-
+1430	KEPT	WRINKLED	wrinkled	15.89	wrinkled	Adjective	Sense perception	0.08	0.76	0.66	47	-
+1431	KEPT	BROWN	brown	15.99901	brown	Adjective	Sense perception	0.75	0.70	1.00	2	-
+1432	KEPT	GREY	grey	15.99902	grey	Adjective	Sense perception	1.00	0.90	1.00	2	-
+1433	KEPT	ORANGE	orange	15.99903	orange	Adjective	Sense perception	1.00	0.90	0.75	1	-
+1434	KEPT	PINK	pink	15.99904	pink	Adjective	Sense perception	1.00	0.90	0.75	1	-
+1435	KEPT	THE TRACE	trace	15.99905	the trace	Noun	Sense perception	0.00	0.50	0.75	1	-
+1436	KEPT	VIOLET	violet	15.99906	violet	Adjective	Sense perception	1.00	0.90	1.00	1	-
+1437	SPLIT	THE SOUL	soul	16.11	the soul or spirit	Noun	Emotions and values	0.40	0.89	0.94	57	-
+1438	SPLIT	THE SPIRIT	spirit	16.11	the soul or spirit	Noun	Emotions and values	0.40	0.89	0.94	57	-
+1439	SPLIT	SURPRISED	surprised	16.15	surprised or astonished	Adjective	Emotions and values	0.23	0.76	0.75	52	-
+1440	SPLIT	ASTONISHED	astonished	16.15	surprised or astonished	Adjective	Emotions and values	0.23	0.76	0.75	52	-
+1441	KEPT	THE GOOD LUCK	good luck	16.18	the good luck	Noun	Emotions and values	0.44	0.78	0.80	50	-
+1442	KEPT	THE BAD LUCK	bad luck	16.19	the bad luck	Noun	Emotions and values	0.23	0.80	0.69	42	-
+1443	KEPT	HAPPY	happy	16.23	happy	Adjective	Emotions and values	0.18	0.78	0.80	57	-
+1444	KEPT	TO LAUGH	laugh	16.25	to laugh	Verb	Emotions and values	0.06	0.84	0.91	46	-
+1445	KEPT	TO SMILE	smile	16.251	to smile	Verb	Emotions and values	0.14	0.78	0.73	43	-
+1446	KEPT	TO PLAY	play	16.26	to play	Verb	Emotions and values	0.04	0.83	0.85	42	-
+1447	KEPT	TO LOVE	love	16.27	to love	Verb	Emotions and values	0.15	0.84	0.84	49	-
+1448	KEPT	TO KISS	kiss	16.29	to kiss	Verb	Emotions and values	0.20	0.83	0.82	49	-
+1449	KEPT	TO EMBRACE	embrace	16.3	to embrace	Verb	Emotions and values	0.18	0.82	0.83	48	-
+1450	KEPT	THE PAIN	pain	16.31	the pain	Noun	Emotions and values	0.12	0.81	0.78	59	-
+1451	KEPT	THE GRIEF	grief	16.32	the grief	Noun	Emotions and values	0.34	0.78	0.79	53	-
+1452	KEPT	THE ANXIETY	anxiety	16.33	the anxiety	Noun	Emotions and values	0.15	0.77	0.70	52	-
+1453	SPLIT	TO REGRET	regret	16.34	to regret or be sorry	Verb	Emotions and values	0.27	0.82	0.74	49	-
+1454	SPLIT	TO BE SORRY	be sorry	16.34	to regret or be sorry	Verb	Emotions and values	0.27	0.82	0.74	49	-
+1455	KEPT	THE PITY	pity	16.35	the pity	Noun	Emotions and values	0.30	0.79	0.76	47	-
+1456	SPLIT	TO CRY	cry	16.37	to cry	Verb	Emotions and values	0.13	0.87	0.92	48	weep
+1457	KEPT	THE TEAR	tear	16.38	the tear	Noun	Emotions and values	0.06	0.81	0.82	40	-
+1458	KEPT	TO GROAN	groan	16.39	to groan	Verb	Emotions and values	0.14	0.80	0.85	45	-
+1459	KEPT	TO HATE	hate	16.41	to hate	Verb	Emotions and values	0.11	0.82	0.78	44	-
+1460	KEPT	THE ANGER	anger	16.42	the anger	Noun	Emotions and values	0.22	0.83	0.82	55	-
+1461	SPLIT	THE ENVY	envy	16.44	the envy or jealousy	Noun	Emotions and values	0.29	0.82	0.80	59	-
+1462	SPLIT	THE JEALOUSY	jealousy	16.44	the envy or jealousy	Noun	Emotions and values	0.29	0.82	0.80	59	-
+1463	KEPT	THE SHAME	shame	16.45	the shame	Noun	Emotions and values	0.12	0.82	0.84	45	-
+1464	KEPT	PROUD	proud	16.48	proud	Adjective	Emotions and values	0.33	0.81	0.76	44	-
+1465	KEPT	TO DARE	dare	16.51	to dare	Verb	Emotions and values	0.24	0.83	0.80	34	-
+1466	KEPT	BRAVE	brave	16.52	brave	Adjective	Emotions and values	0.28	0.75	0.76	58	-
+1467	KEPT	THE FEAR	fear	16.53	the fear	Noun	Emotions and values	0.12	0.89	0.85	49	-
+1468	KEPT	THE DANGER	danger	16.54	the danger	Noun	Emotions and values	0.36	0.81	0.85	40	-
+1469	KEPT	TO WANT	want	16.62	to want	Verb	Emotions and values	0.12	0.83	0.83	62	-
+1470	KEPT	TO CHOOSE	choose	16.622	to choose	Verb	Emotions and values	0.14	0.83	0.84	44	-
+1471	KEPT	TO HOPE	hope	16.63	to hope	Verb	Emotions and values	0.24	0.80	0.75	40	-
+1472	KEPT	FAITHFUL	faithful	16.65	faithful	Adjective	Emotions and values	0.21	0.77	0.63	35	-
+1473	KEPT	TRUE	true	16.66	true	Adjective	Emotions and values	0.23	0.84	0.87	51	-
+1474	KEPT	TO LIE (TELL LIES)	lie	16.67	to lie(2)	Verb	Emotions and values	0.09	0.77	0.77	55	-
+1475	KEPT	THE DECEIT	deceit	16.68	the deceit	Noun	Emotions and values	0.17	0.75	0.74	44	-
+1476	KEPT	TO FORGIVE	forgive	16.69	to forgive	Verb	Emotions and values	0.34	0.83	0.71	44	-
+1477	KEPT	GOOD	good	16.71	good	Adjective	Emotions and values	0.11	0.87	0.95	52	-
+1478	KEPT	BAD	bad	16.72	bad	Adjective	Emotions and values	0.09	0.80	0.86	55	-
+1479	KEPT	RIGHT (BE CORRECT)	right	16.73	right(2)	Adjective	Emotions and values	0.27	0.87	0.88	50	-
+1480	KEPT	WRONG	wrong	16.74	wrong	Adjective	Emotions and values	0.16	0.83	0.71	47	-
+1481	KEPT	THE FAULT	fault	16.76	the fault	Noun	Emotions and values	0.42	0.79	0.89	45	-
+1482	KEPT	THE MISTAKE	mistake	16.77	the mistake	Noun	Emotions and values	0.19	0.80	0.74	44	-
+1483	KEPT	THE BLAME	blame	16.78	the blame	Noun	Emotions and values	0.32	0.79	0.79	40	-
+1484	KEPT	THE PRAISE	praise	16.79	the praise	Noun	Emotions and values	0.20	0.79	0.74	43	-
+1485	KEPT	BEAUTIFUL	beautiful	16.81	beautiful	Adjective	Emotions and values	0.22	0.85	0.84	55	-
+1486	KEPT	UGLY	ugly	16.82	ugly	Adjective	Emotions and values	0.25	0.81	0.76	51	-
+1487	KEPT	GREEDY	greedy	16.83	greedy	Adjective	Emotions and values	0.29	0.79	0.80	46	-
+1488	KEPT	CLEVER	clever	16.84	clever	Adjective	Emotions and values	0.23	0.85	0.84	59	-
+1489	KEPT	BETTER	better	16.99901	better	Adjective	Emotions and values	0.50	1.00	0.75	1	-
+1490	KEPT	IN VAIN	in vain	16.99902	in vain	Adverb	Emotions and values	1.00	1.00	0.75	1	-
+1491	KEPT	THANK YOU!	thank you!	16.99903	thank you!	Function word	Emotions and values	1.00	0.80	1.00	1	-
+1492	KEPT	THE EVIL	evil	16.99904	the evil	Noun	Emotions and values	0.00	0.50	1.00	1	-
+1493	KEPT	THE MOOD	mood	16.99905	the mood	Noun	Emotions and values	1.00	1.00	1.00	1	-
+1494	KEPT	THE TROUBLE	trouble	16.99906	the trouble	Noun	Emotions and values	1.00	1.00	1.00	1	-
+1495	KEPT	TO BE ASHAMED	be ashamed	16.99907	to be ashamed	Verb	Emotions and values	0.00	1.00	0.50	1	ashamed
+1496	KEPT	TO BE GLAD	be glad	16.99908	to be glad	Verb	Emotions and values	0.25	1.00	1.00	1	-
+1497	KEPT	TO COMPLAIN	complain	16.99909	to complain	Verb	Emotions and values	1.00	0.90	0.50	1	-
+1498	KEPT	TO ENTHUSE	enthuse	16.9991	to enthuse	Verb	Emotions and values	1.00	0.80	0.50	1	-
+1499	KEPT	TO LOOK FORWARD	look forward	16.99911	to look forward	Verb	Emotions and values	0.25	1.00	1.00	1	-
+1500	KEPT	TO PRAISE	praise	16.99912	to praise	Verb	Emotions and values	0.00	1.00	1.00	1	-
+1501	KEPT	VOLUPTUOUS	voluptuous	16.99913	voluptuous	Adjective	Emotions and values	0.00	1.00	0.75	1	-
+1502	KEPT	WILD	wild	16.99914	wild	Adjective	Emotions and values	1.00	0.90	1.00	1	-
+1503	KEPT	WORSE	worse	16.99915	worse	Adjective	Emotions and values	1.00	1.00	0.75	1	-
+1504	KEPT	THE MIND	mind	17.11	the mind	Noun	Cognition	0.28	0.88	0.90	43	-
+1505	KEPT	TO THINK (REFLECT)	think	17.13	to think(1)	Verb	Cognition	0.23	0.77	0.78	54	-
+1506	KEPT	TO THINK (BE OF THE OPINION)	think	17.14	to think(2)	Verb	Cognition	0.21	0.82	0.84	44	-
+1507	KEPT	TO BELIEVE	believe	17.15	to believe	Verb	Cognition	0.37	0.83	0.89	43	-
+1508	KEPT	TO UNDERSTAND	understand	17.16	to understand	Verb	Cognition	0.29	0.85	0.76	50	-
+1509	KEPT	TO KNOW	know	17.17	to know	Verb	Cognition	0.07	0.87	0.91	49	-
+1510	KEPT	TO GUESS	guess	17.171	to guess	Verb	Cognition	0.22	0.81	0.79	45	-
+1511	KEPT	TO IMITATE	imitate	17.172	to imitate	Verb	Cognition	0.23	0.80	0.79	43	-
+1512	KEPT	TO SEEM	seem	17.18	to seem	Verb	Cognition	0.10	0.81	0.75	45	-
+1513	KEPT	THE IDEA	idea	17.19	the idea	Noun	Cognition	0.49	0.80	0.79	49	-
+1514	KEPT	WISE	wise	17.21	wise	Adjective	Cognition	0.22	0.83	0.73	49	-
+1515	KEPT	STUPID	stupid	17.22	stupid	Adjective	Cognition	0.36	0.81	0.93	62	-
+1516	KEPT	MAD	mad	17.23	mad	Adjective	Cognition	0.16	0.81	0.82	61	-
+1517	KEPT	TO LEARN	learn	17.24	to learn	Verb	Cognition	0.26	0.82	0.85	50	-
+1518	KEPT	TO STUDY	study	17.242	to study	Verb	Cognition	0.42	0.74	0.75	43	-
+1519	KEPT	TO TEACH	teach	17.25	to teach	Verb	Cognition	0.10	0.84	0.77	51	-
+1520	KEPT	THE PUPIL	pupil	17.26	the pupil	Noun	Cognition	0.34	0.76	0.66	46	-
+1521	KEPT	THE TEACHER	teacher	17.27	the teacher	Noun	Cognition	0.51	0.80	0.78	60	-
+1522	KEPT	THE SCHOOL	school	17.28	the school	Noun	Cognition	0.69	0.80	0.84	50	-
+1523	KEPT	TO REMEMBER	remember	17.31	to remember	Verb	Cognition	0.14	0.77	0.66	50	-
+1524	KEPT	TO FORGET	forget	17.32	to forget	Verb	Cognition	0.07	0.87	0.77	44	-
+1525	KEPT	CLEAR	clear	17.34	clear	Adjective	Cognition	0.30	0.80	0.83	46	-
+1526	KEPT	OBSCURE	obscure	17.35	obscure	Adjective	Cognition	0.14	0.76	0.68	36	-
+1527	KEPT	SECRET	secret	17.36	secret	Adjective	Cognition	0.37	0.80	0.77	41	-
+1528	KEPT	CERTAIN	certain	17.37	certain	Adjective	Cognition	0.33	0.82	0.84	43	-
+1529	KEPT	TO EXPLAIN	explain	17.38	to explain	Verb	Cognition	0.28	0.82	0.74	41	-
+1530	KEPT	THE INTENTION	intention	17.41	the intention	Noun	Cognition	0.45	0.79	0.78	49	-
+1531	KEPT	THE CAUSE	cause	17.42	the cause	Noun	Cognition	0.49	0.79	0.87	43	-
+1532	KEPT	THE DOUBT	doubt	17.43	the doubt	Noun	Cognition	0.44	0.79	0.77	37	-
+1533	KEPT	TO SUSPECT	suspect	17.44	to suspect	Verb	Cognition	0.39	0.76	0.76	40	-
+1534	KEPT	TO BETRAY	betray	17.441	to betray	Verb	Cognition	0.36	0.80	0.70	42	-
+1535	SPLIT	THE NEED	need	17.45	the need or necessity	Noun	Cognition	0.29	0.84	0.77	48	-
+1536	SPLIT	THE NECESSITY	necessity	17.45	the need or necessity	Noun	Cognition	0.29	0.84	0.77	48	-
+1537	KEPT	EASY	easy	17.46	easy	Adjective	Cognition	0.37	0.84	0.80	46	-
+1538	KEPT	DIFFICULT	difficult	17.47	difficult	Adjective	Cognition	0.25	0.84	0.85	48	-
+1539	KEPT	TO TRY	try	17.48	to try	Verb	Cognition	0.35	0.81	0.83	51	-
+1540	KEPT	THE MANNER	manner	17.49	the manner	Noun	Cognition	0.35	0.83	0.95	48	-
+1541	KEPT	AND	and	17.51	and	Function word	Cognition	0.19	0.86	0.99	50	-
+1542	KEPT	BECAUSE	because	17.52	because	Function word	Cognition	0.35	0.80	0.84	53	-
+1543	KEPT	IF	if	17.53	if	Function word	Cognition	0.16	0.81	0.94	52	-
+1544	KEPT	OR	or	17.54	or	Function word	Cognition	0.39	0.79	0.97	49	-
+1545	KEPT	YES	yes	17.55	yes	Function word	Cognition	0.14	0.83	0.98	47	-
+1546	KEPT	NO	no	17.56	no	Function word	Cognition	0.16	0.84	0.96	51	-
+1547	KEPT	HOW?	how	17.61	how?	Function word	Cognition	0.02	0.80	0.81	47	-
+1548	KEPT	HOW MANY?	how many	17.62	how many?	Function word	Cognition	0.06	0.87	0.81	46	-
+1549	KEPT	HOW MUCH?	how much	17.63	how much?	Function word	Cognition	0.05	0.83	0.80	46	-
+1550	KEPT	WHAT?	what	17.64	what?	Function word	Cognition	0.03	0.82	0.94	45	-
+1551	KEPT	WHEN?	when	17.65	when?	Function word	Cognition	0.05	0.82	0.82	48	-
+1552	KEPT	WHERE?	where	17.66	where?	Function word	Cognition	0.00	0.80	0.83	49	-
+1553	KEPT	WHICH?	which	17.67	which?	Function word	Cognition	0.01	0.82	0.83	46	-
+1554	KEPT	WHO?	who	17.68	who?	Function word	Cognition	0.03	0.85	0.92	49	-
+1555	KEPT	WHY?	why	17.69	why?	Function word	Cognition	0.01	0.78	0.70	51	-
+1556	KEPT	ON PURPOSE	on purpose	17.99901	on purpose	Adverb	Cognition	1.00	1.00	0.75	1	-
+1557	KEPT	THE POSSIBILITY	possibility	17.99902	the possibility	Noun	Cognition	0.88	0.95	0.88	2	-
+1558	KEPT	SAME	same	17.99903	the same	Function word	Cognition	0.00	1.00	0.50	1	-
+1559	KEPT	THE SCARCITY	scarcity	17.99904	the scarcity	Noun	Cognition	0.00	0.50	0.50	1	-
+1560	KEPT	THE STATE	state	17.99905	the state	Noun	Cognition	1.00	1.00	1.00	1	-
+1561	KEPT	THE STUDY	study	17.99906	the study	Noun	Cognition	1.00	0.80	1.00	1	-
+1562	KEPT	TO DOUBT	doubt	17.99907	to doubt	Verb	Cognition	0.50	0.50	0.75	2	-
+1563	KEPT	THE VOICE	voice	18.11	the voice	Noun	Speech and language	0.27	0.86	0.97	44	-
+1564	KEPT	TO SING	sing	18.12	to sing	Verb	Speech and language	0.06	0.84	0.81	45	-
+1565	KEPT	TO SHOUT	shout	18.13	to shout	Verb	Speech and language	0.10	0.79	0.87	52	-
+1566	KEPT	TO WHISPER	whisper	18.15	to whisper	Verb	Speech and language	0.16	0.81	0.76	41	-
+1567	KEPT	TO MUMBLE	mumble	18.16	to mumble	Verb	Speech and language	0.09	0.77	0.84	40	-
+1568	KEPT	TO WHISTLE	whistle	18.17	to whistle	Verb	Speech and language	0.14	0.80	0.83	48	-
+1569	KEPT	TO SHRIEK	shriek	18.18	to shriek	Verb	Speech and language	0.18	0.76	0.86	43	-
+1570	KEPT	TO HOWL	howl	18.19	to howl	Verb	Speech and language	0.04	0.85	0.85	40	-
+1571	SPLIT	TO SPEAK	speak	18.21	to speak or talk	Verb	Speech and language	0.09	0.81	0.76	62	-
+1572	SPLIT	TO TALK	talk	18.21	to speak or talk	Verb	Speech and language	0.09	0.81	0.76	62	-
+1573	SPLIT	TO STUTTER	stutter	18.211	to stutter or stammer	Verb	Speech and language	0.13	0.79	0.78	46	-
+1574	SPLIT	TO STAMMER	stammer	18.211	to stutter or stammer	Verb	Speech and language	0.13	0.79	0.78	46	-
+1575	KEPT	TO SAY	say	18.22	to say	Verb	Speech and language	0.03	0.84	0.93	54	-
+1576	KEPT	TO TELL	tell	18.221	to tell	Verb	Speech and language	0.14	0.79	0.77	46	-
+1577	KEPT	THE SPEECH	speech	18.222	the speech	Noun	Speech and language	0.34	0.81	0.75	40	-
+1578	KEPT	TO BE SILENT	be silent	18.23	to be silent	Verb	Speech and language	0.07	0.74	0.74	40	-
+1579	KEPT	THE LANGUAGE	language	18.24	the language	Noun	Speech and language	0.31	0.84	0.87	45	-
+1580	KEPT	THE WORD	word	18.26	the word	Noun	Speech and language	0.25	0.84	0.94	44	-
+1581	KEPT	THE NAME	name	18.28	the name	Noun	Speech and language	0.09	0.88	0.95	44	-
+1582	KEPT	TO ASK (INQUIRE)	ask	18.31	to ask(1)	Verb	Speech and language	0.13	0.83	0.89	45	-
+1583	KEPT	TO ANSWER	answer	18.32	to answer	Verb	Speech and language	0.22	0.85	0.76	56	-
+1584	KEPT	TO ADMIT	admit	18.33	to admit	Verb	Speech and language	0.36	0.82	0.70	43	-
+1585	KEPT	TO DENY	deny	18.34	to deny	Verb	Speech and language	0.37	0.83	0.81	40	-
+1586	KEPT	TO ASK (REQUEST)	ask	18.35	to ask(2)	Verb	Speech and language	0.09	0.84	0.88	46	-
+1587	KEPT	TO PROMISE	promise	18.36	to promise	Verb	Speech and language	0.32	0.82	0.70	41	-
+1588	KEPT	TO REFUSE	refuse	18.37	to refuse	Verb	Speech and language	0.20	0.82	0.74	39	-
+1589	KEPT	TO FORBID	forbid	18.38	to forbid	Verb	Speech and language	0.32	0.79	0.78	42	-
+1590	KEPT	TO SCOLD	scold	18.39	to scold	Verb	Speech and language	0.17	0.84	0.81	56	-
+1591	KEPT	TO CALL (SUMMON)	call	18.41	to call(1)	Verb	Speech and language	0.11	0.82	0.82	46	-
+1592	KEPT	TO CALL (GIVE A NAME)	call	18.42	to call(2)	Verb	Speech and language	0.08	0.80	0.69	50	-
+1593	KEPT	TO ANNOUNCE	announce	18.43	to announce	Verb	Speech and language	0.24	0.80	0.73	45	-
+1594	KEPT	TO THREATEN	threaten	18.44	to threaten	Verb	Speech and language	0.12	0.81	0.75	42	-
+1595	KEPT	TO BOAST	boast	18.45	to boast	Verb	Speech and language	0.08	0.80	0.65	55	-
+1596	KEPT	TO WRITE	write	18.51	to write	Verb	Speech and language	0.29	0.83	0.89	43	-
+1597	KEPT	TO READ	read	18.52	to read	Verb	Speech and language	0.43	0.83	0.87	47	-
+1598	KEPT	THE PAPER	paper	18.56	the paper	Noun	Speech and language	0.72	0.85	1.00	43	-
+1599	KEPT	THE PEN	pen	18.57	the pen	Noun	Speech and language	0.73	0.82	0.90	50	-
+1600	KEPT	THE BOOK	book	18.61	the book	Noun	Speech and language	0.62	0.86	0.98	44	-
+1601	KEPT	THE POET	poet	18.67	the poet	Noun	Speech and language	0.38	0.80	0.71	32	-
+1602	KEPT	THE FLUTE	flute	18.71	the flute	Noun	Speech and language	0.33	0.84	0.95	40	-
+1603	KEPT	THE DRUM	drum	18.72	the drum	Noun	Speech and language	0.39	0.81	0.97	45	-
+1604	SPLIT	THE HORN (INSTRUMENT)	horn	18.73	the horn or trumpet	Noun	Speech and language	0.47	0.79	0.92	45	-
+1605	SPLIT	THE TRUMPET	trumpet	18.73	the horn or trumpet	Noun	Speech and language	0.47	0.79	0.92	45	-
+1606	KEPT	THE RATTLE	rattle	18.74	the rattle	Noun	Speech and language	0.20	0.80	0.86	33	-
+1607	KEPT	THE FAIRY TALE	fairy tale	18.99901	the fairy tale	Noun	Speech and language	1.00	1.00	1.00	1	-
+1608	SPLIT	THE HIEROGLYPH	hieroglyph	18.99902	the hieroglyph or hieroglyphics	Noun	Speech and language	1.00	0.60	1.00	1	-
+1609	SPLIT	THE HIEROGLYPHICS	hieroglyphics	18.99902	the hieroglyph or hieroglyphics	Noun	Speech and language	1.00	0.60	1.00	1	-
+1610	KEPT	THE JOKE	joke	18.99903	the joke	Noun	Speech and language	0.50	0.95	1.00	2	-
+1611	KEPT	THE POEM	poem	18.99904	the poem	Noun	Speech and language	1.00	1.00	1.00	1	-
+1612	SPLIT	THE UPPER CASE	upper case	18.99905	the upper case or capital letter	Noun	Speech and language	1.00	0.60	1.00	1	-
+1613	SPLIT	THE CAPITAL LETTER	capital letter	18.99905	the upper case or capital letter	Noun	Speech and language	1.00	0.60	1.00	1	-
+1614	KEPT	THE VIOLIN	violin	18.99906	the violin	Noun	Speech and language	1.00	0.80	1.00	1	-
+1615	KEPT	THE VIOLIN PLAYER	violin player	18.99907	the violin player	Noun	Speech and language	1.00	0.80	0.75	1	-
+1616	KEPT	TO CHAT	chat	18.99908	to chat	Verb	Speech and language	1.00	0.90	1.00	1	-
+1617	KEPT	TO GREET	greet	18.99909	to greet	Verb	Speech and language	0.67	1.00	0.92	2	-
+1618	KEPT	TO SPELL	spell	18.9991	to spell	Verb	Speech and language	1.00	0.90	1.00	1	-
+1619	KEPT	TO THANK	thank	18.99911	to thank	Verb	Speech and language	0.00	1.00	0.75	1	-
+1620	KEPT	THE ULULATE	ululate	18.99912	to ululate	Noun	Speech and language	0.00	0.50	0.50	1	-
+1621	KEPT	THE COUNTRY	country	19.11	the country	Noun	Social and political relations	0.48	0.83	0.91	41	-
+1622	KEPT	THE NATIVE COUNTRY	native country	19.12	the native country	Noun	Social and political relations	0.17	0.74	0.58	33	-
+1623	KEPT	THE TOWN	town	19.15	the town	Noun	Social and political relations	0.47	0.82	0.90	51	-
+1624	KEPT	THE VILLAGE	village	19.16	the village	Noun	Social and political relations	0.29	0.84	0.89	51	-
+1625	KEPT	THE BOUNDARY	boundary	19.17	the boundary	Noun	Social and political relations	0.43	0.77	0.86	48	-
+1626	KEPT	THE PEOPLE	people	19.21	the people	Noun	Social and political relations	0.38	0.82	0.82	46	-
+1627	KEPT	THE CLAN	clan	19.23	the clan	Noun	Social and political relations	0.45	0.79	0.89	41	-
+1628	KEPT	THE CHIEFTAIN	chieftain	19.24	the chieftain	Noun	Social and political relations	0.34	0.82	0.78	57	-
+1629	SPLIT	THE WALKING STICK	walking stick	19.25	the walking stick	Noun	Social and political relations	0.24	0.81	0.89	48	stick
+1630	SPLIT	TO RULE	rule	19.31	to rule or govern	Verb	Social and political relations	0.38	0.84	0.70	42	-
+1631	SPLIT	TO GOVERN	govern	19.31	to rule or govern	Verb	Social and political relations	0.38	0.84	0.70	42	-
+1632	KEPT	THE KING	king	19.32	the king	Noun	Social and political relations	0.53	0.81	0.93	47	-
+1633	KEPT	THE QUEEN	queen	19.33	the queen	Noun	Social and political relations	0.32	0.81	0.71	33	-
+1634	KEPT	THE NOBLE	noble	19.36	the noble	Noun	Social and political relations	0.38	0.80	0.71	22	-
+1635	KEPT	THE CITIZEN	citizen	19.37	the citizen	Noun	Social and political relations	0.43	0.81	0.70	27	-
+1636	KEPT	THE MASTER	master	19.41	the master	Noun	Social and political relations	0.38	0.88	0.91	40	-
+1637	KEPT	THE SLAVE	slave	19.42	the slave	Noun	Social and political relations	0.38	0.82	0.86	37	-
+1638	KEPT	THE SERVANT	servant	19.43	the servant	Noun	Social and political relations	0.36	0.79	0.79	54	-
+1639	KEPT	THE FREEMAN	freeman	19.44	the freeman	Noun	Social and political relations	0.25	0.75	0.62	31	-
+1640	KEPT	TO LIBERATE	liberate	19.445	to liberate	Verb	Social and political relations	0.20	0.78	0.68	40	-
+1641	SPLIT	TO COMMAND	command	19.45	to command or order	Verb	Social and political relations	0.42	0.81	0.76	49	-
+1642	SPLIT	TO ORDER	order	19.45	to command or order	Verb	Social and political relations	0.42	0.81	0.76	49	-
+1643	KEPT	TO OBEY	obey	19.46	to obey	Verb	Social and political relations	0.11	0.80	0.64	43	-
+1644	KEPT	TO PERMIT	permit	19.47	to permit	Verb	Social and political relations	0.26	0.81	0.73	49	-
+1645	KEPT	THE FRIEND	friend	19.51	the friend	Noun	Social and political relations	0.41	0.81	0.93	64	-
+1646	KEPT	THE ENEMY	enemy	19.52	the enemy	Noun	Social and political relations	0.45	0.83	0.85	47	-
+1647	KEPT	THE NEIGHBOUR	neighbour	19.54	the neighbour	Noun	Social and political relations	0.21	0.81	0.77	40	-
+1648	KEPT	THE STRANGER	stranger	19.55	the stranger	Noun	Social and political relations	0.22	0.78	0.71	46	-
+1649	KEPT	THE GUEST	guest	19.56	the guest	Noun	Social and political relations	0.26	0.86	0.88	40	-
+1650	KEPT	TO INVITE	invite	19.565	to invite	Verb	Social and political relations	0.20	0.80	0.82	46	-
+1651	KEPT	THE HOST	host	19.57	the host	Noun	Social and political relations	0.21	0.73	0.66	33	-
+1652	KEPT	TO HELP	help	19.58	to help	Verb	Social and political relations	0.22	0.81	0.81	47	-
+1653	KEPT	TO PREVENT	prevent	19.59	to prevent	Verb	Social and political relations	0.24	0.78	0.76	51	-
+1654	KEPT	THE CUSTOM	custom	19.61	the custom	Noun	Social and political relations	0.47	0.80	0.84	46	-
+1655	KEPT	THE QUARREL	quarrel	19.62	the quarrel	Noun	Social and political relations	0.18	0.81	0.73	64	-
+1656	KEPT	THE PLOT	plot	19.63	the plot	Noun	Social and political relations	0.33	0.83	0.71	32	-
+1657	KEPT	TO MEET	meet	19.65	to meet	Verb	Social and political relations	0.08	0.77	0.74	59	-
+1658	KEPT	THE PROSTITUTE	prostitute	19.72	the prostitute	Noun	Social and political relations	0.35	0.79	0.80	61	-
+1659	KEPT	THE ARABIA	Arabia	19.99901	Arabia	Noun	Social and political relations	0.50	1.00	1.00	1	-
+1660	KEPT	THE AUSTRALIA	Australia	19.99902	Australia	Noun	Social and political relations	1.00	0.90	1.00	1	-
+1661	KEPT	THE CHINA	China	19.99903	China	Noun	Social and political relations	1.00	0.90	1.00	1	-
+1662	KEPT	THE EGYPT	Egypt	19.99904	Egypt	Noun	Social and political relations	1.00	0.90	1.00	1	-
+1663	KEPT	FREE	free	19.99905	free	Adjective	Social and political relations	1.00	0.90	1.00	1	-
+1664	KEPT	THE GREECE	Greece	19.99906	Greece	Noun	Social and political relations	1.00	0.90	1.00	1	-
+1665	KEPT	THE INDIA	India	19.99907	India	Noun	Social and political relations	1.00	1.00	1.00	1	-
+1666	KEPT	THE MADAGASCAR	Madagascar	19.99908	Madagascar	Noun	Social and political relations	0.75	1.00	1.00	1	-
+1667	KEPT	THE RAROTONGA	Rarotonga	19.99909	Rarotonga	Noun	Social and political relations	1.00	0.90	1.00	1	-
+1668	KEPT	SIR	Sir	19.9991	Sir	Function word	Social and political relations	1.00	0.50	1.00	1	-
+1669	KEPT	THE SPAIN	Spain	19.99911	Spain	Noun	Social and political relations	1.00	0.90	1.00	2	-
+1670	KEPT	THE BRAZILIAN	Brazilian	19.99913	the Brazilian	Noun	Social and political relations	1.00	0.90	1.00	1	-
+1671	KEPT	THE CERTIFICATE	certificate	19.99914	the certificate	Noun	Social and political relations	1.00	1.00	1.00	1	-
+1672	KEPT	THE CHINESE PERSON	Chinese person	19.99915	the Chinese person	Noun	Social and political relations	1.00	0.70	1.00	1	-
+1673	KEPT	THE COMMUNAL LABOUR	communal labour	19.99916	the communal labour	Noun	Social and political relations	0.00	0.50	1.00	1	-
+1674	KEPT	THE EUROPEAN	European	19.99917	the European	Noun	Social and political relations	0.50	0.85	0.75	2	-
+1675	SPLIT	THE CREOLE	Creole	19.99918	the Creole or black person	Noun	Social and political relations	1.00	0.80	1.00	1	-
+1676	SPLIT	THE BLACK PERSON	black person	19.99918	the Creole or black person	Noun	Social and political relations	1.00	0.80	1.00	1	-
+1677	KEPT	THE FOOL	fool	19.9992	the fool	Noun	Social and political relations	1.00	0.90	1.00	1	-
+1678	KEPT	THE FOREMAN	foreman	19.99921	the foreman	Noun	Social and political relations	1.00	0.80	0.50	1	-
+1679	KEPT	THE FRENCH PERSON	French person	19.99922	the French person	Noun	Social and political relations	1.00	0.90	1.00	1	-
+1680	KEPT	THE GOVERNMENT DOCUMENT	government document	19.99923	the government document	Noun	Social and political relations	1.00	0.90	1.00	1	-
+1681	KEPT	THE HERMIT	hermit	19.99924	the hermit	Noun	Social and political relations	1.00	0.90	1.00	1	-
+1682	KEPT	THE HOCKEY	hockey	19.99925	the hockey	Noun	Social and political relations	1.00	0.60	1.00	1	-
+1683	KEPT	THE LAYMAN	layman	19.99926	the layman	Noun	Social and political relations	1.00	0.90	1.00	1	-
+1684	KEPT	THE MIXED-RACE KALI’NA	mixed-race Kali’na	19.99927	the mixed-race Kali’na	Noun	Social and political relations	1.00	0.50	1.00	1	-
+1685	KEPT	THE PARTNER	partner	19.99928	the partner	Noun	Social and political relations	1.00	0.90	1.00	1	-
+1686	KEPT	THE POLICEMAN	policeman	19.9993	the policeman	Noun	Social and political relations	1.00	0.80	1.00	1	-
+1687	KEPT	THE POWER	power	19.99931	the power	Noun	Social and political relations	1.00	1.00	1.00	1	-
+1688	KEPT	THE SETTLEMENT	settlement	19.99932	the settlement	Noun	Social and political relations	0.75	1.00	1.00	1	-
+1689	KEPT	THE SMALL CHANGE	small change	19.99933	the small change	Noun	Social and political relations	1.00	0.90	1.00	1	-
+1690	KEPT	THE SOCIALISM	socialism	19.99934	the socialism	Noun	Social and political relations	1.00	0.80	1.00	1	-
+1691	KEPT	THE SPORT	sport	19.99935	the sport	Noun	Social and political relations	1.00	0.60	1.00	1	-
+1692	KEPT	THE STUDENT	student	19.99936	the student	Noun	Social and political relations	1.00	0.50	1.00	1	-
+1693	SPLIT	THE VOTE	vote	19.99937	the vote or ballot or pole	Noun	Social and political relations	1.00	0.90	1.00	1	-
+1694	SPLIT	THE BALLOT	ballot	19.99937	the vote or ballot or pole	Noun	Social and political relations	1.00	0.90	1.00	1	-
+1695	SPLIT	THE POLE	pole	19.99937	the vote or ballot or pole	Noun	Social and political relations	1.00	0.90	1.00	1	-
+1696	KEPT	TO COMMIT A CRIME	commit a crime	19.99938	to commit a crime	Verb	Social and political relations	1.00	1.00	1.00	1	-
+1697	KEPT	TO QUARREL	quarrel	19.9994	to quarrel	Verb	Social and political relations	1.00	0.50	1.00	2	-
+1698	KEPT	TO RESPECT	respect	19.99941	to respect	Verb	Social and political relations	0.50	0.90	0.75	2	-
+1699	KEPT	TO RETIRE	retire	19.99942	to retire	Verb	Social and political relations	1.00	0.60	1.00	1	-
+1700	KEPT	TO SAY GOODBYE	say goodbye	19.99943	to say goodbye	Verb	Social and political relations	1.00	0.90	1.00	1	-
+1701	KEPT	THE MATE	mate	19.99944	mate	Noun	Social and political relations	1.00	0.90	1.00	1	-
+1702	KEPT	TO FIGHT	fight	20.11	to fight	Verb	Warfare and hunting	0.13	0.82	0.72	60	-
+1703	SPLIT	THE WAR	war	20.13	the war or battle	Noun	Warfare and hunting	0.34	0.79	0.88	60	-
+1704	SPLIT	THE BATTLE	battle	20.13	the war or battle	Noun	Warfare and hunting	0.34	0.79	0.88	60	-
+1705	KEPT	THE PEACE	peace	20.14	the peace	Noun	Warfare and hunting	0.39	0.87	0.80	39	-
+1706	KEPT	THE ARMY	army	20.15	the army	Noun	Warfare and hunting	0.56	0.80	0.85	44	-
+1707	KEPT	THE SOLDIER	soldier	20.17	the soldier	Noun	Warfare and hunting	0.58	0.79	0.87	54	-
+1708	KEPT	THE WEAPONS	weapons	20.21	the weapons	Noun	Warfare and hunting	0.34	0.80	0.79	41	-
+1709	KEPT	THE CLUB	club	20.22	the club	Noun	Warfare and hunting	0.37	0.76	0.95	40	-
+1710	KEPT	THE BATTLE-AXE	battle-axe	20.222	the battle-axe	Noun	Warfare and hunting	0.26	0.82	0.68	18	-
+1711	KEPT	THE SLING	sling	20.23	the sling	Noun	Warfare and hunting	0.31	0.79	0.83	39	-
+1712	KEPT	THE BOW	bow	20.24	the bow	Noun	Warfare and hunting	0.16	0.86	0.91	41	-
+1713	KEPT	THE ARROW	arrow	20.25	the arrow	Noun	Warfare and hunting	0.19	0.82	0.91	42	-
+1714	KEPT	THE SPEAR	spear	20.26	the spear	Noun	Warfare and hunting	0.25	0.78	0.96	43	-
+1715	KEPT	THE SWORD	sword	20.27	the sword	Noun	Warfare and hunting	0.45	0.83	0.94	37	-
+1716	KEPT	THE GUN	gun	20.28	the gun	Noun	Warfare and hunting	0.59	0.83	0.95	51	-
+1717	KEPT	THE ARMOUR	armour	20.31	the armour	Noun	Warfare and hunting	0.37	0.86	0.79	25	-
+1718	KEPT	THE HELMET	helmet	20.33	the helmet	Noun	Warfare and hunting	0.36	0.81	0.87	33	-
+1719	KEPT	THE SHIELD	shield	20.34	the shield	Noun	Warfare and hunting	0.22	0.82	0.92	31	-
+1720	KEPT	THE FORTRESS	fortress	20.35	the fortress	Noun	Warfare and hunting	0.48	0.79	0.83	31	-
+1721	KEPT	THE TOWER	tower	20.36	the tower	Noun	Warfare and hunting	0.50	0.78	0.88	31	-
+1722	KEPT	THE VICTORY	victory	20.41	the victory	Noun	Warfare and hunting	0.33	0.84	0.74	41	-
+1723	KEPT	THE DEFEAT	defeat	20.42	the defeat	Noun	Warfare and hunting	0.22	0.84	0.72	35	-
+1724	KEPT	THE ATTACK	attack	20.43	the attack	Noun	Warfare and hunting	0.33	0.81	0.72	37	-
+1725	KEPT	TO DEFEND	defend	20.44	to defend	Verb	Warfare and hunting	0.19	0.81	0.76	42	-
+1726	KEPT	TO RETREAT	retreat	20.45	to retreat	Verb	Warfare and hunting	0.13	0.83	0.71	41	-
+1727	KEPT	TO SURRENDER	surrender	20.46	to surrender	Verb	Warfare and hunting	0.21	0.85	0.62	36	-
+1728	SPLIT	THE CAPTIVE	captive	20.47	the captive or prisoner	Noun	Warfare and hunting	0.39	0.82	0.70	54	-
+1729	SPLIT	THE PRISONER	prisoner	20.47	the captive or prisoner	Noun	Warfare and hunting	0.39	0.82	0.70	54	-
+1730	KEPT	THE GUARD	guard	20.471	the guard	Noun	Warfare and hunting	0.43	0.76	0.76	48	-
+1731	KEPT	THE BOOTY	booty	20.48	the booty	Noun	Warfare and hunting	0.27	0.82	0.76	31	-
+1732	KEPT	THE AMBUSH	ambush	20.49	the ambush	Noun	Warfare and hunting	0.17	0.77	0.76	32	-
+1733	KEPT	THE FISHERMAN	fisherman	20.51	the fisherman	Noun	Warfare and hunting	0.18	0.76	0.59	42	-
+1734	KEPT	THE FISHHOOK	fishhook	20.52	the fishhook	Noun	Warfare and hunting	0.18	0.81	0.82	42	-
+1735	KEPT	THE FISHING LINE	fishing line	20.53	the fishing line	Noun	Warfare and hunting	0.25	0.74	0.70	41	-
+1736	KEPT	THE FISHNET	fishnet	20.54	the fishnet	Noun	Warfare and hunting	0.26	0.83	0.84	49	-
+1737	KEPT	THE FISH TRAP	fish trap	20.55	the fish trap	Noun	Warfare and hunting	0.23	0.79	0.85	37	-
+1738	KEPT	THE BAIT	bait	20.56	the bait	Noun	Warfare and hunting	0.15	0.80	0.88	37	-
+1739	KEPT	TO HUNT	hunt	20.61	to hunt	Verb	Warfare and hunting	0.10	0.77	0.83	46	-
+1740	KEPT	TO SHOOT	shoot	20.62	to shoot	Verb	Warfare and hunting	0.09	0.81	0.81	58	-
+1741	KEPT	TO MISS	miss	20.63	to miss	Verb	Warfare and hunting	0.16	0.83	0.78	44	-
+1742	KEPT	THE TRAP	trap	20.64	the trap	Noun	Warfare and hunting	0.24	0.84	0.93	52	-
+1743	KEPT	TO TRAP	trap	20.65	to trap	Verb	Warfare and hunting	0.06	0.80	0.75	46	-
+1744	KEPT	THE CUTLASS	cutlass	20.99902	the cutlass	Noun	Warfare and hunting	1.00	0.90	1.00	1	-
+1745	KEPT	THE FORCE	force	20.99903	the force	Noun	Warfare and hunting	1.00	1.00	1.00	1	-
+1746	KEPT	THE GAME ANIMAL	game animal	20.99904	the game animal	Noun	Warfare and hunting	0.00	0.50	1.00	1	-
+1747	KEPT	THE LETTERWOOD BOW	letterwood bow	20.99905	the letterwood bow	Noun	Warfare and hunting	0.00	0.50	1.00	1	-
+1748	KEPT	THE WARSHIP	warship	20.99906	the warship	Noun	Warfare and hunting	1.00	0.90	1.00	1	-
+1749	KEPT	TO ATTACK	attack	20.99907	to attack	Verb	Warfare and hunting	0.00	0.50	0.50	1	-
+1750	KEPT	TO FISH	fish	20.99908	to fish	Verb	Warfare and hunting	0.88	0.90	1.00	2	-
+1751	KEPT	TO WIN	win	20.99909	to win	Verb	Warfare and hunting	1.00	0.90	1.00	1	-
+1752	KEPT	THE LAW	law	21.11	the law	Noun	Law	0.63	0.82	0.92	37	-
+1753	KEPT	THE COURT	court	21.15	the court	Noun	Law	0.55	0.78	0.84	41	-
+1754	KEPT	TO ADJUDICATE	adjudicate	21.16	to adjudicate	Verb	Law	0.31	0.80	0.71	30	-
+1755	KEPT	THE JUDGMENT	judgment	21.17	the judgment	Noun	Law	0.38	0.76	0.69	34	-
+1756	KEPT	THE JUDGE	judge	21.18	the judge	Noun	Law	0.54	0.77	0.79	39	-
+1757	KEPT	THE PLAINTIFF	plaintiff	21.21	the plaintiff	Noun	Law	0.28	0.78	0.59	31	-
+1758	KEPT	THE DEFENDANT	defendant	21.22	the defendant	Noun	Law	0.20	0.74	0.57	36	-
+1759	KEPT	THE WITNESS	witness	21.23	the witness	Noun	Law	0.58	0.81	0.77	36	-
+1760	KEPT	TO SWEAR	swear	21.24	to swear	Verb	Law	0.24	0.81	0.77	38	-
+1761	KEPT	THE OATH	oath	21.25	the oath	Noun	Law	0.22	0.83	0.78	36	-
+1762	KEPT	TO ACCUSE	accuse	21.31	to accuse	Verb	Law	0.36	0.80	0.71	47	-
+1763	KEPT	TO CONDEMN	condemn	21.32	to condemn	Verb	Law	0.47	0.88	0.71	29	-
+1764	KEPT	TO CONVICT	convict	21.33	to convict	Verb	Law	0.21	0.81	0.59	29	-
+1765	KEPT	TO ACQUIT	acquit	21.34	to acquit	Verb	Law	0.19	0.75	0.71	29	-
+1766	KEPT	GUILTY	guilty	21.35	guilty	Adjective	Law	0.36	0.85	0.67	37	-
+1767	KEPT	INNOCENT	innocent	21.36	innocent	Adjective	Law	0.31	0.78	0.62	30	-
+1768	SPLIT	THE PENALTY	penalty	21.37	the penalty or punishment	Noun	Law	0.61	0.84	0.83	47	-
+1769	SPLIT	THE PUNISHMENT	punishment	21.37	the penalty or punishment	Noun	Law	0.61	0.84	0.83	47	-
+1770	KEPT	THE FINE	fine	21.38	the fine	Noun	Law	0.54	0.78	0.85	35	-
+1771	KEPT	THE PRISON	prison	21.39	the prison	Noun	Law	0.51	0.78	0.84	50	-
+1772	KEPT	THE MURDER	murder	21.42	the murder	Noun	Law	0.14	0.81	0.63	44	-
+1773	KEPT	THE ADULTERY	adultery	21.43	the adultery	Noun	Law	0.37	0.86	0.74	35	-
+1774	KEPT	THE RAPE	rape	21.44	the rape	Noun	Law	0.33	0.79	0.66	39	-
+1775	KEPT	THE ARSON	arson	21.46	the arson	Noun	Law	0.13	0.79	0.59	26	-
+1776	KEPT	THE PERJURY	perjury	21.47	the perjury	Noun	Law	0.19	0.75	0.61	27	-
+1777	KEPT	TO STEAL	steal	21.51	to steal	Verb	Law	0.13	0.85	0.86	56	-
+1778	KEPT	THE THIEF	thief	21.52	the thief	Noun	Law	0.17	0.82	0.74	51	-
+1779	KEPT	THE LAWYER	lawyer	21.99901	the lawyer	Noun	Law	1.00	0.80	1.00	1	-
+1780	KEPT	THE VERDICT	verdict	21.99902	the verdict	Noun	Law	0.00	0.50	0.50	1	-
+1781	KEPT	THE RELIGION	religion	22.11	the religion	Noun	Religion and belief	0.65	0.82	0.83	38	-
+1782	KEPT	THE GOD	god	22.12	the god	Noun	Religion and belief	0.37	0.87	0.91	50	-
+1783	KEPT	THE TEMPLE	temple	22.13	the temple	Noun	Religion and belief	0.62	0.85	0.85	41	-
+1784	KEPT	THE CHURCH	church	22.131	the church	Noun	Religion and belief	0.66	0.77	0.83	43	-
+1785	KEPT	THE MOSQUE	mosque	22.132	the mosque	Noun	Religion and belief	0.73	0.90	0.88	25	-
+1786	KEPT	THE ALTAR	altar	22.14	the altar	Noun	Religion and belief	0.69	0.82	0.88	30	-
+1787	KEPT	THE SACRIFICE	sacrifice	22.15	the sacrifice	Noun	Religion and belief	0.36	0.75	0.76	42	-
+1788	KEPT	TO WORSHIP	worship	22.16	to worship	Verb	Religion and belief	0.25	0.76	0.67	48	-
+1789	KEPT	TO PRAY	pray	22.17	to pray	Verb	Religion and belief	0.38	0.81	0.79	49	-
+1790	KEPT	THE PRIEST	priest	22.18	the priest	Noun	Religion and belief	0.62	0.80	0.86	54	-
+1791	KEPT	HOLY	holy	22.19	holy	Adjective	Religion and belief	0.29	0.84	0.77	40	-
+1792	KEPT	TO PREACH	preach	22.22	to preach	Verb	Religion and belief	0.58	0.82	0.79	36	-
+1793	KEPT	TO BLESS	bless	22.23	to bless	Verb	Religion and belief	0.29	0.76	0.74	39	-
+1794	KEPT	TO CURSE	curse	22.24	to curse	Verb	Religion and belief	0.17	0.77	0.77	44	-
+1795	KEPT	TO FAST	fast	22.26	to fast	Verb	Religion and belief	0.30	0.76	0.62	43	-
+1796	KEPT	THE HEAVEN	heaven	22.31	the heaven	Noun	Religion and belief	0.38	0.80	0.77	47	-
+1797	KEPT	THE HELL	hell	22.32	the hell	Noun	Religion and belief	0.49	0.80	0.84	44	-
+1798	KEPT	THE DEMON	demon	22.35	the demon	Noun	Religion and belief	0.44	0.84	0.87	51	-
+1799	KEPT	THE IDOL	idol	22.37	the idol	Noun	Religion and belief	0.38	0.80	0.82	27	-
+1800	KEPT	THE MAGIC	magic	22.42	the magic	Noun	Religion and belief	0.34	0.82	0.77	47	-
+1801	SPLIT	THE SORCERER	sorcerer	22.43	the sorcerer or witch	Noun	Religion and belief	0.23	0.81	0.70	57	-
+1802	SPLIT	THE WITCH	witch	22.43	the sorcerer or witch	Noun	Religion and belief	0.23	0.81	0.70	57	-
+1803	SPLIT	THE FAIRY	fairy	22.44	the fairy or elf	Noun	Religion and belief	0.49	0.84	0.81	40	-
+1804	SPLIT	THE ELF	elf	22.44	the fairy or elf	Noun	Religion and belief	0.49	0.84	0.81	40	-
+1805	KEPT	THE GHOST	ghost	22.45	the ghost	Noun	Religion and belief	0.30	0.81	0.86	57	-
+1806	KEPT	THE OMEN	omen	22.47	the omen	Noun	Religion and belief	0.35	0.84	0.81	34	-
+1807	KEPT	THE CIRCUMCISION	circumcision	22.5	the circumcision	Noun	Religion and belief	0.52	0.81	0.78	27	-
+1808	KEPT	THE INITIATION CEREMONY	initiation ceremony	22.51	the initiation ceremony	Noun	Religion and belief	0.16	0.71	0.68	20	-
+1809	KEPT	THE CHRIST	Christ	22.99901	Christ	Noun	Religion and belief	1.00	0.90	1.00	1	-
+1810	KEPT	THE CHRISTMAS	Christmas	22.99902	Christmas	Noun	Religion and belief	1.00	0.90	1.00	1	-
+1811	KEPT	THE EASTER	Easter	22.99903	Easter	Noun	Religion and belief	1.00	0.90	1.00	1	-
+1812	KEPT	THE BISHOP	bishop	22.99904	the bishop	Noun	Religion and belief	1.00	0.90	1.00	1	-
+1813	KEPT	THE FUNERAL	funeral	22.99905	the funeral	Noun	Religion and belief	0.00	0.50	0.50	1	-
+1814	KEPT	THE HOLIDAY	holiday	22.99906	the holiday	Noun	Religion and belief	1.00	1.00	1.00	1	-
+1815	KEPT	THE HYMN	hymn	22.99907	the hymn	Noun	Religion and belief	1.00	0.90	1.00	1	-
+1816	KEPT	THE LENT	lent	22.99908	the lent	Noun	Religion and belief	0.75	0.90	1.00	1	-
+1817	KEPT	THE MUSLIM	Muslim	22.99909	the Muslim	Noun	Religion and belief	1.00	0.90	1.00	1	-
+1818	KEPT	THE ROSARY	rosary	22.9991	the rosary	Noun	Religion and belief	1.00	0.90	1.00	1	-
+1819	KEPT	THE SHAMAN	shaman	22.99911	the shaman	Noun	Religion and belief	0.00	0.50	1.00	1	-
+1820	KEPT	THE SHAMAN’S SPIRIT	shaman’s spirit	22.99912	the shaman’s spirit	Noun	Religion and belief	0.00	0.50	1.00	1	-
+1821	KEPT	THE SHAMANISTIC SONG	shamanistic song	22.99913	the shamanistic song	Noun	Religion and belief	0.00	0.50	1.00	1	-
+1822	KEPT	THE WOMAN’S RATTLE	woman’s rattle	22.99914	the woman’s rattle	Noun	Religion and belief	0.00	0.50	1.00	1	-
+1823	KEPT	THE RADIO	radio	23.1	the radio	Noun	Modern world	0.76	0.70	0.89	42	-
+1824	KEPT	THE TELEVISION	television	23.11	the television	Noun	Modern world	0.84	0.73	0.92	37	-
+1825	KEPT	THE TELEPHONE	telephone	23.12	the telephone	Noun	Modern world	0.73	0.71	0.86	41	-
+1826	KEPT	THE BICYCLE	bicycle	23.13	the bicycle	Noun	Modern world	0.62	0.74	0.85	47	-
+1827	KEPT	THE MOTORCYCLE	motorcycle	23.135	the motorcycle	Noun	Modern world	0.63	0.71	0.85	38	-
+1828	KEPT	THE CAR	car	23.14	the car	Noun	Modern world	0.79	0.73	0.86	52	-
+1829	KEPT	THE BUS	bus	23.15	the bus	Noun	Modern world	0.73	0.67	0.89	48	-
+1830	KEPT	THE TRAIN	train	23.155	the train	Noun	Modern world	0.60	0.76	0.79	39	-
+1831	KEPT	THE AIRPLANE	airplane	23.16	the airplane	Noun	Modern world	0.59	0.74	0.78	53	-
+1832	KEPT	THE ELECTRICITY	electricity	23.17	the electricity	Noun	Modern world	0.66	0.76	0.88	47	-
+1833	KEPT	THE BATTERY	battery	23.175	the battery	Noun	Modern world	0.75	0.72	0.88	38	-
+1834	KEPT	TO BRAKE	brake	23.18	to brake	Verb	Modern world	0.42	0.78	0.78	32	-
+1835	KEPT	THE MOTOR	motor	23.185	the motor	Noun	Modern world	0.91	0.74	0.96	39	-
+1836	KEPT	THE MACHINE	machine	23.19	the machine	Noun	Modern world	0.89	0.78	0.90	35	-
+1837	KEPT	THE PETROLEUM	petroleum	23.195	the petroleum	Noun	Modern world	0.65	0.76	0.86	42	-
+1838	KEPT	THE HOSPITAL	hospital	23.2	the hospital	Noun	Modern world	0.56	0.75	0.76	43	-
+1839	KEPT	THE NURSE	nurse	23.21	the nurse	Noun	Modern world	0.45	0.78	0.73	40	-
+1840	SPLIT	THE PILL	pill	23.22	the pill or tablet	Noun	Modern world	0.61	0.77	0.85	38	-
+1841	SPLIT	THE TABLET	tablet	23.22	the pill or tablet	Noun	Modern world	0.61	0.77	0.85	38	-
+1842	KEPT	THE INJECTION	injection	23.23	the injection	Noun	Modern world	0.63	0.76	0.84	44	-
+1843	SPLIT	THE SPECTACLES	spectacles	23.24	the spectacles/glasses	Noun	Modern world	0.52	0.79	0.78	40	-
+1844	SPLIT	THE GLASSES	glasses	23.24	the spectacles/glasses	Noun	Modern world	0.52	0.79	0.78	40	-
+1845	KEPT	THE GOVERNMENT	government	23.3	the government	Noun	Modern world	0.63	0.80	0.83	37	-
+1846	KEPT	THE PRESIDENT	president	23.31	the president	Noun	Modern world	0.68	0.75	0.86	37	-
+1847	KEPT	THE MINISTER	minister	23.32	the minister	Noun	Modern world	0.77	0.79	0.90	32	-
+1848	KEPT	THE POLICE	police	23.33	the police	Noun	Modern world	0.80	0.77	0.88	42	-
+1849	KEPT	THE DRIVER'S LICENSE	driver's license	23.34	the driver's license	Noun	Modern world	0.46	0.72	0.75	36	-
+1850	KEPT	THE LICENSE PLATE	license plate	23.35	the license plate	Noun	Modern world	0.38	0.72	0.66	30	-
+1851	KEPT	THE BIRTH CERTIFICATE	birth certificate	23.36	the birth certificate	Noun	Modern world	0.38	0.78	0.64	35	-
+1852	KEPT	THE CRIME	crime	23.37	the crime	Noun	Modern world	0.48	0.83	0.79	41	-
+1853	KEPT	THE ELECTION	election	23.38	the election	Noun	Modern world	0.48	0.83	0.74	34	-
+1854	KEPT	THE ADDRESS	address	23.385	the address	Noun	Modern world	0.69	0.74	0.86	30	-
+1855	KEPT	THE NUMBER	number	23.39	the number	Noun	Modern world	0.66	0.76	0.94	43	-
+1856	KEPT	THE STREET	street	23.395	the street	Noun	Modern world	0.49	0.80	0.92	46	-
+1857	SPLIT	THE POST	post	23.4	the post/mail	Noun	Modern world	0.69	0.77	0.90	33	-
+1858	SPLIT	THE MAIL	mail	23.4	the post/mail	Noun	Modern world	0.69	0.77	0.90	33	-
+1859	KEPT	THE POSTAGE STAMP	postage stamp	23.41	the postage stamp	Noun	Modern world	0.61	0.78	0.88	36	-
+1860	KEPT	THE LETTER	letter	23.42	the letter	Noun	Modern world	0.58	0.79	0.91	45	-
+1861	KEPT	THE POSTCARD	postcard	23.43	the postcard	Noun	Modern world	0.47	0.75	0.70	30	-
+1862	KEPT	THE BANK	bank	23.44	the bank	Noun	Modern world	0.84	0.75	0.90	35	-
+1863	SPLIT	THE TAP	tap	23.5	the tap/faucet	Noun	Modern world	0.52	0.78	0.88	34	-
+1864	SPLIT	THE FAUCET	faucet	23.5	the tap/faucet	Noun	Modern world	0.52	0.78	0.88	34	-
+1865	KEPT	THE SINK	sink	23.51	the sink	Noun	Modern world	0.42	0.71	0.73	40	-
+1866	KEPT	THE TOILET	toilet	23.52	the toilet	Noun	Modern world	0.53	0.80	0.81	61	-
+1867	KEPT	THE MATTRESS	mattress	23.53	the mattress	Noun	Modern world	0.65	0.80	0.91	36	-
+1868	SPLIT	THE TIN	tin	23.54	the tin/can	Noun	Modern world	0.69	0.79	0.94	43	-
+1869	SPLIT	THE CAN	can	23.54	the tin/can	Noun	Modern world	0.69	0.79	0.94	43	-
+1870	KEPT	THE SCREW	screw	23.55	the screw	Noun	Modern world	0.75	0.78	0.91	38	-
+1871	KEPT	THE SCREWDRIVER	screwdriver	23.555	the screwdriver	Noun	Modern world	0.59	0.76	0.74	35	-
+1872	KEPT	THE BOTTLE	bottle	23.56	the bottle	Noun	Modern world	0.60	0.81	0.99	47	-
+1873	SPLIT	THE CANDY	candy	23.565	the candy/sweets	Noun	Modern world	0.56	0.83	0.84	54	-
+1874	SPLIT	THE SWEETS	sweets	23.565	the candy/sweets	Noun	Modern world	0.56	0.83	0.84	54	-
+1875	KEPT	THE PLASTIC	plastic	23.57	the plastic	Noun	Modern world	0.84	0.71	0.95	34	-
+1876	KEPT	THE BOMB	bomb	23.575	the bomb	Noun	Modern world	0.77	0.72	0.94	32	-
+1877	KEPT	THE WORKSHOP	workshop	23.58	the workshop	Noun	Modern world	0.45	0.79	0.77	32	-
+1878	KEPT	THE CIGARETTE	cigarette	23.59	the cigarette	Noun	Modern world	0.63	0.76	0.90	47	-
+1879	KEPT	THE NEWSPAPER	newspaper	23.6	the newspaper	Noun	Modern world	0.68	0.77	0.85	39	-
+1880	KEPT	THE CALENDAR	calendar	23.61	the calendar	Noun	Modern world	0.77	0.82	0.92	36	-
+1881	SPLIT	THE FILM	film	23.62	the film/movie	Noun	Modern world	0.74	0.71	0.91	38	-
+1882	SPLIT	THE MOVIE	movie	23.62	the film/movie	Noun	Modern world	0.74	0.71	0.91	38	-
+1883	KEPT	THE MUSIC	music	23.63	the music	Noun	Modern world	0.58	0.83	0.91	41	-
+1884	KEPT	THE SONG	song	23.64	the song	Noun	Modern world	0.22	0.85	0.88	48	-
+1885	KEPT	THE TEA	tea	23.9	the tea	Noun	Modern world	0.83	0.81	0.96	42	-
+1886	KEPT	THE COFFEE	coffee	23.91	the coffee	Noun	Modern world	0.86	0.77	0.96	43	-
+1887	KEPT	THE LICENSE	license	23.99901	the license	Noun	Modern world	1.00	0.70	1.00	1	-
+1888	KEPT	TO BE	be	24.01	to be	Verb	Miscellaneous function words	0.07	0.86	0.95	43	-
+1889	KEPT	TO BECOME	become	24.02	to become	Verb	Miscellaneous function words	0.17	0.83	0.84	43	-
+1890	KEPT	WITHOUT	without	24.03	without	Function word	Miscellaneous function words	0.22	0.83	0.87	37	-
+1891	KEPT	WITH	with	24.04	with	Function word	Miscellaneous function words	0.09	0.82	0.95	57	-
+1892	KEPT	THROUGH	through	24.05	through	Function word	Miscellaneous function words	0.11	0.86	0.92	36	-
+1893	KEPT	NOT	not	24.06	not	Function word	Miscellaneous function words	0.04	0.93	0.97	47	-
+1894	KEPT	THIS	this	24.07	this	Function word	Miscellaneous function words	0.00	0.84	0.90	44	-
+1895	KEPT	THAT	that	24.08	that	Function word	Miscellaneous function words	0.03	0.80	0.87	58	-
+1896	KEPT	HERE	here	24.09	here	Function word	Miscellaneous function words	0.02	0.82	0.79	53	-
+1897	KEPT	THERE	there	24.1	there	Function word	Miscellaneous function words	0.02	0.83	0.80	57	-
+1898	KEPT	OTHER	other	24.11	other	Function word	Miscellaneous function words	0.09	0.80	0.90	44	-
+1899	KEPT	NEXT	next	24.12	next	Function word	Miscellaneous function words	0.03	0.81	0.71	40	-
+1900	KEPT	SAME	same	24.13	same	Function word	Miscellaneous function words	0.11	0.75	0.74	47	-
+1901	KEPT	NOTHING	nothing	24.14	nothing	Function word	Miscellaneous function words	0.11	0.85	0.71	39	-
+1902	SPLIT	AND (or BUT)	and	24.99901	and or but	Function word	Miscellaneous function words	1.00	0.25	1.00	2	-
+1903	SPLIT	BUT	but	24.99901	and or but	Function word	Miscellaneous function words	1.00	0.25	1.00	2	-
+1904	KEPT	CAN	can	24.99902	can	Function word	Miscellaneous function words	1.00	0.80	1.00	1	-
+1905	KEPT	HEY!	hey!	24.99904	hey!	Function word	Miscellaneous function words	1.00	1.00	1.00	1	-
+1906	KEPT	(INTERROGATIVE)		24.99905	(interrogative)	Function word	Miscellaneous function words	0.75	-1	1.00	1	-
+1907	KEPT	LET	let	24.99906	let	Function word	Miscellaneous function words	1.00	1.00	1.00	1	-
+1908	KEPT	(NEGATIVE MARKER)		24.99907	(negative marker)	Function word	Miscellaneous function words	1.00	0.50	1.00	1	-
+1909	KEPT	NEITHER	neither	24.99908	neither	Function word	Miscellaneous function words	1.00	1.00	1.00	1	-
+1910	KEPT	NOR	nor	24.99909	nor	Function word	Miscellaneous function words	1.00	1.00	1.00	1	-
+1911	KEPT	SOMEONE	someone	24.9991	someone	Function word	Miscellaneous function words	1.00	0.80	1.00	1	-
+1912	KEPT	(SUPERLATIVE MARKER)		24.99911	(superlative marker)	Function word	Miscellaneous function words	1.00	0.50	1.00	1	-
+1913	KEPT	THEN	then	24.99912	then	Function word	Miscellaneous function words	1.00	1.00	1.00	1	-
+1914	KEPT	THEY (DUAL)	they	24.99913	they (dual)	Function word	Miscellaneous function words	0.00	0.50	1.00	1	-
+1915	KEPT	WE (DUAL INCLUSIVE)	we	24.99914	we (dual inclusive)	Function word	Miscellaneous function words	0.00	0.50	1.00	1	-
+1916	KEPT	WHICH	which	24.99917	which	Function word	Miscellaneous function words	1.00	0.50	1.00	1	-
+1917	KEPT	YOU (DUAL)	you	24.99919	you (dual)	Function word	Miscellaneous function words	0.00	1.00	1.00	1	-
+1918	NEW	TO SWELL	swell	0.1	-	-	-	-	-	-	-	-
+1919	NEW	THE BERRY	berry	0.2	-	-	-	-	-	-	-	-
+1920	NEW	TO FEAR	fear	0.3	-	-	-	-	-	-	-	-
+1921	NEW	TO RAIN	rain	0.4	-	-	-	-	-	-	-	-
+1922	SPLIT	TO LIE (ON THE FLOOR)	lie	12.14	to lie down	Verb	Spatial relations	0.02	0.86	0.84	51	-
+1923	NEW	FIFTY	fifty	0.5	-	-	-	-	-	-	-	-
+1924	NEW	HUNDRED	hundred	0.6	-	-	-	-	-	-	-	-
+1925	NEW	THOUSAND	thousand	0.7	-	-	-	-	-	-	-	-
+1926	NEW	THE TOENAIL	toenail	0.8	-	-	-	-	-	-	-	-
+1927	NEW	TO PIERCE	pierce	0.9	-	-	-	-	-	-	-	-
+1928	NEW	TO HACK	hack	0.10	-	-	-	-	-	-	-	-
+1929	NEW	TO WORK	work	0.11	-	-	-	-	-	-	-	-
+1930	NEW	TO UNCOVER	uncover	0.13	-	-	-	-	-	-	-	-
+1931	NEW	TO BE KNOWLEDGEABLE	be knowledgeable	0.14	-	-	-	-	-	-	-	-
+1932	NEW	THE HUMAN BEING	human being	0.15	-	-	-	-	-	-	-	-
+1933	NEW	TO FASTEN	fasten	0.16	-	-	-	-	-	-	-	-
+1934	NEW	PAINFUL	painful	0.17	-	-	-	-	-	-	-	-
+1935	NEW	CORRECT	correct	0.18	-	-	-	-	-	-	-	-
+1936	NEW	BELOW	below	0.19	-	-	-	-	-	-	-	-
+1937	NEW	EVIL	evil	0.20	-	-	-	-	-	-	-	-
+1938	NEW	TO SWEAT	sweat	0.21	-	-	-	-	-	-	-	-
+1939	NEW	THE SNOT	snot	0.22	-	-	-	-	-	-	-	-
+1940	NEW	THE MARROW	marrow	0.23	-	-	-	-	-	-	-	-
+1941	NEW	THE BREATH	breath	0.24	-	-	-	-	-	-	-	-
+1942	NEW	THE FUNGUS	fungus	0.25	-	-	-	-	-	-	-	-
+1943	NEW	THE PLANTAIN	plantain	0.26	-	-	-	-	-	-	-	-
+1944	NEW	THE JUICE	juice	0.27	-	-	-	-	-	-	-	-
+1945	NEW	THE COOKED RICE	cooked rice	0.28	-	-	-	-	-	-	-	-
+1946	NEW	THE BUG	bug	0.29	-	-	-	-	-	-	-	-
+1947	NEW	THE VERMIN	vermin	0.30	-	-	-	-	-	-	-	-
+1948	NEW	THE OTTER	otter	0.31	-	-	-	-	-	-	-	-
+1949	NEW	THE LEECH	leech	0.32	-	-	-	-	-	-	-	-
+1950	NEW	THE WATER LEECH	water leech	0.33	-	-	-	-	-	-	-	-
+1951	NEW	THE RODENT	rodent	0.34	-	-	-	-	-	-	-	-
+1952	NEW	THE JOINT	joint	0.35	-	-	-	-	-	-	-	-
+1953	NEW	THE THORN	thorn	0.36	-	-	-	-	-	-	-	-
+1954	NEW	THE SWIDDEN FIELD	swidden field	0.37	-	-	-	-	-	-	-	-
+1955	NEW	THE IRRIGATED PADDY FIELD	irrigated paddy field	0.38	-	-	-	-	-	-	-	-
+1956	NEW	THE SCORE	score	0.39	-	-	-	-	-	-	-	-
+1957	NEW	TO BE MANY	be many	0.40	-	-	-	-	-	-	-	-
+1958	NEW	TO ASCEND	ascend	0.41	-	-	-	-	-	-	-	-
+1959	NEW	TO DESCEND	descend	0.42	-	-	-	-	-	-	-	-
+1960	NEW	TO EMERGE	emerge	0.43	-	-	-	-	-	-	-	-
+1961	NEW	TO FRIGTHEN	frighten	0.44	-	-	-	-	-	scare	-	-
+1962	NEW	ITCHY	itchy	0.45	-	-	-	-	-	-	-	-
+1963	NEW	TO SET FREE	set free	0.46	-	-	-	-	-	-	-	-
+1964	NEW	TO LOOSEN	loosen	0.47	-	-	-	-	-	-	-	-
+1965	NEW	TO PLACE	place	0.48	-	-	-	-	-	-	-	-
+1966	NEW	-	-	0.49	-	-	-	-	-	-	-	-
+1967	NEW	-	-	0.50	-	-	-	-	-	-	-	-
+1968	NEW	-	-	0.51	-	-	-	-	-	-	-	-
+1969	NEW	-	-	0.52	-	-	-	-	-	-	-	-
+1970	NEW	-	-	0.53	-	-	-	-	-	-	-	-
