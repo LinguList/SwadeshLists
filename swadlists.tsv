@@ -1,0 +1,384 @@
+Key	Concept	Wiktionary.tsv	abvd.tsv	asjp.tsv	dolgopolsky.tsv	matisoff.tsv	starostin.tsv	swadesh100.tsv	swadesh200.tsv
+17	THE WATER	»water« #150	»water« #122	»water« #32	»water« #14	»water« #92	»water« #94	»water« #94	»water« #181
+390	THE EYE	»eye« #74	»eye« #45	»eye« #33	»eye« #7	»eye« #6	»eye« #25	»eye« #25	»eye« #40
+1581	THE NAME	»name« #207	»name« #63	»name (noun)« #7	»name« #6	»name« #46	»name« #57	»name« #57	»name« #100
+404	THE TONGUE	»tongue« #78	»tongue« #32	»tongue« #16	»tongue« #5	»tongue« #23	»tongue« #88	»tongue« #88	»tongue« #172
+169	I	»I« #1	»I« #182	»I« #22	»first person marker« #1	»I« #42	»I« #42	»I« #42	»I« #78
+405	THE TOOTH	»tooth (rather not molar)« #77	»tooth« #31	»tooth« #20	»tooth« #9	»tooth« #24	»tooth« #89	»tooth« #89	»tooth (front rather than molar)« #173
+343	THE LOUSE	»louse« #48	»louse« #108	»louse« #38	»louse« #12	»louse« #56	»louse« #50	»louse« #50	»louse« #93
+1270	TWO	»two« #23	»Two« #198	»two« #28	»two« #2	»two« #120	»two« #91	»two« #91	»two« #176
+395	THE EAR	»ear« #73	»ear« #43	»ear« #29		»ear/hear« #4	»ear« #21	»ear« #21	»ear« #36
+372	THE BLOOD	»blood« #64	»blood« #23	»blood« #1		»blood« #2	»blood« #9	»blood« #9	»blood« #16
+254	THE FISH	»fish« #45	»fish« #111	»fish (noun)« #2		»fish« #55	»fish« #29	»fish« #29	»fish« #50
+170	THOU	»thou« #2	»thou« #183		»second person marker« #3	»thou« #41	»thou« #87	»thou« #87	»thou« #168
+444	THE LIVER	»liver« #91	»liver« #17	»liver« #34		»liver« #16	»liver« #48	»liver« #48	»liver« #91
+418	THE HAND	»hand« #83	»hand« #1	»hand« #10		»hand/arm« #12	»hand« #37	»hand« #37	»hand« #66
+1391	TO HEAR	»to hear« #102	»to hear« #44	»hear« #14		»ear/hear« #4	»hear« #39	»hear« #39	»to hear« #69
+95	THE PERSON	»man (human being)« #38	»person/human being« #53	»person« #31		»person/human being« #40	»person« #64	»person« #64	»person« #111
+487	TO DIE	»to die« #109	»to die, be dead« #75	»die« #17		»die« #132	»die« #17	»die« #17	»to die« #28
+248	THE DOG	»dog« #47	»dog« #96	»dog« #21		»dog« #54	»dog« #18	»dog« #18	»dog« #31
+1346	THE NIGHT	»night« #177	»night« #167	»night (dark time)« #15		»night« #100	»night« #60	»night« #60	»night« #105
+375	THE BONE	»bone« #65	»bone« #15	»bone« #5		»bone« #3	»bone« #10	»bone« #10	»bone« #18
+70	THE FIRE	»fire« #167	»fire« #143	»fire« #37		»fire« #73	»fire« #28	»fire« #28	»fire« #49
+828	THE LEAF	»leaf« #56	»leaf« #114	»leaf« #30		»leaf« #77	»leaf« #46	»leaf« #46	»leaf« #86
+1397	TO SEE	»to see« #101	»to see« #46	»see« #35		»see« #149	»see« #72	»see« #72	»see« #130
+43	THE STONE	»stone« #156	»stone« #120	»stone« #8		»stone« #89	»stone« #81	»stone« #81	»stone« #154
+1269	ONE	»one« #22	»One« #197	»one« #23		»one« #116	»one« #63	»one« #63	»one« #109
+549	TO DRINK	»to drink« #92	»to drink« #40	»drink (verb)« #25		»drink« #176	»drink« #19	»drink« #19	»drink« #32
+1319	NEW	»new« #183	»new« #163	»new« #11		»new« #172	»new« #59	»new« #59	»new« #104
+49	THE STAR	»star« #149	»star« #130	»star« #4		»star« #87	»star« #80	»star« #80	»star« #152
+398	THE NOSE	»nose« #75	»nose« #27	»nose« #19		»nose« #19	»nose« #61	»nose« #61	»nose« #106
+364	THE SKIN	»skin (of a person)« #62	»skin« #12	»skin« #39		»skin/bark« #20	»skin« #75	»skin« #75	»skin (person's)« #137
+1408	RED	»red« #172	»red« #149			»red« #163	»red« #66	»red« #66	»red« #116
+1426	WARM	»warm (as in weather)« #180	»warm« #138			»warm« #165	»warm« #93	»warm (hot)« #93	»warm (of weather)« #179
+367	THE HAIR	»hair« #71	»hair« #26			»hair (head)« #10	»hair« #36	»hair« #36	»hair« #65
+401	THE MOUTH	»mouth« #76	»mouth« #30			»mouth« #17	»mouth« #56	»mouth« #56	»mouth« #99
+436	THE BREAST	»breast« #89	»breast« #18	»breast (woman’s)« #9		»vagina or breast/milk« #30	»breast« #11	»breast« #11	
+1554	WHO?	»who« #11	»who?« #189		»who/what« #4		»who« #98	»who« #98	»who?« #188
+72	THE SMOKE	»smoke« #166	»smoke« #145			»smoke« #86	»smoke« #78	»smoke« #78	»smoke (of fire)« #142
+826	THE ROOT	»root« #57	»root« #115			»root« #83	»root« #68	»root« #68	»root« #121
+468	TO BITE	»to bite« #94	»to bite« #41			»bite« #181	»bite« #7	»bite« #7	»to bite« #14
+1893	NOT	»not« #16	»no, not« #195		»verbal negation« #10		»not« #62	»not« #62	»not« #107
+378	THE TAIL	»tail« #69	»tail« #105			»tail« #22	»tail« #84	»tail« #84	»tail« #160
+1406	WHITE	»white« #175	»white« #148			»white« #169	»white« #97	»white« #97	»white« #187
+490	TO KILL	»to kill« #110	»to kill« #74			»kill« #192	»kill« #43	»kill« #43	»to kill« #82
+1509	TO KNOW	»to know (a fact)« #103	»to know, be knowledgeable« #20			»know« #145	»know« #45	»know« #45	»to know (facts)« #83
+428	THE FOOT	»foot« #80	»leg/foot« #4			»foot« #8	»foot« #31	»foot« #31	»foot« #57
+1105	THE ROAD	»road« #170	»road/path« #6			»road« #82	»road« #67	»road« #67	»road (or trail)« #120
+47	THE SUN	»sun« #147		»sun« #12		»sun/day« #90	»sun« #82	»sun« #82	»sun« #157
+408	THE NECK	»neck« #87	»neck« #25			»neck« #18	»neck« #58	»neck« #58	»neck« #103
+1208	TO STAND	»to stand« #125	»to stand« #52			»stand« #135	»stand« #79	»stand« #79	»to stand« #151
+7	THE MOUNTAIN	»mountain« #171		»mountain« #3		»mountain« #79	»mountain« #55	»mountain« #55	»mountain« #98
+1407	BLACK	»black« #176	»black« #147			»black« #170	»black« #8	»black« #8	»black« #15
+1206	TO SIT	»to sit« #124	»to sit« #51			»sit« #136	»sit« #74	»sit« #74	»sit« #136
+597	THE MEAT	»meat (as in flesh)« #63	»meat/flesh« #103			»meat/animal« #52	»meat« #53	»meat (flesh)« #53	»meat (flesh)« #96
+626	THE EGG	»egg« #67	»egg« #98			»egg« #5	»egg« #24	»egg« #24	»egg« #39
+381	THE HEAD	»head« #72	»head« #24			»head« #13	»head« #38	»head« #38	»head« #68
+471	TO SLEEP	»to sleep« #107	»to sleep« #48			»sleep/lie down« #129	»sleep« #76	»sleep« #76	»sleep« #139
+441	THE BELLY	»belly« #85	»belly« #14			»belly (exterior)« #1	»belly« #4	»belly« #4	»belly« #10
+1082	TO COME	»to come« #122	»to come« #7	»come« #13			»come« #16	»come« #16	»to come« #24
+1064	TO FLY	»to fly« #120	»to fly« #101			»fly« #140	»fly v.« #30	»fly« #30	»to fly« #55
+830	THE TREE	»tree« #51		»tree« #24		»tree/wood« #91	»tree« #90	»tree« #90	»tree« #174
+611	THE FAT	»fat (noun)« #66	»fat/grease« #104			»fat« #155	»fat n.« #26	»fat (grease)« #26	»fat (organic substance)« #43
+1427	COLD	»cold (as in weather)« #181	»cold« #139			»cold« #160	»cold« #15	»cold« #15	»cold (of weather)« #23
+442	THE HEART	»heart« #90			»heart« #8	»heart« #14	»heart« #40	»heart« #40	»heart« #70
+1243	LONG	»long« #28	»long« #155			»long/tall« #158	»long« #49	»long« #49	»long« #92
+74	THE ASH	»ashes« #168	»ashes« #146			»ashes« #70	»ashes« #2	»ashes« #2	»ashes« #4
+3	THE SOIL	»earth (as in soil)« #159	»earth/soil« #119			»earth« #72	»earth« #22	»earth« #22	»earth (soil)« #37
+542	TO EAT	»to eat« #93	»to eat« #37			»eat« #175	»eat« #23	»eat« #23	»to eat« #38
+235	THE BIRD	»bird« #46	»bird« #97			»bird« #53	»bird« #6	»bird« #6	»bird« #13
+175	WE	»we« #4	»we« #185	»we« #36			»we« #95	»we« #95	»we« #182
+62	THE CLOUD	»cloud« #160	»cloud« #131			»cloud« #71	»cloud« #14	»cloud« #14	»cloud« #22
+1550	WHAT?	»what« #12	»what?« #188		»who/what« #4		»what« #96	»what« #96	»what?« #184
+1424	DRY	»dry (adjective)« #195	»dry« #140				»dry« #20	»dry« #20	»dry (substance)« #33
+1368	THE YEAR	»year« #179	»year« #169			»year« #114	»year« #110		»year« #199
+1074	TO WALK	»to walk« #121	»to walk« #5				»walk(go)« #92	»walk« #92	»to walk« #178
+1242	SMALL	»small« #32	»small« #152				»small« #77	»small« #77	»small« #140
+1293	FULL	»full« #182		»full« #6		»full« #157	»full« #32	»full« #32	
+1233	FAR	»far« #198	»far« #180			»far« #112	»far« #101		»far« #42
+97	THE WOMAN	»woman« #36	»woman/female« #55				»woman« #99	»woman« #99	»woman« #195
+298	THE SNAKE	»snake« #49	»snake« #106			»snake« #57	»snake« #106		»snake« #144
+1144	TO GIVE	»to give« #128				»give« #177	»give« #33	»give« #33	»to give« #60
+1410	GREEN	»green« #173	»green« #151				»green« #35	»green« #35	»green« #63
+1895	THAT	»that« #8	»that« #178				»that« #85	»that« #85	»that« #161
+377	THE HORN	»horn« #68		»horn (animal part)« #18		»horn« #15	»horn« #41	»horn« #41	
+1575	TO SAY	»to say« #140	»to say« #64				»say« #71	»say« #71	»say« #127
+434	THE FEATHER	»feather (rather not down)« #70	»feather« #99				»feather« #27	»feather« #27	»feather (larger feathers rather than down)« #46
+1232	NEAR	»near« #197	»near« #179			»near« #113	»near« #103		»near« #102
+1411	YELLOW	»yellow« #174	»yellow« #150				»yellow« #100	»yellow« #100	»yellow« #200
+612	THE SALT	»salt« #155	»salt« #125			»salt« #84	»salt« #104		»salt« #125
+1421	HEAVY	»heavy« #31	»heavy« #142			»heavy« #164	»heavy« #102		»heavy« #71
+1894	THIS	»this« #7	»this« #177				»this« #86	»this« #86	»this« #167
+48	THE MOON	»moon« #148	»moon« #129			»moon« #78	»moon« #54	»moon« #54	
+1477	GOOD	»good« #185	»good« #164				»good« #34	»good« #34	»good« #61
+96	THE MAN	»man (adult male)« #37	»man/male« #54				»man« #51	»man« #51	»man (male human)« #94
+844	THE BARK	»bark (of tree)« #58				»skin/bark« #20	»bark« #3	»bark« #3	»bark« #8
+1286	ALL	»all« #17	»all« #191				»all« #1	»all« #1	»all (of a number)« #1
+61	THE WIND	»wind (as in breeze)« #163	»wind« #136			»wind« #93	»wind« #108		»wind« #191
+1249	THIN	»thin« #35	»thin« #156			»thin« #151	»thin« #107		»thin« #165
+6	THE SAND	»sand« #157	»sand« #121				»sand« #70	»sand« #70	»sand« #126
+1060	TO SWIM	»to swim« #119	»to swim« #9				»swim« #83	»swim« #83	»to swim« #159
+1241	BIG	»big« #27	»big« #153				»big« #5	»big« #5	»big« #12
+797	TO DIG	»to dig« #118	»to dig« #90			»dig« #186			»to dig« #29
+1231	LEFT	»left (side)« #200	»left« #2			»left side« #110			»left (hand)« #87
+1739	TO HUNT	»to hunt (transitive)« #112	»to hunt« #69			»drive/hunt« #200			»to hunt (game)« #76
+603	THE FRUIT	»fruit« #54	»fruit« #117			»fruit« #75			»berry (or fruit)« #11
+1419	SHARP	»sharp (as a knife)« #191	»sharp« #81			»sharp« #173			»sharp (as knife)« #133
+1245	SHORT	»short« #33	»short« #154				»short« #105		»short« #134
+178	YOU	»you« #5	»you« #186	»you« #40					»ye« #198
+433	THE WING	»wing« #84	»wing« #100			»wing« #25			»wing« #192
+77	TO BURN (INTRANSITIVE)	»to burn (intransitive)« #169	»to burn« #144			»burn« #200a			»to burn (intrans)« #20
+822	THE GRASS	»grass« #60	»grass« #118			»grass« #76			»grass« #62
+64	THE RAIN		»rain« #133			»rain« #80	»rain« #65	»rain« #65	
+510	TO SCRATCH	»to scratch (an itch)« #117	»to scratch« #77			»scratch (scrape)« #182			»to scratch (as with fingernails to relieve itch)« #128
+46	THE SKY	»sky« #162	»sky« #128			»sky« #85			»sky« #138
+466	TO SPIT	»to spit« #96	»to spit« #36			»spit« #21			»to spit« #147
+829	THE FLOWER	»flower« #59	»flower« #116			»flower« #74			»flower« #54
+1444	TO LAUGH	»to laugh« #100	»to laugh« #33			»laugh« #131			»to laugh« #85
+1920	TO FEAR	»to fear« #106	»to fear« #22			»fear/frighten« #144			»to fear« #45
+1272	FOUR	»four« #25	»Four« #200			»four« #122			»four« #58
+807	THE SEED	»seed« #55					»seed« #73	»seed« #73	»seed« #131
+669	TO SEW	»to sew« #138	»to sew« #67			»sew« #191			»to sew« #132
+427	THE KNEE	»knee« #82		»knee« #26			»knee« #44	»knee« #44	
+1382	TO SMELL (TRANSITIVE)	»to smell (sense odor)« #105	»to sniff, smell« #29			»smell« #150			»to smell (perceive odor)« #141
+1629	THE WALKING STICK	»stick (of wood)« #53	»stick/wood« #79			»stick« #88			»stick (of wood)« #153
+1065	TO BLOW	»to blow (as wind)« #98	»to blow« #137			»blow« #189			»to blow (of wind)« #17
+1248	THICK	»thick« #30	»thick« #157			»thick« #171			»thick« #164
+467	TO VOMIT	»to vomit« #97	»to vomit« #35			»vomit« #37			»to vomit« #177
+1344	THE DAY (OPPOSED TO NIGHT)	»day (daytime)« #178	»day« #168			»sun/day« #90			»day (opposite of night rather than time measure)« #27
+1273	FIVE	»five« #26	»Five« #201			»five« #123			»five« #51
+958	TO SQUEEZE	»to squeeze« #130	»to squeeze« #88			»squeeze« #195			»to squeeze« #149
+936	TO CUT	»to cut« #114	»to cut, hack« #78			»cut« #200b			»to cut« #26
+1271	THREE	»three« #24	»Three« #199			»three« #121			»three« #169
+297	THE WORM	»worm« #50	»worm (earthworm)« #107				»worm« #109		»worm« #197
+1321	OLD	»old« #184	»old« #162			»old« #152			»old« #108
+1922	TO LIE (ON THE FLOOR)	»to lie (as on one's side)« #123					»lie« #47	»lie« #47	»to lie« #89
+1287	MANY	»many« #18					»many« #52	»many« #52	»many« #95
+1052	TO FALL	»to fall (as in drop)« #127	»to fall« #95			»fall (from a height)« #137			»to fall (drop rather than topple)« #41
+927	TO TIE	»to tie« #137	»to tie up, fasten« #66			»tie« #178			»to tie« #171
+1230	RIGHT (SIDE)	»right (side)« #199	»right« #3			»right side« #111			»right (hand)« #118
+1259	ROUND	»round« #190				»round« #166	»round« #69	»round« #69	
+1547	HOW?	»how« #15	»how?« #194						»how« #75
+423	THE CLAW					»nail/claw« #26	»claw (nail)« #13	»claw (nail)« #13	
+1918	TO SWELL	»to swell« #146	»to swell« #87						»to swell« #158
+1057	TO FLOW	»to flow« #144	»to flow« #123						»to flow« #53
+729	TO LIVE	»to live« #108	»to live, be alive« #76						»to live« #90
+23	THE LAKE	»lake« #153	»lake« #126						»lake« #84
+179	THEY	»they« #6	»they« #187						»they« #163
+930	THE ROPE	»rope« #61	»rope« #65						»rope« #122
+1140	TO HOLD	»to hold (in one's hand)« #129	»to hold« #89						»to hold (in hand)« #74
+1543	IF	»if« #205	»if« #193						»if« #80
+1429	DIRTY	»dirty« #188	»dirty« #10						»dirty« #30
+1043	TO TURN	»to turn (change direction)« #126	»to turn« #8						»to turn (change one's direction)« #175
+197	THE ANIMAL	»animal« #44				»meat/animal« #52			»animal« #3
+960	TO WASH	»to wash« #132				»wash« #185			»to wash« #180
+76	TO BURN (TRANSITIVE)					»burn« #200a	»burn tr.« #12	»burn tr.« #12	
+106	THE HUSBAND	»husband« #41	»husband« #57						»husband« #77
+107	THE WIFE	»wife« #40	»wife« #58						»wife« #190
+104	THE CHILD (YOUNG HUMAN)	»child (a youth)« #39	»child« #56						»child (young person rather than as relationship term)« #21
+1552	WHERE?	»where« #13	»where?« #181						»where?« #186
+1194	AT	»at« #201	»at« #173						»at« #5
+1898	OTHER	»other« #21	»other« #190						»other« #110
+1423	WET	»wet« #194	»wet« #141						»wet« #183
+1285	TO COUNT	»to count« #139	»to count« #196						»to count« #25
+18	THE SEA	»sea (as in ocean)« #154	»sea« #124						»sea (ocean)« #129
+460	TO BREATHE	»to breathe« #99	»to breathe« #28						»to breathe« #19
+939	TO STAB	»to stab (or stick)« #116	»to stab, pierce« #71						»to stab (or stick)« #150
+111	THE FATHER	»father« #43	»father« #60						»father« #44
+1247	NARROW	»narrow« #34	»narrow« #158						»narrow« #101
+1193	IN	»in« #202	»in, inside« #174						»in« #81
+1505	TO THINK (REFLECT)	»to think« #104	»to think« #21						»to think« #166
+63	THE FOG	»fog« #161	»fog« #132						»fog« #56
+1246	WIDE	»wide« #29	»wide« #159						»wide« #189
+933	TO HIT	»to hit« #113	»to hit« #72						»to hit« #73
+112	THE MOTHER	»mother« #42	»mother« #59						»mother« #97
+951	TO RUB	»to rub« #131				»rub« #194			»to rub« #124
+449	THE GUTS	»guts« #86				»guts« #9			»guts« #64
+4	THE DUST	»dust« #158	»dust« #11						»dust« #35
+1551	WHEN?	»when« #14	»when?« #170						»when?« #185
+1054	TO THROW	»to throw« #136	»to throw« #94						»to throw« #170
+548	ROTTEN	»rotten (as, a log)« #187	»rotten« #112						»rotten (especially log)« #123
+948	TO SPLIT	»to split« #115	»to split« #80						»to split« #148
+32	THE RIVER	»river« #152				»river/valley« #81			»river« #119
+553	TO SUCK	»to suck« #95	»to suck« #42						»to suck« #156
+1478	BAD	»bad« #186	»bad, evil« #165						»bad (deleterious or unsuitable)« #7
+424	THE LEG	»leg« #81	»leg/foot« #4						»leg« #88
+1420	BLUNT	»dull (as a knife)« #192	»dull, blunt« #82						»dull (knife)« #34
+1921	TO RAIN	»to rain« #151							»to rain« #115
+1777	TO STEAL		»to steal« #73			»steal« #179			
+827	THE BRANCH		»branch« #113			»branch« #94			
+1479	RIGHT (BE CORRECT)	»right (correct)« #196							»right (correct)« #117
+488	DEAD		»to die, be dead« #75		»dead« #15				
+65	THE SNOW	»snow« #164							»snow« #145
+1542	BECAUSE	»because« #206							»because« #9
+1924	HUNDRED		»One Hundred« #209			»hundred« #119			
+1277	NINE		»Nine« #205			»nine« #126			
+1541	AND	»and« #204	»and« #192						
+68	TO FREEZE	»to freeze« #145							»to freeze« #59
+1289	FEW	»few« #20							»few« #47
+422	THE FINGERNAIL	»fingernail« #79			»finger-nail/toe-nail« #11				
+952	TO WIPE	»to wipe« #133							»to wipe« #193
+1291	SOME	»some« #19							»some« #146
+1897	THERE	»there« #10							»there« #162
+730	THE HOUSE		»house« #61			»house« #105			
+1171	TO BUY		»to buy« #91			»buy« #190			
+1446	TO PLAY	»to play« #142							»to play« #112
+670	THE NEEDLE (FOR SEWING)		»needle« #68			»needle« #104			
+1104	TO PUSH	»to push« #135							»to push« #114
+1891	WITH	»with (accompanying)« #203							»with (accompanying)« #194
+1702	TO FIGHT	»to fight« #111							»to fight« #48
+1282	TWENTY		»Twenty« #207			»twenty/score« #115			
+1456	TO CRY		»to cry« #34			»weep« #130			
+1207	TO LIE DOWN		»to lie down« #49			»sleep/lie down« #129			
+1418	SMOOTH	»smooth« #193							»smooth« #143
+1495	TO BE ASHAMED		»shy, ashamed« #161			»ashamed« #146			
+1220	TO HIDE		»to hide« #171			»hide« #141			
+66	THE ICE	»ice« #165							»ice« #79
+954	TO PULL	»to pull« #134							»to pull« #113
+1896	HERE	»here« #9							»here« #72
+1253	STRAIGHT	»straight« #189							»straight« #155
+1106	THE PATH		»road/path« #6	»path« #27					
+1278	TEN		»Ten« #206			»ten« #118			
+1932	THE HUMAN BEING		»person/human being« #53			»person/human being« #40			
+39	THE WOODS		»woods/forest« #127						»woods« #196
+42	THE WOOD		»stick/wood« #79			»tree/wood« #91			
+253	THE RAT		»rat« #102			»rat/rodent« #69			
+1079	TO CLIMB		»to climb« #172			»climb, ascend« #138			
+485	TO BE ALIVE		»to live, be alive« #76			»alive« #153			
+1564	TO SING	»to sing« #141							»to sing« #135
+473	TO DREAM		»to dream« #50			»dream« #148			
+1267	BACK	»back« #88	»back« #13						
+1740	TO SHOOT		»to shoot« #70			»shoot« #196			
+557	TO COOK		»to cook« #39			»cook/boil« #183			
+40	THE FOREST	»forest« #52	»woods/forest« #127						
+172	HE	»he« #3							»he« #67
+1275	SEVEN		»Seven« #203			»seven« #117			
+1274	SIX		»Six« #202			»six« #124			
+1276	EIGHT		»Eight« #204			»eight« #125			
+1059	TO FLOAT	»to float« #143							»to float« #52
+610	THE GREASE		»fat/grease« #104			»fat/grease« #7			
+136	THE GRANDCHILD					»grandchild (nephew)« #44			
+457	THE PENIS					»penis« #29			
+458	THE VAGINA					»vagina or breast/milk« #30			
+1962	ITCHY					»itchy« #156			
+1457	THE TEAR				»tear (noun)« #13				
+12	THE VALLEY					»river/valley« #81			
+1938	TO SWEAT					»sweat« #35			
+593	TO GRIND					»grind« #184			
+977	THE SILVER					»silver« #95			
+601	THE BEAN					»peas, beans« #47			
+1951	THE RODENT					»rat/rodent« #69			
+282	THE SPIDER		»spider« #110						
+1926	THE TOENAIL				»finger-nail/toe-nail« #11				
+554	TO CHEW		»to chew« #38						
+1929	TO WORK		»to work« #83						
+1238	TO GROW		»to grow« #86						
+546	RIPE					»ripe/well-cooked« #167			
+486	THE LIFE					»breath/life« #39			
+411	THE SHOULDER		»shoulder« #19						
+1957	TO BE MANY					»(be) many (v.)« #127			
+935	TO POUND		»to pound, beat« #93						
+765	THE ROOF		»thatch/roof« #62						
+1524	TO FORGET					»forget« #147			
+1930	TO UNCOVER		»to open, uncover« #92						
+476	TO PISS					»piss« #34			
+1116	THE BOAT					»boat« #107			
+57	THE SHADE					»shade/shadow« #97			
+154	THE SON-IN-LAW (OF A MAN)					»son-in-law« #45			
+1934	PAINFUL		»painful, sick« #160						
+1960	TO EMERGE					»emerge« #143			
+595	THE MORTAR (BOWL)					»mortar« #108			
+1416	SOFT					»soft (to touch)« #168			
+1954	THE SWIDDEN FIELD					»swidden« #102a			
+58	THE SHADOW					»shade/shadow« #97			
+517	THE MEDICINE					»medicine/juice« #51a			
+1389	SOUR					»sour« #162			
+860	THE BAMBOO					»bamboo« #96			
+171	HE/SHE/IT (3RD PERSON MARKER)		»he/she« #184						
+1928	TO HACK		»to cut, hack« #78						
+51	THE THUNDER		»thunder« #134						
+1380	TO SMELL (INTRANSITIVE)					»smell« #150			
+1935	CORRECT		»correct, true« #166						
+482	TO BE BORN					»be born« #128			
+1217	TO OPEN		»to open, uncover« #92						
+1937	EVIL		»bad, evil« #165						
+1933	TO FASTEN		»to tie up, fasten« #66						
+1963	TO SET FREE					»let go; set free; loosen« #187			
+1925	THOUSAND		»One Thousand« #210						
+766	THE THATCH		»thatch/roof« #62						
+498	SICK		»painful, sick« #160						
+617	THE MILK					»vagina or breast/milk« #30			
+621	THE DRINK					»liquor« #50			
+99	FEMALE (OF HUMANS)		»woman/female« #55						
+1076	TO RUN					»run/flee« #142			
+499	ILL					»ill« #154			
+227	THE FOWL					»fowl« #64			
+1952	THE JOINT					»joint« #98			
+220	THE HORSE					»horse« #66			
+267	THE BEAR					»bear« #68			
+98	MALE (OF HUMANS)		»man/male« #54						
+1940	THE MARROW					»marrow« #38			
+1949	THE LEECH					»leech« #68a			
+384	THE BRAIN					»brain« #31			
+1203	ABOVE		»above« #175						
+1959	TO DESCEND					»descend« #139			
+463	TO COUGH					»cough« #134			
+216	THE PIG					»pig« #63			
+440	THE NAVEL					»navel« #32			
+469	TO LICK					»lick« #180			
+448	THE INTESTINES		»intestines« #16						
+281	THE ANT					»ant« #67			
+79	TO EXTINGUISH					»extinguish« #188			
+1470	TO CHOOSE		»to choose« #85						
+1386	SWEET					»sweet« #159			
+244	THE DOVE					»dove« #61			
+821	THE RICE					»rice (in fields)« #51b			
+369	THE BODY HAIR					»hair (body)« #11			
+1154	TO LET GO					»let go; set free; loosen« #187			
+474	TO WAKE UP					»awaken« #133			
+1624	THE VILLAGE					»village« #109			
+1945	THE COOKED RICE					»rice (cooked)« #51c			
+116	THE SON					»child/son« #43			
+1923	FIFTY		»Fifty« #208						
+1946	THE BUG					»insect, bug, vermin« #59			
+558	TO BOIL					»cook/boil« #183			
+825	TO PLANT		»to plant« #84						
+50	THE LIGHTNING		»lightning« #135						
+788	THE FIELD					»field« #102			
+1953	THE THORN					»thorn (prick)« #99			
+1961	TO FRIGTHEN					»fear/frighten« #144			
+432	THE TOE					»finger/toe« #27			
+1939	THE SNOT					»snot« #36			
+1944	THE JUICE					»medicine/juice« #51a			
+544	COOKED					»ripe/well-cooked« #167			
+849	THE BANANA					»plantain/banana« #51			
+1381	TO SNIFF		»to sniff, smell« #29						
+1941	THE BREATH					»breath/life« #39			
+979	THE IRON					»iron« #101			
+1947	THE VERMIN					»insect, bug, vermin« #59			
+1902	AND								»and« #2
+420	THE FINGER					»finger/toe« #27			
+899	THE PEA					»peas, beans« #47			
+292	THE MOSQUITO		»mosquito« #109						
+1473	TRUE		»correct, true« #166						
+1955	THE IRRIGATED PADDY FIELD					»irrigated paddy field« #102b			
+970	THE NAIL					»nail/claw« #26			
+1172	TO SELL					»sell« #198			
+379	THE BACK								»back (person's)« #6
+934	TO BEAT		»to pound, beat« #93						
+1964	TO LOOSEN					»let go; set free; loosen« #187			
+1927	TO PIERCE		»to stab, pierce« #71						
+864	THE MUSHROOM					»mushroom/fungus« #49			
+1086	TO FLEE					»run/flee« #142			
+273	THE INSECT					»insect, bug, vermin« #59			
+1102	TO DRIVE					»drive/hunt« #200			
+988	TO WEAVE					»weave« #193			
+1713	THE ARROW					»arrow« #103			
+1712	THE BOW					»bow« #106			
+1956	THE SCORE					»twenty/score« #115			
+1205	TO PUT					»put, place« #199			
+1948	THE OTTER					»otter« #65			
+1388	BITTER					»bitter« #161			
+1965	TO PLACE					»put, place« #199			
+1943	THE PLANTAIN					»plantain/banana« #51			
+270	THE MONKEY					»monkey« #62			
+1958	TO ASCEND					»climb, ascend« #138			
+155	THE SON-IN-LAW (OF A WOMAN)					»son-in-law« #45			
+318	THE FROG					»frog« #58			
+1936	BELOW		»below« #176						
+1950	THE WATER LEECH					»water leech« #68b			
+1919	THE BERRY								»berry (or fruit)« #11
+477	TO SHIT					»shit« #33			
+1931	TO BE KNOWLEDGEABLE		»to know, be knowledgeable« #20						
+1942	THE FUNGUS					»mushroom/fungus« #49			
+366	THE FLESH		»meat/flesh« #103						
+414	THE ARM					»hand/arm« #12			
+518	THE POISON					»poison [antifood]« #48			
+1199	INSIDE		»in, inside« #174						
+284	THE BEE					»bee« #60			
+461	TO YAWN		»to yawn« #47						
+419	THE PALM OF THE HAND					»palm« #28			
+118	THE CHILD (SON OR DAUGHTER)					»child/son« #43			
+1072	TO KICK					»kick« #197			
+1422	LIGHT (IN WEIGHT)					»lightweight« #174			
+1244	TALL					»long/tall« #158			
