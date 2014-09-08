@@ -1,0 +1,1873 @@
+# CONCEPTICON
+# Created by: QLC Research Group (M. Cysouw, V. Kirchhoff, S. Nicolai, N.  Müller, J.-M. List [rearrange and modify this order, I put me as last person, since I didn't do quite much, not to indicate that I'm some kind of a leader in this project])
+# Created on: 2014-05-06 13:04
+# Contact: <whatemailtousehere?>
+OMEGA_WIKI	GLOSS	WOLD	POS
+4181	world	1.1	Noun
+2063	land	1.21	Noun
+5481	soil	1.212	Noun
+1009	dust	1.213	Noun
+2428	mud	1.214	Noun
+3305	sand	1.215	Noun
+2421	mountain	1.22	Noun
+1772	hill	1.22	Noun
+4261	cliff	1.222	Noun
+1875	precipice	1.222	Noun
+2813	plain	1.23	Noun
+3938	valley	1.24	Noun
+2031	island	1.25	Noun
+1364993	mainland	1.26	Noun
+1201459	shore	1.27	Noun
+513	cave	1.28	Noun
+4118	water	1.31	Noun
+6154	sea	1.32	Noun
+1505685	calm	1.322	Adjective
+1505691	rough	1.323	Adjective
+7153	foam	1.324	Noun
+2608	ocean	1.329	Noun
+2061	lake	1.33	Noun
+320	bay	1.34	Noun
+2058	lagoon	1.341	Noun
+3138	reef	1.342	Noun
+684108	cape	1.343	Noun
+421112	wave	1.35	Noun
+3777	tide	1.352	Noun
+440739	low tide	1.353	Noun
+1769	high tide	1.354	Noun
+3253	river	1.36	Noun
+411075	stream	1.36	Noun
+934369	whirlpool	1.362	Noun
+3596	spring	1.37	Noun
+4138	well	1.37	Noun
+5069	swamp	1.38	Noun
+4079	waterfall	1.39	Noun
+4168	woods	1.41	Noun
+1533	forest	1.41	Noun
+1505696	savanna	1.411	Noun
+741520	wood	1.43	Noun
+3633	stone	1.44	Noun
+3266	rock	1.44	Noun
+1019	earthquake	1.45	Noun
+7039	sky	1.51	Noun
+5850	sun	1.52	Noun
+5729	moon	1.53	Noun
+6041	star	1.54	Noun
+6811	lightning	1.55	Noun
+509787	thunder	1.56	Noun
+963421	bolt of lightning	1.57	Noun
+3635	storm	1.58	Noun
+7041	rainbow	1.59	Noun
+2158	light	1.61	Noun
+1025381	darkness	1.62	Noun
+5966	shade	1.63	Noun
+921645	dew	1.64	Noun
+106	air	1.71	Noun
+4160	wind	1.72	Noun
+623	cloud	1.73	Noun
+1502	fog	1.74	Noun
+3100	rain	1.75	Noun
+3455	snow	1.76	Noun
+1837	ice	1.77	Noun
+1505700	arctic lights	1.771	Noun
+6042	freeze	1.775	Verb
+4129	weather	1.78	Noun
+1446	fire	1.81	Noun
+376152	flame	1.82	Noun
+3451	smoke	1.83	Noun
+539987	steam	1.831	Noun
+264	ash	1.84	Noun
+1124797	embers	1.841	Noun
+844863	burn	1.851	Verb
+6039	burn	1.852	Verb
+1299599	light	1.86	Verb
+1255943	extinguish	1.861	Verb
+499237	match	1.87	Noun
+1024755	firewood	1.88	Noun
+535	charcoal	1.89	Noun
+321	beach	1.99901	Noun
+625	coal	1.99903	Noun
+688481	constellation	1.99904	Noun
+535205	jade	1.99905	Noun
+1505710	loam	1.99906	Noun
+700006	river mouth	1.99908	Noun
+6360	spring	1.9991	Noun
+1510369	blaze	1.99911	Verb
+512864	melt	1.99912	Verb
+333730	person	2.1	Noun
+6397	man	2.21	Noun
+4165	woman	2.22	Noun
+6396	male	2.23	Adjective
+6393	female	2.24	Adjective
+5905	boy	2.25	Noun
+715850	young man	2.251	Noun
+6752	girl	2.26	Noun
+715850	young woman	2.261	Noun
+568	child	2.27	Noun
+5642	baby	2.28	Noun
+5432	husband	2.31	Noun
+5429	wife	2.32	Noun
+1411401	marry	2.33	Verb
+5532	wedding	2.34	Noun
+499844	divorce	2.341	Noun
+5464	father	2.35	Noun
+5463	mother	2.36	Noun
+157257	parents	2.37	Noun
+5432	married man	2.38	Noun
+5429	married woman	2.39	Noun
+6634	son	2.41	Noun
+5881	daughter	2.42	Noun
+7413	child	2.43	Noun
+5541	brother	2.44	Noun
+7130	older brother	2.444	Noun
+7131	younger brother	2.445	Noun
+5544	sister	2.45	Noun
+7129	older sister	2.454	Noun
+7132	younger sister	2.455	Noun
+6732	sibling	2.456	Noun
+431713	twins	2.458	Noun
+5953	grandfather	2.46	Noun
+6247	grandmother	2.47	Noun
+385678	old woman	2.471	Noun
+1510376	grandparents	2.4711	Noun
+6627	grandson	2.48	Noun
+6628	granddaughter	2.49	Noun
+6624	grandchild	2.5	Noun
+5806	uncle	2.51	Noun
+936024	mother's brother	2.511	Noun
+936030	father's brother	2.512	Noun
+5591	aunt	2.52	Noun
+1372595	mother's sister	2.521	Noun
+1372531	father's sister	2.522	Noun
+454945	nephew	2.53	Noun
+6735	niece	2.54	Noun
+1373556	sibling's child	2.541	Noun
+6736	cousin	2.55	Noun
+6861	ancestors	2.56	Noun
+155705	descendants	2.57	Noun
+454081	father-in-law	2.61	Noun
+454081	father-in-law	2.611	Noun
+452350	mother-in-law	2.62	Noun
+452350	mother-in-law	2.621	Noun
+1510380	parents-in-law	2.622	Noun
+454149	son-in-law	2.63	Noun
+454149	son-in-law	2.631	Noun
+454163	daughter-in-law	2.64	Noun
+454163	daugther-in-law	2.641	Noun
+454216	child-in-law	2.6411	Noun
+765010	sibling-in-law	2.6412	Noun
+1480565	stepfather	2.71	Noun
+1480454	stepmother	2.72	Noun
+454195	stepson	2.73	Noun
+454184	stepdaughter	2.74	Noun
+509527	orphan	2.75	Noun
+711582	widow	2.76	Noun
+933133	widower	2.77	Noun
+6740	relatives	2.81	Noun
+1405	family	2.82	Noun
+5450	I	2.91	Function word
+5459	thou	2.92	Function word
+1505714	he/she/it	2.93	Function word
+5454	he	2.931	Function word
+1370660	it	2.933	Function word
+5455	we	2.94	Function word
+496905	we	2.941	Function word
+496889	we	2.942	Function word
+5456	you	2.95	Function word
+352331	they	2.96	Function word
+1394434	co-father-in-law	2.99903	Noun
+1394400	co-mother-in-law	2.99904	Noun
+454081	father-in-law	2.99905	Noun
+5696	German	2.99906	Noun
+383336	Hungarian	2.99907	Noun
+874445	lover	2.99908	Noun
+452350	mother-in-law	2.99909	Noun
+355484	Slovak	2.99915	Noun
+157536	spouse	2.99916	Noun
+454205	stepchild	2.99917	Noun
+194	animal	3.11	Noun
+6395	male	3.12	Adjective
+6392	female	3.13	Adjective
+2183	livestock	3.15	Noun
+2725	pasture	3.16	Noun
+1505722	herdsman	3.18	Noun
+3602	stable	3.19	Noun
+511	cattle	3.2	Noun
+432142	bull	3.21	Noun
+518788	ox	3.22	Noun
+432006	cow	3.23	Noun
+941919	calf	3.24	Noun
+5819	sheep	3.25	Noun
+5855	ram	3.26	Noun
+5856	ewe	3.28	Noun
+352601	lamb	3.29	Noun
+5868	boar	3.32	Noun
+5871	sow	3.34	Noun
+5836	pig	3.35	Noun
+6257	goat	3.36	Noun
+1505730	he-goat	3.37	Noun
+914854	kid	3.38	Noun
+1780	horse	3.41	Noun
+399816	stallion	3.42	Noun
+400028	mare	3.44	Noun
+6776	foal	3.45	Noun
+8030	donkey	3.46	Noun
+377499	mule	3.47	Noun
+1505737	fowl	3.5	Noun
+6308	rooster	3.52	Noun
+6311	hen	3.54	Noun
+5778	chicken	3.55	Noun
+534216	goose	3.56	Noun
+5886	duck	3.57	Noun
+957309	nest	3.58	Noun
+400	bird	3.581	Noun
+412090	seagull	3.582	Noun
+342235	heron	3.583	Noun
+1510384	hawk	3.585	Noun
+531741	vulture	3.586	Noun
+7344	bat	3.591	Noun
+374495	parrot	3.592	Noun
+388727	crow	3.593	Noun
+7890	dove	3.594	Noun
+339205	owl	3.596	Noun
+358081	cormorant	3.597	Noun
+1510388	toucan	3.598	Noun
+966	dog	3.61	Noun
+501465	rabbit	3.614	Noun
+5446	cat	3.62	Noun
+1510392	opossum	3.622	Noun
+6237	mouse	3.63	Noun
+6233	rat	3.63	Noun
+1460	fish	3.65	Noun
+1425624	fin	3.652	Noun
+1505745	scale	3.653	Noun
+844061	gill	3.654	Noun
+161542	shell	3.655	Noun
+481253	shark	3.661	Noun
+1210547	porpoise	3.662	Noun
+616807	dolphin	3.662	Noun
+4147	whale	3.663	Noun
+8401	stingray	3.664	Noun
+433736	freshwater eel	3.665	Noun
+158033	wolf	3.71	Noun
+5961	lion	3.72	Noun
+7552	bear	3.73	Noun
+5726	fox	3.74	Noun
+858	deer	3.75	Noun
+5870	monkey	3.76	Noun
+5643	elephant	3.77	Noun
+8069	camel	3.78	Noun
+1959	insect	3.81	Noun
+1510396	head louse	3.811	Noun
+1510400	body louse	3.8112	Noun
+1505748	nit	3.812	Noun
+1476	flea	3.813	Noun
+915513	centipede	3.814	Noun
+636601	scorpion	3.815	Noun
+646	cockroach	3.816	Noun
+160271	ant	3.817	Noun
+3588	spider	3.818	Noun
+456539	spider web	3.819	Noun
+325	bee	3.82	Noun
+851017	beeswax	3.821	Noun
+1161759	beehive	3.822	Noun
+631360	wasp	3.823	Noun
+6261	fly	3.83	Noun
+1167672	sandfly	3.831	Noun
+630453	mosquito	3.832	Noun
+1486478	prawns	3.833	Noun
+3747	termites	3.834	Noun
+633535	tick	3.835	Noun
+5466	worm	3.84	Noun
+3388	snake	3.85	Noun
+388687	coyote	3.862	Noun
+535092	hare	3.863	Noun
+8235	quail	3.865	Noun
+354847	raccoon	3.866	Noun
+666598	squirrel	3.869	Noun
+812111	reindeer	3.871	Noun
+718134	elk	3.872	Noun
+540414	beaver	3.873	Noun
+1355026	kangaroo	3.88	Noun
+1385114	anteater	3.89	Noun
+5513	jaguar	3.9	Noun
+1415152	firefly	3.91	Noun
+640095	chameleon	3.913	Noun
+398978	buffalo	3.917	Noun
+7316	butterfly	3.92	Noun
+1677	grasshopper	3.93	Noun
+638694	snail	3.94	Noun
+1570	frog	3.95	Noun
+2189	lizard	3.96	Noun
+791	crocodile	3.97	Noun
+648694	alligator	3.97	Noun
+1200609	turtle	3.98	Noun
+1510404	tapir	3.99	Noun
+1510408	agouti	3.99902	Noun
+162	amphibian	3.99903	Noun
+817621	armadillo	3.99906	Noun
+1510412	bandicoot	3.99907	Noun
+1510416	barn owl	3.99908	Noun
+1510420	bustard	3.99909	Noun
+1510424	capibara	3.9991	Noun
+914040	caterpillar	3.99911	Noun
+848799	codfish	3.99912	Noun
+1510432	condor	3.99913	Noun
+1510435	herd	3.99917	Noun
+1510442	hocco	3.99918	Noun
+652702	humming bird	3.99919	Noun
+1510446	ibis	3.9992	Noun
+647456	iguana	3.99921	Noun
+1510450	jabiru	3.99922	Noun
+654563	kingfisher	3.99923	Noun
+5980	louse	3.99924	Noun
+5868	male pig	3.99926	Noun
+8385	mole	3.99929	Noun
+1510460	paca	3.9993	Noun
+664663	partridge	3.99932	Noun
+2758	pet	3.99933	Noun
+1510464	piranha	3.99934	Noun
+1510468	plover	3.99935	Noun
+1048856	pouched marmot	3.99936	Noun
+367712	prairie dog	3.99937	Noun
+1510472	roadrunner	3.99938	Noun
+1255367	skunk	3.99939	Noun
+3552	songbird	3.9994	Noun
+7891	sparrow	3.99941	Noun
+8437	tiger	3.99942	Noun
+1510476	trumpeter bird	3.99943	Noun
+404160	chipmunk	3.99944	Noun
+6179	body	4.11	Noun
+3430	skin	4.12	Noun
+1505751	hide	4.12	Noun
+2300	flesh	4.13	Noun
+446278	hair	4.14	Noun
+333455	beard	4.142	Noun
+1399403	body hair	4.144	Noun
+1073333	pubic hair	4.145	Noun
+158253	dandruff	4.146	Noun
+411	blood	4.15	Noun
+8471	vein	4.151	Noun
+8473	artery	4.151	Noun
+5983	bone	4.16	Noun
+348225	rib	4.162	Noun
+5981	horn	4.17	Noun
+5468	tail	4.18	Noun
+5648	back	4.19	Noun
+348411	spine	4.191	Noun
+5527	head	4.2	Noun
+6567	temples	4.201	Noun
+6568	skull	4.202	Noun
+6504	brain	4.203	Noun
+6410	face	4.204	Noun
+1241509	forehead	4.205	Noun
+348120	jaw	4.207	Noun
+7034	cheek	4.208	Noun
+6306	chin	4.209	Noun
+5511	eye	4.21	Noun
+523726	eyebrow	4.212	Noun
+1046808	eyelid	4.213	Noun
+637874	eyelash	4.214	Noun
+6813	blink	4.215	Verb
+5510	ear	4.22	Noun
+1048124	earlobe	4.221	Noun
+1071961	earwax	4.222	Noun
+5471	nose	4.23	Noun
+527874	nostril	4.231	Noun
+1417428	nasal mucus	4.232	Noun
+332000	mouth	4.24	Noun
+1142217	beak	4.241	Noun
+154710	lip	4.25	Noun
+5440	tongue	4.26	Noun
+5946	tooth	4.27	Noun
+1295456	gums	4.271	Noun
+451991	molar tooth	4.272	Noun
+5823	neck	4.28	Noun
+5862	nape of the neck	4.281	Noun
+5861	throat	4.29	Noun
+6186	shoulder	4.3	Noun
+1372842	shoulderblade	4.301	Noun
+953048	collarbone	4.302	Noun
+6894	arm	4.31	Noun
+818235	armpit	4.312	Noun
+422180	elbow	4.32	Noun
+348173	wrist	4.321	Noun
+5616	hand	4.33	Noun
+529277	palm of the hand	4.331	Noun
+5675	finger	4.34	Noun
+7250	thumb	4.342	Noun
+5529	fingernail	4.344	Noun
+828398	claw	4.345	Noun
+5665	leg	4.35	Noun
+348189	thigh	4.351	Noun
+156660	calf of the leg	4.352	Noun
+5918	knee	4.36	Noun
+5672	foot	4.37	Noun
+348298	ankle	4.371	Noun
+422122	heel	4.372	Noun
+1510480	footprint	4.374	Noun
+5969	toe	4.38	Noun
+5528	wing	4.392	Noun
+5436	feather	4.393	Noun
+6532	chest	4.4	Noun
+5992	breast	4.41	Noun
+348030	nipple	4.412	Noun
+1329165	udder	4.42	Noun
+7690	navel	4.43	Noun
+5516	belly	4.431	Noun
+5475	heart	4.44	Noun
+334158	lung	4.441	Noun
+5476	liver	4.45	Noun
+155634	kidney	4.451	Noun
+706908	spleen	4.452	Noun
+352530	stomach	4.46	Noun
+950344	intestines	4.461	Noun
+5824	guts	4.461	Noun
+692019	waist	4.462	Noun
+707216	hip	4.463	Noun
+356264	buttocks	4.464	Noun
+502614	tendon	4.465	Noun
+348317	womb	4.47	Noun
+348064	testicles	4.49	Noun
+5473	penis	4.492	Noun
+7685	vagina	4.493	Noun
+7687	vulva	4.494	Noun
+5998	breathe	4.51	Verb
+441371	yawn	4.52	Verb
+1339563	hiccough	4.521	Verb
+373675	cough	4.53	Verb
+665334	sneeze	4.54	Verb
+1250941	perspire	4.55	Verb
+6051	spit	4.56	Verb
+5617	vomit	4.57	Verb
+5993	bite	4.58	Verb
+1510483	lick	4.59	Verb
+1505759	dribble	4.591	Verb
+6519	sleep	4.61	Verb
+935932	snore	4.612	Verb
+8448	dream	4.62	Verb
+6557	wake up	4.63	Verb
+515390	fart	4.64	Verb
+160433	piss	4.65	Verb
+332137	shit	4.66	Verb
+7269	have sex	4.67	Verb
+1106980	shiver	4.68	Verb
+1295154	bathe	4.69	Verb
+510379	beget	4.71	Verb
+474983	be born	4.72	Verb
+489482	pregnant	4.73	Adjective
+474203	conceive	4.732	Verb
+6028	be alive	4.74	Verb
+1419171	life	4.741	Noun
+6245	die	4.75	Verb
+6660	dead	4.7501	Adjective
+838127	drown	4.751	Verb
+6023	kill	4.76	Verb
+343500	corpse	4.77	Noun
+7171	carcass	4.771	Noun
+702018	bury	4.78	Verb
+7187	grave	4.79	Noun
+345510	strong	4.81	Adjective
+6555	weak	4.82	Adjective
+5901	healthy	4.83	Adjective
+7800	sick	4.84	Adjective
+7800	ill	4.84	Adjective
+6347	fever	4.841	Noun
+897615	goiter	4.842	Noun
+1178541	cold	4.843	Noun
+941	disease	4.844	Noun
+480931	wound	4.85	Noun
+1103925	sore	4.85	Noun
+509506	bruise	4.852	Noun
+838114	swelling	4.853	Noun
+1311851	itch	4.854	Noun
+6047	scratch	4.8541	Verb
+6518	blister	4.855	Noun
+347037	boil	4.856	Noun
+745553	pus	4.857	Noun
+156420	scar	4.858	Noun
+156675	cure	4.86	Verb
+161474	physician	4.87	Noun
+5919	medicine	4.88	Noun
+2847	poison	4.89	Noun
+7117	tired	4.91	Adjective
+1366972	rest	4.912	Verb
+6424	lazy	4.92	Adjective
+490061	bald	4.93	Adjective
+1510490	lame	4.94	Adjective
+428203	deaf	4.95	Adjective
+6856	mute	4.96	Adjective
+6807	blind	4.97	Adjective
+6098	drunk	4.98	Adjective
+160368	naked	4.99	Adjective
+468880	barefoot	4.99901	Adjective
+1082323	swollen	4.99902	Adjective
+1497826	canine tooth	4.99903	Noun
+438873	cholesterol	4.99904	Noun
+1351256	dribble	4.99905	Noun
+615259	fist	4.99906	Noun
+7919	lap	4.99907	Noun
+2313	metabolism	4.99908	Noun
+6259	saliva	4.9991	Noun
+1071412	scabies	4.99911	Noun
+1112610	strength	4.99912	Noun
+7691	umbilical cord	4.99913	Noun
+1312155	itch	4.99914	Verb
+5827	eat	5.11	Verb
+1505	food	5.12	Noun
+1505768	cooked	5.121	Adjective
+899678	raw	5.122	Adjective
+1378364	ripe	5.123	Adjective
+899673	unripe	5.124	Adjective
+7031	rotten	5.125	Adjective
+5991	drink	5.13	Verb
+8037	be hungry	5.14	Verb
+1407	famine	5.141	Noun
+359542	be thirsty	5.15	Verb
+6027	suck	5.16	Verb
+1510493	chew	5.18	Verb
+380335	swallow	5.181	Verb
+1260643	choke	5.19	Verb
+479132	cook	5.21	Verb
+347033	boil	5.22	Verb
+903088	roast	5.23	Verb
+425934	fry	5.23	Verb
+1392775	bake	5.24	Verb
+5053	oven	5.25	Noun
+6086	pot	5.26	Noun
+361382	kettle	5.27	Noun
+1071911	pan	5.28	Noun
+154785	dish	5.31	Noun
+154781	plate	5.32	Noun
+6341	bowl	5.33	Noun
+1505778	jug	5.34	Noun
+1238556	pitcher	5.34	Noun
+154685	cup	5.35	Noun
+1505792	saucer	5.36	Noun
+5944	spoon	5.37	Noun
+5873	knife	5.38	Noun
+5673	fork	5.39	Noun
+1505799	tongs	5.391	Noun
+6332	meal	5.41	Noun
+5787	breakfast	5.42	Noun
+343542	lunch	5.43	Noun
+7654	dinner	5.44	Noun
+7654	supper	5.45	Noun
+1505825	peel	5.46	Verb
+1160828	sieve	5.47	Verb
+402886	to strain	5.47	Verb
+7152	scrape	5.48	Verb
+334889	stir	5.49	Verb
+982997	to mix	5.49	Verb
+5910	bread	5.51	Noun
+1505807	dough	5.53	Noun
+1505815	knead	5.54	Verb
+6539	flour	5.55	Noun
+632491	crush	5.56	Verb
+441895	grind	5.56	Verb
+2359	mill	5.57	Noun
+1454028	mortar	5.58	Noun
+1454217	pestle	5.59	Noun
+2300	meat	5.61	Noun
+8105	sausage	5.63	Noun
+6390	soup	5.64	Noun
+3953	vegetables	5.65	Noun
+355931	bean	5.66	Noun
+160661	potato	5.7	Noun
+6280	fruit	5.71	Noun
+908269	bunch	5.712	Noun
+1510497	fig	5.75	Noun
+393668	grape	5.76	Noun
+1403728	nut	5.77	Noun
+512617	olive	5.78	Noun
+6195	oil	5.79	Noun
+1510501	grease	5.791	Noun
+5624	fat	5.791	Noun
+5599	salt	5.81	Noun
+5960	pepper	5.82	Noun
+392603	chili pepper	5.821	Noun
+404630	honey	5.84	Noun
+3664	sugar	5.85	Noun
+2358	milk	5.86	Noun
+1166811	milk	5.87	Verb
+6435	cheese	5.88	Noun
+5505	butter	5.89	Noun
+339	drink	5.9	Noun
+403676	mead	5.91	Noun
+6329	wine	5.92	Noun
+6715	beer	5.93	Noun
+1525942	fermented drink	5.94	Noun
+340828	egg	5.97	Noun
+6404	yolk	5.971	Noun
+1510506	fig tree	5.99901	Noun
+1188869	sated	5.99902	Adjective
+909894	soy sauce	5.99903	Noun
+859210	bacon	5.99905	Noun
+1510510	biscuit	5.99906	Noun
+906315	brandy	5.99907	Noun
+344475	cabbage	5.99908	Noun
+1510514	cassava flour	5.99909	Noun
+6929	cream	5.9991	Noun
+6252	jelly	5.99912	Noun
+1510518	mochi	5.99914	Noun
+467328	ramen noodles	5.99915	Noun
+1510522	rice ball	5.99916	Noun
+1510526	musubi	5.99916	Noun
+898998	smoked food	5.99918	Noun
+1510530	tamale	5.99919	Noun
+5530	tofu	5.9992	Noun
+5530	bean curd	5.9992	Noun
+332233	tortilla	5.99921	Noun
+423392	vinegar	5.99922	Noun
+1335540	put on	6.11	Verb
+621	clothing	6.12	Noun
+8254	clothes	6.12	Noun
+374399	tailor	6.13	Noun
+6620	cloth	6.21	Noun
+4174	wool	6.22	Noun
+389134	linen	6.23	Noun
+781	cotton	6.24	Noun
+673408	silk	6.25	Noun
+1510534	felt	6.27	Noun
+1590	fur	6.28	Noun
+2126	leather	6.29	Noun
+1240334	spin	6.31	Verb
+1505839	spindle	6.32	Noun
+1280854	weave	6.33	Verb
+7280	loom	6.34	Noun
+6073	sew	6.35	Verb
+5951	needle	6.36	Noun
+1505847	awl	6.37	Noun
+515580	thread	6.38	Noun
+1335255	dye	6.39	Verb
+1510537	cloak	6.41	Noun
+1510543	poncho	6.411	Noun
+154560	dress	6.42	Noun
+161851	coat	6.43	Noun
+6654	shirt	6.44	Noun
+900585	collar	6.45	Noun
+6552	skirt	6.46	Noun
+1510547	grass-skirt	6.461	Noun
+349559	trousers	6.48	Noun
+6327	sock	6.49	Noun
+1510550	stocking	6.49	Noun
+5948	shoe	6.51	Noun
+159566	boot	6.52	Noun
+372056	shoemaker	6.54	Noun
+344283	hat	6.55	Noun
+5641	cap	6.55	Noun
+344311	belt	6.57	Noun
+369021	glove	6.58	Noun
+510127	veil	6.59	Noun
+7816	pocket	6.61	Noun
+342095	button	6.62	Noun
+1116679	pin	6.63	Noun
+391992	ornament	6.71	Noun
+756816	adornment	6.71	Noun
+441479	jewel	6.72	Noun
+5931	ring	6.73	Noun
+710484	bracelet	6.74	Noun
+900585	necklace	6.75	Noun
+799152	bead	6.76	Noun
+344234	earring	6.77	Noun
+1510556	headband	6.78	Noun
+1510560	headdress	6.78	Noun
+1130256	tattoo	6.79	Noun
+436343	handkerchief	6.81	Noun
+1510563	rag	6.81	Noun
+436437	towel	6.82	Noun
+6157	comb	6.91	Noun
+7562	brush	6.92	Noun
+1510567	plait	6.921	Noun
+447700	braid	6.921	Noun
+1318581	razor	6.93	Noun
+848858	ointment	6.94	Noun
+3458	soap	6.95	Noun
+520838	mirror	6.96	Noun
+1478056	snowshoe	6.98	Noun
+354587	bag	6.99901	Noun
+1510574	fringe	6.99903	Noun
+158094	pompom	6.99906	Noun
+1383890	sandal	6.99907	Noun
+1414327	sleeve	6.99908	Noun
+494229	style	6.9991	Noun
+507088	fashion	6.9991	Noun
+420726	wear	6.99911	Verb
+478515	live	7.11	Verb
+5517	house	7.12	Noun
+691328	hut	7.13	Noun
+1525934	garden-house	7.131	Noun
+5770	tent	7.14	Noun
+339642	yard	7.15	Noun
+1017244	court	7.15	Noun
+1510578	cookhouse	7.17	Noun
+1510584	meeting house	7.18	Noun
+6065	room	7.21	Noun
+1253751	door	7.22	Noun
+6430	gate	7.22	Noun
+1153341	doorpost	7.221	Noun
+6546	lock	7.23	Noun
+433601	latch	7.231	Noun
+433601	door-bolt	7.231	Noun
+1510588	padlock	7.232	Noun
+6149	key	7.24	Noun
+5932	window	7.25	Noun
+6679	floor	7.26	Noun
+3989	wall	7.27	Noun
+1395201	fireplace	7.31	Noun
+3637	stove	7.32	Noun
+569	chimney	7.33	Noun
+6099	ladder	7.37	Noun
+6851	bed	7.42	Noun
+447708	pillow	7.421	Noun
+348520	blanket	7.422	Noun
+6162	chair	7.43	Noun
+7196	table	7.44	Noun
+2062	lamp	7.45	Noun
+844734	torch	7.45	Noun
+5592	candle	7.46	Noun
+340859	shelf	7.47	Noun
+1412223	trough	7.48	Noun
+344031	roof	7.51	Noun
+1506073	thatch	7.52	Noun
+1506083	ridgepole	7.53	Noun
+355194	rafter	7.54	Noun
+498099	beam	7.55	Noun
+1506091	post	7.56	Noun
+1506095	pole	7.56	Noun
+5479	board	7.57	Noun
+372196	arch	7.58	Noun
+372205	mason	7.61	Noun
+432	brick	7.62	Noun
+703845	mortar	7.63	Noun
+383952	adobe	7.64	Noun
+480116	camp	7.65	Noun
+987151	hammock	7.66	Noun
+1501856	tan	7.67	Verb
+7489	bench	7.99901	Noun
+1510592	griddle	7.99903	Noun
+421045	guestroom	7.99904	Noun
+1510596	mosquito net	7.99905	Noun
+1510600	roof tile	7.99906	Noun
+421671	farmer	8.11	Noun
+1425	field	8.12	Noun
+1506100	paddy	8.121	Noun
+1601	garden	8.13	Noun
+638225	cultivate	8.15	Verb
+698534	fence	8.16	Noun
+960	ditch	8.17	Noun
+845139	plough	8.21	Verb
+845139	plow	8.21	Verb
+7346	furrow	8.212	Noun
+6024	dig	8.22	Verb
+525509	spade	8.23	Noun
+8359	shovel	8.24	Noun
+1506109	hoe	8.25	Noun
+1510832	pitchfork	8.26	Noun
+1510832	pitchfork	8.26	Noun
+1510836	rake	8.27	Noun
+1510840	digging stick	8.28	Noun
+1510846	lasso	8.29	Noun
+341201	sow	8.31	Verb
+3361	seed	8.311	Noun
+1403529	mow	8.32	Verb
+1510850	sickle	8.33	Noun
+1050369	scythe	8.33	Noun
+1506115	thresh	8.34	Verb
+1451560	threshing-floor	8.35	Noun
+1722	harvest	8.41	Noun
+1674	grain	8.42	Noun
+466721	wheat	8.43	Noun
+398106	barley	8.44	Noun
+1054188	rye	8.45	Noun
+1111216	oats	8.46	Noun
+157264	maize	8.47	Noun
+157264	corn	8.47	Noun
+395506	rice	8.48	Noun
+1675	grass	8.51	Noun
+1510854	hay	8.52	Noun
+2836	plant	8.53	Noun
+619975	plant	8.531	Verb
+3269	root	8.54	Noun
+6343	branch	8.55	Noun
+2124	leaf	8.56	Noun
+1487	flower	8.57	Noun
+3854	tree	8.6	Noun
+2597	oak	8.61	Noun
+880926	beech	8.62	Noun
+7898	birch	8.63	Noun
+706003	pine	8.64	Noun
+843491	fir	8.65	Noun
+419370	acorn	8.66	Noun
+1510857	vine	8.67	Noun
+420209	tobacco	8.68	Noun
+6968	smoke	8.69	Verb
+489864	pipe	8.691	Noun
+1490199	tree stump	8.72	Noun
+1510861	tree trunk	8.73	Noun
+5439	bark	8.75	Noun
+1510865	sap	8.76	Noun
+528656	palm tree	8.81	Noun
+419639	coconut	8.82	Noun
+492550	citrus fruit	8.83	Noun
+369665	banana	8.84	Noun
+1510869	banyan	8.85	Noun
+1336889	sweet potato	8.91	Noun
+397763	millet	8.911	Noun
+1510873	sorghum	8.911	Noun
+395385	cassava	8.92	Noun
+395809	manioc	8.92	Noun
+366683	pumpkin	8.931	Noun
+366683	squash	8.931	Noun
+848903	bamboo	8.94	Noun
+1310853	sugar cane	8.941	Noun
+1510877	fish poison	8.96	Noun
+1072992	nettle	8.97	Noun
+2444	mushroom	8.98	Noun
+1223914	larch	8.991	Noun
+1506160	needle	8.993	Noun
+1506163	cone	8.996	Noun
+361201	almond	8.99901	Noun
+1510881	amomum	8.99902	Noun
+1510885	anatto	8.99903	Noun
+5781	apple	8.99905	Noun
+474721	ash tree	8.99906	Noun
+358603	broccoli	8.99908	Noun
+1510889	bromelia	8.99909	Noun
+424192	carrot	8.9991	Noun
+1318006	cashew	8.99911	Noun
+5063	coniferous tree	8.99914	Noun
+1300711	cottontree	8.99915	Noun
+1510893	creeper	8.99916	Noun
+1275135	dung	8.99918	Noun
+1510897	guava	8.99921	Noun
+1043887	kohlrabi	8.99924	Noun
+1510901	liana	8.99925	Noun
+1510905	lima beans	8.99926	Noun
+1510909	lupin	8.99927	Noun
+395778	mango	8.9993	Noun
+1510912	mangrove	8.99931	Noun
+157304	melon	8.99932	Noun
+397763	millet	8.99933	Noun
+343780	onion	8.99935	Noun
+5821	orange	8.99936	Noun
+726623	pea	8.99937	Noun
+393831	pear	8.99938	Noun
+984034	pineapple	8.99939	Noun
+941830	plum	8.99941	Noun
+3137	reed	8.99943	Noun
+1510916	rubber tree	8.99944	Noun
+1510919	straw	8.99946	Noun
+1319542	sugar beet	8.99947	Noun
+3708	tar	8.99948	Noun
+1510923	taro	8.99949	Noun
+941734	turnip	8.99952	Noun
+1510927	vetch	8.99953	Noun
+458943	watermelon	8.99954	Noun
+440217	whip	8.99955	Noun
+352435	willow	8.99957	Noun
+3414	woody shrub	8.99958	Noun
+802681	yerba mate	8.99959	Noun
+154737	grow	8.9996	Verb
+1165666	pick	8.99961	Verb
+5772	raise	8.99962	Verb
+351006	do	9.11	Verb
+339200	make	9.111	Verb
+471303	work	9.12	Noun
+961409	bend	9.14	Verb
+6146	fold	9.15	Verb
+844574	tie	9.16	Verb
+1510931	untie	9.161	Verb
+6665	chain	9.18	Noun
+5465	rope	9.19	Noun
+342406	knot	9.192	Noun
+1510934	strike	9.21	Verb
+6044	hit	9.21	Verb
+6855	beat	9.21	Verb
+1510937	pound	9.211	Verb
+6043	cut	9.22	Verb
+1510941	cut down	9.221	Verb
+1329931	chop	9.222	Verb
+6045	stab	9.223	Verb
+5873	knife	9.23	Noun
+5807	scissors	9.24	Noun
+1510945	shears	9.24	Noun
+333200	axe	9.25	Noun
+333200	ax	9.25	Noun
+1507412	adze	9.251	Noun
+333586	break	9.26	Verb
+160300	broken	9.261	Adjective
+6048	split	9.27	Verb
+704859	tear	9.28	Verb
+1507419	skin	9.29	Verb
+6062	rub	9.31	Verb
+6070	wipe	9.311	Verb
+1425791	stretch	9.32	Verb
+6071	pull	9.33	Verb
+1083572	spread out	9.34	Verb
+1510949	hang up	9.341	Verb
+842520	press	9.342	Verb
+6017	squeeze	9.343	Verb
+621011	pour	9.35	Verb
+6069	wash	9.36	Verb
+1466959	sweep	9.37	Verb
+1501242	broom	9.38	Noun
+5894	tool	9.422	Noun
+447386	carpenter	9.43	Noun
+7714	build	9.44	Verb
+625688	bore	9.46	Verb
+1101921	hollow out	9.461	Verb
+876531	saw	9.48	Noun
+6183	hammer	9.49	Noun
+156863	nail	9.5	Noun
+46	glue	9.56	Noun
+430574	blacksmith	9.6	Noun
+1507103	forge	9.61	Verb
+6777	anvil	9.62	Noun
+1421991	cast	9.63	Verb
+5912	gold	9.64	Noun
+3424	silver	9.65	Noun
+761	copper	9.66	Noun
+2024	iron	9.67	Noun
+2119	lead	9.68	Noun
+3780	tin	9.69	Noun
+1510953	tinplate	9.69	Noun
+1510957	potter	9.71	Noun
+1507122	mould	9.72	Verb
+1507122	mold	9.72	Verb
+599	clay	9.73	Noun
+1656	glass	9.74	Noun
+1280854	weave	9.75	Verb
+447700	plait/braid	9.75	Verb
+6368	basket	9.76	Noun
+1405241	mat	9.77	Noun
+1507431	netbag	9.78	Noun
+912239	fan	9.79	Noun
+1510960	fan	9.791	Verb
+1462598	carve	9.81	Verb
+388881	sculptor	9.82	Noun
+430779	statue	9.83	Noun
+926391	chisel	9.84	Noun
+1285089	boomerang	9.87	Noun
+2709	paint	9.88	Noun
+959903	paint	9.89	Verb
+840722	draw water	9.9	Verb
+1510964	peg	9.91	Noun
+1507439	whetstone	9.93	Noun
+1501251	barrel	9.99901	Noun
+1510968	basketry	9.99902	Noun
+7811	bucket	9.99903	Noun
+467	cable	9.99904	Noun
+389156	canvas sheet	9.99905	Noun
+1012677	corrugated iron	9.99906	Noun
+1393199	deck	9.99907	Noun
+1501234	drill	9.99908	Noun
+637005	file	9.99909	Noun
+1717	harbour	9.9991	Noun
+358355	harpoon	9.99911	Noun
+5835	pencil	9.99915	Noun
+155734	rust	9.99916	Noun
+7726	sack	9.99917	Noun
+1510974	scraper	9.99918	Noun
+668359	slap	9.99921	Noun
+1399469	spur	9.99922	Noun
+1510977	string	9.99923	Noun
+690122	cord	9.99923	Noun
+1510981	trail	9.99924	Noun
+4138	well	9.99925	Noun
+1717	wharf	9.99926	Noun
+7914	wheelbarrow	9.99927	Noun
+155842	barbecue	9.99928	Noun
+448880	close	9.99929	Verb
+339931	draw	9.9993	Verb
+1510985	dwell	9.99931	Verb
+7092	go away	9.99932	Verb
+839207	prepare	9.99934	Verb
+1510989	smear	9.99936	Verb
+475957	support	9.99938	Verb
+343359	move	10.11	Verb
+6526	turn	10.12	Verb
+6055	turn around	10.13	Verb
+483089	wrap	10.14	Verb
+354681	roll	10.15	Verb
+348656	drop	10.16	Verb
+630856	rise	10.21	Verb
+5772	raise	10.22	Verb
+156785	lift	10.22	Verb
+5622	fall	10.23	Verb
+1510993	drip	10.24	Verb
+6072	throw	10.25	Verb
+335306	catch	10.252	Verb
+839866	shake	10.26	Verb
+961244	flow	10.32	Verb
+349629	sink	10.33	Verb
+6457	float	10.34	Verb
+6050	swim	10.35	Verb
+1235455	dive	10.351	Verb
+1510997	splash	10.352	Verb
+345774	sail	10.36	Verb
+6052	fly	10.37	Verb
+1375415	blow	10.38	Verb
+1168231	crawl	10.41	Verb
+1120420	kneel	10.412	Verb
+1507443	crouch	10.413	Verb
+5791	slide	10.42	Verb
+5791	slip	10.42	Verb
+7622	jump	10.43	Verb
+500899	kick	10.431	Verb
+8136	dance	10.44	Verb
+6054	walk	10.45	Verb
+1511001	limp	10.451	Verb
+6323	run	10.46	Verb
+334831	go	10.47	Verb
+335553	go up	10.471	Verb
+479387	climb	10.472	Verb
+980418	go down	10.473	Verb
+480460	go out	10.474	Verb
+6056	come	10.48	Verb
+159011	come back	10.481	Verb
+7092	leave	10.49	Verb
+155161	disappear	10.491	Verb
+6261	flee	10.51	Verb
+471020	follow	10.52	Verb
+450119	pursue	10.53	Verb
+5965	arrive	10.55	Verb
+721097	approach	10.56	Verb
+341348	enter	10.57	Verb
+334831	go	10.58	Verb
+1300468	return home	10.58	Verb
+335263	carry	10.61	Verb
+334503	bring	10.62	Verb
+493075	send	10.63	Verb
+471268	lead	10.64	Verb
+340699	drive	10.65	Verb
+1511006	ride	10.66	Verb
+6068	push	10.67	Verb
+3258	road	10.71	Noun
+4382	path	10.72	Noun
+433	bridge	10.74	Noun
+1240424	cart	10.75	Noun
+415600	wagon	10.75	Noun
+335923	wheel	10.76	Noun
+7167	axle	10.77	Noun
+1031313	yoke	10.78	Noun
+1511010	sledge	10.79	Noun
+1043216	sled	10.79	Noun
+3403	ship	10.81	Noun
+7774	boat	10.83	Noun
+911657	canoe	10.831	Noun
+6853	raft	10.84	Noun
+1478129	oar	10.85	Noun
+1478129	paddle	10.851	Noun
+7808	row	10.852	Verb
+1192505	rudder	10.86	Noun
+1393299	mast	10.87	Noun
+1425	sail	10.88	Noun
+806253	anchor	10.89	Noun
+1717	port	10.91	Noun
+846608	land	10.92	Verb
+638652	accompany	10.99901	Verb
+1511014	dip	10.99904	Verb
+842597	pass	10.99906	Function word
+1511017	step	10.99907	Verb
+6530	wait	10.99908	Verb
+344354	have	11.11	Verb
+333811	own	11.12	Verb
+7077	take	11.13	Verb
+992756	grasp	11.14	Verb
+6060	hold	11.15	Verb
+5965	get	11.16	Verb
+6163	keep	11.17	Verb
+339816	thing	11.18	Noun
+6059	give	11.21	Verb
+1160012	give back	11.22	Verb
+5818	preserve	11.24	Verb
+963523	rescue	11.25	Verb
+333618	destroy	11.27	Verb
+1092621	injure	11.28	Verb
+485920	damage	11.29	Verb
+6142	look for	11.31	Verb
+336790	find	11.32	Verb
+6832	lose	11.33	Verb
+476248	let go	11.34	Verb
+6408	money	11.43	Noun
+8052	coin	11.44	Noun
+336015	rich	11.51	Adjective
+6897	poor	11.52	Adjective
+853288	beggar	11.53	Noun
+719375	stingy	11.54	Adjective
+159035	lend	11.61	Verb
+7569	borrow	11.62	Verb
+1511021	owe	11.63	Verb
+843	debt	11.64	Noun
+336535	pay	11.65	Verb
+468867	bill	11.66	Noun
+3714	tax	11.69	Noun
+362921	hire	11.77	Verb
+487077	wages	11.78	Noun
+339161	earn	11.79	Verb
+8061	buy	11.81	Verb
+6439	sell	11.82	Verb
+3812	trade	11.83	Verb
+1511024	barter	11.83	Verb
+470229	merchant	11.84	Noun
+2276	market	11.85	Noun
+3409	shop	11.86	Noun
+341452	store	11.86	Noun
+2959	price	11.87	Noun
+6036	expensive	11.88	Adjective
+8184	cheap	11.89	Adjective
+374731	share	11.91	Verb
+478489	weigh	11.92	Verb
+1262281	for free	11.99901	Adverb
+6378	card	11.99902	Noun
+5611	gift	11.99903	Noun
+435478	property	11.99904	Noun
+400958	string instrument	11.99905	Noun
+1381836	be worth	11.99906	Verb
+6945	after	12.01	Function word
+6945	behind	12.011	Function word
+6077	in	12.012	Function word
+6078	at	12.013	Function word
+752575	beside	12.02	Function word
+5797	down	12.03	Function word
+8159	before	12.04	Function word
+8160	in front of	12.041	Function word
+6571	inside	12.05	Function word
+342558	outside	12.06	Function word
+6199	under	12.07	Function word
+6531	up	12.08	Function word
+7064	above	12.081	Function word
+337267	place	12.11	Noun
+429615	put	12.12	Verb
+6022	sit	12.13	Verb
+1425860	lie down	12.14	Verb
+6053	stand	12.15	Verb
+423795	remain	12.16	Verb
+357288	remains	12.17	Noun
+7643	gather	12.21	Verb
+1511027	pick up	12.212	Verb
+646056	pile up	12.213	Verb
+7069	join	12.22	Verb
+5883	separate	12.23	Verb
+486237	divide	12.232	Verb
+513017	open	12.24	Verb
+448880	shut	12.25	Verb
+342543	cover	12.26	Verb
+161806	hide	12.27	Verb
+5562	high	12.31	Adjective
+336887	low	12.32	Adjective
+709258	top	12.33	Noun
+334481	bottom	12.34	Noun
+340747	end	12.35	Noun
+1511031	pointed	12.352	Adjective
+366432	edge	12.353	Noun
+333652	side	12.36	Noun
+475332	middle	12.37	Noun
+436024	right	12.41	Adjective
+1499731	left	12.42	Adjective
+869106	near	12.43	Adverb
+5997	far	12.44	Adverb
+8131	east	12.45	Noun
+7537	west	12.46	Noun
+6550	north	12.47	Noun
+6542	south	12.48	Noun
+154737	grow	12.53	Verb
+626882	measure	12.54	Verb
+1153477	fathom	12.541	Noun
+5437	big	12.55	Adjective
+5509	small	12.56	Adjective
+5438	long	12.57	Adjective
+335942	tall	12.58	Adjective
+6746	short	12.59	Adjective
+5502	wide	12.61	Adjective
+5566	narrow	12.62	Adjective
+5503	thick	12.63	Adjective
+5990	thin	12.65	Adjective
+6535	deep	12.67	Adjective
+1404411	shallow	12.68	Adjective
+6680	flat	12.71	Adjective
+5994	straight	12.73	Adjective
+1507521	crooked	12.74	Adjective
+461013	hook	12.75	Noun
+1404011	corner	12.76	Noun
+5908	cross	12.77	Noun
+3599	square	12.78	Noun
+5984	round	12.81	Adjective
+6135	circle	12.82	Noun
+7785	ball	12.83	Noun
+451773	line	12.84	Noun
+6857	hole	12.85	Noun
+6406	similar	12.92	Adjective
+5547	change	12.93	Verb
+520618	apart	12.99901	Function word
+5646	back	12.99902	Adverb
+5653	zero	13	Function word
+6244	one	13.01	Function word
+6248	two	13.02	Function word
+156096	three	13.03	Function word
+6253	four	13.04	Function word
+156104	five	13.05	Function word
+7003	six	13.06	Function word
+7004	seven	13.07	Function word
+7005	eight	13.08	Function word
+6193	nine	13.09	Function word
+6312	ten	13.1	Function word
+7006	eleven	13.101	Function word
+7007	twelve	13.102	Function word
+7010	fifteen	13.103	Function word
+7013	twenty	13.104	Function word
+6685	a hundred	13.105	Function word
+7755	a thousand	13.106	Function word
+6026	count	13.107	Verb
+1173416	all	13.14	Function word
+5423	many	13.15	Function word
+950694	more	13.16	Function word
+5500	few	13.17	Function word
+8158	enough	13.18	Function word
+5499	some	13.181	Function word
+993922	crowd	13.19	Noun
+6040	full	13.21	Adjective
+6659	empty	13.22	Adjective
+345219	part	13.23	Noun
+160850	piece	13.231	Noun
+352085	half	13.24	Noun
+6485	only	13.33	Function word
+904382	alone	13.331	Adjective
+338524	first	13.34	Function word
+6337	last	13.35	Function word
+5958	second	13.36	Function word
+8187	pair	13.37	Noun
+6389	twice	13.38	Function word
+7979	third	13.42	Function word
+904463	a little	13.99901	Function word
+5496	each	13.99903	Function word
+5496	every	13.99903	Function word
+1279033	centigram	13.99904	Noun
+339629	yard	13.99905	Noun
+7017	thirty	13.99906	Function word
+962533	fill	13.99907	Verb
+1092173	substitute	13.99908	Function word
+3779	time	14.11	Noun
+73	age	14.12	Noun
+73	new	14.13	Adjective
+5445	young	14.14	Adjective
+5482	old	14.15	Adjective
+331892	early	14.16	Function word
+154705	late	14.17	Function word
+5936	now	14.18	Function word
+904194	immediately	14.19	Function word
+6672	fast	14.21	Adverb
+335287	slow	14.22	Adverb
+341511	hurry	14.23	Verb
+154705	be late	14.24	Verb
+7451	begin	14.25	Verb
+6405	beginning	14.251	Noun
+533044	last	14.252	Verb
+340750	end	14.26	Noun
+7146	finish	14.27	Verb
+849510	cease	14.28	Verb
+346236	ready	14.29	Adjective
+6902	always	14.31	Function word
+7834	often	14.32	Function word
+6387	sometimes	14.33	Function word
+335437	soon	14.331	Function word
+6814	never	14.34	Function word
+1412012	again	14.35	Function word
+5477	day	14.41	Noun
+5533	day	14.411	Noun
+5486	night	14.42	Noun
+338616	dawn	14.43	Noun
+5840	morning	14.44	Noun
+1026415	midday	14.45	Noun
+7455	afternoon	14.451	Noun
+6671	evening	14.46	Noun
+5630	today	14.47	Function word
+5808	tomorrow	14.48	Function word
+528451	day after tomorrow	14.481	Function word
+525186	yesterday	14.49	Function word
+528467	day before yesterday	14.491	Function word
+5874	hour	14.51	Noun
+5790	clock	14.53	Noun
+6145	week	14.61	Noun
+6993	Sunday	14.62	Noun
+6992	Monday	14.63	Noun
+6991	Tuesday	14.64	Noun
+6990	Wednesday	14.65	Noun
+6989	Thursday	14.66	Noun
+6988	Friday	14.67	Noun
+6994	Saturday	14.68	Noun
+5914	month	14.71	Noun
+5478	year	14.73	Noun
+6147	winter	14.74	Noun
+6360	spring	14.75	Noun
+5848	summer	14.76	Noun
+5615	autumn	14.77	Noun
+5615	fall	14.77	Noun
+3345	season	14.78	Noun
+1511035	Chinese New Year	14.99901	Noun
+1511039	long ago	14.99902	Adverb
+403368	New Year	14.99903	Noun
+343420	period	14.99905	Noun
+1511042	time	14.99906	Noun
+6521	smell	15.21	Verb
+1511046	sniff	15.212	Verb
+6520	smell	15.22	Verb
+1511050	fragrant	15.25	Adjective
+1089734	stinking	15.26	Adjective
+1051228	taste	15.31	Verb
+336426	sweet	15.35	Adjective
+475116	salty	15.36	Adjective
+375671	bitter	15.37	Adjective
+838324	sour	15.38	Adjective
+1132622	brackish	15.39	Adjective
+5999	hear	15.41	Verb
+6576	listen	15.42	Verb
+7469	sound	15.44	Noun
+5290	noise	15.44	Noun
+1511054	loud	15.45	Adjective
+5759	quiet	15.46	Adjective
+6003	see	15.51	Verb
+7550	look	15.52	Verb
+446099	show	15.55	Verb
+335797	shine	15.56	Verb
+333539	bright	15.57	Adjective
+661	colour	15.61	Noun
+661	color	15.61	Noun
+1502678	light	15.62	Adjective
+335607	dark	15.63	Adjective
+5825	white	15.64	Adjective
+1341728	black	15.65	Adjective
+1333710	red	15.66	Adjective
+357132	blue	15.67	Adjective
+6032	green	15.68	Adjective
+6031	yellow	15.69	Adjective
+8232	touch	15.71	Verb
+1511058	pinch	15.712	Verb
+467089	feel	15.72	Verb
+8173	hard	15.74	Adjective
+7907	soft	15.75	Adjective
+846773	rough	15.76	Adjective
+5487	smooth	15.77	Adjective
+5987	sharp	15.78	Adjective
+1511061	blunt	15.79	Adjective
+5451	heavy	15.81	Adjective
+452743	light	15.82	Adjective
+7027	wet	15.83	Adjective
+5989	dry	15.84	Adjective
+5637	hot	15.85	Adjective
+5637	warm	15.851	Adjective
+5639	cold	15.86	Adjective
+335501	clean	15.87	Adjective
+5483	dirty	15.88	Adjective
+1511065	wrinkled	15.89	Adjective
+6938	brown	15.99901	Adjective
+1325782	grey	15.99902	Adjective
+1384019	orange	15.99903	Adjective
+158482	pink	15.99904	Adjective
+155151	trace	15.99905	Noun
+8416	violet	15.99906	Adjective
+349815	soul	16.11	Noun
+1107036	spirit	16.11	Noun
+6444	surprised	16.15	Adjective
+834474	astonished	16.15	Adjective
+336810	good luck	16.18	Noun
+1107818	bad luck	16.19	Noun
+6246	happy	16.23	Adjective
+5876	laugh	16.25	Verb
+6067	smile	16.251	Verb
+6010	play	16.26	Verb
+395193	love	16.27	Verb
+158442	kiss	16.29	Verb
+395892	embrace	16.3	Verb
+7257	pain	16.31	Noun
+6858	grief	16.32	Noun
+430287	anxiety	16.33	Noun
+8110	regret	16.34	Verb
+8110	be sorry	16.34	Verb
+503503	pity	16.35	Noun
+7709	cry	16.37	Verb
+6805	tear	16.38	Noun
+336417	groan	16.39	Verb
+6573	hate	16.41	Verb
+1156554	anger	16.42	Noun
+1086952	envy	16.44	Noun
+980918	jealousy	16.44	Noun
+719675	shame	16.45	Noun
+1374507	proud	16.48	Adjective
+722783	dare	16.51	Verb
+1016033	brave	16.52	Adjective
+345325	fear	16.53	Noun
+7456	danger	16.54	Noun
+7258	want	16.62	Verb
+7084	choose	16.622	Verb
+475239	hope	16.63	Verb
+1176245	faithful	16.65	Adjective
+6816	TRUE	16.66	Adjective
+161769	lie	16.67	Verb
+1030671	deceit	16.68	Noun
+6336	forgive	16.69	Verb
+443659	good	16.71	Adjective
+5650	bad	16.72	Adjective
+7026	right	16.73	Adjective
+5971	wrong	16.74	Adjective
+1280872	fault	16.76	Noun
+5651	mistake	16.77	Noun
+1511068	blame	16.78	Noun
+695465	praise	16.79	Noun
+6037	beautiful	16.81	Adjective
+639024	ugly	16.82	Adjective
+983313	greedy	16.83	Adjective
+5722	clever	16.84	Adjective
+333350	better	16.99901	Adjective
+714063	in vain	16.99902	Adverb
+5587	thank you!	16.99903	Function word
+1098484	evil	16.99904	Noun
+1463209	mood	16.99905	Noun
+335952	trouble	16.99906	Noun
+823950	be ashamed	16.99907	Verb
+6246	be glad	16.99908	Verb
+1416804	complain	16.99909	Verb
+1083905	enthuse	16.9991	Verb
+1511072	look forward	16.99911	Verb
+1093013	praise	16.99912	Verb
+994062	voluptuous	16.99913	Adjective
+8274	wild	16.99914	Adjective
+1511076	worse	16.99915	Adjective
+6418	mind	17.11	Noun
+6021	think	17.13	Verb
+6309	think	17.14	Verb
+8203	believe	17.15	Verb
+6356	understand	17.16	Verb
+6004	know	17.17	Verb
+8518	guess	17.171	Verb
+1229900	imitate	17.172	Verb
+6326	seem	17.18	Verb
+6580	idea	17.19	Noun
+334990	wise	17.21	Adjective
+6322	stupid	17.22	Adjective
+833779	mad	17.23	Adjective
+157124	learn	17.24	Verb
+8498	study	17.242	Verb
+335855	teach	17.25	Verb
+341470	pupil	17.26	Noun
+445262	teacher	17.27	Noun
+3320	school	17.28	Noun
+335793	remember	17.31	Verb
+6328	forget	17.32	Verb
+425679	clear	17.34	Adjective
+7140	obscure	17.35	Adjective
+486825	secret	17.36	Adjective
+157395	certain	17.37	Adjective
+6661	explain	17.38	Verb
+516310	intention	17.41	Noun
+364159	cause	17.42	Noun
+5716	doubt	17.43	Noun
+7724	suspect	17.44	Verb
+837839	betray	17.441	Verb
+2497	need	17.45	Noun
+333916	easy	17.46	Adjective
+159359	difficult	17.47	Adjective
+7471	try	17.48	Verb
+155620	manner	17.49	Noun
+6464	and	17.51	Function word
+514093	because	17.52	Function word
+6076	if	17.53	Function word
+433943	or	17.54	Function word
+5567	yes	17.55	Function word
+5568	no	17.56	Function word
+5494	how	17.61	Function word
+353440	how many	17.62	Function word
+158133	how much	17.63	Function word
+5491	what	17.64	Function word
+5493	when	17.65	Function word
+5492	where	17.66	Function word
+338269	which	17.67	Function word
+5490	who	17.68	Function word
+5572	why	17.69	Function word
+441581	on purpose	17.99901	Adverb
+334946	possibility	17.99902	Noun
+6406	same	17.99903	Function word
+1025845	scarcity	17.99904	Noun
+481714	state	17.99905	Noun
+8493	study	17.99906	Noun
+6812	doubt	17.99907	Verb
+5899	voice	18.11	Noun
+5540	sing	18.12	Verb
+336249	shout	18.13	Verb
+1107650	whisper	18.15	Verb
+1258410	mumble	18.16	Verb
+440386	whistle	18.17	Verb
+1508293	shriek	18.18	Verb
+158088	howl	18.19	Verb
+6656	speak	18.21	Verb
+6656	talk	18.21	Verb
+8041	stutter	18.211	Verb
+8041	stammer	18.211	Verb
+6075	say	18.22	Verb
+701342	tell	18.221	Verb
+4834	speech	18.222	Noun
+1103280	be silent	18.23	Verb
+5713	language	18.24	Noun
+6551	word	18.26	Noun
+5995	name	18.28	Noun
+5717	ask	18.31	Verb
+5610	answer	18.32	Verb
+992946	admit	18.33	Verb
+341655	deny	18.34	Verb
+7621	ask	18.35	Verb
+6898	promise	18.36	Verb
+1103325	refuse	18.37	Verb
+1157984	forbid	18.38	Verb
+1508300	scold	18.39	Verb
+470997	call	18.41	Verb
+1378786	call	18.42	Verb
+1024716	announce	18.43	Verb
+539320	threaten	18.44	Verb
+1176597	boast	18.45	Verb
+6891	write	18.51	Verb
+337421	read	18.52	Verb
+2713	paper	18.56	Noun
+347193	pen	18.57	Noun
+417	book	18.61	Noun
+448577	poet	18.67	Noun
+344824	flute	18.71	Noun
+386380	drum	18.72	Noun
+401769	horn	18.73	Noun
+344567	trumpet	18.73	Noun
+1508303	rattle	18.74	Noun
+377540	fairy tale	18.99901	Noun
+639674	hieroglyph	18.99902	Noun
+639710	hieroglyphics	18.99902	Noun
+7971	joke	18.99903	Noun
+1473788	poem	18.99904	Noun
+1511080	upper case	18.99905	Noun
+1511084	capital letter	18.99905	Noun
+348995	violin	18.99906	Noun
+918205	chat	18.99908	Verb
+626707	greet	18.99909	Verb
+413739	spell	18.9991	Verb
+485242	thank	18.99911	Verb
+5671	country	19.11	Noun
+1162698	native country	19.12	Noun
+5974	town	19.15	Noun
+3968	village	19.16	Noun
+432931	boundary	19.17	Noun
+345923	people	19.21	Noun
+1508311	clan	19.23	Noun
+5663	walking stick	19.25	Noun
+7797	rule	19.31	Verb
+1511088	govern	19.31	Verb
+6303	king	19.32	Noun
+5708	queen	19.33	Noun
+154801	noble	19.36	Noun
+4418	citizen	19.37	Noun
+1511091	master	19.41	Noun
+350300	slave	19.42	Noun
+1504891	servant	19.43	Noun
+1511095	freeman	19.44	Noun
+1077778	liberate	19.445	Verb
+957698	command	19.45	Verb
+493103	order	19.45	Verb
+6686	obey	19.46	Verb
+431335	permit	19.47	Verb
+5793	friend	19.51	Noun
+5882	enemy	19.52	Noun
+5820	neighbour	19.54	Noun
+346995	stranger	19.55	Noun
+7254	guest	19.56	Noun
+6588	invite	19.565	Verb
+638743	host	19.57	Noun
+830463	help	19.58	Verb
+6391	prevent	19.59	Verb
+6391	custom	19.61	Noun
+7805	quarrel	19.62	Noun
+996296	plot	19.63	Noun
+7643	meet	19.65	Verb
+658684	prostitute	19.72	Noun
+798969	Arabia	19.99901	Noun
+5776	Australia	19.99902	Noun
+155279	China	19.99903	Noun
+8347	Egypt	19.99904	Noun
+6359	free	19.99905	Adjective
+7958	Greece	19.99906	Noun
+5733	India	19.99907	Noun
+8426	Madagascar	19.99908	Noun
+1006724	Rarotonga	19.99909	Noun
+465294	Sir	19.9991	Function word
+7965	Spain	19.99911	Noun
+482476	Brazilian	19.99913	Noun
+347504	certificate	19.99914	Noun
+734148	Chinese person	19.99915	Noun
+8068	European	19.99917	Noun
+1226180	Creole	19.99918	Noun
+356722	black person	19.99918	Noun
+6049	fool	19.9992	Noun
+5694	French person	19.99922	Noun
+899362	hermit	19.99924	Noun
+505901	hockey	19.99925	Noun
+360349	layman	19.99926	Noun
+335088	partner	19.99928	Noun
+8202	policeman	19.9993	Noun
+692473	power	19.99931	Noun
+5974	settlement	19.99932	Noun
+7843	socialism	19.99934	Noun
+3592	sport	19.99935	Noun
+5975	student	19.99936	Noun
+158155	vote	19.99937	Noun
+432997	ballot	19.99937	Noun
+986514	commit a crime	19.99938	Verb
+1241323	quarrel	19.9994	Verb
+1511098	respect	19.99941	Verb
+1343445	retire	19.99942	Verb
+485497	say goodbye	19.99943	Verb
+1006515	mate	19.99944	Noun
+6030	fight	20.11	Verb
+3990	war	20.13	Noun
+158617	battle	20.13	Noun
+5839	peace	20.14	Noun
+6414	army	20.15	Noun
+867170	soldier	20.17	Noun
+4128	weapons	20.21	Noun
+713958	club	20.22	Noun
+1511102	battle-axe	20.222	Noun
+1511106	sling	20.23	Noun
+427040	bow	20.24	Noun
+420887	arrow	20.25	Noun
+408915	spear	20.26	Noun
+6350	sword	20.27	Noun
+6428	gun	20.28	Noun
+454297	armour	20.31	Noun
+691679	helmet	20.33	Noun
+456348	shield	20.34	Noun
+859332	fortress	20.35	Noun
+6890	tower	20.36	Noun
+345436	victory	20.41	Noun
+345406	defeat	20.42	Noun
+337168	attack	20.43	Noun
+5818	defend	20.44	Verb
+5818	retreat	20.45	Verb
+699169	surrender	20.46	Verb
+461214	captive	20.47	Noun
+461201	prisoner	20.47	Noun
+866813	guard	20.471	Noun
+437280	booty	20.48	Noun
+1117421	ambush	20.49	Noun
+7928	fisherman	20.51	Noun
+461552	fishhook	20.52	Noun
+1048155	fishing line	20.53	Noun
+1511110	fishnet	20.54	Noun
+1511114	fish trap	20.55	Noun
+978246	bait	20.56	Noun
+6046	hunt	20.61	Verb
+522875	shoot	20.62	Verb
+1337987	miss	20.63	Verb
+464297	trap	20.64	Noun
+519501	trap	20.65	Verb
+1511118	cutlass	20.99902	Noun
+6164	force	20.99903	Noun
+1511122	warship	20.99906	Noun
+6561	attack	20.99907	Verb
+1157951	fish	20.99908	Verb
+367675	win	20.99909	Verb
+4549	law	21.11	Noun
+4578	court	21.15	Noun
+754888	adjudicate	21.16	Verb
+4571	judgment	21.17	Noun
+365034	judge	21.18	Noun
+992256	plaintiff	21.21	Noun
+442442	defendant	21.22	Noun
+506244	witness	21.23	Noun
+866158	swear	21.24	Verb
+701390	oath	21.25	Noun
+751478	accuse	21.31	Verb
+155122	condemn	21.32	Verb
+422713	convict	21.33	Verb
+424928	acquit	21.34	Verb
+692374	guilty	21.35	Adjective
+1162733	innocent	21.36	Adjective
+541549	penalty	21.37	Noun
+1511126	punishment	21.37	Noun
+1444	fine	21.38	Noun
+5623	prison	21.39	Noun
+359371	murder	21.42	Noun
+383985	adultery	21.43	Noun
+413697	rape	21.44	Noun
+819524	arson	21.46	Noun
+7328	perjury	21.47	Noun
+336072	steal	21.51	Verb
+515549	thief	21.52	Noun
+350379	lawyer	21.99901	Noun
+1511130	verdict	21.99902	Noun
+3175	religion	22.11	Noun
+871639	god	22.12	Noun
+388190	temple	22.13	Noun
+587	church	22.131	Noun
+6563	mosque	22.132	Noun
+361044	altar	22.14	Noun
+479450	sacrifice	22.15	Noun
+1505545	worship	22.16	Verb
+1056622	pray	22.17	Verb
+360238	priest	22.18	Noun
+700133	holy	22.19	Adjective
+1509379	preach	22.22	Verb
+1511134	bless	22.23	Verb
+1023517	curse	22.24	Verb
+1508616	fast	22.26	Verb
+6426	heaven	22.31	Noun
+372550	hell	22.32	Noun
+915102	demon	22.35	Noun
+871642	idol	22.37	Noun
+1511137	magic	22.42	Noun
+353553	sorcerer	22.43	Noun
+353642	witch	22.43	Noun
+502976	fairy	22.44	Noun
+444093	elf	22.44	Noun
+525317	ghost	22.45	Noun
+1192008	omen	22.47	Noun
+1511141	circumcision	22.5	Noun
+872499	initiation ceremony	22.51	Noun
+1171138	Christ	22.99901	Noun
+397467	Christmas	22.99902	Noun
+472531	Easter	22.99903	Noun
+360303	bishop	22.99904	Noun
+159253	funeral	22.99905	Noun
+5833	holiday	22.99906	Noun
+863202	hymn	22.99907	Noun
+1190083	lent	22.99908	Noun
+799106	Muslim	22.99909	Noun
+426642	rosary	22.9991	Noun
+1511147	shaman	22.99911	Noun
+5767	radio	23.1	Noun
+7295	television	23.11	Noun
+5945	telephone	23.12	Noun
+341	bicycle	23.13	Noun
+2414	motorcycle	23.135	Noun
+482	car	23.14	Noun
+461	bus	23.15	Noun
+3834	train	23.155	Noun
+6549	airplane	23.16	Noun
+1109	electricity	23.17	Noun
+318	battery	23.175	Noun
+418778	brake	23.18	Verb
+1200	motor	23.185	Noun
+1309356	machine	23.19	Noun
+2761	petroleum	23.195	Noun
+1782	hospital	23.2	Noun
+479578	nurse	23.21	Noun
+1511151	pill	23.22	Noun
+1511154	tablet	23.22	Noun
+743982	injection	23.23	Noun
+8320	spectacles	23.24	Noun
+8320	glasses	23.24	Noun
+351462	government	23.3	Noun
+381596	president	23.31	Noun
+155405	minister	23.32	Noun
+2852	police	23.33	Noun
+161564	driver's license	23.34	Noun
+730404	license plate	23.35	Noun
+1511158	birth certificate	23.36	Noun
+4568	crime	23.37	Noun
+1488304	election	23.38	Noun
+160397	address	23.385	Noun
+5877	number	23.39	Noun
+5895	street	23.395	Noun
+1366616	post	23.4	Noun
+1366616	mail	23.4	Noun
+161415	postage stamp	23.41	Noun
+6590	letter	23.42	Noun
+624787	postcard	23.43	Noun
+5632	bank	23.44	Noun
+622752	tap	23.5	Noun
+622752	faucet	23.5	Noun
+389091	sink	23.51	Noun
+1444087	toilet	23.52	Noun
+1188104	mattress	23.53	Noun
+6493	tin	23.54	Noun
+452618	can	23.54	Noun
+741510	screw	23.55	Noun
+356932	screwdriver	23.555	Noun
+5783	bottle	23.56	Noun
+371969	candy	23.565	Noun
+371969	sweets	23.565	Noun
+2840	plastic	23.57	Noun
+7437	bomb	23.575	Noun
+691207	workshop	23.58	Noun
+419443	cigarette	23.59	Noun
+5668	newspaper	23.6	Noun
+909821	calendar	23.61	Noun
+1431	film	23.62	Noun
+1431	movie	23.62	Noun
+2445	music	23.63	Noun
+476597	song	23.64	Noun
+5927	tea	23.9	Noun
+5670	coffee	23.91	Noun
+7668	license	23.99901	Noun
+6480	be	24.01	Verb
+949323	become	24.02	Verb
+6166	without	24.03	Function word
+5844	with	24.04	Function word
+1172828	through	24.05	Function word
+5495	not	24.06	Function word
+5458	this	24.07	Function word
+1149393	that	24.08	Function word
+1287831	here	24.09	Function word
+858309	there	24.1	Function word
+1406403	other	24.11	Function word
+5875	next	24.12	Function word
+1407061	same	24.13	Function word
+333997	nothing	24.14	Function word
+6464	and	24.99901	Function word
+6488	but	24.99901	Function word
+6490	can	24.99902	Function word
+5581	hey!	24.99904	Function word
+431335	let	24.99906	Function word
+340905	neither	24.99908	Function word
+1468363	nor	24.99909	Function word
+6335	someone	24.9991	Function word
+1360510	then	24.99912	Function word
+352331	they	24.99913	Function word
+5455	we	24.99914	Function word
+338249	which	24.99917	Function word
+6454	swell	0.1	-
+384870	berry	0.2	-
+6025	fear	0.3	-
+5523	rain	0.4	-
+6005	lie	12.14	Verb
+7019	fifty	0.5	-
+6685	hundred	0.6	-
+7755	thousand	0.7	-
+1244402	toenail	0.8	-
+1511162	pierce	0.9	-
+479932	hack	0.1	-
+471303	work	0.11	-
+480525	uncover	0.13	-
+955211	be knowledgeable	0.14	-
+2234	human being	0.15	-
+475820	fasten	0.16	-
+496633	painful	0.17	-
+7026	correct	0.18	-
+6199	below	0.19	-
+1098473	evil	0.2	-
+1250941	sweat	0.21	-
+1417428	snot	0.22	-
+7679	marrow	0.23	-
+370376	breath	0.24	-
+1588	fungus	0.25	-
+1511168	plantain	0.26	-
+6249	juice	0.27	-
+441	bug	0.29	-
+3962	vermin	0.3	-
+1031630	otter	0.31	-
+412005	leech	0.32	-
+3268	rodent	0.34	-
+6683	joint	0.35	-
+1243793	thorn	0.36	-
+7262	score	0.39	-
+479363	ascend	0.41	-
+980418	descend	0.42	-
+465364	emerge	0.43	-
+1504545	frighten	0.44	-
+1312191	itchy	0.45	-
+476248	set free	0.46	-
+853143	loosen	0.47	-
+440073	place	0.48	-
